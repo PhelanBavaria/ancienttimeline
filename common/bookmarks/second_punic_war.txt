@@ -1,0 +1,10 @@
+
+bookmark =
+{
+	name = "FIRST_PUNIC_WAR_NAME"
+	desc = "FIRST_PUNIC_WAR_DESC"
+	date = 782.6.1
+	
+	country = CTH
+	country = ROM
+}

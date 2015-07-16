@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = boian
+religion = druidism
+technology_group = celtiberian
+capital = 267  # Plsen

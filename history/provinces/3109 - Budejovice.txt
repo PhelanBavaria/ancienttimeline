@@ -1,0 +1,22 @@
+#266 - Bohemia
+
+owner = BII
+controller = BII
+add_core = BII
+citysize = 5500
+capital = "Budejovice"
+culture = boian
+religion = druidism
+trade_goods = cloth  
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman

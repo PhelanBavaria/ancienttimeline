@@ -1,0 +1,22 @@
+#354 - Tripolitania
+
+owner = CTH
+controller = CTH
+culture = tunisian
+religion = african
+capital = "Sabrata"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 1
+citysize = 3503
+fort1 = yes
+add_core = CTH
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean

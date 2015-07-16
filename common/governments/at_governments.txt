@@ -1,0 +1,68 @@
+chiefdom = {
+    monarchy = yes
+    tribal = yes
+
+    valid_for_new_country = yes
+    allow_convert = no
+
+    has_parliament = yes
+
+    valid_for_nation_designer = yes
+    nation_designer_cost = 10
+    nation_designer_trigger = {
+        technology_group = celtiberian
+    }
+    ai_will_do = {
+        factor = 0
+    }
+
+    rank = {
+        1 = {
+            land_forcelimit_modifier = 1.0
+            global_manpower_modifier = 0.75
+            global_manpower = 1
+            global_regiment_cost = -0.4 
+
+            technology_cost = 0.5
+            global_prov_trade_power_modifier = -1.0
+        }
+        2 = {
+            land_forcelimit_modifier = 1.0
+            global_manpower_modifier = 0.75
+            global_manpower = 1
+            global_regiment_cost = -0.4 
+
+            technology_cost = 0.5
+            global_prov_trade_power_modifier = -1.0
+        }
+        3 = {
+            land_forcelimit_modifier = 1.0
+            global_manpower_modifier = 0.75
+            global_manpower = 1
+            global_regiment_cost = -0.4 
+
+            technology_cost = 0.5
+            global_prov_trade_power_modifier = -1.0
+        }
+    }
+}
+elder_council = {
+    monarchy = yes
+
+    valid_for_new_country = yes
+    allow_convert = no
+
+    valid_for_nation_designer = yes
+    nation_designer_cost = 30
+
+    rank = {
+        3 = {
+            land_morale = 0.05
+            global_autonomy = -0.1
+        }
+    }
+
+    faction = imperials
+    faction = senators
+    faction = generals
+}

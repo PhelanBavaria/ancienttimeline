@@ -1,0 +1,76 @@
+#115 - Pisa
+
+owner = ROM
+controller = ROM
+culture = etruscan
+religion = hellenism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 2
+fort1 = yes 
+capital = "Lucca" 
+citysize = 2600
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+
+100.1.1 = { citysize = 3000 }
+200.1.1 = { citysize = 4500 }
+250.1.1 = { culture = roman }
+300.1.1 = { citysize = 6000 }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+400.1.1 = { citysize = 8000 }
+420.1.1 = { religion = chalcedonism }
+476.9.4 = { owner = ODO controller = ODO add_core = ODO }
+480.1.1 = { remove_core = ROW }
+489.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = ODO }
+500.1.1 = { citysize = 10000 }
+540.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }
+569.6.1 = { owner = LOM controller = LOM add_core = LOM remove_core = GOS remove_core = BYZ culture = tuscan }
+600.1.1 = { citysize = 12000 }
+700.1.1 = { citysize = 14000 }
+774.1.1 = { owner = FRK controller = FRK add_core = FRK remove_core = LOM }
+800.1.1 = { citysize = 16000 }
+840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
+846.1.1 = { owner = TUS controller = TUS add_core = TUS remove_core = FRM }
+867.1.1 = { religion = catholic }
+900.1.1 = { citysize = 19000 }
+962.2.2 = { hre = yes }
+1000.1.1 = { citysize = 24000 }
+1064.1.1 = {   }
+1100.1.1 = { citysize = 30000 }
+1160.1.1 = { owner = LUC controller = LUC add_core = LUC remove_core = TUS }
+1200.1.1 = { citysize = 36000 }
+1300.1.1 = { citysize = 28000 }
+1350.1.1 = { citysize = 29000 }
+
+1495.1.1 = { hre = no }
+1805.6.10 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}# Annexed by France
+1814.4.11 = {
+	owner = TUS
+	controller = TUS
+	add_core = TUS
+	remove_core = FRA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+
+1850.1.1  = { citysize = 40000 }
+1859.12.8 = { owner = ITC controller = ITC add_core = ITC }
+1860.3.22 = { owner = SPI controller = SPI add_core = SPI remove_core = ITC remove_core = TUS }
+1861.3.17 = { owner = ITA controller = ITA add_core = ITA remove_core = SPI remove_core = PIS }
+1901.1.1  = { citysize = 50000 }
+1950.1.1  = { citysize = 65000 }
+2010.11.1 = { citysize = 88332 }
+
+
+

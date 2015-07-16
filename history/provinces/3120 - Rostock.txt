@@ -1,0 +1,52 @@
+#46 - Mecklenburg
+
+owner = RUG
+controller = RUG
+add_core = RUG
+citysize = 1500
+culture = pommeranian
+religion = germanic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Rostock"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+
+200.1.1 = { citysize = 2000 }
+300.1.1 = { citysize = 2500 }
+395.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = RUG }
+400.1.1 = { citysize = 3000 }
+500.1.1 = { citysize = 4000 }
+570.1.1 = { owner = OBO controller = OBO add_core = OBO remove_core = SAX religion = romuva }
+600.1.1 = { citysize = 5000 discovered_by = eastern }
+700.1.1 = { fort1 = yes }
+800.1.1 = { citysize = 6000 }
+900.1.1 = { citysize = 7000 }
+1000.1.1 = { citysize = 9000 discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { citysize = 11000 }
+1131.1.1 = { owner = MKL controller = MKL add_core = MKL remove_core = OBO hre = yes }
+1160.1.1 = { owner = SAX controller = SAX add_core = SAX religion = catholic }
+1181.1.1 = { owner = MKL controller = MKL remove_core = SAX }
+1200.1.1 = { citysize = 13000 }
+1300.1.1 = { citysize = 15000 }
+1399.1.1 = { citysize = 17800 }
+
+1531.1.1 = { religion = protestant }
+1628.1.1 = { fort_16th = yes } #Fortified by Wallenstein
+1677.1.1 = { unrest = 4 }# Disastrous fire in Rostock
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1850.1.1   = { citysize = 60000 }
+1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
+1900.1.1   = { citysize = 130000 remove_core = MKL }
+1945.5.8   = { owner = EGE controller = EGE add_core = EGE }
+1950.1.1   = { citysize = 200000 }
+1990.10.3  = { owner = GER controller = GER remove_core = EGE }
+2010.12.31 = { citysize = 202735 }
+
+
+

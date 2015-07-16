@@ -1,0 +1,67 @@
+#61 - Dresden
+
+owner = HRM
+controller = HRM
+add_core = HRM
+citysize = 1000
+culture = hessian
+religion = germanic
+capital = "Kamienica"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+
+320.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = HRM culture = vandal }
+400.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = VAN culture = langobardi }
+454.1.1 = { owner = SOR controller = SOR add_core = SOR remove_core = LOM culture = sorbian religion = slavic }
+932.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = SOR fort1 = yes }
+955.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX }
+960.1.1 = { religion = catholic culture = saxon }
+962.2.2 = { hre = yes }
+965.5.20 = { owner = MEI controller = MEI add_core = MEI remove_core = BRA }
+1000.1.1 = { citysize = 1500 }
+1100.1.1 = { citysize = 2000 }
+1143.1.1 = { capital = "Chemnitz" }
+1200.1.1 = { citysize = 2500 }
+1300.1.1 = { citysize = 3000 }
+1399.1.1 = { citysize = 3500 }
+
+1423.1.6  = { owner = SAX controller = SAX add_core = SAX } # Incorporated into Saxony
+1445.9.10 = { owner = THU controller = THU }
+1547.5.19 = {
+	owner = SAX
+	controller = SAX
+	add_core = SAX
+	remove_core = THU
+}
+1790.8.1 = { unrest = 5 } # Peasant revolt
+1791.1.1 = { unrest = 0 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.6.9 = {
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+	remove_core = SAX
+} # Congress of Vienna
+
+1852.1.1   = { citysize = 100000 }
+1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
+1900.1.1   = { citysize = 400000 remove_core = SAX }
+1933.1.1   = { citysize = 649252 }
+1945.5.8   = { owner = EGE controller = EGE add_core = EGE }
+1946.1.1   = { citysize = 450000 }
+1983.1.1   = { citysize = 522532 }
+1990.10.3  = { owner = GER controller = GER remove_core = EGE }
+2011.12.31 = { citysize = 529781 }
+
+
+

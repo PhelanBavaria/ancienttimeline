@@ -1,0 +1,85 @@
+#47 - Vorpommern
+
+owner = RUG
+controller = RUG
+add_core = RUG
+citysize = 1000
+culture = pommeranian
+religion = germanic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = salt
+base_manpower = 2
+capital = "Wolgast"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+
+300.1.1 = { citysize = 1500 }
+395.1.1 = { owner = POM controller = POM add_core = POM remove_core = RUG religion = romuva }
+400.1.1 = { citysize = 2000 }
+500.1.1 = { citysize = 2500 }
+600.1.1 = { citysize = 3000 discovered_by = eastern }
+700.1.1 = { citysize = 3500 }
+800.1.1 = { citysize = 4000 }
+900.1.1 = { citysize = 4500 }
+1000.1.1 = { citysize = 5000 discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { citysize = 6000 }
+1128.1.1 = { religion = catholic }
+1181.1.1 = { hre = yes }
+1186.1.1 = { owner = DAN controller = DAN add_core = DAN }
+1200.1.1 = { citysize = 7000 }
+1227.1.1 = { owner = POM controller = POM remove_core = DAN }
+1300.1.1 = { citysize = 8000 }
+1325.1.1 = { capital = "Greifswald" }
+1399.1.1 = { citysize = 9900 }
+
+1529.1.1 = { add_core = BRA }
+1534.1.1 = { religion = protestant  }
+1630.1.1 = { base_tax = 4 } # Devastating population losses in Thirty Years War
+1648.10.24 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	remove_core = BRA
+}
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.1.14 = {
+	owner = DAN
+	controller = DAN
+	add_core = DAN
+	remove_core = SWE
+} # Treaty of Kiel
+1815.6.7 = {
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+	remove_core = DAN
+}
+
+1725.1.1   = { citysize = 12000 }
+1750.1.1   = { citysize = 14700 }
+1775.1.1   = { citysize = 16500 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
+1814.1.14  = {	owner = DAN
+		controller = DAN
+		add_core = DAN
+		remove_core = SWE
+	     } # Treaty of Kiel
+1815.6.7   = {	owner = PRU
+		controller = PRU
+		add_core = PRU
+		remove_core = DAN
+	     }
+
+1850.1.1   = { citysize = 20000 }
+1871.1.18  = { owner = GER controller = GER add_core = GER remove_core = PRU } # German unification
+1900.1.1   = { citysize = 40000 remove_core = POM }
+1945.5.8   = { owner = EGE controller = EGE add_core = EGE }
+1950.1.1   = { citysize = 60000 }
+1990.10.3  = { owner = GER controller = GER remove_core = EGE }
+2012.3.31  = { citysize = 57670 }
+
+
+

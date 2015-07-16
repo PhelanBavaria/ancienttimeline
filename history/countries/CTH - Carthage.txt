@@ -1,0 +1,6 @@
+government = elder_council
+mercantilism = 0.1
+primary_culture = punic
+religion = carthaginian
+technology_group = mediterranean
+capital = 341	# Tunis

@@ -1,0 +1,21 @@
+#353 - Gabes
+
+owner = CTH
+controller = CTH 
+culture = punic
+religion = carthaginian
+capital = "Meninx"
+trade_goods = dyes
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+citysize = 1180
+add_core = CTH
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
