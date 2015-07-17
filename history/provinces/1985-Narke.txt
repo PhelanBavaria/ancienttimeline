@@ -17,8 +17,7 @@ native_ferocity = 2
 		add_core = GEE 
 		citysize = 1000 
 		discovered_by = barbarian
-discovered_by = celtiberian
-		trade_goods = iron
+discovered_by = celtiberians		trade_goods = iron
 	  }
 550.1.1 = { discovered_by = western owner = SVE controller = SVE add_core = SVE remove_core = GEE }
 750.1.1 = { discovered_by = eastern }

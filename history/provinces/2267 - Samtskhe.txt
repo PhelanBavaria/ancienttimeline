@@ -19,8 +19,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 100.1.1 = { citysize = 3784 }
 114.1.1 = { owner = ROM controller = ROM add_core = ROM }
 117.1.1 = { owner = ARM controller = ARM remove_core = ROM }

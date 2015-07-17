@@ -19,8 +19,7 @@ discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 100.1.1 = { citysize = 4000 }
 200.1.1 = { citysize = 5000 }
 300.1.1 = { citysize = 6000 }

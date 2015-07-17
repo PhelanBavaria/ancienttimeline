@@ -14,8 +14,7 @@ base_manpower = 1
 capital = "Sternberg"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 340.1.1 = { owner = VNE controller = VNE add_core = VNE remove_core = VAN religion = slavic }
 454.1.1 = { owner = VEL controller = VEL add_core = VEL remove_core = VNE culture = sorbian }
 600.1.1 = { discovered_by = eastern }

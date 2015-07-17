@@ -14,8 +14,7 @@ base_manpower = 1
 capital = "Nykobing"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 340.1.1 = { owner = DAN controller = DAN add_core = DAN remove_core = HER }
 600.1.1 = { discovered_by = eastern }
 700.1.1 = { citysize = 2000 }

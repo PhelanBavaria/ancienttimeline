@@ -14,8 +14,7 @@ base_production = 4
 base_manpower = 1
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 350.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = VAN culture = langobardi }
 568.1.1 = { owner = HER controller = HER add_core = HER remove_core = LOM culture = schlesian }
 600.1.1 = { discovered_by = eastern }

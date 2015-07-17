@@ -19,8 +19,7 @@ discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 200.1.1 = { citysize = 1100 }
 300.1.1 = { citysize = 1300 }
 360.1.1 = { religion = chalcedonism }

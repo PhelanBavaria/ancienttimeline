@@ -14,8 +14,7 @@ base_manpower = 1
 capital = "Ribe"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 600.1.1 = { discovered_by = eastern }
 737.1.1 = { owner = SHL controller = SHL add_core = SHL remove_core = ANL culture = danish religion = norse_pagan_reformed }
 900.1.1 = { religion = catholic }

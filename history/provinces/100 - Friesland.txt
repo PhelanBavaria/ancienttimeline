@@ -14,8 +14,7 @@ trade_goods = fish
 base_manpower = 4
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 400.1.1 = { citysize = 1500 }
 500.1.1 = { citysize = 2000 }
 600.1.1 = { citysize = 2500 discovered_by = eastern }

@@ -14,8 +14,7 @@ base_manpower = 1
 capital = "Neuruppin"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 400.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = LOM culture = saxon }
 500.1.1 = { citysize = 1500 discovered_by = eastern }
 570.1.1 = { owner = OBO controller = OBO add_core = OBO remove_core = SAX religion = romuva }

@@ -3,7 +3,17 @@
 
 #Gaul
 BII = "countries/Boii.txt"
+COR = "countries/Coriosolites.txt"
 GLL = "countries/Gallia.txt"
+NAT = "countries/Namnetes.txt"
+OSI = "countries/Osismii.txt"
+VNI = "countries/Veneti.txt"
+
+#Italy
+ROM = "countries/Rome.txt"
+
+#Balkans
+#MCD = "countries/Macedon.txt"
 
 #North Africa
 CTH = "countries/Carthage.txt"

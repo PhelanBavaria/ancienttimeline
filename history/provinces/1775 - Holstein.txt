@@ -14,8 +14,7 @@ base_manpower = 5
 capital = "Kiel"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 600.1.1 = { discovered_by = eastern }
 700.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = ANL }
 800.1.1 = { citysize = 1300 }

@@ -1,0 +1,9 @@
+
+bookmark =
+{
+    name = "RISE_OF_ALEXANDER_NAME"
+    desc = "RISE_OF_ALEXANDER_DESC"
+    date = 664.7.1
+    
+    country = MCD
+}

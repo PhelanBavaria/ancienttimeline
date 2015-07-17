@@ -14,8 +14,7 @@ base_manpower = 2
 capital = "Wolgast"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 300.1.1 = { citysize = 1500 }
 395.1.1 = { owner = POM controller = POM add_core = POM remove_core = RUG religion = romuva }
 400.1.1 = { citysize = 2000 }

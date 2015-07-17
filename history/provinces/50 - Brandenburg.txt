@@ -14,8 +14,7 @@ base_manpower = 4
 capital = "Brandenburg an der Havel"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
-
+discovered_by = celtiberians
 400.1.1 = { owner = POM controller = POM add_core = POM remove_core = LOM culture = pommeranian }
 454.1.1 = { owner = VEL controller = VEL add_core = VEL remove_core = POM culture = sorbian religion = slavic }
 500.1.1 = { discovered_by = eastern }

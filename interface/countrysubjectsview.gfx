@@ -1,0 +1,593 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_subject_interact_dialog_bg"
+		texturefile = "gfx//interface//subject_interact_dialog_bg.dds"
+		transparencecheck = yes
+	}
+
+	spriteType = {
+		name = "GFX_subject_military_focus_button"
+		texturefile = "gfx//interface//subject_military_focus_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_subject_interactions_button"
+		texturefile = "gfx//interface//subject_interactions_button.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_toggle_overlord_button"
+		texturefile = "gfx//interface//toggle_overlord_button.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_sacrifice_heir"
+		texturefile = "gfx//interface//sacrifice_heir.dds"
+	}
+	spriteType = {
+		name = "GFX_sacrifice_ruler"
+		texturefile = "gfx//interface//sacrifice_ruler.dds"
+	}
+
+	spriteType = {
+		name = "GFX_dominant_tradecompany_icon"
+		texturefile = "gfx//interface//dominant_tradecompany_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_release_colony_button"
+		texturefile = "gfx//interface//release_colony_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sort_armysize_button"
+		texturefile = "gfx//interface//sort_armysize_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sort_union_break_button"
+		texturefile = "gfx//interface//sort_union_break_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sort_tariff_button"
+		texturefile = "gfx//interface//sort_tariff_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_sort_bonus_button"
+		texturefile = "gfx//interface//sort_bonus_button.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_sort_income_button"
+		texturefile = "gfx//interface//sort_income_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_sort_opinion_button"
+		texturefile = "gfx//interface//sort_opinion_button.dds"
+	}	
+	
+	textSpriteType = {
+		name = "GFX_sort_button_85"
+		texturefile = "gfx//interface//sort_button_85.dds"
+	}		
+	
+	textSpriteType = {
+		name = "GFX_sort_button_100"
+		texturefile = "gfx//interface//sort_button_100.dds"
+	}	
+
+	textSpriteType = {
+		name = "GFX_sort_button_108"
+		texturefile = "gfx//interface//sort_button_108.dds"
+	}		
+		
+	textSpriteType = {
+		name = "GFX_sort_button_127"
+		texturefile = "gfx//interface//sort_button_127.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_sort_tradepower_button"
+		texturefile = "gfx//interface//sort_tradepower_button.dds"
+	}	
+
+	textSpriteType = {
+		name = "GFX_sort_button_122"
+		texturefile = "gfx//interface//sort_button_122.dds"
+	}
+	
+	textSpriteType = {
+		name = "GFX_sort_button_102"
+		texturefile = "gfx//interface//sort_button_102.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_sort_subjects_button"
+		texturefile = "gfx//interface//sort_subjects_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_vassal_income"
+		texturefile = "gfx//interface//vassal_income.dds"
+	}
+
+	spriteType = {
+		name = "GFX_tariff_income"
+		texturefile = "gfx//interface//tariff_income.dds"
+	}
+
+	spriteType = {
+		name = "GFX_subject_tradecompany_icon"
+		texturefile = "gfx//interface//subject_tradecompany_icon.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_diplomacy_subjectcolony"
+		texturefile = "gfx//interface//diplomacy_subjectcolony.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_napoleonic_subject_icon"
+		texturefile = "gfx//interface//napoleonic_subject_icon.dds"
+	}	
+	spriteType = {
+		name = "GFX_may_force_march_icon"
+		texturefile = "gfx//interface//may_force_march.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_diplomacy_leadcolony"
+		texturefile = "gfx//interface//diplomacy_leadcolony.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_subject_colony_icon"
+		texturefile = "gfx//interface//subject_colony_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_subject_trade_company_icon"
+		texturefile = "gfx//interface//subject_colony_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_liberty_icon"
+		texturefile = "gfx//interface//liberty_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_lower_tariff_button"
+		texturefile = "gfx//interface//lower_tariff_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_customize_button"
+		texturefile = "gfx//interface//customize_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_placate_rulers_button"
+		texturefile = "gfx//interface//placate_rulers_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_embargo_rivals_button"
+		texturefile = "gfx//interface//embargo_rivals_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_colonial_war_button"
+		texturefile = "gfx//interface//colonial_war_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_replace_governor_button"
+		texturefile = "gfx//interface//replace_governor_button.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_boost_tariff_button"
+		texturefile = "gfx//interface//boost_tariff_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_country_subject_bg"
+		texturefile = "gfx//interface//country_subject_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_countrysubject_item_bg"
+		texturefile = "gfx/interface/temp/subject_item_bg.tga"
+	}
+	
+	spriteType = {
+		name = "GFX_subject_focus"
+		texturefile = "gfx/interface/subject_focus.dds"
+		noOfFrames = 3
+	}
+	
+	maskedShieldType = {
+		name = "GFX_minishield_vassal"
+		textureFile1 = "gfx//interface//minishield.tga"
+		textureFile2 = "gfx//interface//minimask.tga"
+		effectFile = "gfx//FX//maskedflag.lua"
+		textureFile3 = "gfx//interface//client_state_symbols_mini.dds"
+		noOfFrames = 62
+	}
+	
+	maskedShieldType = {
+		name = "GFX_minishield_union"
+		textureFile1 = "gfx//interface//minishield.tga"
+		textureFile2 = "gfx//interface//minimask.tga"
+		effectFile = "gfx//FX//maskedflag.lua"
+		textureFile3 = "gfx//interface//client_state_symbols_mini.dds"
+		noOfFrames = 62
+	}
+	
+	maskedShieldType = {
+		name = "GFX_minishield_colony"
+		textureFile1 = "gfx//interface//minishield.tga"
+		textureFile2 = "gfx//interface//minimask.tga"
+		effectFile = "gfx//FX//maskedflag.lua"
+		textureFile3 = "gfx//interface//client_state_symbols_mini.dds"
+		noOfFrames = 62
+	}
+	
+	spriteType = {
+		name = "GFX_country_subject_list_overlay_bg"
+		texturefile = "gfx//interface//country_subject_list_overlay_bg.dds"
+	}
+	
+
+	
+	frameAnimatedSpriteType = {
+		name = "GFX_country_subject_button_large_glow"
+		texturefile = "gfx/interface/country_subject_button_large_glow.dds"
+		noOfFrames = 40
+		transparencecheck = yes
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+		allwaystransparent = yes
+	}
+
+	frameAnimatedSpriteType = {
+		name = "GFX_country_subject_button_small_glow"
+		texturefile = "gfx/interface/country_subject_button_small_glow.dds"
+		noOfFrames = 40
+		transparencecheck = yes
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+		allwaystransparent = yes
+	}	
+	
+	
+	
+	
+	
+	spriteType = {
+		name = "GFX_boost_tariff_button"
+		texturefile = "gfx//interface//boost_tariff_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_start_colonial_war_button"
+		texturefile = "gfx//interface//start_colonial_war_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_customize_button"
+		texturefile = "gfx//interface//customize_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_divert_trade_button"
+		texturefile = "gfx//interface//divert_trade_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_embargo_rivals_button"
+		texturefile = "gfx//interface//embargo_rivals_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_culture_button"
+		texturefile = "gfx//interface//enforce_culture_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_religion_button"
+		texturefile = "gfx//interface//enforce_religion_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_fortify_march_button"
+		texturefile = "gfx//interface//fortify_march_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_lower_tariff_button"
+		texturefile = "gfx//interface//lower_tariff_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_placate_rulers_button"
+		texturefile = "gfx//interface//placate_rulers_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_place_relative_on_throne_button"
+		texturefile = "gfx//interface//place_relative_on_throne_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_replace_governor_button"
+		texturefile = "gfx//interface//replace_governor_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_scutage_button"
+		texturefile = "gfx//interface//scutage_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_seize_territory_button"
+		texturefile = "gfx//interface//seize_territory_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_send_officers_button"
+		texturefile = "gfx//interface//send_officers_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_siphon_income_button"
+		texturefile = "gfx//interface//siphon_income_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_subsidize_armies_button"
+		texturefile = "gfx//interface//subsidize_armies_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_support_loyalists_button"
+		texturefile = "gfx//interface//support_loyalists_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_sacrifice_heir_button"
+		texturefile = "gfx//interface//sacrifice_heir_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sacrifice_ruler_button"
+		texturefile = "gfx//interface//sacrifice_ruler_button.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_promote_investments_button"
+		texturefile = "gfx//interface//promote_investments_button.dds"
+	}		
+	
+
+	
+	spriteType = {
+		name = "GFX_boost_tariff_button_icon"
+		texturefile = "gfx//interface//boost_tariff_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_start_colonial_war_button_icon"
+		texturefile = "gfx//interface//start_colonial_war_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_customize_button_icon"
+		texturefile = "gfx//interface//customize_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_divert_trade_button_icon"
+		texturefile = "gfx//interface//divert_trade_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_embargo_rivals_button_icon"
+		texturefile = "gfx//interface//embargo_rivals_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_culture_button_icon"
+		texturefile = "gfx//interface//enforce_culture_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_religion_button_icon"
+		texturefile = "gfx//interface//enforce_religion_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_fortify_march_button_icon"
+		texturefile = "gfx//interface//fortify_march_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_lower_tariff_button_icon"
+		texturefile = "gfx//interface//lower_tariff_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_placate_rulers_button_icon"
+		texturefile = "gfx//interface//placate_rulers_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_place_relative_on_throne_button_icon"
+		texturefile = "gfx//interface//place_relative_on_throne_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_replace_governor_button_icon"
+		texturefile = "gfx//interface//replace_governor_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_scutage_button_icon"
+		texturefile = "gfx//interface//scutage_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_seize_territory_button_icon"
+		texturefile = "gfx//interface//seize_territory_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_send_officers_button_icon"
+		texturefile = "gfx//interface//send_officers_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_siphon_income_button_icon"
+		texturefile = "gfx//interface//siphon_income_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_subsidize_armies_button_icon"
+		texturefile = "gfx//interface//subsidize_armies_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_support_loyalists_button_icon"
+		texturefile = "gfx//interface//support_loyalists_button_icon.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_sacrifice_ruler_button_icon"
+		texturefile = "gfx//interface//sacrifice_ruler_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sacrifice_heir_button_icon"
+		texturefile = "gfx//interface//sacrifice_heir_button_icon.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_promote_investments_button_icon"
+		texturefile = "gfx//interface//promote_investments_button_icon.dds"
+	}		
+	
+	
+	
+	spriteType = {
+		name = "GFX_boost_tariff_button_small"
+		texturefile = "gfx//interface//boost_tariff_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_start_colonial_war_button_small"
+		texturefile = "gfx//interface//start_colonial_war_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_customize_button_small"
+		texturefile = "gfx//interface//customize_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_divert_trade_button_small"
+		texturefile = "gfx//interface//divert_trade_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_embargo_rivals_button_small"
+		texturefile = "gfx//interface//embargo_rivals_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_culture_button_small"
+		texturefile = "gfx//interface//enforce_culture_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_enforce_religion_button_small"
+		texturefile = "gfx//interface//enforce_religion_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_fortify_march_button_small"
+		texturefile = "gfx//interface//fortify_march_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_lower_tariff_button_small"
+		texturefile = "gfx//interface//lower_tariff_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_placate_rulers_button_small"
+		texturefile = "gfx//interface//placate_rulers_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_place_relative_on_throne_button_small"
+		texturefile = "gfx//interface//place_relative_on_throne_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_replace_governor_button_small"
+		texturefile = "gfx//interface//replace_governor_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_scutage_button_small"
+		texturefile = "gfx//interface//scutage_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_seize_territory_button_small"
+		texturefile = "gfx//interface//seize_territory_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_send_officers_button_small"
+		texturefile = "gfx//interface//send_officers_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_siphon_income_button_small"
+		texturefile = "gfx//interface//siphon_income_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_subsidize_armies_button_small"
+		texturefile = "gfx//interface//subsidize_armies_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_support_loyalists_button_small"
+		texturefile = "gfx//interface//support_loyalists_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sacrifice_heir_button_small"
+		texturefile = "gfx//interface//sacrifice_heir_button_small.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sacrifice_ruler_button_small"
+		texturefile = "gfx//interface//sacrifice_ruler_button_small.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_promote_investments_button_small"
+		texturefile = "gfx//interface//promote_investments_button_small.dds"
+	}		
+
+
+	
+}
