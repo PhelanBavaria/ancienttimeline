@@ -1,17 +1,13 @@
 #380 - Al Karak
 
-owner = NAB
-controller = NAB
 culture = bedouin_arabic
 religion = nabataean
 capital = "Harreketh"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-citysize = 3000
-add_core = NAB
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -32,3 +28,6 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+3700.1.1 = { owner = MOA controller = MOA add_core = MOA citysize = 3000 trade_goods = grain }
+4600.1.1 = { owner = QED controller = QED add_core = QED remove_core = MOA }
+4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = QED }
