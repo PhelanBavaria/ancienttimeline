@@ -14,5 +14,5 @@ base_manpower = 6
 capital = "København"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
+discovered_by = celtiberians
 

@@ -14,5 +14,5 @@ base_manpower = 2
 capital = "Aarhus"
 discovered_by = western
 discovered_by = barbarian
-discovered_by = celtiberian
+discovered_by = celtiberians
 
