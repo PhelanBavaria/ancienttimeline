@@ -7,114 +7,70 @@
 
 
 groups = {
-	western = {
+	mediterranean = { #for Romans, Greeks, Egypt and such, possibly available only at later dates
 		modifier = 0
-		start_level = 0
+		start_level = 4
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
-	eastern = {
-		modifier = 0.16
+	celtiberians = { #West European or Western, for Celts, Iberians and pre-Roman Italians
+		modifier = 0.30
 		start_level = 4
 		cav_to_inf_ratio = 0.6
 	}
-	ottoman = {
-		modifier = 0.21
-		start_level = 6
+	barbarian = { #North European or Northern, for Germanic, Slavic and Baltic cultures
+		modifier = 0.35
+		start_level = 4
 		cav_to_inf_ratio = 0.5
 	}
-	muslim = {
-		modifier = 0.23
-		start_level = 6
-		cav_to_inf_ratio = 0.8
+	balkan_group = { #for Illyrians, Thracians, Dacians and early Greeks
+		modifier = 0.30
+		start_level = 4
+		cav_to_inf_ratio = 0.6
 	}
 	indian = {
 		modifier = 0.25
-		start_level = 7
+		start_level = 4
 		cav_to_inf_ratio = 0.5
-		power = -1
 	}
 	chinese = {
 		modifier = 0.30
-		start_level = 9
+		start_level = 4
 		cav_to_inf_ratio = 0.5
-		power = -1
 	}
 	nomad_group = {
-		modifier = 0.32
+		modifier = 0.50
 		start_level = 3
 		cav_to_inf_ratio = 1.0
-		power = -1
-		nation_designer_trigger = {
-			government = steppe_horde
-		}
 	}
-	sub_saharan = {
+	arfican = { #Tribal Africans
 		modifier = 0.30
 		start_level = 2
 		cav_to_inf_ratio = 0.5
-		power = -1
 	}
-	north_american = {
-		modifier = 0.80
+	north_american = { #Unused for now
+		modifier = 0.60
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
-	mesoamerican = {
-		modifier = 0.50
+	mesoamerican = { #Unused for now
+		modifier = 0.60
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
-	south_american = {
-		modifier = 0.80
+	south_american = { #Unused for now
+		modifier = 0.60
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
-	andean = {
-		modifier = 0.50
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-		power = -1
-		valid_for_nation_designer = no
-	}
-	mediterranean = {
-		modifier = 0.16
-		start_level = 4
-		cav_to_inf_ratio = 0.5
-		power = -1
-	}
-	celtiberians = {
+	middle_eastern = { #Mesopotamia and Persia, these countries may switch to Mediterranean group on later dates.
 		modifier = 0.20
-		start_level = 3
-		cav_to_inf_ratio = 0.5
-		power = -1
-	}
-	barbarian = {
-		modifier = 0.30
-		start_level = 3
-		cav_to_inf_ratio = 0.5
-		power = -1
-	}
-	middle_eastern = {
-		modifier = 0.26
 		start_level = 5
 		cav_to_inf_ratio = 0.5
 		power = -1
-	}
-	asian = {
-		modifier = 0.18
-		start_level = 7
-		cav_to_inf_ratio = 0.5
-	}
-	dummy_group = {
-		modifier = 2.00
-		start_level = 1
-		cav_to_inf_ratio = 0.5
-		power = -10
-		valid_for_nation_designer = no
 	}
 }
 

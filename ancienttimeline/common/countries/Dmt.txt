@@ -1,0 +1,55 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 110  120  110 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_religious_ideas
+	early_trade_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	ethiopian_mountain_warfare
+	ethiopian_gunpowder_warfare
+	westernized_ethiopian
+	ethiopian_guerilla_warfare
+}
+
+monarch_names = {
+	"W'rn #0" = 20
+	"Rd'm #0" = 20
+	"Sr'n #0" = 20
+	"Rbh #0" = 20
+	"Lmn #0" = 20
+	"Mlkn #0" = 5
+	"Mkrb #0" = 5
+
+	"'Arkyn #0" = -5
+	"Sm't #0" = -5
+	"Yr't #0" = -5
+	"'Adt #0" = -5
+}
+
+leader_names = {
+	Hywt Lmn Rbh
+}
+
+ship_names = {
+	Dm't Yeha Mlkn Mkrb
+}
+
+
+
