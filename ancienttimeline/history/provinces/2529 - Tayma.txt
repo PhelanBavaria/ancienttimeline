@@ -1,17 +1,13 @@
 #383 - Tabouk
 
-owner = NAB
-controller = NAB
 culture = bedouin_arabic
 religion = nabataean
 capital = "Tayma"
-trade_goods = salt
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-citysize = 1000
-add_core = NAB
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
@@ -32,3 +28,4 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4500.1.1 = { owner = NAB controller = NAB add_core = NAB citysize = 1000 trade_goods = salt }

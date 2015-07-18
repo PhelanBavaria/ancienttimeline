@@ -1,0 +1,74 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 180  184  30 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Esau #0" = 10
+	"Bela #0" = 10
+	"Jobab #0" = 10
+	"Husham #0" = 10
+	"Hadad #0" = 10
+	"Samlah #0" = 10
+	"Shaul #0" = 10
+	"Baal-Hanan #0" = 10
+	"Beor #0" = 10
+	"Zerah #0" = 10
+	"Bedad #0" = 10
+	"Acbor #0" = 10
+	"Timnah #0" = 10
+	"Aliah #0" = 10
+	"Jetheth #0" = 10
+	"Oholibamah #0" = 10
+	"Elah #0" = 10
+	"Pinon #0" = 10
+	"Kenaz #0" = 10
+	"Mibzar #0" = 10
+	"Magdiel #0" = 10
+	"Iram #0" = 10
+	"Shalman #0" = 10
+
+	"Adhah #0" = -1
+	"Abolibamah #0" = -1
+	"Mahalath #0" = -1
+	"Basemath #0" = -1
+}
+
+leader_names = {
+	Avith Pau Dinhabah Rehoboth Masrekah Teman Bozran
+}
+
+ship_names = {
+	Petra Avith Pau Dinhabah Rehoboth Masrekah Teman Bozran
+}
+
+
+
