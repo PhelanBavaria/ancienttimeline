@@ -1,5 +1,6 @@
 name="Ancient Timeline"
 path="mod/ancienttimeline"
+replace_path="common/bookmarks"
 replace_path="decisions"
 replace_path="events"
 replace_path="history/countries"
