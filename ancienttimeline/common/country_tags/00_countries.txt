@@ -9,7 +9,7 @@ NAT = "countries/Natives.txt"
 BII 	= "countries/Boii.txt"
 
 BRG 	= "countries/Brigantes.txt"
-COR 	= "countries/Coriosolites.txt"
+COT	= "countries/Coriosolites.txt"
 CRL 	= "countries/Corieltauvi.txt"
 CRV	= "countries/Cornovii.txt"
 CTV	= "countries/Catuvellauni.txt"

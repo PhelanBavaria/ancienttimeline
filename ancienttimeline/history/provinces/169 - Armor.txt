@@ -1,7 +1,7 @@
 # 169 Armor - Principal cities: Rennes
 
-owner = COR
-controller = COR
+owner = COT
+controller = COT
 capital = "Condate Riedonum"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
-add_core = COR
+add_core = COT
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
