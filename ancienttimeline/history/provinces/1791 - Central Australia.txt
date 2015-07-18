@@ -1,0 +1,12 @@
+culture = aboriginal
+religion = animism
+capital = "Central Australia"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 5
+native_ferocity = 4.5
+native_hostileness = 9
+

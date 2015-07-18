@@ -1,0 +1,16 @@
+#1159 - Bagirmi
+
+owner = KBO
+controller = KBO
+add_core = KBO
+culture = bilala 
+religion = african
+capital = "Massenya"
+citysize = 2178
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = sub_saharan
+

@@ -1,0 +1,14 @@
+culture = tuareg
+religion = african
+capital = "Tademait"
+trade_goods = unknown
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
+discovered_by = muslim
+discovered_by = ottoman
+

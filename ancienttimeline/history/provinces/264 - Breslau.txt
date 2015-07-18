@@ -1,0 +1,18 @@
+#264 - Breslau
+
+owner = VAN
+controller = VAN
+add_core = VAN
+citysize = 1000
+culture = vandal
+religion = germanic
+capital = "Breslau"
+trade_goods = iron
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

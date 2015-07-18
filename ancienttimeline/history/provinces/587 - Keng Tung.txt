@@ -1,0 +1,16 @@
+#587 - Keng Tung
+
+culture = northern_thai
+religion = animism
+capital = "Keng Tung"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_size = 10
+native_ferocity = 2
+native_hostileness = 1
+discovered_by = chinese
+discovered_by = indian
+

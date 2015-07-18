@@ -1,0 +1,19 @@
+#701 - Ordos
+
+owner = XIO
+controller = XIO
+culture = mongol
+religion = tengri_pagan_reformed
+capital = "Ordos"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 4
+citysize = 1109
+add_core = XIO
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+
+5048.1.1 = { owner = SXI controller = SXI add_core = SXI remove_core = XIO }

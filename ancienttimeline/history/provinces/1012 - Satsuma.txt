@@ -1,0 +1,17 @@
+#1012 - Satsuma
+
+owner = KYU
+controller = KYU
+culture = japanese
+religion = animism
+capital = "Kagoshima"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 1464
+add_core = KYU
+fort1 = yes
+discovered_by = chinese
+

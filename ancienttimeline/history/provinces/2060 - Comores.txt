@@ -1,0 +1,11 @@
+culture = madagascan
+religion = animism
+capital = "Moroni"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 7
+base_production = 7
+native_ferocity = 4.5
+native_hostileness = 9
+

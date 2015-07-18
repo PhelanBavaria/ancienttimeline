@@ -1,0 +1,21 @@
+#126 - Malta
+
+owner = CTH
+controller = CTH
+culture = punic
+religion = carthaginian 
+hre = no 
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Melita" 
+citysize = 1000
+add_core = CTH
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,20 @@
+#374 - Leinster
+
+owner = MNS
+controller = MNS
+add_core = MNS
+citysize = 1000
+culture = irish
+religion = druidism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Waterford"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+

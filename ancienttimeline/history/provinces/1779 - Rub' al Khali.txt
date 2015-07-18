@@ -1,0 +1,12 @@
+#1779 - Rub al Khali
+
+culture = bedouin_arabic
+religion = south_arabian
+capital = "Rub al Khali"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+

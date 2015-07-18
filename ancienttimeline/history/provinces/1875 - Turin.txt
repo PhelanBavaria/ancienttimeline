@@ -1,0 +1,23 @@
+#1875 - Cuneo (can't change filename)
+
+owner = ROM
+controller = ROM
+culture = ligurian
+religion = hellenism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 5
+fort1 = yes
+capital = "Ebrodunum"
+citysize = 1000		# Estimated
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

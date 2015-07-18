@@ -1,0 +1,14 @@
+#2129 - Ouham
+
+culture = gbaya
+religion = african
+capital = "Bouar"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_ferocity = 4.5
+native_hostileness = 9 
+

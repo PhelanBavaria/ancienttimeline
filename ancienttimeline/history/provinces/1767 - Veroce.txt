@@ -1,0 +1,22 @@
+#1767 - Osijek
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = zamolxism
+capital = "Mursa"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+citysize = 1000
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

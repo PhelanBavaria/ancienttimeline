@@ -1,0 +1,15 @@
+#1146 - Ife
+
+culture = yorumba
+religion = african
+capital = "Ife Ile"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+native_size = 40
+native_ferocity = 4.5
+native_hostileness = 9 
+discovered_by = sub_saharan
+

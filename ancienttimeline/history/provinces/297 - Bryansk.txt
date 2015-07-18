@@ -1,0 +1,11 @@
+#297 - Bryansk
+
+culture = russian
+religion = slavic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = unknown
+base_manpower = 3
+capital = "Bryansk"
+

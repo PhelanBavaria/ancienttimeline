@@ -1,0 +1,17 @@
+#1030 - Owari
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Kiyosu"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+citysize = 3275
+add_core = YAM
+fort1 = yes
+discovered_by = chinese
+

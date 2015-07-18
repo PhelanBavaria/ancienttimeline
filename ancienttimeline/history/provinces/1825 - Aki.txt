@@ -1,0 +1,17 @@
+#1825 - Aki
+
+owner = KIB
+controller = KIB
+culture = japanese
+religion = animism
+capital = "Tomo"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+citysize = 1567
+add_core = KIB
+fort1 = yes
+discovered_by = chinese
+

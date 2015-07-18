@@ -1,0 +1,22 @@
+#139 - Hum
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = hellenism
+capital = "Bona"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 1000
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,30 @@
+#1229 - Berber
+
+owner = MEO
+controller = MEO
+add_core = MEO
+citysize = 2000
+culture = nubian 
+religion = egyptian
+capital = "Atbara"
+base_manpower = 1
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = MER
+discovered_by = BLE
+discovered_by = AKS
+discovered_by = MAK
+discovered_by = NOB
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+

@@ -1,0 +1,17 @@
+#720 - Tshiyet Noyan
+
+owner = XIO
+controller = XIO
+culture = mongol
+religion = tengri_pagan_reformed
+capital = "Govi"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+citysize = 1823
+add_core = XIO
+discovered_by = chinese
+discovered_by = nomad_group
+

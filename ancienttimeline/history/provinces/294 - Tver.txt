@@ -1,0 +1,11 @@
+#294 - Tver
+ 
+culture = russian
+religion = slavic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = unknown
+base_manpower = 5
+capital = "Tver"
+

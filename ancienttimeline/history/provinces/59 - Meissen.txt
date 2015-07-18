@@ -1,0 +1,18 @@
+#59 - Meissen
+
+owner = LOM
+controller = LOM
+add_core = LOM
+citysize = 1000
+culture = langobardi
+religion = germanic
+capital = "Wittenberg"
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

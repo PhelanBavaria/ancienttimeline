@@ -1,0 +1,16 @@
+#845 - Campeche
+
+culture = yucatec
+owner = CAL
+controller = CAL
+add_core = CAL
+is_city = yes
+religion = mesoamerican_religion
+capital = "Calakmul"
+trade_goods = cocoa
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+

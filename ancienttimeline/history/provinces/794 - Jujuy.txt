@@ -1,0 +1,20 @@
+#794 - Jujuy
+
+owner = CCQ
+controller = CCQ
+add_core = CCQ
+citysize = 1450
+culture = diaguita
+religion = south_american
+capital = "Salta"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = andean
+discovered_by = south_american
+

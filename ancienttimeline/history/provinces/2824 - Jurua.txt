@@ -1,0 +1,13 @@
+culture = tupinamba
+religion = south_american
+capital = "Jurua"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_ferocity = 4.5
+native_hostileness = 9 
+discovered_by = south_american
+

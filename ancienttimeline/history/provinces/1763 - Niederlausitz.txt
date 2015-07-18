@@ -1,0 +1,18 @@
+#1763 - Niederlausitz
+
+owner = VAN
+controller = VAN
+add_core = VAN
+citysize = 1000
+capital = "Cottbus"
+culture = vandal
+religion = germanic
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

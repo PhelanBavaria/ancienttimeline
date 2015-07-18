@@ -1,0 +1,16 @@
+#253 - Western Isles
+
+owner = PCT
+controller = PCT
+add_core = PCT
+citysize = 1000
+culture = pictish
+religion = druidism
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Stornoway"
+discovered_by = PCT
+

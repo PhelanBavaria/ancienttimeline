@@ -1,0 +1,22 @@
+#246 - Northumberland
+
+owner = BRG
+controller = BRG
+add_core = BRG
+citysize = 1000
+culture = briton
+religion = druidism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Northumberland"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+

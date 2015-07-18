@@ -1,0 +1,23 @@
+#2011 - Oujda
+
+owner = MRN
+controller = MRN
+culture = berber
+religion = african
+capital = "Calaa"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+citysize = 1337
+add_core = MRN
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+
+5040.1.1 = { owner = ROM controller = ROM add_core = ROM }

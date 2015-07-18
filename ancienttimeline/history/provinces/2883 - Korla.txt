@@ -1,0 +1,17 @@
+#712 - Uighuristan
+
+owner = XIY
+controller = XIY
+culture = uyghur
+religion = tengri_pagan_reformed
+capital = "Korla"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+citysize = 2624
+add_core = XIY
+discovered_by = chinese
+discovered_by = nomad_group
+

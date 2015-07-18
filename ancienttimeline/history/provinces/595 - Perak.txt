@@ -1,0 +1,19 @@
+#595 - Perak
+
+owner = KED
+controller = KED
+add_core = KED
+citysize = 1000
+culture = malayan
+religion = hinduism
+capital = "Perak"
+trade_goods = copper #Tin
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

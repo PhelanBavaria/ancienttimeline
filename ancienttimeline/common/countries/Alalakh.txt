@@ -1,0 +1,99 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 140  94  85 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Sakume #0" = 10
+	"Ladau #0" = 10
+	"Abugar #0" = 10
+	"Namnelanu #0" = 10
+	"Dumudar #0" = 10
+	"Ibla #0" = 10
+	"Kulbanu #0" = 10
+	"Assanu #0" = 10
+	"Samiu #0" = 10
+	"Zialu #0" = 10
+	"Enmanu #0" = 10
+	"Namanu #0" = 10
+	"Sagishu #0" = 10
+	"Dane'um #0" = 10
+	"Ibbini-Lim #0" = 10
+	"Ishrut-Damu #0" = 10
+	"Isidu #0" = 10
+	"Isrut-Halam #0" = 10
+	"Iksud #0" = 10
+	"Talda-Lim #0" = 10
+	"Abur-Lim #0" = 10
+	"Agur-Lim #0" = 10
+	"Ib-Damu #0" = 10
+	"Baga-Damu #0" = 10
+	"Enar-Damu #0" = 10
+	"Kun-Damu #0" = 10
+	"Adub-Damu #0" = 10
+	"Irkab-Damu #0" = 10
+	"Isar-Damu #0" = 10
+	"Ibbit-Lim #0" = 10
+	"Immeya #0" = 10
+	"Indilimgur #0" = 10
+	"Maratewari #0" = 10
+
+	"Tashmetum-sharrat #0" = -1
+	"Ashur-hamat #0" = -1
+}
+
+leader_names = {
+	Malik
+	Halam
+	Sipish
+	Dagan
+	Belatu
+	Kura
+	Barama
+	Hadad
+	Rasap
+	Adamma
+	Utu
+}
+
+ship_names = {
+	Ebla
+	Halab
+	Kültepe
+	Hama
+	Qatna
+	Alalakh
+	Emar
+	Ugarit
+}
+
+
+

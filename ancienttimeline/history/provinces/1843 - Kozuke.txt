@@ -1,0 +1,17 @@
+#1843 - Kozuke
+
+owner = EMI
+controller = EMI
+culture = emishi
+religion = animism
+capital = "Utsunomiya"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+citysize = 6255
+add_core = EMI
+fort1 = yes
+discovered_by = chinese
+

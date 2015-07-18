@@ -1,0 +1,14 @@
+#Åland
+
+culture = swedish
+religion = norse_pagan_reformed
+capital = "Mariehamn"
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = unknown
+native_hostileness = 1
+native_size = 10
+native_ferocity = 2
+

@@ -1,0 +1,17 @@
+#1026 - Mutsu
+
+owner = EMI
+controller = EMI
+culture = emishi
+religion = animism
+capital = "Aizu"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 1114
+add_core = EMI
+fort1 = yes
+discovered_by = chinese
+

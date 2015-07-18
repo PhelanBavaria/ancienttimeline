@@ -1,0 +1,18 @@
+#Lolland-Falster
+
+owner = HER
+controller = HER
+add_core = HER
+citysize = 1000
+culture = danish
+religion = norse_pagan_reformed
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Nykobing"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

@@ -1,0 +1,17 @@
+#580 - Chin
+
+owner = PYU
+controller = PYU
+culture = chin
+religion = animism
+capital = "Kale"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+citysize = 1460
+add_core = PYU
+discovered_by = chinese
+discovered_by = indian
+

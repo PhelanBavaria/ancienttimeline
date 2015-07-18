@@ -1,0 +1,11 @@
+#307 - Vladimir
+
+culture = volga_finnic
+religion = suomenusko
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = unknown 
+base_manpower = 6
+capital = "Vladimir"
+

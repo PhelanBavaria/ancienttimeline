@@ -1,0 +1,18 @@
+#Belz
+
+owner = VNE
+controller = VNE
+add_core = VNE
+citysize = 1000
+capital= "Belz"
+culture = polish
+religion = slavic
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 2
+discovered_by = VNE
+discovered_by = GEP
+discovered_by = GCR
+

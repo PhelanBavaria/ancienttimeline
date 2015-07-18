@@ -1,0 +1,18 @@
+#50 - Brandenburg
+
+owner = LOM
+controller = LOM
+add_core = LOM
+citysize = 2000
+culture = langobardi
+religion = germanic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 4
+capital = "Brandenburg an der Havel"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

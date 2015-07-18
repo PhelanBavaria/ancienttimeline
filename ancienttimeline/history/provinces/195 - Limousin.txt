@@ -1,0 +1,22 @@
+# 195 Limousin - Principal cities: Limoges
+
+owner = ROM
+controller = ROM
+capital = "Augustoritum"
+citysize = 1300
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 2
+add_core = ROM
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,19 @@
+#566 - Assam
+
+owner = ASS
+controller = ASS
+culture = assamese
+religion = hinduism
+capital = "Sadiya"
+trade_goods = tea
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+citysize = 2735
+add_core = ASS
+fort1 = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+

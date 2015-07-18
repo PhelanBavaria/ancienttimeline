@@ -1,0 +1,22 @@
+# 189 Lothringen - Principal cities: Nancy
+
+owner = ROM
+controller = ROM 
+capital = "Nanciacum"
+citysize = 1000
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 6
+add_core = ROM
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

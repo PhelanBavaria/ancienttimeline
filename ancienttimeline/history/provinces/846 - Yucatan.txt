@@ -1,0 +1,16 @@
+#846 - Yucatan
+
+owner = ITZ
+controller = ITZ
+culture = yucatec
+religion = mesoamerican_religion
+capital = "Chichen Itza" 
+trade_goods = fish 
+hre = no 
+base_tax = 4
+base_production = 4
+base_manpower = 1
+citysize = 6000
+add_core = ITZ
+discovered_by = mesoamerican
+

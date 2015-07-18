@@ -1,0 +1,98 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 90  94  95 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Humbaba #0" = 10
+	"Kur-Ishshak #0" = 10
+	"Humban-Shutur #0" = 10
+	"Peli #0" = 10
+	"Tata #0" = 10
+	"Hishep-Ratep #0" = 10
+	"Ummanunu #0" = 10
+	"Humban-Nikash #0" = 10
+	"Temti-Humban-Inshushinak #0" = 10
+	"Shilhak-Inshushinak #0" = 10
+	"Humban-Tahrah #0" = 10
+	"Shutur-Nahhunte #0" = 10
+	"Indattu-Inshushinak #0" = 10
+	"Humban-Haltash #0" = 10
+	"Humban-Numena #0" = 10
+	"Kutir-Nahhunte #0" = 10
+	"Kidin-Hutran #0" = 10
+	"Untash-Napirisha #0" = 10
+	"Ige-Halki #0" = 10
+	"Pahir-Ishshan #0" = 10
+	"Attar-Kittah #0" = 10
+	"Tan-Ruhuratir #0" = 10
+	"Kuk-Nashur #0" = 10
+	"Shimut-Wartash #0" = 10
+	"Kuduzulush #0" = 10
+	"Eparti #0" = 10
+
+	"Anzaze #0" = -1
+}
+
+leader_names = {
+	Nappipir
+	Ahar
+	Halki
+	Ishshan
+	Hurran
+	Matlat
+	Raptash
+	Wartash
+	Agun
+	Nahhunte
+	Temti
+	Namme
+	Tanhish
+	Ilhush
+	Ratep
+	Tarana
+}
+
+ship_names = {
+	Elam
+	Susa
+	Der
+	Hamazi
+	Anshan
+	Tukrish
+	Khukhnur
+	Adamdun
+	Simanum
+	Awak
+}
+
+
+

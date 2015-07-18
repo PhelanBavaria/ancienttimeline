@@ -1,0 +1,19 @@
+#565 - Bhutan
+
+owner = BHU
+controller = BHU
+culture = tibetan
+religion = tibetan_bon
+capital = "Punakha"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 1053
+add_core = BHU
+fort1 = yes
+discovered_by = indian
+discovered_by = chinese
+discovered_by = nomad_group
+

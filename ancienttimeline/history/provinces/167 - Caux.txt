@@ -1,0 +1,30 @@
+# 167 Caux - Principal cities: Rouen
+
+owner = ROM
+controller = ROM
+capital = "Rotomagus"
+citysize = 3500
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 5
+add_core = ROM
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+fort1 = yes
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = seine_estuary_modifier
+			duration = -1
+		}
+}
+

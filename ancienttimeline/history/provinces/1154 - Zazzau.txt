@@ -1,0 +1,15 @@
+#1154 - Zazzau
+
+culture = hausa
+base_manpower = 3
+religion = african
+capital = "Turunku"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4.5
+native_hostileness = 9
+discovered_by = sub_saharan
+

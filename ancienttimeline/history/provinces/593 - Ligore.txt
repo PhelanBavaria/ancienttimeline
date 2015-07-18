@@ -1,0 +1,19 @@
+#593 - Ligore
+
+owner = LGK 
+controller = LGK 
+add_core = LGK
+citysize = 1000
+culture = malayan
+religion = mahayana
+capital = "Nakhon Si Thammarat"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

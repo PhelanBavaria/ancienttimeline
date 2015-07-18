@@ -1,0 +1,19 @@
+#751 - Ceara
+
+owner = PTG
+controller = PTG
+add_core = PTG
+citysize = 1010
+culture = tupinamba
+religion = south_american
+capital = "Ceara"
+trade_goods = sugar
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = south_american
+

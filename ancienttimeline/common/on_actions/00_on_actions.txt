@@ -1,0 +1,354 @@
+# country
+on_startup = {
+}
+
+# country
+on_religion_change = {
+}
+
+# country. Spawned when Enforcing Rebel Demands through a Support Rebels-war.
+on_enforce_rebel_demands = {
+	# ROOT = The winning country
+	# FROM = The loosing country
+	set_country_flag = helped_rebels_win_war
+}
+
+# country
+on_colonial_liberation = {
+}
+
+# country
+on_colonial_reintegration = {
+}
+
+# country
+on_peace_actor = {
+}
+
+# country
+on_peace_recipient = {
+}
+
+# country
+# root = winning country, from = loser country
+on_war_won = {
+}
+
+# country
+# root = loser country, from = winner country
+on_war_lost = {
+}
+
+# country
+# root = winning country, from = loser country
+on_battle_won_country = {
+}
+
+# country
+# root = loser country, from = winner country
+on_battle_lost_country = {
+}
+
+# province
+# root = location, from = loser country
+on_battle_won_province = {
+}
+
+# province
+# root = location, from = country doing it
+on_added_to_trade_company ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_removed_from_company ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_company_formed ={
+
+}
+
+# province
+# root = location, from = country doing it
+on_company_disolved ={
+
+}
+
+# province
+# root = location, from = winner country
+on_battle_lost_province = {
+}
+
+# country
+# root = winning country, from = location
+on_siege_won_country = {
+}
+
+# country
+# root = losing country, from = location
+on_siege_lost_country = {
+}
+
+# province
+# root = location, from = losing country
+on_siege_won_province = {
+}
+
+# province
+# root = location, from = winning country
+on_siege_lost_province =  {
+}
+
+# province
+# root = location, from = country that abandons colony
+# Fired right before the colony is abandoned.
+on_abandon_colony = {
+}
+
+# country 
+on_new_monarch = {
+	events = {
+	}
+	random_events = { 
+	}
+}
+
+# country 
+on_regent = {
+	events = {
+	}
+}
+
+# country 
+on_new_term_election = {
+	events = {
+	}
+}
+
+# country 
+on_death_election = {
+	events = {
+	}
+}
+
+# country 
+on_replace_governor = {
+	events = {
+	}
+}
+
+
+# country
+on_bankruptcy = {
+}
+
+# country (country annexing, root = target)
+on_diplomatic_annex = {
+	events = {
+	}
+}
+
+# country 
+on_weak_heir_claim = {
+	events = {
+	}
+}
+
+# country : no heir in theocracy
+on_heir_needed_theocracy = {
+	events = {
+	}
+}
+
+# Emperor from same dynasty
+on_successive_emperor = {
+	events = {
+	}
+}
+
+# HRE Prince released by the emperor
+on_released_hre_member = {
+	events = {
+	}
+}
+
+# HRE Prince converts to non-Emperor religion
+on_hre_member_false_religion = {
+	events = {
+	}
+}
+
+# HRE Prince converts to Emperor religion
+on_hre_member_true_religion = {
+	events = {
+	}
+}
+
+# Emperor wins HRE defensive war
+on_hre_wins_defensive_war = {
+	events = {
+	}
+}
+
+# HRE member annexed by non-HRE country
+on_hre_member_annexed = {
+	events = {
+	}
+}
+
+# HRE member released from non-HRE vassalage
+on_hre_released_vassal = {
+	events = {
+	}
+}
+
+# Emperor coming to the defense of a HRE member
+on_hre_defense = {
+	events = {
+	}
+}
+
+# Emperor NOT coming to the defense of a HRE member
+on_hre_non_defense = {
+	events = {
+	}
+}
+
+# HRE Member takes a HRE province from an outs100e country in a peace (province scope)
+on_hre_province_reconquest = {
+	events = {
+	}
+}
+
+# When a native changes government after filling all their advancement groups.
+on_native_change_government = {
+}
+
+# Nation is integrated after being in union
+on_integrate = {
+	events = {
+	}
+}
+
+# Nation annexed
+on_annexed = {
+	events = {
+	}
+}
+
+# Nation westernized
+# root = country
+on_westernized = {
+	events = {
+	}
+}
+
+on_dismantle_revolution = {
+	change_government = absolute_monarchy
+	kill_ruler = yes
+	set_revolution_target = xxx
+	if = {
+		limit = { has_heir = yes }
+		kill_heir = yes
+	}
+}
+
+on_lock_hre_religion = {
+	events = {
+	}
+}
+
+on_change_hre_religion = {
+	events = {
+	}
+}
+
+on_hre_religion_white_peace = {
+	events = {
+	}
+}
+
+on_overextension_pulse = {
+	random_events = {
+	}
+}
+
+on_westernisation_pulse = {
+	random_events = {
+	}
+}
+
+on_colonial_pulse = {
+	random_events = {
+	}
+}
+
+# country random events
+on_bi_yearly_pulse = {
+	random_events = {
+	}
+}
+
+# country random events
+on_thri_yearly_pulse = {
+	random_events = {
+
+	}
+}
+
+on_four_year_pulse = {
+	random_events = {
+
+	}
+}
+
+on_five_year_pulse = {
+	random_events = {
+
+
+	}
+}
+
+# El Dorado
+on_explore_coast = {
+	random_events = {
+
+	}
+}
+on_conquistador_empty = {
+	random_events = {
+
+	}
+}
+
+on_conquistador_native = {
+	random_events = {
+
+	}
+}
+
+on_buy_religious_reform = {
+	events = {
+
+	}
+}
+
+on_circumnavigation = {
+	events = {
+
+	}
+}
+
+on_become_free_city = {
+	events = {
+	}
+}
+
+on_remove_free_city = {
+	events = {
+	}
+}

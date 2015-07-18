@@ -1,0 +1,23 @@
+# 129 - Krain
+
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = noric
+religion = druidism
+base_tax = 7
+base_production = 7
+trade_goods = grain
+base_manpower = 2
+fort1 = yes
+capital = "Poetovio"
+citysize = 1000
+hre = no
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

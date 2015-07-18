@@ -1,0 +1,23 @@
+# 202 Avignon - Principal cities: Avignon
+
+owner = ROM
+controller = ROM
+capital = "Avenio"
+citysize = 1000
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+add_core = ROM
+#  # L'Université d'Avignon
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

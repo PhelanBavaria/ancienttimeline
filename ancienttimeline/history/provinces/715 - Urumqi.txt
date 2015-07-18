@@ -1,0 +1,17 @@
+#715 - Urumqi
+
+owner = XIO
+controller = XIO
+culture = uyghur
+religion = tengri_pagan_reformed
+capital = "Urumqi"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+citysize = 1641
+add_core = XIO
+discovered_by = chinese
+discovered_by = nomad_group
+

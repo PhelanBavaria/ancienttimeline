@@ -1,0 +1,22 @@
+#145 - Morea
+
+owner = ROM
+controller = ROM
+culture = greek
+religion = hellenism
+capital = "Gythion"
+trade_goods = wine
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 1000
+add_core = ROM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

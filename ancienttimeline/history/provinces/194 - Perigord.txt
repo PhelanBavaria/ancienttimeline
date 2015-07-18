@@ -1,0 +1,23 @@
+# 194 Périgord - Principal cities: Bergerac
+
+owner = ROM
+controller = ROM
+capital = "Vesunna"
+citysize = 1000
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+add_core = ROM
+#  # L'Université de Cahors: top university
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

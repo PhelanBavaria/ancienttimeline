@@ -1,0 +1,17 @@
+#582 - Kachin
+
+owner = PYU
+controller = PYU
+culture = kachin
+religion = animism
+capital = "Hkamti Long"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 1350
+add_core = PYU
+discovered_by = chinese
+discovered_by = indian
+

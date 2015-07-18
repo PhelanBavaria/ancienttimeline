@@ -1,0 +1,18 @@
+#49 - Neumark
+
+owner = VAN
+controller = VAN
+add_core = VAN
+citysize = 1000
+culture = pommeranian
+religion = germanic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital = "Sternberg"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

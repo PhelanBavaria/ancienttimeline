@@ -1,0 +1,16 @@
+#847 - Mixtec
+
+culture = mixtec
+owner = MIX
+controller = MIX
+add_core = MIX
+is_city = yes
+religion = nahuatl
+capital = "Coixtlahuacan"
+trade_goods = grain 
+hre = no 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+

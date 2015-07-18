@@ -1,0 +1,11 @@
+# 310 - Novgorod
+
+culture = ingrian
+religion = suomenusko
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = unknown
+base_manpower = 1
+capital = "Tikhvin"
+

@@ -1,0 +1,22 @@
+# 69 - Konstanz
+
+culture = swabian
+owner = ROM
+controller = ROM
+add_core = ROM
+capital = "Cambodunum"
+religion = germanic
+trade_goods = salt
+base_tax = 5
+base_production = 5
+base_manpower = 1
+citysize = 1000
+hre = no
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

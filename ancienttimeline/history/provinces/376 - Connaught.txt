@@ -1,0 +1,18 @@
+#376 - Connaught
+
+owner = CNN
+controller = CNN
+add_core = CNN
+citysize = 1000
+culture = irish
+religion = druidism
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Galway"
+discovered_by = PCT
+discovered_by = ULA
+discovered_by = CNN
+

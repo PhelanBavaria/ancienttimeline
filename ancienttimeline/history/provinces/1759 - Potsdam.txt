@@ -1,0 +1,18 @@
+#1759 - Potsdam
+
+owner = LOM
+controller = LOM
+add_core = LOM
+citysize = 2000
+culture = langobardi
+religion = germanic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 4
+capital = "Potsdam"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

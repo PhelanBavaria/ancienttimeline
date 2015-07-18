@@ -1,0 +1,14 @@
+#Savolaks, incl. Nyslott(Olofsborg).
+
+culture = finnish
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Olofsborg"
+native_hostileness = 4
+native_size = 10
+native_ferocity = 2
+

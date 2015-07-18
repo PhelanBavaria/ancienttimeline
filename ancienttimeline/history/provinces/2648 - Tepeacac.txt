@@ -1,0 +1,16 @@
+#850 - Tlaxcala
+
+owner = TEO
+controller = TEO
+culture = aztek
+religion = nahuatl
+capital = "Tepeacac"
+trade_goods = grain
+hre = no 
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 2000
+add_core = TEO
+discovered_by = mesoamerican
+

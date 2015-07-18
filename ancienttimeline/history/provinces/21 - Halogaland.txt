@@ -1,0 +1,14 @@
+#Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
+
+culture = norwegian
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Steig"
+native_hostileness = 4
+native_size = 5
+native_ferocity = 2
+

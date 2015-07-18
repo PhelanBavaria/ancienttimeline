@@ -1,0 +1,17 @@
+#1835 - Mino
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Inabayama"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+citysize = 1708
+add_core = YAM
+fort1 = yes
+discovered_by = chinese
+

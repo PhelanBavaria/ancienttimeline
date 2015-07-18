@@ -1,0 +1,12 @@
+#401 - Dhofar
+
+culture = yemeni_culture
+religion = south_arabian
+capital = "Salalah"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+3800.1.1 = { owner = HDR controller = HDR add_core = HDR citysize = 1000 trade_goods = spices }

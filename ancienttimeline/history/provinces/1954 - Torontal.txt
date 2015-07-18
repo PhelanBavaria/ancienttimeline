@@ -1,0 +1,22 @@
+#1954 - Torontál
+
+owner = ROM
+controller = ROM
+culture = dacian
+religion = zamolxism
+capital = "Cusum"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 3760
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

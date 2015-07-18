@@ -1,0 +1,16 @@
+#290 - Poltava
+
+owner = SRM
+controller = SRM
+add_core = SRM
+citysize = 1000
+culture = sarmatian
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 5
+base_production = 4
+trade_goods = grain
+base_manpower = 3
+capital = "Pereyaslav"
+discovered_by = nomad_group
+

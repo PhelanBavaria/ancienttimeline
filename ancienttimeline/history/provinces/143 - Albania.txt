@@ -1,0 +1,23 @@
+#143 - Albania
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = hellenism
+capital = "Dyrrachium"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 2
+citysize = 3800
+fort1 = yes
+add_core = ROM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

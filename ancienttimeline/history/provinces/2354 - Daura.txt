@@ -1,0 +1,15 @@
+#1156 - Damagaram
+
+culture = hausa  
+religion = african
+capital = "Daura"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+

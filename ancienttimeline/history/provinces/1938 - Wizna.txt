@@ -1,0 +1,17 @@
+#Wizna
+
+owner = GCR
+controller = GCR
+add_core = GCR
+citysize = 1000
+capital = "Wizna"
+culture = gothic
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+discovered_by = GCR
+discovered_by = PRS
+

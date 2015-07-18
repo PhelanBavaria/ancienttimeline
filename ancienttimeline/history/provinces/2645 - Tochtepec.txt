@@ -1,0 +1,16 @@
+#848 - Tohancapan
+
+culture = zapotek
+owner = ZAP
+controller = ZAP
+add_core = ZAP
+is_city = yes
+religion = nahuatl
+capital = "Tochtepec"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+discovered_by = mesoamerican
+

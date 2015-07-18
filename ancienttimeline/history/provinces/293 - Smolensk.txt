@@ -1,0 +1,11 @@
+#293 - Smolensk
+
+culture = russian
+religion = slavic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = unknown
+base_manpower = 5
+capital = "Smolensk"
+

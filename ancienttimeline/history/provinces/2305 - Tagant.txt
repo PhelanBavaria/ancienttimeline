@@ -1,0 +1,13 @@
+culture = fulani
+religion = african
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Awdaghost"
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+

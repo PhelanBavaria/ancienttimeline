@@ -1,0 +1,23 @@
+#103 - Piedmont
+
+owner = ROM
+controller = ROM
+culture = ligurian
+religion = hellenism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 2
+fort1 = yes
+capital = "Hasta"
+citysize = 2500
+add_core = ROM
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

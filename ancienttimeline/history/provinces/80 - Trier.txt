@@ -1,0 +1,22 @@
+
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = gallian
+religion = hellenism
+trade_goods = grain
+capital = "Augusta Trevenorum"
+base_tax = 5
+base_production = 5
+citysize = 1000
+fort1 = yes
+base_manpower = 2
+hre = no
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,18 @@
+#730 - Haixi
+
+owner = GOG
+controller = GOG
+culture = manchu
+religion = shamanism
+capital = "Alchuka"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+citysize = 3585
+add_core = GOG
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

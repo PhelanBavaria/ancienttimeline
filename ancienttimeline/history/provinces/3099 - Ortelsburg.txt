@@ -1,0 +1,17 @@
+#42 - Warmia
+
+owner = PRS
+controller = PRS
+add_core = PRS
+citysize = 1000
+capital  = "Ortelsburg"
+culture = old_prussian
+religion = romuva
+trade_goods = naval_supplies
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = PRS
+discovered_by = GCR
+

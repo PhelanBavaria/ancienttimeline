@@ -1,0 +1,18 @@
+#735 - Chungcheong
+
+owner = BKJ
+controller = BKJ
+culture = korean
+religion = shamanism
+capital = "Hanseong"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+citysize = 5888
+add_core = BKJ
+add_core = MHN
+discovered_by = chinese
+discovered_by = nomad_group
+

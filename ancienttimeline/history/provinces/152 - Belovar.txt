@@ -1,0 +1,23 @@
+#152 - Slavonia
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = germanic
+capital = "Jovia"
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 1
+citysize = 1000
+fort1 = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

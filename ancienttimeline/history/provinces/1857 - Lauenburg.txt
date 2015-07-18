@@ -1,0 +1,18 @@
+#1857 - Lauenburg
+
+owner = SAX
+controller = SAX
+add_core = SAX
+citysize = 1000
+culture = saxon
+religion = germanic
+capital = "Lauenburg"
+trade_goods = salt
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

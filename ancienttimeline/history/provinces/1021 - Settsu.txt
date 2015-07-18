@@ -1,0 +1,17 @@
+#1021 - Settsu
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Naniwa"
+trade_goods = chinaware
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+citysize = 12942
+add_core = YAM
+fort1 = yes
+discovered_by = chinese
+

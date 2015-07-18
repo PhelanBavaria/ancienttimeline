@@ -1,0 +1,18 @@
+#2017 - Ribe
+
+owner = ANL
+controller = ANL
+add_core = ANL
+citysize = 1000
+culture = hannoverian
+religion = germanic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Ribe"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

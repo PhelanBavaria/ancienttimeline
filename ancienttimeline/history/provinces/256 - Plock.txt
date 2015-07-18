@@ -1,0 +1,18 @@
+#256 - Plock
+
+owner = GCR
+controller = GCR
+add_core = GCR
+citysize = 1000
+capital = "Plock"
+culture = gothic
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+discovered_by = GCR
+discovered_by = PRS
+discovered_by = VNE
+

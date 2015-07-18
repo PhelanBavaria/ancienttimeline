@@ -1,0 +1,22 @@
+#118 - Roma
+
+owner = ROM
+controller = ROM
+culture = umbrian
+religion = hellenism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 1
+capital = "Perusia" 
+citysize = 1650000
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,16 @@
+#844 - Zapotec
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = nahuatl
+capital = "Mixe"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 1053
+add_core = ZAP
+discovered_by = mesoamerican
+

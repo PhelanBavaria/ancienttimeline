@@ -1,0 +1,16 @@
+#375 - Munster
+
+owner = MNS
+controller = MNS
+add_core = MNS
+citysize = 1000
+culture = irish
+religion = druidism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Cork"
+discovered_by = PCT
+

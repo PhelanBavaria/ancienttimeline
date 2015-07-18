@@ -1,0 +1,79 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 100  94  155 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Irkab-Damu #0" = 10
+	"Ilim-Ilimma #0" = 10
+	"Idrimi #0" = 10
+	"Amittamru #0" = 10
+	"Niqmaddu #0" = 10
+	"Arhalba #0" = 10
+	"Niqmepa #0" = 10
+	"Ibiranu #0" = 10
+	"Ammurapi #0" = 10
+	"Aziru #0" = 10
+	"Labaya #0" = 10
+	"Abdikheba #0" = 10
+	"Suwardata #0" = 10
+	"Abibaal #0" = 10
+	"Hiram #0" = 10
+	"Baal-Eser #0" = 10
+	"Eshbaal #0" = 10
+	"Mattan #0" = 10
+}
+
+leader_names = {
+	Melqart
+	Ashthari
+	Eser
+	Damu
+	Ilimma
+	Qiltu
+	Baal
+	Aziru
+	Idrimi
+}
+
+ship_names = {
+	Canaan
+	Amurru
+	Alalakh
+	Shechem
+	Qiltu
+	Jerusalem
+	Tyre
+	Byblos
+}
+
+
+

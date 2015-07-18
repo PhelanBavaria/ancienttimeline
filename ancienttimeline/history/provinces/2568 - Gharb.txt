@@ -1,0 +1,22 @@
+#342 - Toubkhal
+
+owner = ROM
+controller = ROM
+culture = berber
+religion = african
+capital = "Lixus"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+citysize = 1098
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,22 @@
+#245 - Yorkshire
+
+owner = BRG
+controller = BRG
+culture = briton
+religion = druidism
+hre = no
+base_tax = 6
+base_production = 7
+trade_goods = iron
+base_manpower = 3
+capital = "Eboracum"
+citysize = 2500
+add_core = BRG
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+

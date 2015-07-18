@@ -1,0 +1,23 @@
+#320 - Rhodes
+
+owner = ROM
+controller = ROM
+culture = greek
+religion = hellenism
+capital = "Rhodes"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+citysize = 1928
+fort1 = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

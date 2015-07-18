@@ -1,0 +1,24 @@
+#1818 - Chikuzen
+
+owner = KYU
+controller = KYU
+culture = japanese
+religion = animism
+capital = "Chikuzen"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+citysize = 1889
+add_core = KYU
+fort1 = yes
+discovered_by = chinese
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+

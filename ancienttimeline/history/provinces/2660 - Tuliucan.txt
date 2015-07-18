@@ -1,0 +1,16 @@
+#852 - Mexico
+
+owner = TEO
+controller = TEO
+add_core = TEO
+culture = aztek 
+religion = nahuatl
+capital = "Tolluca"
+trade_goods = gold
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+citysize = 15000
+discovered_by = mesoamerican
+

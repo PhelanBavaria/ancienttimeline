@@ -1,0 +1,12 @@
+culture = kanuri
+religion = african
+capital = "Sarh"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 3
+native_ferocity = 4.5
+native_hostileness = 9 
+

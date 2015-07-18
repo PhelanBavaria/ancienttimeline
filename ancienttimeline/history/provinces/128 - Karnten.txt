@@ -1,0 +1,23 @@
+#128 - Kärnten
+
+owner = ROM
+controller = ROM
+add_core = ROM
+culture	= noric
+religion = druidism
+base_tax = 6
+base_production = 6
+trade_goods = iron  
+base_manpower = 5
+fort1 = yes
+capital = "Virunum" 
+citysize = 1000
+hre = no
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

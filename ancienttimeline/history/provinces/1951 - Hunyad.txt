@@ -1,0 +1,23 @@
+#1951 - Hunyad
+
+owner = DAC
+controller = DAC 
+culture = dacian
+religion = zamolxism
+capital = "Sarmizegetusa"
+trade_goods = salt # Famous salt mines
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+citysize = 3760
+fort_15th = yes
+add_core = DAC
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

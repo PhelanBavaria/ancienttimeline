@@ -1,0 +1,18 @@
+#711 - Qarqan
+
+owner = HOT
+controller = HOT
+culture = uyghur
+religion = mahayana
+capital = "Qarqan"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+citysize = 1648
+add_core = HOT
+discovered_by = chinese
+discovered_by = nomad_group
+
+5056.1.1 = { owner = KAS controller = KAS }

@@ -1,0 +1,18 @@
+#1841 - Izu
+
+owner = GCR
+controller = GCR
+add_core = GCR
+citysize = 1000
+capital  = "Marienburg"
+culture = gothic
+religion = germanic
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+discovered_by = GCR
+discovered_by = PRS
+discovered_by = POM
+

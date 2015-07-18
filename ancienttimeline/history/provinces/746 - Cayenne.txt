@@ -1,0 +1,15 @@
+#746 - Cayenne
+
+culture = guajiro
+religion = south_american
+capital = "Cayenne"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 3
+discovered_by = south_american
+

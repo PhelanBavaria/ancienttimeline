@@ -1,0 +1,17 @@
+#846 - Yucatan
+
+culture = yucatec
+owner = ITZ
+controller = ITZ
+add_core = ITZ
+is_city = yes
+religion = mesoamerican_religion
+capital = "Uxmal"
+trade_goods = cocoa
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+add_local_autonomy = 25
+discovered_by = mesoamerican
+

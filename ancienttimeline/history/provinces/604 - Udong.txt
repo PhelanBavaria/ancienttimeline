@@ -1,0 +1,18 @@
+#604 - Udong
+
+owner = FUN
+controller = FUN
+culture = khmer
+religion = mahayana
+capital = "Longvek"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+fort1 = yes
+citysize = 5053
+add_core = FUN
+discovered_by = chinese
+discovered_by = indian
+

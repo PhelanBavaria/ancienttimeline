@@ -1,0 +1,6 @@
+discovered_by = MNS
+discovered_by = CNN
+discovered_by = ULA
+discovered_by = LEI
+discovered_by = PCT
+

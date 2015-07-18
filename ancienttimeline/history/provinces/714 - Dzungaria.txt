@@ -1,0 +1,17 @@
+#714 - Dzungaria
+
+owner = XIO
+controller = XIO
+add_core = XIO
+citysize = 1000
+culture = turkish
+religion = tengri_pagan_reformed
+capital = "Ili"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+discovered_by = chinese
+discovered_by = nomad_group
+

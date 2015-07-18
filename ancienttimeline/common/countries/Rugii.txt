@@ -1,0 +1,117 @@
+graphical_culture = westerngfx
+
+color = { 30  160  190 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_religious_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+}
+
+monarch_names = {
+	"Maroboduus #0" = 10
+	"Catualda #0" = 10
+	"Ballomar #0" = 10
+	"Chrocus #0" = 10
+	"Mederich #0" = 10
+	"Chnodomar #0" = 10
+	"Vadomar #0" = 10
+	"Vithicab #0" = 10
+	"Vannius #0" = 10
+	"Vangio #0" = 10
+	"Sido #0" = 10
+	"Areogaesus #0" = 10
+	"Vibilius #0" = 10
+	"Valao #0" = 10
+	"Mallovendus #0" = 10
+	"Ascaric #0" = 10
+	"Wisimar #0" = 10
+	"Godigisel #0" = 10
+	"Gunderic #0" = 10
+	"Genseric #0" = 10
+	"Huneric #0" = 10
+	"Gunthamund #0" = 10
+	"Thrasamund #0" = 10
+	"Hilderic #0" = 10
+	"Gelilmer #0" = 10
+	"Gento #0" = 10
+	"Fastida #0" = 10
+	"Ardaric #0" = 10
+	"Gunderit #0" = 10
+	"Trapstila #0" = 10
+	"Trasericus #0" = 10
+	"Mundonus #0" = 10
+	"Elemund #0" = 10
+	"Thurismund #0" = 10
+	"Cunimund #0" = 10
+	"Thurisind #0" = 10
+	"Valamir #0" = 10
+	"Theodemir #0" = 10
+	"Athalaric #0" = 10
+	"Athaulf #0" = 10
+	"Theodahad #0" = 10
+	"Sigeric #0" = 10
+	"Amalaric #0" = 10
+	"Witiges #0" = 10
+	"Ildibad #0" = 10
+	"Baduela #0" = 10
+	"Theia #0" = 10
+	"Winguric #0" = 10
+	"Wallia #0" = 10
+	"Fritigern #0" = 10
+	"Theudis #0" = 10
+	"Thedigisel #0" = 10
+	"Agila #0" = 10
+	"Liuva #0" = 10
+	"Liuvigild #0" = 10
+	"Hermenegild #0" = 10
+	"Roderic #0" = 10
+	"Merovech #0" = 10
+	"Chararic #0" = 10
+	"Rignomer #0" = 10
+	"Theodegisclus #0" = 10
+	"Eraric #0" = 10
+	"Geberic #0" = 10
+	"Radagaisus #0" = 10
+	
+	"Fritigil #0" = -1
+	"Austrigusa #0" = -1
+	"Ereleuva #0" = -1
+	"Amalasuntha #0" = -1
+	"Audofleda #0" = -1
+}
+
+leader_names = { 
+	Butilin Leuthari Haming Lantachar Magnachar Vaefar Theodefrid 
+	Leutfred Uncilin Gunzo Gotfrid Willehari Lantfrid 
+	Theudebald Martel Oppas Tulga Ardo Veleti Lutici
+}
+
+ship_names = {
+	Teutoburg Austro Sowilo Wurdiz Fullo Fraujo Frijjo 
+	Nerthuz Wodanaz Thunraz Teiwaz Ermunaz Wulthuz Ingwaz
+}
+
+

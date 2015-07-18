@@ -1,0 +1,17 @@
+#581 - Sagaing
+
+owner = PYU
+controller = PYU
+culture = burmese
+religion = mahayana
+capital = "Sagaing"
+trade_goods = cotton
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+citysize = 2150
+add_core = PYU
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,24 @@
+# 178 Anjou - Principal cities: Angers
+
+owner = ROM
+controller = ROM
+capital = "Juliomagus"
+citysize = 1000
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 5
+add_core = ROM
+fort1 = yes
+#   # L'Université d'Angers
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

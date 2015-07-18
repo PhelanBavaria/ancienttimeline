@@ -1,0 +1,14 @@
+#1081 - Bolgar
+
+capital = "Alatyr"
+culture = bulgarian
+religion = tengri_pagan_reformed
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_hostileness = 2
+native_size = 4
+native_ferocity = 3
+

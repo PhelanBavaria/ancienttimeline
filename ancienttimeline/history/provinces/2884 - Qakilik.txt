@@ -1,0 +1,17 @@
+#711 - Qarqan
+
+owner = XIY
+controller = XIY
+culture = oirats
+religion = mahayana
+capital = "Qakilik"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+citysize = 1648
+add_core = XIY
+discovered_by = chinese
+discovered_by = nomad_group
+

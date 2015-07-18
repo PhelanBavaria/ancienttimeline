@@ -1,0 +1,19 @@
+#258 - Lodz
+
+owner = BUR
+controller = BUR
+add_core = BUR
+citysize = 1000
+capital = "Sieradz"
+culture = burgundione
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = VNE
+

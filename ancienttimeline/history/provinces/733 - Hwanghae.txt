@@ -1,0 +1,19 @@
+#733 - Pyeongan
+
+owner = HND
+controller = HND
+culture = korean
+religion = shamanism
+capital = "Gaegyeong"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 5710
+add_core = HND
+add_core = WEI
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

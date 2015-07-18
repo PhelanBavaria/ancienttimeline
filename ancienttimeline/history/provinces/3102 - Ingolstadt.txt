@@ -1,0 +1,22 @@
+#64 - Niederbayern
+
+owner = ROM
+controller = ROM
+add_core = ROM
+citysize = 1000
+culture = swabian
+religion = germanic
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital	= "Castra Regina" 
+hre = no
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

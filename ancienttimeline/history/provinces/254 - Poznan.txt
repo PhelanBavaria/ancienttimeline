@@ -1,0 +1,19 @@
+#254 - Poznan
+
+owner = VAN
+controller = VAN
+add_core = VAN
+citysize = 1000
+capital = "Poznan"
+culture = vandal
+religion = germanic
+trade_goods = salt
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 5
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = VNE
+

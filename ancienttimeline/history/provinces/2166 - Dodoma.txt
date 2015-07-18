@@ -1,0 +1,14 @@
+#1198 - Tabora
+
+culture = eastern_bantu
+religion = african
+capital = "Dodoma"
+native_size = 60
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+native_ferocity = 4
+native_hostileness = 9 
+

@@ -1,0 +1,11 @@
+#Galich
+
+capital = "Galich"
+culture = volga_finnic
+religion = suomenusko
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+

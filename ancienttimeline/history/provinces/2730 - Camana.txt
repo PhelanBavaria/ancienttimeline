@@ -1,0 +1,17 @@
+#805 - Arequipa
+
+owner = NAZ
+controller = NAZ
+culture = inca
+religion = inti
+capital = "Camana"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 1000
+add_core = NAZ
+discovered_by = andean
+discovered_by = south_american
+

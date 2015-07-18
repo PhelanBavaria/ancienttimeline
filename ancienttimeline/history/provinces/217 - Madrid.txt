@@ -1,0 +1,22 @@
+#217 - Madrid
+
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = celtiberian
+religion = druidism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = wool 
+base_manpower = 5
+capital = "Arriaca" 
+citysize = 1000
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

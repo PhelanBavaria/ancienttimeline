@@ -1,0 +1,16 @@
+#845 - Campeche
+
+owner = CAL
+controller = CAL
+culture = yucatec 
+religion = mesoamerican_religion
+capital = "Rio Bec"
+trade_goods = sugar 
+hre = no 
+base_tax = 4
+base_production = 4
+base_manpower = 1
+citysize = 3200
+add_core = CAL
+discovered_by = mesoamerican
+

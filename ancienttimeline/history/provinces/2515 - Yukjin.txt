@@ -1,0 +1,18 @@
+#732 - Hamgyeong
+
+owner = GOG
+controller = GOG
+culture = korean
+religion = shamanism
+capital = "Yukjin"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+citysize = 1649
+add_core = GOG
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

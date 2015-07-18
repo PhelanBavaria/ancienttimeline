@@ -1,0 +1,19 @@
+#743 - Essequibo
+
+owner = ARW
+controller = ARW
+add_core = ARW
+citysize = 1010
+culture = guajiro
+religion = south_american
+capital = "Essequibo"
+trade_goods = sugar
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 3
+discovered_by = south_american
+

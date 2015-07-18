@@ -1,0 +1,17 @@
+#1014 - Bungo
+
+owner = KYU
+controller = KYU
+culture = japanese
+religion = animism
+capital = "Funai"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+citysize = 6100
+add_core = KYU
+fort1 = yes
+discovered_by = chinese
+

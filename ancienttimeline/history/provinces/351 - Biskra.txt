@@ -1,0 +1,20 @@
+#351 - Biskra
+
+owner = ROM
+controller = ROM
+culture = berber
+religion = african
+capital = "Vescera"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+citysize = 1095
+add_core = ROM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = TUR
+discovered_by = ROM
+discovered_by = ROW
+

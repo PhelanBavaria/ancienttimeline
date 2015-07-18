@@ -1,0 +1,22 @@
+# 1769 - Görz
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = venetian
+religion = hellenism
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+fort1 = yes
+capital = "Emona"
+citysize = 3000
+hre = no
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

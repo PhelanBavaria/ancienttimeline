@@ -1,0 +1,23 @@
+#233 - Cornwall
+
+owner = DUM
+controller = DUM
+culture = briton
+religion = druidism
+hre = no
+base_tax = 4
+base_production = 5
+trade_goods = copper
+base_manpower = 3
+capital = "Isca Dumnoniorum"
+citysize = 1000
+add_core = DUM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+
+5055.1.1 = { owner = ROM controller = ROM add_core = ROM }

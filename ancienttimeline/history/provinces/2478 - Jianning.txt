@@ -1,0 +1,19 @@
+#669 - Fuzhou (can't change file name)
+
+owner = HND
+controller = HND
+culture = chimin
+religion = confucianism
+capital = "Jianning"
+trade_goods = tea
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+citysize = 13535
+add_core = HND
+add_core = WUU
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

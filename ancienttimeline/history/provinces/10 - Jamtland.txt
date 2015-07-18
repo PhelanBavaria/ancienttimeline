@@ -1,0 +1,14 @@
+#Jämtland+Härjedalen
+
+culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Frösön"
+native_hostileness = 3
+native_size = 10
+native_ferocity = 2
+

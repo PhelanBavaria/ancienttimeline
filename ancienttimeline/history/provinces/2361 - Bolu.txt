@@ -1,0 +1,23 @@
+#325 - Kastamon
+
+owner = ROM
+controller = ROM
+culture = greek
+religion = hellenism
+capital = "Claudiopolis"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 3546
+fort1 = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

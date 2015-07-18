@@ -1,0 +1,16 @@
+owner = FZA
+controller = FZA
+add_core = FZA
+citysize = 5000
+culture = tuareg
+religion = african
+capital = "Ghadames"
+trade_goods = spices
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = mediterranean
+

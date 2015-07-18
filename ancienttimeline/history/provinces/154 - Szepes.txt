@@ -1,0 +1,22 @@
+#154 - Ersekujvar
+
+owner = QUA
+controller = QUA
+add_core = QUA
+citysize = 1000
+culture = austrian
+religion = germanic
+capital = "Érsekújvár"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

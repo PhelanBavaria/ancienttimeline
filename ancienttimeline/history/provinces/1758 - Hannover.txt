@@ -1,0 +1,22 @@
+#1758 - Hannover
+
+owner = SAX
+controller = SAX
+add_core = SAX
+citysize = 2000
+culture = saxon
+religion = germanic
+capital = "Hannover"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

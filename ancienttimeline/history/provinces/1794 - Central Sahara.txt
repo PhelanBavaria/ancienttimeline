@@ -1,0 +1,16 @@
+#1794 - Central Sahara
+
+culture = tuareg
+religion = african
+capital = "Central Sahara"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 30
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = muslim
+discovered_by = ottoman
+

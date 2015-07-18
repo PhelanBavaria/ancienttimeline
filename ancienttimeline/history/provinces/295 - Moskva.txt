@@ -1,0 +1,18 @@
+#295 - Moskva
+
+culture = volga_finnic
+religion = suomenusko
+hre = no
+base_tax = 10
+base_production = 10
+trade_goods = unknown  
+base_manpower = 8
+capital = "Moskva"
+
+2.1.1 = {
+	add_permanent_province_modifier = {
+		name = inland_center_of_trade_modifier
+		duration = -1
+	}
+}
+

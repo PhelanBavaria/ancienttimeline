@@ -1,0 +1,18 @@
+#52 - Altmark
+
+owner = LOM
+controller = LOM
+add_core = LOM
+citysize = 2000
+culture = langobardi
+religion = germanic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 2
+capital = "Stendal"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

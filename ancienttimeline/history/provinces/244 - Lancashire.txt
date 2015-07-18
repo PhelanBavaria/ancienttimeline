@@ -1,0 +1,23 @@
+#244 - Lancashire
+
+owner = BRG
+controller = BRG
+culture = briton
+religion = druidism
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Deva Vitrix"
+citysize = 5000
+add_core = BRG
+fort1 = yes
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+

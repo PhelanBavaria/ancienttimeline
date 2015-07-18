@@ -1,0 +1,14 @@
+#315 - Finnmark
+
+culture = sapmi
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = unknown
+capital = "Vardø"
+native_hostileness = 2
+native_size = 5
+native_ferocity = 2
+

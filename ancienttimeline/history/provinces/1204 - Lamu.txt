@@ -1,0 +1,14 @@
+#1204 - Lamu
+
+culture = swahili
+religion = african
+capital = "Lamu"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4.5
+native_hostileness = 9
+

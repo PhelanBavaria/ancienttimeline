@@ -1,0 +1,16 @@
+#1156 - Damagaram
+
+owner = KBO
+controller = KBO
+add_core = KBO
+citysize = 1000
+trade_goods = wool
+culture = tuareg
+religion = african
+capital = "Mashina"
+hre = no
+base_manpower = 1
+base_tax = 1
+base_production = 1
+discovered_by = sub_saharan
+

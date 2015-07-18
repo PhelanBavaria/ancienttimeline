@@ -1,0 +1,23 @@
+#115 - Pisa
+
+owner = ROM
+controller = ROM
+culture = etruscan
+religion = hellenism
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 2
+fort1 = yes 
+capital = "Lucca" 
+citysize = 2600
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,18 @@
+#Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+
+owner = ANL
+controller = ANL
+add_core = ANL
+citysize = 1000
+culture = hannoverian
+religion = germanic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 3
+capital = "Hedeby"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+

@@ -1,0 +1,18 @@
+#721 - Dornod
+
+owner = XIO
+controller = XIO
+culture = mongol
+religion = tengri_pagan_reformed
+capital = "Setsen"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+citysize = 1542
+add_core = XIO
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

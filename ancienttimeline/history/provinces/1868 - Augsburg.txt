@@ -1,0 +1,22 @@
+# 1868 - Augsburg
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = bavarian
+religion = hellenism
+base_tax = 7
+base_production = 7
+trade_goods = grain
+base_manpower = 4
+fort1  = yes
+capital = "Augusta Vindelicorum"
+citysize = 1500
+hre = no
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

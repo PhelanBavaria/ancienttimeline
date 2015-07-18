@@ -1,0 +1,11 @@
+#1778 - Kasimov
+   
+culture = hungarian
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = unknown   
+base_manpower = 5
+capital = "Kasimov"
+

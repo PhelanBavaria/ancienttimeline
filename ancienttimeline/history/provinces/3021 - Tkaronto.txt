@@ -1,0 +1,19 @@
+#988 - Huron
+
+owner = HUR
+controller = HUR
+add_core = HUR
+is_city = yes
+culture = huron
+religion = totemism
+capital = "Tkaronto"
+trade_goods = tobacco #nearby Petuns were called the Tobacco indians
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+

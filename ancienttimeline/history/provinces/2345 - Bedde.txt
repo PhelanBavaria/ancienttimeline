@@ -1,0 +1,16 @@
+#1160 - Mandara
+
+owner = KBO
+controller = KBO
+add_core = KBO
+culture = kanuri 
+religion = african
+capital = "Bedde"
+citysize = 2178
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = sub_saharan
+

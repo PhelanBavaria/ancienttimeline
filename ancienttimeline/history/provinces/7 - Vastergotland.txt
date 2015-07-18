@@ -1,0 +1,14 @@
+#Västergötland, contains Göteborg, Skara, Skövde etc.
+
+culture = swedish
+religion = norse_pagan_reformed
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = unknown
+base_manpower = 3
+capital = "Skara"
+native_hostileness = 1
+native_size = 15
+native_ferocity = 2
+

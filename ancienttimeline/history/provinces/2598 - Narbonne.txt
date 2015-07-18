@@ -1,0 +1,24 @@
+# Narbonne
+
+owner = ROM
+controller = ROM
+capital = "Narbo"
+citysize = 1000
+culture = gallian
+religion = hellenism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = wine
+base_manpower = 1
+add_core = ROM
+fort_15th = yes
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+#  # L'Université de Montpellier
+

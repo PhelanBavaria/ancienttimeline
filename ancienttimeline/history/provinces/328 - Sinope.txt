@@ -1,0 +1,23 @@
+#328 - Sinope
+
+owner = ROM
+controller = ROM
+culture = pontic_greek
+religion = hellenism
+capital = "Julia Felix"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 1115
+fort1 = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

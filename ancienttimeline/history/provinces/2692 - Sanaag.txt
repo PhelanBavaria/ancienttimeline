@@ -1,0 +1,27 @@
+#1209 - Berbera
+
+culture = somali
+religion = african
+capital = "Maydh"
+base_manpower = 2 #home of clan
+trade_goods = unknown
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

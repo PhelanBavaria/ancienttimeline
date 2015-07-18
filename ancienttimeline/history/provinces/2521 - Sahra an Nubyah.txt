@@ -1,0 +1,10 @@
+#1229 - Berber
+
+culture = nubian 
+religion = egyptian
+capital = "Sahra an Nübyah"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1

@@ -1,0 +1,16 @@
+#881 - Piro
+
+owner = MOG
+controller = MOG
+add_core = MOG
+is_city = yes
+culture = pueblo
+religion = totemism
+capital = "Chiricahua"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = north_american
+

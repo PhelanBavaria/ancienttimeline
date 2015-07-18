@@ -1,0 +1,16 @@
+#41 - Ostpreussen
+
+owner = PRS
+controller = PRS
+add_core = PRS
+citysize = 1000
+capital = "Insterburg"
+culture = old_prussian
+religion = romuva
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+discovered_by = PRS
+

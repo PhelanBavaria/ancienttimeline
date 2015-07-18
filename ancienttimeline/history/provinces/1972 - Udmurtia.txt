@@ -1,0 +1,11 @@
+#1972 - Udmurtia
+
+capital = "Izhkar"
+culture = uralic
+religion = suomenusko
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+

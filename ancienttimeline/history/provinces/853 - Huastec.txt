@@ -1,0 +1,16 @@
+#853 - Huastec
+
+owner = TEO
+controller = TEO
+add_core = TEO
+citysize = 1500
+culture = aztek 
+religion = nahuatl
+capital = "Huastec" 
+trade_goods = gold
+hre = no 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+

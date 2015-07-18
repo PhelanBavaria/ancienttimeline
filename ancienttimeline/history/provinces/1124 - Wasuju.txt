@@ -1,0 +1,15 @@
+#1124 - Wasuju
+
+culture = dyola
+base_manpower = 1
+religion = african
+capital = "Say"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+

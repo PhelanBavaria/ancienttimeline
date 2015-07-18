@@ -1,0 +1,15 @@
+#947 - Erie
+
+culture = susquehannock
+religion = totemism
+capital = "Erie"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+discovered_by = north_american
+

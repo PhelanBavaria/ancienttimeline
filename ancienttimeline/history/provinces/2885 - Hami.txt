@@ -1,0 +1,19 @@
+#707 - Yumen
+
+owner = XIO
+controller = XIO
+culture = uyghur
+religion = mahayana
+capital = "Hami"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 2783
+add_core = XIO
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+
+5060.1.1 = { owner = HND controller = HND add_core = HND add_core = WEI }

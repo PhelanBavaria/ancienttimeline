@@ -1,0 +1,10 @@
+#392 - Nejd
+
+culture = bedouin_arabic
+religion = south_arabian
+capital = "Tamara"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

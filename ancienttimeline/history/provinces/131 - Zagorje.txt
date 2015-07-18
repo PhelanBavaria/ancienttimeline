@@ -1,0 +1,23 @@
+#131 - Croatia
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = hellenism
+capital = "Siscia"
+trade_goods = cloth
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+citysize = 1200
+fort1 = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

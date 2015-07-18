@@ -1,0 +1,19 @@
+#Leczyca
+
+owner = BUR
+controller = BUR
+add_core = BUR
+citysize = 1000
+capital = "Leczyca"
+culture = burgundione
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = VNE
+

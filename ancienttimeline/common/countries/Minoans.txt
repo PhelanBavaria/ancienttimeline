@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 49  206  73 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Minos #0" = 80
+	"Agamemnon #0" = 5
+	"Atreus #0" = 5
+	"Menelaus #0" = 5
+	"Orestes #0" = 5
+	"Chrysothemis #0" = 5
+	"Thyestes #0" = 5
+	"Aegusthus #0" = 5
+	"Tantalos #0" = 5
+	"Daskylos #0" = 5
+	"Broetas #0" = 5
+	"Pleisthenes #0" = 5
+	"Strophios #0" = 5
+	"Perseus #0" = 5
+	"Acrisius #0" = 5
+	"Megapenthes #0" = 5
+	"Electryon #0" = 5
+	"Sthenelus #0" = 5
+	"Aineias #0" = 5
+	"Alexeios #0" = 5
+	"Ambrosios #0" = 5
+	"Demetrios #0" = 5
+	"Diogenes #0" = 5
+	"Dionysos #0" = 5
+	"Eirenaios #0" = 5
+	"Elpidios #0" = 5
+	"Gregorios #0" = 5
+	"Hektor #0" = 5
+	"Herakles #0" = 5
+	"Iason #0" = 5
+	"Kastor #0" = 5
+	"Matthaios #0" = 5
+	"Nestor #0" = 5
+	"Nikomedes #0" = 5
+	"Orestes #0" = 5
+	"Palaemon #0" = 5
+	"Pelagios #0" = 5
+	"Petros #0" = 5
+	"Philemon #0" = 5
+	"Philippos #0" = 5
+	"Prokopios #0" = 5
+	"Skantarios #0" = 5
+	"Stefanos #0" = 5
+	"Theodoros #0" = 5
+
+	"Aerope #0" = -1
+	"Clytemnestra #0" = -1
+	"Iphigenia #0" = -1
+	"Electra #0" = -1
+	"Helen #0" = -1
+	"Pelopia #0" = -1
+	"Andromeda #0" = -1
+	"Danae #0" = -1
+}
+
+leader_names = {
+	Argyrus Artavasdus
+	Basileus
+	Diogenes Ducas
+	Monomachus
+	Romanus
+	Stauracius Stratioticus
+	Vataces
+	Zimisces
+}
+
+ship_names = {
+	Minotauros Minos Knossos Gortyn
+}

@@ -1,0 +1,11 @@
+#277 - Grodno
+
+culture = byelorussian
+religion = slavic
+hre = no
+base_tax = 4
+base_production = 3
+trade_goods = unknown
+base_manpower = 4
+capital = "Brest-Litovsk"
+

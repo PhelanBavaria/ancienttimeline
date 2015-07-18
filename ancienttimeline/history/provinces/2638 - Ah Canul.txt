@@ -1,0 +1,17 @@
+#846 - Yucatan
+
+culture = yucatec
+owner = CAL
+controller = CAL
+add_core = CAL
+is_city = yes
+religion = mesoamerican_religion
+capital = "Jaina"
+trade_goods = cocoa
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_local_autonomy = 25
+discovered_by = mesoamerican
+

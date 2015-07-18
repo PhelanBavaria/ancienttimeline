@@ -1,0 +1,17 @@
+#601 - Sukthothai
+
+owner = MNX
+controller = MNX
+culture = central_thai
+religion = mahayana
+capital = "Phra Bang"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+citysize = 3352
+add_core = MNX
+discovered_by = chinese
+discovered_by = indian
+

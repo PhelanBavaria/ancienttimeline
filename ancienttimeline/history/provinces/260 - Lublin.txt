@@ -1,0 +1,18 @@
+#260 - Galicien
+
+owner = VNE
+controller = VNE
+add_core = VNE
+citysize = 1000
+capital= "Lublin"
+culture = polish
+religion = slavic
+trade_goods = grain
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+discovered_by = VNE
+discovered_by = GEP
+discovered_by = GCR
+

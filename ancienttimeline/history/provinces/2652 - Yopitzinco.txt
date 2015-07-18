@@ -1,0 +1,16 @@
+#849 - Tlapanec
+
+culture = tlapanec
+owner = TLA
+controller = TLA
+add_core = TLA
+is_city = yes
+religion = nahuatl
+capital = "Yopi"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+

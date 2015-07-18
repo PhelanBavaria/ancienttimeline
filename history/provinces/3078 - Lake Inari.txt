@@ -1,2 +1,0 @@
-750.1.1 = { discovered_by = SMI }
-1200.1.1 = { discovered_by = western discovered_by = eastern }

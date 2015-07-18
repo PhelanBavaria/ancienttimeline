@@ -1,0 +1,20 @@
+#675 - Liangshan
+
+owner = HND
+controller = HND
+culture = yi
+religion = animism
+capital = "Umung"
+trade_goods = copper
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 3
+citysize = 2232
+add_core = HND
+add_core = WUU
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+

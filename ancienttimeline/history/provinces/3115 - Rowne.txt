@@ -1,0 +1,18 @@
+#279 - Volhynia
+
+owner = VNE
+controller = VNE
+add_core = VNE
+citysize = 1000
+culture = polish
+religion = slavic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = grain   
+base_manpower = 1
+capital = "Rowne"
+discovered_by = VNE
+discovered_by = GEP
+discovered_by = GCR
+

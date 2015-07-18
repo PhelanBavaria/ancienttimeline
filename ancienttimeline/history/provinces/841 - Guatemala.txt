@@ -1,0 +1,16 @@
+#841 - Guatemala
+
+owner = KIC 
+controller = KIC
+culture = highland_mayan 
+religion = mesoamerican_religion
+capital = "Xelajú" 
+trade_goods = cocoa 
+hre = no 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+citysize = 2400
+add_core = KIC
+discovered_by = mesoamerican
+

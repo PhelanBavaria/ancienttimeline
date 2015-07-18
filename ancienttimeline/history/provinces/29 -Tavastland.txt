@@ -1,0 +1,14 @@
+#Tavastland, incl. Tavastehus.
+
+culture = finnish
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Tavastehus"
+native_hostileness = 3
+native_size = 10
+native_ferocity = 2
+

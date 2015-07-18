@@ -1,0 +1,23 @@
+#127 - Sardinia
+
+owner = ROM
+controller = ROM
+culture = sardinian
+religion = hellenism
+hre = no 
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+fort1 = yes 
+capital = "Olbia" 
+citysize = 2500
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

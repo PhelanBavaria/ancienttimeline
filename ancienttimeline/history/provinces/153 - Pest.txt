@@ -1,0 +1,22 @@
+#153 - Pecs
+ 
+owner = QUA
+controller = QUA
+add_core = QUA
+citysize = 1000
+culture = austrian
+religion = germanic
+capital = "Buda"
+trade_goods = grain
+hre = no
+base_tax = 7
+base_production = 6
+base_manpower = 3
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

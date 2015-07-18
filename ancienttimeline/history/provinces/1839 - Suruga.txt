@@ -1,0 +1,17 @@
+#1839 - Totomi
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Sunpu"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+citysize = 1116
+add_core = YAM
+fort1 = yes
+discovered_by = chinese
+

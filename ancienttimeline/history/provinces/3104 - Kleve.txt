@@ -1,0 +1,21 @@
+
+owner = FRK
+controller = FRK
+add_core = FRK
+citysize = 1000
+culture = frankish
+religion = germanic
+trade_goods = cloth
+capital = "Kleves"
+base_tax = 4
+base_production = 4
+base_manpower = 2
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+hre = no
+

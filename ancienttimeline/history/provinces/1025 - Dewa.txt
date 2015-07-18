@@ -1,0 +1,17 @@
+#1025 - Dewa
+
+owner = EMI
+controller = EMI
+culture = emishi
+religion = animism
+capital = "Yamagata"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+citysize = 1116
+add_core = EMI
+fort1 = yes
+discovered_by = chinese
+

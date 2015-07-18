@@ -1,0 +1,68 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 30  174  230 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Shattuara #0" = 10
+	"Wasashatta #0" = 10
+	"Shattuara #0" = 10
+	"Shattiwara #0" = 10
+	"Shuttarna #0" = 10
+	"Artatama #0" = 10
+	"Tushratta #0" = 10
+	"Artashumara #0" = 10
+	"Shaushtatar #0" = 10
+	"Parshatatar #0" = 10
+	"Kirta #0" = 10
+
+	"Kilu-Hepa #0" = -1
+	"Tadukhipa #0" = -1
+}
+
+leader_names = {
+	Kurtiwaza
+	Parratarna
+	El
+	Baal
+	Asherah
+	Yassib
+}
+
+ship_names = {
+	Urkesh
+	Nagar
+	Washshukanni
+	Carchemish
+}
+
+
+

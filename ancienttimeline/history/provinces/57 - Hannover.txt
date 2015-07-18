@@ -1,0 +1,22 @@
+#57 - Brunswick
+
+owner = CRS
+controller = CRS
+add_core = CRS
+citysize = 1000
+culture = hessian
+religion = germanic
+capital = "Braunschweig"
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

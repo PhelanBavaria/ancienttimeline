@@ -1,0 +1,18 @@
+#709 - Ningxia
+
+owner = XIO
+controller = XIO
+culture = mongol
+religion = tengri_pagan_reformed
+capital = "Ejin"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+citysize = 2732
+add_core = XIO
+discovered_by = chinese
+discovered_by = nomad_group
+
+5048.1.1 = { owner = SXI controller = SXI add_core = SXI remove_core = XIO }

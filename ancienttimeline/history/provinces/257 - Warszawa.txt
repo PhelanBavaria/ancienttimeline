@@ -1,0 +1,17 @@
+#257 - Mazovia
+
+owner = GCR
+controller = GCR
+add_core = GCR
+citysize = 1000
+capital = "Warszawa"
+culture = gothic
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 4
+discovered_by = GCR
+discovered_by = VNE
+

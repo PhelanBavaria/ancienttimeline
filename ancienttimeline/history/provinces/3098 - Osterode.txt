@@ -1,0 +1,18 @@
+#42 - Warmia
+
+owner = GCR
+controller = GCR
+add_core = GCR
+citysize = 1000
+capital  = "Osterode"
+culture = gothic
+religion = germanic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = PRS
+discovered_by = GCR
+discovered_by = POM
+

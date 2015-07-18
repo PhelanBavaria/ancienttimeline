@@ -1,0 +1,19 @@
+#542 - Telingana
+
+owner = SAT
+controller = SAT
+culture = telegu
+religion = mahayana
+capital = "Golconda"
+trade_goods = gold #Diamonds
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 4
+citysize = 2273
+add_core = SAT
+fort1 = yes
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,15 @@
+#1142 - Dendi
+
+culture = songhai
+religion = african
+capital = "Lulama"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 50
+native_ferocity = 4.5
+native_hostileness = 9
+discovered_by = sub_saharan
+

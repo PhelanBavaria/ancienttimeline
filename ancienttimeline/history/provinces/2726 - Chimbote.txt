@@ -1,0 +1,17 @@
+#809 - Lima
+
+owner = MOC
+controller = MOC
+culture = chimuan
+religion = inti
+capital = "Chimbote"
+trade_goods = cocoa
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+citysize = 1065
+add_core = MOC
+discovered_by = andean
+discovered_by = south_american
+

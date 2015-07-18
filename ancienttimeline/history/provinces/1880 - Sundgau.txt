@@ -1,0 +1,22 @@
+# 1880 - Sundgau
+
+owner = ROM
+controller = ROM 
+capital = "Sequania"
+citysize = 1000
+culture = swabian
+religion = germanic
+hre = no
+base_tax = 4
+base_production = 6
+trade_goods = iron
+base_manpower = 4
+add_core = ROM
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

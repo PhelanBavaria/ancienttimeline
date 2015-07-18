@@ -1,0 +1,90 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 90  24  50 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	indian_shock_cavalry
+	rajput_musketeer
+	reformed_mughal_musketeer
+	reformed_mughal_mansabdar
+	indian_rifle
+}
+
+monarch_names = {
+	"Gilgamesh #0" = 10
+	"Lugalbanda #0" = 10
+	"Enmerkar #0" = 10
+	"Dumuzid #0" = 10
+	"Ur-Nungal #0" = 10
+	"Udul-kalama #0" = 10
+	"La-ba'shum #0" = 10
+	"Enmebaragesi #0" = 10
+	"Mesh-ki-ang-gasher #0" = 10
+	"Aga #0" = 10
+	"En-nun-tarah-ana #0" = 10
+	"Lugal-Anne-Mundu #0" = 10
+	"Lugalzaggesi #0" = 10
+	"Inkishush #0" = 10
+	"Utu-hengal #0" = 10
+	"Ur-Nammu #0" = 10
+	"Shulgi #0" = 10
+	"Amar-Suena #0" = 10
+	"Shu-Suen #0" = 10
+	"Ishbi-Erra #0" = 10
+	"Iddin-Dagan #0" = 10
+	"Ur-Ninurta #0" = 10
+	"Bur-Suen #0" = 10
+	"Etana #0" = 10
+
+	"Kubaba #0" = -1
+}
+
+leader_names = {
+	Ninurta
+	Suen
+	Dagan
+	Nanna
+	Nirah
+	Shamash
+	Utu
+	Suena
+	Erra
+	Ilishu
+	Eshtar
+	Enlil
+}
+
+ship_names = {
+	Ur
+	Uruk
+	Kish
+	Nippur
+	Isin
+	Adab
+	Akshak
+	Awan
+}
+
+
+

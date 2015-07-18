@@ -1,0 +1,17 @@
+#718 - Jasagdu
+
+owner = XIO
+controller = XIO
+culture = oirats
+religion = tengri_pagan_reformed
+capital = "Kobdo"
+trade_goods = cloth
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+citysize = 1677
+add_core = XIO
+discovered_by = chinese
+discovered_by = nomad_group
+

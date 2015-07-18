@@ -1,0 +1,14 @@
+#Riga Bight, incl. the city of Riga, and Dünamünde.
+
+culture = latvian
+religion = romuva
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 1
+capital = "Riga"
+native_hostileness = 4
+native_size = 10
+native_ferocity = 2
+

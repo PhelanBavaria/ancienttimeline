@@ -1,0 +1,11 @@
+#1979 - Färöarna
+
+culture = uninhabited
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 0.5
+capital = "Torshavn"
+

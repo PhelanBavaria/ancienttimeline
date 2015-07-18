@@ -1,0 +1,18 @@
+#1020 - Kyoto
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Kyoto"
+trade_goods = grain
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 2
+citysize = 9503
+add_core = YAM
+fort1 = yes
+discovered_by = chinese
+ 
+

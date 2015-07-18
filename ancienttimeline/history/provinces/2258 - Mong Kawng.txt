@@ -1,0 +1,17 @@
+#582 - Kachin
+
+owner = PYU
+controller = PYU
+culture = kachin
+religion = animism
+capital = "Mong Kawng"
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+citysize = 1350
+add_core = PYU
+discovered_by = chinese
+discovered_by = indian
+

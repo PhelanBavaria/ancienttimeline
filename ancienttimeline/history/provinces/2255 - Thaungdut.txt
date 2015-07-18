@@ -1,0 +1,17 @@
+#581 - Sagaing
+
+owner = PYU
+controller = PYU
+culture = chin
+religion = animism
+capital = "Thaungdut"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 2150
+add_core = PYU
+discovered_by = chinese
+discovered_by = indian
+

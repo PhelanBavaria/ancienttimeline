@@ -1,0 +1,17 @@
+#611 - Thakhek
+
+owner = KHM
+controller = KHM
+culture = lao
+religion = animism
+capital = "Savannakhet"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+citysize = 1097
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+

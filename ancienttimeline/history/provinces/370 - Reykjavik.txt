@@ -1,0 +1,11 @@
+#370 - Reykjavik
+
+culture = uninhabited
+religion = shamanism
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Reykjavik"
+

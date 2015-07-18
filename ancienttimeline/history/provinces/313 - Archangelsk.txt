@@ -1,0 +1,18 @@
+#313 - Archangelsk
+
+culture = samoyed
+religion = suomenusko
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = fur  
+base_manpower = 1
+capital = "Soroka"
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+

@@ -1,0 +1,24 @@
+#235 - Kent
+
+owner = KEN
+controller = KEN
+culture = briton
+religion = druidism
+hre = no
+base_tax = 5
+base_production = 6
+trade_goods = grain
+base_manpower = 2
+capital = "Durovernum Cantiacorum"
+citysize = 1000
+add_core = KEN
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+
+5020.1.1 = { owner = CTV controller = CTV add_core = CTV }
+5043.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = CTV }

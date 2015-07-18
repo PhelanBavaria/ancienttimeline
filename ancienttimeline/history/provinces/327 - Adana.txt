@@ -1,0 +1,24 @@
+#327 - Adana
+
+owner = CAP
+controller = CAP
+culture = aramaic
+religion = chalcedonism
+capital = "Tarsus"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+citysize = 1055
+fort1 = yes
+add_core = CAP
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+
+5018.1.1 = { owner = ROM controller = ROM add_core = ROM }

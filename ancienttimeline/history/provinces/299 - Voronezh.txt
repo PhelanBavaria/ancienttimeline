@@ -1,0 +1,16 @@
+#299 - Voronezh
+  
+owner = SRM
+controller = SRM
+add_core = SRM
+citysize = 1000
+culture = sarmatian
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain    
+base_manpower = 2
+capital = "Voronezh"
+discovered_by = nomad_group
+

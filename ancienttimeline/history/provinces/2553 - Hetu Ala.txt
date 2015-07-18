@@ -1,0 +1,18 @@
+#730 - Haixi
+
+owner = GOG
+controller = GOG
+culture = korean
+religion = shamanism
+capital = "Gungnae"
+trade_goods = iron
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+citysize = 3585
+add_core = GOG
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

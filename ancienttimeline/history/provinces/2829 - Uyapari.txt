@@ -1,0 +1,19 @@
+#741 - Cumana
+
+owner = CAB
+controller = CAB
+add_core = CAB
+is_city = yes
+culture = carib
+religion = south_american
+capital = "Uyapari"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 6
+discovered_by = south_american
+

@@ -1,0 +1,23 @@
+#787 - Picunmapu
+
+culture = mapuche
+religion = south_american
+capital = "Picunmapu"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 9	
+discovered_by = andean
+discovered_by = south_american
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+

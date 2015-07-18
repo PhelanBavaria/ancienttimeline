@@ -1,0 +1,18 @@
+#1823 - Iwami
+
+owner = FUN
+controller = FUN
+culture = khmer
+religion = animism
+capital = "Kratie"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+citysize = 1000
+add_core = FUN
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,15 @@
+#304 - Pensa
+      
+culture = bulgarian
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = unknown  
+base_manpower = 2
+capital = "Etkara"
+discovered_by = SIB
+discovered_by = KAZ
+discovered_by = NOG
+discovered_by = GOL
+

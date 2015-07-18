@@ -1,0 +1,10 @@
+#392 - Nejd
+
+culture = bedouin_arabic
+religion = south_arabian
+capital = "Yabrin"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

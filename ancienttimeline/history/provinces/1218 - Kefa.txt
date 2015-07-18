@@ -1,0 +1,14 @@
+#1218 - Kefa
+
+culture = sidamo
+religion = african
+capital = "Anderaccha"
+base_manpower = 2
+trade_goods = unknown
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
+hre = no
+base_tax = 3
+base_production = 3
+

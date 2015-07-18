@@ -1,0 +1,22 @@
+#155 - Szolnok
+
+owner = QUA
+controller = QUA
+add_core = QUA
+citysize = 1000
+culture = austrian
+religion = germanic
+capital = "Gyula"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = muslim
+discovered_by = ottoman
+

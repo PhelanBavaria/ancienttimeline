@@ -1,0 +1,17 @@
+#608 - Champassak
+
+owner = FUN
+controller = FUN
+culture = lao
+religion = animism
+capital = "Champasak"
+trade_goods = tea
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 1125
+add_core = FUN
+discovered_by = chinese
+discovered_by = indian
+

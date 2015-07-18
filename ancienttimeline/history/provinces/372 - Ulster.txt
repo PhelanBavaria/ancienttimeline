@@ -1,0 +1,18 @@
+#372 - Ulster
+
+owner = ULA
+controller = ULA
+add_core = ULA
+citysize = 1000
+culture = irish
+religion = druidism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Carrickfergus"
+discovered_by = PCT
+discovered_by = ULA
+discovered_by = CNN
+

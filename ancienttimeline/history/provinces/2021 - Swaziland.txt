@@ -1,0 +1,14 @@
+#2021 - Swaziland
+
+culture = bantu
+religion = african
+capital = "Mbabane"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+

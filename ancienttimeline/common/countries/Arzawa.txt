@@ -1,0 +1,62 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 49 115 90 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {	
+	"Kupanta-Kurunta #0" = 20
+	"Madduwatta #0" = 20
+	"Tarhundaradu #0" = 20
+	"Anzapahhadu #0" = 20
+	"Uhha-Ziti #0" = 20
+	"Piyama-Kurunta #0" = 20
+	"Tapalazunauli #0" = 20
+	"Manapa-Tarhunta #0" = 20
+	"Maskhuiluwa #0" = 20
+	"Attarimma #0" = 20
+	"Huwarsanassa #0" = 20
+	"Suruda #0" = 20
+	"Attarsiya #0" = 20
+	"Kisnapali #0" = 20
+	"Arnuwanda #0" = 20
+	"Alaksandu #0" = 20
+
+	"Muwatti #0" = -1
+	"Gassulawiya #0" = -1
+	"Massanauzzi #0" = -1
+	"Tanuhepa #0" = -1
+	"Puduhepa #0" = -1
+	"Asmu-Nikal #0" = -1
+}
+
+leader_names = {
+	Arzawa Assuwa Zippasla Lukka Masa Karkiya Mira Seha Hapalla Apasa Ahhijawa Puranda Wilusa
+}
+
+ship_names = {
+	Arzawa Assuwa Zippasla Lukka Masa Karkiya Mira Seha Hapalla Apasa Ahhijawa Puranda Wilusa
+}

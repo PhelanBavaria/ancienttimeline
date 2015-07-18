@@ -1,0 +1,13 @@
+#1249 - Yola
+
+culture = northern_bantu
+religion = african
+capital = "Kwararafa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+native_size = 90
+native_ferocity = 4
+native_hostileness = 9
+

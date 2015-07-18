@@ -1,0 +1,14 @@
+#Keksholms län+Karelen, incl. Sordavala and Keksholm.
+
+culture = finnish
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Korela" # initial Russian name
+native_hostileness = 4
+native_size = 10
+native_ferocity = 2
+

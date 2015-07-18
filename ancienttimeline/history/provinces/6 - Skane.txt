@@ -1,0 +1,15 @@
+#Skåne
+
+owner = HER
+controller = HER
+add_core = HER
+citysize = 1000
+culture = danish
+religion = norse_pagan_reformed
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 5
+capital = "Lund"
+discovered_by = HER

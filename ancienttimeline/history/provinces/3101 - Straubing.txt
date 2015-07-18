@@ -1,0 +1,22 @@
+#64 - Niederbayern
+
+owner = EAL
+controller = EAL
+add_core = EAL
+citysize = 1000
+culture = swabian
+religion = germanic
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 1
+capital	= "Straubing" 
+hre = no
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,18 @@
+#1775 - Holstein
+
+owner = ANL
+controller = ANL
+add_core = ANL
+citysize = 1000
+culture = hannoverian
+religion = germanic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 5
+capital = "Kiel"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberian
+
