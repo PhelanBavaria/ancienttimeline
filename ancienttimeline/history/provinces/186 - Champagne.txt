@@ -1,17 +1,17 @@
 # 186 Champagne - Principal cities: Reims
 
-owner = ROM
-controller = ROM
+owner = MEL
+controller = MEL
 capital = "Durocortorum"
 citysize = 1500
 culture = gallian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = ROM
+add_core = MEL
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean

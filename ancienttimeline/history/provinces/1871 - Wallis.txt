@@ -1,7 +1,7 @@
 #1871 - Wallis
 
-owner = ROM
-controller = ROM
+owner = SED
+controller = SED
 culture = helvetian
 religion = druidism
 capital = "Octodurum"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 citysize = 1000
-add_core = ROM
+add_core = SED
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

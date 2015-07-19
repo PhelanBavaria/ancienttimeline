@@ -1,7 +1,7 @@
 # 203 Lyonnais - Principal cities: Lyon
 
-owner = ABR
-controller = ABR
+owner = AMB
+controller = AMB
 capital = "Vienna"
 citysize = 2000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 8
-add_core = ABR
+add_core = AMB
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean

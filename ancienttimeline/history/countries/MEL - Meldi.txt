@@ -3,4 +3,4 @@ mercantilism = 0.1
 primary_culture = gallian
 religion = druidism
 technology_group = celtiberians
-capital = 205  # Savoie
+capital = 1879  # Alencon

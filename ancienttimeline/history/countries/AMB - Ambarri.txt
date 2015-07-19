@@ -3,4 +3,4 @@ mercantilism = 0.1
 primary_culture = gallian
 religion = druidism
 technology_group = celtiberians
-capital = 192  # Bourgogne
+capital = 203  # Lyonnais

@@ -1,18 +1,18 @@
 #106 - Modena
 
-owner = ROM
-controller = ROM
-culture = etruscan
-religion = hellenism
+owner = IBI
+controller = IBI
+culture = boian
+religion = druidism
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 2
 fort1 = yes 
-capital = "Mutina" 
+capital = "Bononia" 
 citysize = 1800
-add_core = ROM
+add_core = IBI
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
