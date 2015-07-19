@@ -1,17 +1,17 @@
 # 183 Île-de-France - Principal cities: Paris
 
-owner = ROM
-controller = ROM
+owner = PII
+controller = PII
 capital = "Lutetia"
 citysize = 20000
 culture = gallian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 10
 base_production = 10
 trade_goods = cloth
 base_manpower = 8
-add_core = ROM
+add_core = PII
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

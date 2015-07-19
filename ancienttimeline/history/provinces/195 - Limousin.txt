@@ -1,7 +1,7 @@
 # 195 Limousin - Principal cities: Limoges
 
-owner = ROM
-controller = ROM
+owner = LMV
+controller = LMV
 capital = "Augustoritum"
 citysize = 1300
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-add_core = ROM
+add_core = LMV
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

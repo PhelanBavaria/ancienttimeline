@@ -1,7 +1,7 @@
 # 180 Poitou - Principal cities: Poitiers
 
-owner = ROM
-controller = ROM
+owner = PIT
+controller = PIT
 capital = "Pictavium"
 citysize = 1700
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = salt
 base_manpower = 5
-add_core = ROM
+add_core = PIT
 #  # L'Université de Poitiers 1431
 discovered_by = eastern
 discovered_by = mediterranean

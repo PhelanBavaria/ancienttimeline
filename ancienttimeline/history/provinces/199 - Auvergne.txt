@@ -1,17 +1,17 @@
 # 199 Auvergne - Principal cities: Clermont-Ferrand
 
-owner = ROM
-controller = ROM
-capital = "Augustonemetum"
+owner = ARV
+controller = ARV
+capital = "Gergovie"
 citysize = 1100
 culture = gallian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 3
 base_production = 3
 trade_goods = iron
 base_manpower = 2
-add_core = ROM
+add_core = ARV
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean

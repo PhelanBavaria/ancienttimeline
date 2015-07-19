@@ -1,18 +1,18 @@
 # 174 Gascogne - Principal cities: Bordeaux
 
-owner = ROM
-controller = ROM
+owner = VIV
+controller = VIV
 capital = "Burdigala"
 citysize = 1600
 culture = aquitanian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = wine
 base_manpower = 5
 fort1 = yes
-add_core = ROM
+add_core = VIV
 #  # L'Université de Bordeaux
 discovered_by = eastern
 discovered_by = mediterranean

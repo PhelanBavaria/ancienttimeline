@@ -1,7 +1,7 @@
 # 177 Maine - Principal cities: Le Mans, Alençon, Laval
 
-owner = ROM
-controller = ROM
+owner = DIA
+controller = DIA
 capital = "Vindinium"
 citysize = 1000
 culture = gallian
@@ -12,7 +12,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 4
-add_core = ROM
+add_core = DIA
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
