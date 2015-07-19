@@ -1,7 +1,7 @@
 # 179 Berry
 
-owner = ROM
-controller = ROM
+owner = BIT
+controller = BIT
 capital = "Avaricum"
 citysize = 1500
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 5
-add_core = ROM
+add_core = BIT
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean

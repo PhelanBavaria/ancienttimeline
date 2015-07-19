@@ -1,7 +1,7 @@
 # 191 Nevers - Principal cities: Nevers
 
-owner = ROM
-controller = ROM 
+owner = AED
+controller = AED 
 capital = "Noviodunum"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 4
-add_core = ROM
+add_core = AED
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

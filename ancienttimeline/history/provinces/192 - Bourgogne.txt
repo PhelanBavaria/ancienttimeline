@@ -1,17 +1,17 @@
 # 192 Bourgogne - Principal cities: Dijon
 
-owner = ROM
-controller = ROM 
+owner = AED
+controller = AED 
 capital = "Divio"
 citysize = 1400
 culture = gallian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = wine
 base_manpower = 7
-add_core = ROM
+add_core = AED
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

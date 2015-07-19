@@ -1,17 +1,17 @@
 # 203 Lyonnais - Principal cities: Lyon
 
-owner = ROM
-controller = ROM
-capital = "Lugdunum"
+owner = ABR
+controller = ABR
+capital = "Vienna"
 citysize = 2000
 culture = gallian
-religion = hellenism
+religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 8
-add_core = ROM
+add_core = ABR
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean

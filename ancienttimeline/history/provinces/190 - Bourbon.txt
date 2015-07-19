@@ -1,7 +1,7 @@
 # 190 Bourbon - Principal cities: Moulins
 
-owner = ROM
-controller = ROM 
+owner = AED
+controller = AED 
 capital = "Moulins"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 4
-add_core = ROM
+add_core = AED
 #   # L'Université de Bourges
 discovered_by = eastern
 discovered_by = mediterranean

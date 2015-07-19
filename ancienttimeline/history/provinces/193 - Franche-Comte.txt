@@ -1,7 +1,7 @@
 # 193 Franche-Comté - Principal cities: Besançon
 
-owner = ROM
-controller = ROM
+owner = SEQ
+controller = SEQ
 capital = "Vesontio"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = salt
 base_manpower = 4
-add_core = ROM
+add_core = SEQ
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
