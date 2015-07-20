@@ -1,18 +1,18 @@
 #104 - Lombardia
 
-owner = ROM
-controller = ROM
-culture = ligurian
-religion = hellenism
+owner = INS
+controller = INS
+culture = gallian
+religion = druidism
 hre = no
-base_tax = 11
-base_production = 11
+base_tax = 5
+base_production = 5
 trade_goods = cloth
-base_manpower = 8
+base_manpower = 4
 fort_15th = yes
 capital = "Mediolanum"
 citysize = 18000
-add_core = ROM
+add_core = INS
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

@@ -1,8 +1,8 @@
 #132 - Steiermark
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = NOI
+controller = NOI
+add_core = NOI
 culture = noric
 religion = druidism
 base_tax = 5
@@ -10,7 +10,7 @@ base_production = 5
 trade_goods = grain
 base_manpower = 3
 fort1 = yes
-capital = "Murunum" 
+capital = "Virunum" 
 citysize = 1200
 hre = no
 discovered_by = western

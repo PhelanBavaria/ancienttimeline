@@ -1,9 +1,9 @@
 #76 - Salzburg
 
-owner = ROM
-controller = ROM 
+owner = NOI
+controller = NOI 
 culture = noric
-religion = germanic
+religion = druidism
 capital = "Iuvavum"
 trade_goods = salt
 hre = no
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 citysize = 1000
-add_core = ROM
+add_core = NOI
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

@@ -1,9 +1,9 @@
 #105 - Parma
 
-owner = ROM
-controller = ROM
-culture = ligurian
-religion = hellenism
+owner = IBI
+controller = IBI
+culture = etruscan
+religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
@@ -12,7 +12,7 @@ base_manpower = 4
 fort1 = yes 
 capital = "Parma" 
 citysize = 3000
-add_core = ROM
+add_core = IBI
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
