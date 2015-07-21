@@ -111,90 +111,90 @@ gaelic	= {
 			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
 			MacNamara "O'Reilly"  "FitzGerald" Kelly
 			# CKII
-			"Meic Br·en·in" "MacMorrough Kavanagh" "D·l gCais" "Ua F·el·in" "Shannon"
+			"Meic Br√°en√°in" "MacMorrough Kavanagh" "D√°l gCais" "Ua F√°el√°in" "Shannon"
 			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
 			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
-			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faol·in" "MacIntyre" "O'Queely"
-			"Corcu LoÌgde"
+			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faol√°in" "MacIntyre" "O'Queely"
+			"Corcu Lo√≠gde"
 		}
 		male_names = {
-			Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh ¡ed Fonnchadh Brian Criomhthann Art Cathal 
-			GearÛid Muiris Tadhg Se·n Niall EinrÌ Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
-			Bearach CaoÌmhin Donnabhain EÌhmhÌn Fearghal Iarfhlaith Lorcc·n Math˙in Naomh·n OisÌn P·draig RÌag·in 
+			Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh √Åed Fonnchadh Brian Criomhthann Art Cathal 
+			Gear√≥id Muiris Tadhg Se√°n Niall Einr√≠ Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
+			Bearach Cao√≠mhin Donnabhain E√≠hmh√≠n Fearghal Iarfhlaith Lorcc√°n Math√∫in Naomh√°n Ois√≠n P√°draig R√≠ag√°in 
 			Somhairle
-			Aaron Aaron Abb·n Abner Abner AbÈl Abel Adomn·n ¡ed Hugh ¡edgen ¡educ·n ¡ed·n Hugh ¡engus 
-			Affiath Ailbe Ailbrend Ailbrenn Ailch˙ Aildobur Ailgel ¡ilgen·n Ailgus Ailill AilpÌn Alwin 
-			Ainbchellach ¡indle Ainftech Enfidaig Ainmere Airechtach Airfhind·n Airfhind·n Airfhinn·n 
-			Airleid Airmedach Amalgaid AmlaÌb Olaf Anfud·n AnlÛn Anmchaid ¡nroth·n Ardgal Ardgar Art 
+			Aaron Aaron Abb√°n Abner Abner Ab√©l Abel Adomn√°n √Åed Hugh √Åedgen √Åeduc√°n √Åed√°n Hugh √Åengus 
+			Affiath Ailbe Ailbrend Ailbrenn Ailch√∫ Aildobur Ailgel √Åilgen√°n Ailgus Ailill Ailp√≠n Alwin 
+			Ainbchellach √Åindle Ainftech Enfidaig Ainmere Airechtach Airfhind√°n Airfhind√°n Airfhinn√°n 
+			Airleid Airmedach Amalgaid Amla√≠b Olaf Anfud√°n Anl√≥n Anmchaid √Ånroth√°n Ardgal Ardgar Art 
 			Arthur Angus
-			Artbran Artgal Artgus Artuc·n Art˙r Arthur Assiucc Augaire AugustÌn Augustine Aurthuile 
-			B·ethgalach B·ethÌne B·et·n BÈo·ed Barrfhind Becc·n Berrach Bh·tair Walter Blathmacc Bran 
-			Brandub Brangen Bressal Brian Brian BriccÈne BriccÌne Brocc·n Bruatur Bruide Bride BrÈnaind 
-			BrÈnainn BrÛen B˙aidbÈo Caicher Cailech Cailte Cairbre Carbrey Cairell CaissÈne CaissÌn 
-			Canann Canann·n Carlus Charles Cathal Cathal·n Cathassach Cathbad Cathm·el Cathm·l Cathnio 
-			Cathub CausantÌn Constantine CaÌlte CaÌnchomrac CaÌndelb·n Ceithernach Cellach Cellach·n 
-			CennÈtig Kentigern Cenn-F·elad Cennlach·n Cerball Cernach Cernach·n Cian Ciar·n CillÈne 
-			Cin·ed Kenneth Clemens Clement Cobthach Coirpre Colcu Colm·n Nicholas Columb Nicholas Comg·n 
-			Conaing Conall Conall Conall·n Conamail Con·n Conan Conchenn Conchobar Condla Condla Congal 
-			Congalach Congus Conlang Conmac Conmacc Conm·el Conm·l Conn Conn Connla ConrÌ Constans 
-			Constantius ConstantÌn Constantine Corbb Corb·n Corcc·n Corcr·n Cormac Coscrach CoÌlboth 
-			Crimthann Crundm·el Crundm·el Cruinnm·el Crundm·el CrÌch·n CrÛn·n CuilÈn Cuindles Cuircthe 
-			Cummascach C·em·n CÛelbad CÛelub CÛem·n C˙-Allaid C˙-Bretan C˙-Caech C˙-Cen C˙-Cen-M·thair 
-			C˙-C˙ar·in C˙-Gamna C˙-RoÌ C˙anu C˙ldub C˙·n C˙·n·n DabÌd David Daigre Dalbach Dall·n DaniÈl 
-			Daniel Dathal Dathgus Demm·n Diarmait Dermid Doedgus Domangart Domnall Donald Donn Donnchad 
-			Duncan Donncuan Duncan Donndub·n Donngal Donnuc·n Duncan DoÈlgus Drost Drust Dub-d·-Lethe 
-			Dubcenn Dubgenn Dubh Duff Dubhghall Dugald Dubhglais Douglas Dubthach Dub·ed Dub·n Duiblesc 
-			Duibne Dun·ed D·lach DÌcuill DÌglach DÌmmae DÌmmasach DÌmm·n DÌnertach D˙nac·n D˙nadach 
-			Duncan D˙ngal D˙ngalach D˙nlang …amonn Edmund Echmarcach …chtgal …chtgus Echthigern Echuid 
-			…icnech …icnech·n El·ir …nna …nri Henry …ochad Eochaid Eochaid Eochu Eochuc·n …ogan Eugene 
-			Eric Ercaid Erc·ed Erc·n …remÛn …rennach Ern·n EterscÈl EÛgan Eugene EÛgan·n Eugene Fachtna 
-			Fairchellach Fallaman Farann·n FaÌlbe Fearghus Fergus Fechtnach Fedach Fearchar Farquhar 
+			Artbran Artgal Artgus Artuc√°n Art√∫r Arthur Assiucc Augaire August√≠n Augustine Aurthuile 
+			B√°ethgalach B√°eth√≠ne B√°et√°n B√©o√°ed Barrfhind Becc√°n Berrach Bh√°tair Walter Blathmacc Bran 
+			Brandub Brangen Bressal Brian Brian Bricc√©ne Bricc√≠ne Brocc√°n Bruatur Bruide Bride Br√©naind 
+			Br√©nainn Br√≥en B√∫aidb√©o Caicher Cailech Cailte Cairbre Carbrey Cairell Caiss√©ne Caiss√≠n 
+			Canann Canann√°n Carlus Charles Cathal Cathal√°n Cathassach Cathbad Cathm√°el Cathm√°l Cathnio 
+			Cathub Causant√≠n Constantine Ca√≠lte Ca√≠nchomrac Ca√≠ndelb√°n Ceithernach Cellach Cellach√°n 
+			Cenn√©tig Kentigern Cenn-F√°elad Cennlach√°n Cerball Cernach Cernach√°n Cian Ciar√°n Cill√©ne 
+			Cin√°ed Kenneth Clemens Clement Cobthach Coirpre Colcu Colm√°n Nicholas Columb Nicholas Comg√°n 
+			Conaing Conall Conall Conall√°n Conamail Con√°n Conan Conchenn Conchobar Condla Condla Congal 
+			Congalach Congus Conlang Conmac Conmacc Conm√°el Conm√°l Conn Conn Connla Conr√≠ Constans 
+			Constantius Constant√≠n Constantine Corbb Corb√°n Corcc√°n Corcr√°n Cormac Coscrach Co√≠lboth 
+			Crimthann Crundm√°el Crundm√°el Cruinnm√°el Crundm√°el Cr√≠ch√°n Cr√≥n√°n Cuil√©n Cuindles Cuircthe 
+			Cummascach C√°em√°n C√≥elbad C√≥elub C√≥em√°n C√∫-Allaid C√∫-Bretan C√∫-Caech C√∫-Cen C√∫-Cen-M√°thair 
+			C√∫-C√∫ar√°in C√∫-Gamna C√∫-Ro√≠ C√∫anu C√∫ldub C√∫√°n C√∫√°n√°n Dab√≠d David Daigre Dalbach Dall√°n Dani√©l 
+			Daniel Dathal Dathgus Demm√°n Diarmait Dermid Doedgus Domangart Domnall Donald Donn Donnchad 
+			Duncan Donncuan Duncan Donndub√°n Donngal Donnuc√°n Duncan Do√©lgus Drost Drust Dub-d√°-Lethe 
+			Dubcenn Dubgenn Dubh Duff Dubhghall Dugald Dubhglais Douglas Dubthach Dub√°ed Dub√°n Duiblesc 
+			Duibne Dun√°ed D√°lach D√≠cuill D√≠glach D√≠mmae D√≠mmasach D√≠mm√°n D√≠nertach D√∫nac√°n D√∫nadach 
+			Duncan D√∫ngal D√∫ngalach D√∫nlang √âamonn Edmund Echmarcach √âchtgal √âchtgus Echthigern Echuid 
+			√âicnech √âicnech√°n El√°ir √ânna √ânri Henry √âochad Eochaid Eochaid Eochu Eochuc√°n √âogan Eugene 
+			Eric Ercaid Erc√°ed Erc√°n √ârem√≥n √ârennach Ern√°n Etersc√©l E√≥gan Eugene E√≥gan√°n Eugene Fachtna 
+			Fairchellach Fallaman Farann√°n Fa√≠lbe Fearghus Fergus Fechtnach Fedach Fearchar Farquhar 
 			Fedelmid Feirgil Felic Fer-Fugaill Feradach Feradach Ferdomnach Fergal Fergus Fergus 
-			Fianch˙ Findbarr Fingen Finguine Finn Finn Finnac·n Finnbarr Finnch˙ Finnlagh Findlay 
-			Finnsnechtae Fintan Flaithbertach Flaithem Flaithem·n Flaithgus FlaithrÌ Flann Flannac·n 
-			Flannchad Flann·n Fogartach Folachtach Forann·n Forbassach Fothad Fothud Fuacarta Fubthad 
-			Fuirechtach Fursu F·elcar F·elchad F·elch˙ F·eldobur F·elgus F·el·n F·elbe FÌachnae FÌadch˙ 
-			FÌngin FÌnsnechta FÛcarta Gabr·n Garalt Garbith Gilla-Õosa Gilla-BrÌgte Gilbert Gilla-Coluim 
-			Gilla-Comg·in Gilla-CrÌst Gilchrist Gilla-na-N·em Gilla-P·traic Gilpatrick Gilla-Ruad Gilroy 
-			Glaisiuc Glaschu Gl˙n-Iairn Gofraid Godfrey Gormac·n Gormgus Gorm·n Guaire G·eth·n G·ethÌne 
-			GÛsacht Iacob Jacob Iarlaithe Imchad Indrechtach Ioseph Joseph Õomhar Ivar Labraid Lachtnae 
-			Lachtn·n LachtnÈne Laidcenn Laidgenn LaidÌne LaisrÈn Lenn·n Lennon Lethlobur Liam William 
-			Lochlann Loingsech Lon·n Lorc·n Lugh Leon Lugaid Lug·ed L·egaire LÛchÈne LÛchÌne LÛeguire 
-			Mac-Laisre MainchÌne Maine Manch·n Martan Mathgamain Matud·n Minch·n Mo-Chonna Mo-Lua 
-			MÛenach M·el-Anfaid Liber Fiachnae Erc D˙nchad CillÌne CaissÌne Bran
-			Morand Morann MugrÛn Muirchertach Muirec·n Muiredach Murdoch Muirgius Murchad Murch˙ 
-			M·el-Bresail M·el-BrÌgte M·el-Cein M·el-Cian·in M·el-Ciar·in M·el-Coluim Malcolm M·el-Corgis 
-			M·el-Dubh Maldoven M·el-D˙in M·el-Fothartaig M·el-F·baill M·el-Õosa Malise M·el-M·edÛc 
-			M·el-Martain M·el-MÛrda M·el-Muire Malmure M·el-MÌchÌl M·el-Petair M·el-P·traic M·el-Ruanaid 
-			M·el-Sechnaill M·el-TÛlai M·el·n M·enach M·thair M˙ad·n Nadarchu Nannid Natfraech Natfraich 
-			Natsluaig Nechtan Nathan Niall Nigel Niallgus Niall·n Nuadu Odr·n ”engus Angus ”enuc·n 
-			OissÌne Olc·n ”lchobar Onch˙ Orthanach Oscar Oscar P·traic Patrick Petair Peter Pilib PÛl 
-			Paul Proinsias Francis Rechtabra Riac·n Riaguil Robartach Rogallach Rogellach Ruah Roy 
-			Roderick Ruarcc Rumann R·thach RÌg·n RÌ·n RÛd·n RÛnch˙ RÛn·n Ronan R˙adac·n R˙ad·n Scandal 
-			Scandl·n Scell·n Scolaige SÈaghdha Shaw SÈafra Godfrey SÈamas Jacob Se·n John Sechnassach 
-			Selbach Sench·n Seo·n John Sinach Siothr˙n Godfrey SlÈbÌne Snedgus Sogan Somhairle Somerled 
-			Suibne Sweeny S·erbrethach S·r·n SÈigÌne SÈtna SÈtnae Tadg Tadg Taithlech Talorc Talore 
-			Talorc·n TemnÈn Tigernach Tigern·n Tipraite Tomaltach Tom·s Thomas Torcc·n Trenchad Trengus 
-			Tressach Tuathal·n Tuireann Taran T·l·n TÛla T˙athal Tuathal Ualgarg Ualan Valentin Ualtar 
-			Walter ⁄amnach·n Uargal Uargalach Uargus Uilliam William Ult·n RuaidrÌ Philip OissÈne
+			Fianch√∫ Findbarr Fingen Finguine Finn Finn Finnac√°n Finnbarr Finnch√∫ Finnlagh Findlay 
+			Finnsnechtae Fintan Flaithbertach Flaithem Flaithem√°n Flaithgus Flaithr√≠ Flann Flannac√°n 
+			Flannchad Flann√°n Fogartach Folachtach Forann√°n Forbassach Fothad Fothud Fuacarta Fubthad 
+			Fuirechtach Fursu F√°elcar F√°elchad F√°elch√∫ F√°eldobur F√°elgus F√°el√°n F√°elbe F√≠achnae F√≠adch√∫ 
+			F√≠ngin F√≠nsnechta F√≥carta Gabr√°n Garalt Garbith Gilla-√çosa Gilla-Br√≠gte Gilbert Gilla-Coluim 
+			Gilla-Comg√°in Gilla-Cr√≠st Gilchrist Gilla-na-N√°em Gilla-P√°traic Gilpatrick Gilla-Ruad Gilroy 
+			Glaisiuc Glaschu Gl√∫n-Iairn Gofraid Godfrey Gormac√°n Gormgus Gorm√°n Guaire G√°eth√°n G√°eth√≠ne 
+			G√≥sacht Iacob Jacob Iarlaithe Imchad Indrechtach Ioseph Joseph √çomhar Ivar Labraid Lachtnae 
+			Lachtn√°n Lachtn√©ne Laidcenn Laidgenn Laid√≠ne Laisr√©n Lenn√°n Lennon Lethlobur Liam William 
+			Lochlann Loingsech Lon√°n Lorc√°n Lugh Leon Lugaid Lug√°ed L√°egaire L√≥ch√©ne L√≥ch√≠ne L√≥eguire 
+			Mac-Laisre Mainch√≠ne Maine Manch√°n Martan Mathgamain Matud√°n Minch√°n Mo-Chonna Mo-Lua 
+			M√≥enach M√°el-Anfaid Liber Fiachnae Erc D√∫nchad Cill√≠ne Caiss√≠ne Bran
+			Morand Morann Mugr√≥n Muirchertach Muirec√°n Muiredach Murdoch Muirgius Murchad Murch√∫ 
+			M√°el-Bresail M√°el-Br√≠gte M√°el-Cein M√°el-Cian√°in M√°el-Ciar√°in M√°el-Coluim Malcolm M√°el-Corgis 
+			M√°el-Dubh Maldoven M√°el-D√∫in M√°el-Fothartaig M√°el-F√°baill M√°el-√çosa Malise M√°el-M√°ed√≥c 
+			M√°el-Martain M√°el-M√≥rda M√°el-Muire Malmure M√°el-M√≠ch√≠l M√°el-Petair M√°el-P√°traic M√°el-Ruanaid 
+			M√°el-Sechnaill M√°el-T√≥lai M√°el√°n M√°enach M√°thair M√∫ad√°n Nadarchu Nannid Natfraech Natfraich 
+			Natsluaig Nechtan Nathan Niall Nigel Niallgus Niall√°n Nuadu Odr√°n √ìengus Angus √ìenuc√°n 
+			Oiss√≠ne Olc√°n √ìlchobar Onch√∫ Orthanach Oscar Oscar P√°traic Patrick Petair Peter Pilib P√≥l 
+			Paul Proinsias Francis Rechtabra Riac√°n Riaguil Robartach Rogallach Rogellach Ruah Roy 
+			Roderick Ruarcc Rumann R√°thach R√≠g√°n R√≠√°n R√≥d√°n R√≥nch√∫ R√≥n√°n Ronan R√∫adac√°n R√∫ad√°n Scandal 
+			Scandl√°n Scell√°n Scolaige S√©aghdha Shaw S√©afra Godfrey S√©amas Jacob Se√°n John Sechnassach 
+			Selbach Sench√°n Seo√°n John Sinach Siothr√∫n Godfrey Sl√©b√≠ne Snedgus Sogan Somhairle Somerled 
+			Suibne Sweeny S√°erbrethach S√°r√°n S√©ig√≠ne S√©tna S√©tnae Tadg Tadg Taithlech Talorc Talore 
+			Talorc√°n Temn√©n Tigernach Tigern√°n Tipraite Tomaltach Tom√°s Thomas Torcc√°n Trenchad Trengus 
+			Tressach Tuathal√°n Tuireann Taran T√°l√°n T√≥la T√∫athal Tuathal Ualgarg Ualan Valentin Ualtar 
+			Walter √öamnach√°n Uargal Uargalach Uargus Uilliam William Ult√°n Ruaidr√≠ Philip Oiss√©ne
 		}
 		female_names = {
-			Saraid ”rfhlaith Fedelma
-			Ablach ¡edammair Affraic Euphemia AÌbinn AibilÌn Eva Aileann ¡ine Agnes Anlaith ArÛc AÌbinn 
-			Barrdub Ben-Laigen Ben-MÌde Ben-Muman Ben-Ulad Brigit Brigit BÈ-F·il BÈbinn Cacht 
-			Caillech-FhinnÈin Cainnech CaissÈne CaitilÌn Catherine CaÌntigern CaÌrech Cath·n CatrÌona 
-			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Cond·l CrÌnÛch 
-			CrÌstina Christina Cumman Deirdre Der-bForgaill Devorguilla Derb·il Derborgaill Devorguilla 
+			Saraid √ìrfhlaith Fedelma
+			Ablach √Åedammair Affraic Euphemia A√≠binn Aibil√≠n Eva Aileann √Åine Agnes Anlaith Ar√≥c A√≠binn 
+			Barrdub Ben-Laigen Ben-M√≠de Ben-Muman Ben-Ulad Brigit Brigit B√©-F√°il B√©binn Cacht 
+			Caillech-Fhinn√©in Cainnech Caiss√©ne Caitil√≠n Catherine Ca√≠ntigern Ca√≠rech Cath√°n Catr√≠ona 
+			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Cond√°l Cr√≠n√≥ch 
+			Cr√≠stina Christina Cumman Deirdre Der-bForgaill Devorguilla Derb√°il Derborgaill Devorguilla 
 			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
-			D˙insech D˙nlaith Echrad …ibhleann Eilionora Eleanor Eithne Eithne EllbrÌg Emer Emer …taÌn 
-			Eva Euginia Eugenia FaÌlenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith FÌne Garb 
-			GelgÈis GerrÛc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gr·inne Imag Õte Lann 
-			LasairfÌona Lathir Lerben Lerthan LÌgach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
-			Muirenn Murron Muirgel Muriel Muirne Morna M·el-Mide M·el-Muire Malmure M·ire Maria M·iread 
-			M·irgred Margaret MÛr Mor MÛr-Muman N·rbflaith Nuala Finnguala ”rlaith ”rnat RÛis Ros Sadb 
-			Samthann Sc·thach SÈbdann Selblaith Seonaid Joan Sinech Siob·n Joan Sisuile Sl·Ìne Slaine 
-			Sorcha Suaibsech S·erlaith SÈtach SÌthmaith Tailefhlaith Tailltiu Temair Tuathflaith TÛmnat 
-			Uallach Uasal ⁄na Una Mona …ua
+			D√∫insech D√∫nlaith Echrad √âibhleann Eilionora Eleanor Eithne Eithne Ellbr√≠g Emer Emer √âta√≠n 
+			Eva Euginia Eugenia Fa√≠lenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith F√≠ne Garb 
+			Gelg√©is Gerr√≥c Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gr√°inne Imag √çte Lann 
+			Lasairf√≠ona Lathir Lerben Lerthan L√≠gach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
+			Muirenn Murron Muirgel Muriel Muirne Morna M√°el-Mide M√°el-Muire Malmure M√°ire Maria M√°iread 
+			M√°irgred Margaret M√≥r Mor M√≥r-Muman N√°rbflaith Nuala Finnguala √ìrlaith √ìrnat R√≥is Ros Sadb 
+			Samthann Sc√°thach S√©bdann Selblaith Seonaid Joan Sinech Siob√°n Joan Sisuile Sl√°√≠ne Slaine 
+			Sorcha Suaibsech S√°erlaith S√©tach S√≠thmaith Tailefhlaith Tailltiu Temair Tuathflaith T√≥mnat 
+			Uallach Uasal √öna Una Mona √âua
 		}
 	}
 	gallian = {
@@ -219,7 +219,7 @@ gaelic	= {
 	}
 	pictish = {
 		dynasty_names = {
-			"Alt Clut" "D·l Riata" Alpin ”engus Cruithne
+			"Alt Clut" "D√°l Riata" Alpin √ìengus Cruithne
 		}
 		male_names = {
 			Achiuir Aethon Aenbecan Allan Allcallorred Allisander Aniel Ardle Auust Bili Bran Breth Bridei Briog Broichan
@@ -317,29 +317,29 @@ latin = {
 	}
 	
 	male_names = {
-		…douard Edward …rrard …tienne Stephen Adalbert Albert AdÈmar Adrien Aimery Aymeric Alain Alan 
-		Aldebert Albert AldÈric Alphonse Alphonse Amaury Amalric
-		AmÈdÈe Ancel AndrÈ Andrew Angelbert Antoine Antoninus Archambaud Archibald Arnaud Arnold Arnault 
-		Arnold Arnoul Arnulf Aubry Aymar BarthÈlÈmi Bartolomeus
-		Baudouin Baldwin BenoÓt Benedict BÈrenger Berengar Bernard Bernard Bertrand Bertrand Bohemond 
+		√âdouard Edward √ârrard √âtienne Stephen Adalbert Albert Ad√©mar Adrien Aimery Aymeric Alain Alan 
+		Aldebert Albert Ald√©ric Alphonse Alphonse Amaury Amalric
+		Am√©d√©e Ancel Andr√© Andrew Angelbert Antoine Antoninus Archambaud Archibald Arnaud Arnold Arnault 
+		Arnold Arnoul Arnulf Aubry Aymar Barth√©l√©mi Bartolomeus
+		Baudouin Baldwin Beno√Æt Benedict B√©renger Berengar Bernard Bernard Bertrand Bertrand Bohemond 
 		Boson Bouchard Centule Centule Charles Charles Boson
-		Clotaire Ebbon Enguerrand Eudes Otto Eustache Eustace Evrard Foulques Folke FranÁois Francis 
-		FrÈdÈric Frederick GÈraud Gerald Gargamel Gaucher Gaucelin Joscelin
-		Gauthier Walter Geoffroy Godfrey GÈraud Gerard Gelduin Gilbert Gilbert Gilles Egidius Godefroy 
+		Clotaire Ebbon Enguerrand Eudes Otto Eustache Eustace Evrard Foulques Folke Fran√ßois Francis 
+		Fr√©d√©ric Frederick G√©raud Gerald Gargamel Gaucher Gaucelin Joscelin
+		Gauthier Walter Geoffroy Godfrey G√©raud Gerard Gelduin Gilbert Gilbert Gilles Egidius Godefroy 
 		Godfrey Guichard Guiges Guilhem William Guillaume William
-		Guy Guy HÈlie Hamelin Henri Henry Herbert Hildebert Hugues Hugh Humbert Humbert Jacques Jacob 
-		Godfrey Jaspert Jean John Josselin Joscelin JaufrÈ
-		Jourdain Jordan Julien Julian LÈon LÈonard Lothaire Lothar Louis Louis Loup Lupo ManassËs 
+		Guy Guy H√©lie Hamelin Henri Henry Herbert Hildebert Hugues Hugh Humbert Humbert Jacques Jacob 
+		Godfrey Jaspert Jean John Josselin Joscelin Jaufr√©
+		Jourdain Jordan Julien Julian L√©on L√©onard Lothaire Lothar Louis Louis Loup Lupo Manass√®s 
 		Matthew Maurice Nicolas Nicholas Ogier Onfroy Orson Othon Otto
 		Payen Pagan Philippe Philip Pierre Peter Raimbaut Raoul Ralph Raymond Raymond Raynaud Reinhold 
 		Renaud Reinhold Richard Richard Robert Robert Robin Roger Roger
-		Rorgon Rorgues Roubaud Savary Sigismond Sigmund Simon Simon Thibault Theobald ThiÈbaut Theobald 
+		Rorgon Rorgues Roubaud Savary Sigismond Sigmund Simon Simon Thibault Theobald Thi√©baut Theobald 
 		Thierry Thierry Thomas Thomas Valeran Yves Mathieu
 		Abelard Adam Adam Adelard Ademar Alexander Alexander Alfons Alphonse Amaury Amalric Anfroi 
 		Anselm Armand Arnald Arnold Asclettin Aubrey Baldwin Baldwin Anquetil
 		Bernard Bernard Berold Bertran Bertrand Beuves Blayve Blaise Bohemond Botolf Clemence Clement 
 		Errand Eustache Eustace Faramond Ferant Ferdinand Filbert Drogo
-		Fulk Folke Fraunk Frery Gaillard Gaufrid Geoffroy Godfrey Gerald Gerald Gerard Gerard GÈrard 
+		Fulk Folke Fraunk Frery Gaillard Gaufrid Geoffroy Godfrey Gerald Gerald Gerard Gerard G√©rard 
 		Geraud Gerald Gerbert Gervas Giffard Gilbert Gilbert Gerard
 		Godfrey Godfrey Goubert Guntard Guy Guy Haimo Hamelin Henry Henry Herbert Herman Herman Hubert 
 		Hugh Humbert Humbert Humphrey Ildebrando Jordan Jordan Joscelin Joscelin
@@ -356,12 +356,12 @@ latin = {
 		Arsenio Artemio Ascanio Astorre Arrigo Annibale
 		Atenolfo Attilio Augusto Aurelio Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre 
 		Baldwin Barnaba Bartolomeo Bartolomeus Basilio Basil Bassiano Basso Baldovino
-		Battista Beltrano Benedetto Benedict Benvenuto Berardo BernabÚ Bernard Bernardo Bernard Berto 
+		Battista Beltrano Benedetto Benedict Benvenuto Berardo Bernab√≤ Bernard Bernardo Bernard Berto 
 		Bertoldo Biagio Bonaventura Bonifacio Bonifacius Borso Bruno Bruto Buonconte
 		Buoso Callisto Camillo Camillus Candido Cangrande Carlo Cassio Castore Cataldo Catone Cecco 
 		Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Clement Costanzo Cesare
 		Comita Conone Cornelio Cornelius Corradino Corrado Konrad Cosimo Cosma Costante Costantino 
-		Cristoforo Christopher Damiano Damian Davide David Demetrio Demetrius Dioniso Dionysus DomÈnico 
+		Cristoforo Christopher Damiano Damian Davide David Demetrio Demetrius Dioniso Dionysus Dom√©nico 
 		Dominic	Durante Eduardo Edward Elio Emmanuele Manuel Ennio Enrico Henry Enzio Enzo Ercole 
 		Ermenegildo Ettore Eugenio Eugene Ezio Ezzelino Fabrizio Fausto Federigo Frederick
 		Felice Felix Ferdinando Ferdinand Ferruccio Filippo Philip Fiorello Flavio Folco Folke Fortunato 
@@ -375,7 +375,7 @@ latin = {
 		Lealdo Leonardo Leone Leo Leonello Leopoldo Libero Lionello Livio Lodovico Lorenzo Luca Luchino 
 		Lucio Lucius Luigi Malacresta Manfredo Manuele Manuel
 		Marco Marcus Mariano Marius Marino Mario Marius Marsiglio Martino Martin Mastino Matteo 
-		Matthew Merigo Michelangelo Michele Michael Napoleone Nazareno Nestore NiccolÚ Nicola
+		Matthew Merigo Michelangelo Michele Michael Napoleone Nazareno Nestore Niccol√≤ Nicola
 		Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone 
 		Pagano Pancrazio Pandolfo Paolo Pasquale Pascal Otto
 		Patrizio Patrick Pellegrino Pericle Pietro Peter Pio Prospero Rafaello Radul Raimondo Raymond 
@@ -386,42 +386,42 @@ latin = {
 		Taddeo Tedaldo Tedice Teodoro Tibaldo Theobald Tiziano Tommaso
 		Torgodorio Torquato Ubaldo Uberto Ugo Hugh Ugoccione Ugolino Umberto Humbert Urbano Valentino 
 		Valentin Valerio Vincentello Vincenzo Vincent Virginio Vitale Vittore Vittorio Zaccaria
-		AdhÈmar Acfred Alfred Aimeric Aymeric Alberic Alberic Albert Albert Aldebert Albert Alias Helias 
-		AnfÚs Alphonse Amalric Amalric Amaneus Ancelmes AndrÈ Andrew Archambaut Archibald Arnaut Arnold 
-		Artau Artal Aton AudoÔn Aymar Aymeric Aymeric Aymeric Aznar Aznar
-		Barral BartoumiÈu Bartolomeus BaudoÔn Baldwin Beneset Benedict BÈrard Bernard BerenguiÈ Berengar 
+		Adh√©mar Acfred Alfred Aimeric Aymeric Alberic Alberic Albert Albert Aldebert Albert Alias Helias 
+		Anf√≤s Alphonse Amalric Amalric Amaneus Ancelmes Andr√© Andrew Archambaut Archibald Arnaut Arnold 
+		Artau Artal Aton Audo√Øn Aymar Aymeric Aymeric Aymeric Aznar Aznar
+		Barral Bartoumi√©u Bartolomeus Baudo√Øn Baldwin Beneset Benedict B√©rard Bernard Berengui√© Berengar 
 		Bermond Vermudo Bernat Bernard Bernat-Aton Bernat-Ezi Bertrand Bertrand Blasi Blaise Borel Boson 
 		Boson Carles Charles Stentore
-		ClamenÁ Clement Centolh Centule D‡vi David Dat Theodat Dodon Doumenge Duran Ebles Otto EmmanuËl 
-		Manuel Enric Henry Ermengau EstËve Stephen Filip Philip 
-		Ferrand Ferdinand FlorËnÁ Folquet Folke FrancÈs Francis Frederi Frederick Garcia Garcia Gaston 
-		Gaston Gausbert Gausbert Gautier Walter GilbËrt Gilbert Girard Gerard Girvais Godafres Godfrey 
-		Gui Guy Guichard Guigues Guy GuilhËm William Guiraud Gerald Guitart Gerard Ives Jacme Jacob 
+		Clamen√ß Clement Centolh Centule D√†vi David Dat Theodat Dodon Doumenge Duran Ebles Otto Emmanu√®l 
+		Manuel Enric Henry Ermengau Est√®ve Stephen Filip Philip 
+		Ferrand Ferdinand Flor√®n√ß Folquet Folke Franc√©s Francis Frederi Frederick Garcia Garcia Gaston 
+		Gaston Gausbert Gausbert Gautier Walter Gilb√®rt Gilbert Girard Gerard Girvais Godafres Godfrey 
+		Gui Guy Guichard Guigues Guy Guilh√®m William Guiraud Gerald Guitart Gerard Ives Jacme Jacob 
 		Godfrey Joan John Jordan Jordan Jorge George Jaufret
-		Josselin Joscelin Julian Julian LaurËnÁ Laurence Leon Leo LoÔs Louis Loui Louis Lop Lupo MarÁau 
+		Josselin Joscelin Julian Julian Laur√®n√ß Laurence Leon Leo Lo√Øs Louis Loui Louis Lop Lupo Mar√ßau 
 		Martin Martin Matfre Manfred Matias Matthew Milo Miquel Michael
-		Nicholaus Nicholas Odon Otto Otton Otto PËire Peter PÈire-Arnaut PÈire-Raimond Peranudet Pol 
-		Pons Pons Raimond Raymond Raimond-BerenguiÈ Raymond-Berengar Rainaut Reinhold Rainer
-		Raolf Ralph Ricard Richard RobËrt Robert Rogier Roger Sancho Sancho Savarics Simon Simon TiËrri 
+		Nicholaus Nicholas Odon Otto Otton Otto P√®ire Peter P√©ire-Arnaut P√©ire-Raimond Peranudet Pol 
+		Pons Pons Raimond Raymond Raimond-Berengui√© Raymond-Berengar Rainaut Reinhold Rainer
+		Raolf Ralph Ricard Richard Rob√®rt Robert Rogier Roger Sancho Sancho Savarics Simon Simon Ti√®rri 
 		Thierry Tibaud Theobald Toumas Thomas Ubald Ubert Humbert Uc Hugh Ugues Hugh
-		VÈzian VicenÁ Vincent Paul
+		V√©zian Vicen√ß Vincent Paul
 	}
 	female_names = {
-		…lÈonore Eleanor …lodie …tiennette AdËle Adela Adalmode Almodis Adelaide Adelaide Adelinde 
-		Agatha AgnËs Agnes AlÈarde Alice Alice AliÈnor Eleanor Agathe
+		√âl√©onore Eleanor √âlodie √âtiennette Ad√®le Adela Adalmode Almodis Adelaide Adelaide Adelinde 
+		Agatha Agn√®s Agnes Al√©arde Alice Alice Ali√©nor Eleanor Agathe
 		Alix Alice Almodis Almodis Amelie Amelia Anne Anna Antoinette Arsinde Arsenda Aude Aurengarde 
-		BÈatrice Beatrice BÈatrix Beatrice Belleassez BenoÓte BÈrengËre
-		Berthe Blanche Blanche Bonne Bonne Bourgogne Bourguigne CÈcile Cecilia CathËrine Catherine 
+		B√©atrice Beatrice B√©atrix Beatrice Belleassez Beno√Æte B√©reng√®re
+		Berthe Blanche Blanche Bonne Bonne Bourgogne Bourguigne C√©cile Cecilia Cath√®rine Catherine 
 		Constance Constance Denise Douce Douce Echive Eglantine Charlotte
 		Elisabeth Elisabeth Emma Emma Ermengarde Ermengarde Ermessinde Ermesinda Esclarmonde Esclarmunda 
 		Euphrosine Euphrosyne Eustachie Eve Eva Gerberge Gerberga
-		GisËle Gisela Guillaumette HÈloise Eloise Helvis Hodierne Ide Ida Ida Ida IldÈgarde Hildegard 
+		Gis√®le Gisela Guillaumette H√©loise Eloise Helvis Hodierne Ide Ida Ida Ida Ild√©garde Hildegard 
 		Isabeau Elisabeth Isabelle Elisabeth Jeanne Joan Judith Judith
 		Julienne Juliana Mafalda Mahaut Mahaut Margot Marguerite Margaret Marie Maria Marthe Martha 
-		Mascarose Mascarosa Mathilde Matilda MÈlisande Melisende
-		MÈlisende Melisende MÈlusine PÈronelle Peronella Pernelle Peronella Perinne Pernette Plaisance 
-		Plaisance Raymonde Sarrazine SolËne Sophie Sophia
-		StÈphanie Stephania Sybille Sibylla Tiburge Tiburge Valence Yolanda Yolande Yolanda 
+		Mascarose Mascarosa Mathilde Matilda M√©lisande Melisende
+		M√©lisende Melisende M√©lusine P√©ronelle Peronella Pernelle Peronella Perinne Pernette Plaisance 
+		Plaisance Raymonde Sarrazine Sol√®ne Sophie Sophia
+		St√©phanie Stephania Sybille Sibylla Tiburge Tiburge Valence Yolanda Yolande Yolanda 
 		Adelaide Adelaide Adele Adela Adelin Adelise Agnes Agnes Alberada Alienora Eleanor Aline Alisce 
 		Alice Alison Amburga Aubrey Aveis Avelina Avelina Berengaria
 		Busilla Clarimond Clemenza Clementia Constance Constance Cundo Egelina Eleanor Eleanor Elise 
@@ -447,22 +447,22 @@ latin = {
 		Margherita Margaret Maria Maria Mariana Marietta Martina Matilda Matilda Micaela Nunzia Paola 
 		Patrizia Patricia Renata Ricciarda Ricarda Silvana Paula
 		Sofia Sophia Stefania Stephania Tiziana Tomasina Valentina Violante Yolanda Virginia
-		AdËla Adela AdalaÔda Adelaide Adeltrudis Agata Agatha AÔna Emma AinËs Agnes AlaÔs Alice AlienÚr 
-		Eleanor AliÁ Alice AlmÚdis Almodis AlpaÔs Ana Anna Arsenda Arsenda Assalhida Ava
-		AzalaÔs Azelma BÚna Bonne Beatritz Beatrice Berenguela Berta Blanca Blanche Brandimena Bregida 
-		Brigid Brunissenda Camila CarlÚta Caterina Catherine Cecilia Cecilia
-		Clara Clara Clarmonda Esclarmunda ClemËncia Clementia Cloutilda Clotilde Const‡ncia Constance 
-		Douce EisabËu Elisabeth Elena Helen DolÁa
-		Elisa Elisabeth ElisabËta Elisabeth Ermengarda Ermengarde Ermessentz Ermesinda Esclarmonda 
-		Esclarmunda Estefania Stephania EufËmia Eufrosina Euphrosyne
-		Faidida Filipa Philippa Filomena FlÚra Flora Francesa Francesca Garcenda Geneviva GerbËrga 
+		Ad√®la Adela Adala√Øda Adelaide Adeltrudis Agata Agatha A√Øna Emma Ain√®s Agnes Ala√Øs Alice Alien√≤r 
+		Eleanor Ali√ß Alice Alm√≤dis Almodis Alpa√Øs Ana Anna Arsenda Arsenda Assalhida Ava
+		Azala√Øs Azelma B√≤na Bonne Beatritz Beatrice Berenguela Berta Blanca Blanche Brandimena Bregida 
+		Brigid Brunissenda Camila Carl√≤ta Caterina Catherine Cecilia Cecilia
+		Clara Clara Clarmonda Esclarmunda Clem√®ncia Clementia Cloutilda Clotilde Const√†ncia Constance 
+		Douce Eisab√®u Elisabeth Elena Helen Dol√ßa
+		Elisa Elisabeth Elisab√®ta Elisabeth Ermengarda Ermengarde Ermessentz Ermesinda Esclarmonda 
+		Esclarmunda Estefania Stephania Euf√®mia Eufrosina Euphrosyne
+		Faidida Filipa Philippa Filomena Fl√≤ra Flora Francesa Francesca Garcenda Geneviva Gerb√®rga 
 		Gersenda Gisla Gisela Guigone Guilheumina Heloise Eloise
-		Ioulanda Yolanda IsabËu Elisabeth IsabËla Elisabeth Joana Joan Juliana Juliana L˙cia Lucia Laura 
-		Laura LoÔsa Louise Mabila Madalena Magdalena Gerberga
-		Margarida Margaret Maria Maria Marquisa Marta Martha MascarÚsa Mascarosa Matilda Matilda 
-		Melisende Navar Patricia Patricia PeironËla Peronella MelisËnda
-		Petronilha Petronilla Puelle Raisenda Raimonda RichËnda Ricarda RosËla Rosa SanÁa Sancha Sibilla 
-		Sibylla TerËsa Teresa Tiborg Tiburge Verounica Violent Yolanda
+		Ioulanda Yolanda Isab√®u Elisabeth Isab√®la Elisabeth Joana Joan Juliana Juliana L√∫cia Lucia Laura 
+		Laura Lo√Øsa Louise Mabila Madalena Magdalena Gerberga
+		Margarida Margaret Maria Maria Marquisa Marta Martha Mascar√≤sa Mascarosa Matilda Matilda 
+		Melisende Navar Patricia Patricia Peiron√®la Peronella Melis√®nda
+		Petronilha Petronilla Puelle Raisenda Raimonda Rich√®nda Ricarda Ros√®la Rosa San√ßa Sancha Sibilla 
+		Sibylla Ter√®sa Teresa Tiborg Tiburge Verounica Violent Yolanda
 		Aelia Agrippina Antonia Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia 
 		Clementia Constantia Constantia Claudia
 		Constantina Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta 
@@ -506,14 +506,14 @@ iberian	= {
 			Osorio Andrade
 		}
 		male_names = {
-			GarcÌa OrdoÒo Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
-			Cristovo Domingos Estevo Felipe Fern·n Francisco Frederico Gonzalo Guillerme Gumersindo Henrique 
-			Hermenexildo Hixinio Hugo Iago Ignacio Leandro Lope Miguel Nuno OdÛn Paulo Pedro RamÛn Roi TomÈ 
+			Garc√≠a Ordo√±o Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
+			Cristovo Domingos Estevo Felipe Fern√°n Francisco Frederico Gonzalo Guillerme Gumersindo Henrique 
+			Hermenexildo Hixinio Hugo Iago Ignacio Leandro Lope Miguel Nuno Od√≥n Paulo Pedro Ram√≥n Roi Tom√© 
 			Vitor Xoan Xorxe
 		}
 		female_names = {
-			Branca Iria Sabela L˙a Rodolfa SofÌa Aldara Alduara AldonÁa Aldonza Beatriz Beatrice Bereng·ria Berengaria Branca 
-			Blanche AntÌa Branca Carme Catarina Dores Iria LÌa Margarida MarÌa Noela RosalÌa Sabela UxÌa Xoana
+			Branca Iria Sabela L√∫a Rodolfa Sof√≠a Aldara Alduara Aldon√ßa Aldonza Beatriz Beatrice Bereng√°ria Berengaria Branca 
+			Blanche Ant√≠a Branca Carme Catarina Dores Iria L√≠a Margarida Mar√≠a Noela Rosal√≠a Sabela Ux√≠a Xoana
 		}
 	}
 	celtiberian = {
@@ -535,15 +535,15 @@ iberian	= {
 			Oretani Bastetani Contestani Edetani Ilercavone Ilergean Indikete Cessetani Lacetani Ausetani
 		}
 		male_names = {
-			Abadutiker Abararban Abargitibasar Abartiaigis Abartanban Abartiaigis AblÛn Aibekeres Aiunesker Alorildui Alortigis
+			Abadutiker Abararban Abargitibasar Abartiaigis Abartanban Abartiaigis Abl√≥n Aibekeres Aiunesker Alorildui Alortigis
 			Alostibas Alucio Amusico Andobales Antorbanen Arbiskar Argisabam Argitibasar Argitiker Armitalsko Atabeles Atabels
 			Atinbelaur Bagarok Bailar Baisebilos Baisetas Baitesir Balacertar Balcaldur Balceadin Balcebe Balceskar Balkar Bartar
 			Basirtir Baspedas Bastartine Bedule Viriato Belasbaisereban Binturke Biosildun Biulakos Biurbetin Biurdiki Biurtan 
-			Biurtetel Biurtibes Biurtilaur Bodilkas Boutintibas Budar Busadines Caikonbe Cerdubeles Culcas Culchas EdecÛn
-			Edereta Ertebas Eterindu Iceatin Ieorbeles Ieortas Ildutas Iltiradin IndÌbil Indikortes Indo Isbataris
-			Isceradin Iscerbeles Kara Katulatin Korbis Korribilo Lagunas Mandonio Nabarsosin Nereildun Nerseadin Nisunin OlÛnico 
-			Orison Orisos Otigirteker Tiresio Redukeno RetÛgenes Sakarbik Sakarisker Seihar Zeihar Selgiterar Sicedunin Sicounin 
-			Sinebetin Situbolai Sosinbiuru Sosian Sosintacer Talskubilos Tarkunbiur Teitebas Tibaste Turibas Ultidik·n Unibelos 
+			Biurtetel Biurtibes Biurtilaur Bodilkas Boutintibas Budar Busadines Caikonbe Cerdubeles Culcas Culchas Edec√≥n
+			Edereta Ertebas Eterindu Iceatin Ieorbeles Ieortas Ildutas Iltiradin Ind√≠bil Indikortes Indo Isbataris
+			Isceradin Iscerbeles Kara Katulatin Korbis Korribilo Lagunas Mandonio Nabarsosin Nereildun Nerseadin Nisunin Ol√≥nico 
+			Orison Orisos Otigirteker Tiresio Redukeno Ret√≥genes Sakarbik Sakarisker Seihar Zeihar Selgiterar Sicedunin Sicounin 
+			Sinebetin Situbolai Sosinbiuru Sosian Sosintacer Talskubilos Tarkunbiur Teitebas Tibaste Turibas Ultidik√°n Unibelos 
 			Unibetin Untigorisar Uraucen Urcaildu Urcebas Urcetices
 		}
 		female_names = {
@@ -552,7 +552,7 @@ iberian	= {
 	}
 	dynasty_names = {
 		# CKII - Visigothic
-		"Ans˙rez" "de Castella" "d'Asturias" "de Cantabria" "Gundem·riz" "de Prauia" "de RibagorÁa" "d'Oriola" 
+		"Ans√∫rez" "de Castella" "d'Asturias" "de Cantabria" "Gundem√°riz" "de Prauia" "de Ribagor√ßa" "d'Oriola" 
 		"de Maiorica" "de Minorica" "Begonid" "de Suebennia" "de Pedernales" "de Ruscino" "Theodoricciana" "Erwigiana" 
 		"Kindasuinthiana" "Khintiliana" "Lywigildiana" "Sesebutiana" "Balthes"
 	}
@@ -563,24 +563,24 @@ basque_group = {
 
 	basque = {
 		dynasty_names = { 
-			"de Navarra" "de Beaumont" "de LerÌn" "de Monteagudo" 
+			"de Navarra" "de Beaumont" "de Ler√≠n" "de Monteagudo" 
 			# CKII
-			"LadrÛn de Guevara" "de Pamplona" "de Arrosta" "de Navarra" "de Vasconia" "de Agurto" 
-			"de Vizcaya" "d'¡valos" "de Baz·n" "de Aybar" "de N·jera" "Cavanez" "de Noboa" "de Haro" 
-			"de Vidaure" "de AragÛn" "de Amaya" "de Azagra" "Benavides" "de Z˙Òiga" "Coronel" "Velaz" 
-			"de Oca" "de Tafalla" "de Viguera" "de Cea" "ÕÒiga" "Carracedo" "de ¡lava" "de Yarnoz" "Cajal" 
-			"de los Cameros" "de EstÌbaliz" "de Estella" "de Viscaya" "de Asturias de Santillana" 
+			"Ladr√≥n de Guevara" "de Pamplona" "de Arrosta" "de Navarra" "de Vasconia" "de Agurto" 
+			"de Vizcaya" "d'√Åvalos" "de Baz√°n" "de Aybar" "de N√°jera" "Cavanez" "de Noboa" "de Haro" 
+			"de Vidaure" "de Arag√≥n" "de Amaya" "de Azagra" "Benavides" "de Z√∫√±iga" "Coronel" "Velaz" 
+			"de Oca" "de Tafalla" "de Viguera" "de Cea" "√ç√±iga" "Carracedo" "de √Ålava" "de Yarnoz" "Cajal" 
+			"de los Cameros" "de Est√≠baliz" "de Estella" "de Viscaya" "de Asturias de Santillana" 
 			"de Asturias de Oviedo" "Compostela" "de Laturce" "Belascotenes" "Vela" "de La Rioja" 
 			"Mariano" "de Jaca"
 		}
 		male_names = {
-			Enrique Carlos Francisco Juan Luis GastÛn Pedro Buenaventura Francisco Godofredo Jaime Lanzarote 
-			MartÌn Sancho GarcÌa Felipe Teobaldo Alfonso AgustÌn Alejandro ¡lvaro AndrÈs Antonio Bernardo CÈsar 
-			CristÛbal Diego Esteban Fernando Gaspar JosÈ Melchor Nicol·s SimÛn Leonel
+			Enrique Carlos Francisco Juan Luis Gast√≥n Pedro Buenaventura Francisco Godofredo Jaime Lanzarote 
+			Mart√≠n Sancho Garc√≠a Felipe Teobaldo Alfonso Agust√≠n Alejandro √Ålvaro Andr√©s Antonio Bernardo C√©sar 
+			Crist√≥bal Diego Esteban Fernando Gaspar Jos√© Melchor Nicol√°s Sim√≥n Leonel
 			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo 
 			Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando 
 			Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John 
-			Lope Lupo Luis Louis Manrike Amalric MartÌn Martin Munio Munio NuÒo Nuno Obeko Obeko OrdoÒo 
+			Lope Lupo Luis Louis Manrike Amalric Mart√≠n Martin Munio Munio Nu√±o Nuno Obeko Obeko Ordo√±o 
 			Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon 
 			Zentulo Centule Ladron Ferdinand Bernart
 		}
@@ -588,7 +588,7 @@ basque_group = {
 			Juana Catalina Leonor Blanca
 			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka 
 			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance 
-			Maior Mayor Maria Maria Mentzia Mencia Munia Munia NuÒa Oneka Oneka Oria Plazentzia 
+			Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nu√±a Oneka Oneka Oria Plazentzia 
 			Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
 		}
 	}
@@ -606,7 +606,7 @@ basque_group = {
 		}
 	}
 	
-	dynasty_names = { "de Navarra" "de Beaumont" "de LerÌn" "de Monteagudo" }
+	dynasty_names = { "de Navarra" "de Beaumont" "de Ler√≠n" "de Monteagudo" }
 }
 	
 slavic = {
@@ -629,15 +629,15 @@ slavic = {
 			Adriana Anna Borislava Cededa Doroteja Dorothy Ekaterina Catherine Helena Helen Jadviga 
 			Jovana Kera Ladika Maria Maria Mihaela Nada Petra Viola Yolanda Jadranka Mare
 			Antonija Capeka Dragana Dubravka Emilija Emily Gordana Jagoda Jelena Jelka Lucija Lucia 
-			Catherine Marija Maria Marijana Mirjana Mirna Mojca Natalija Nataäa
+			Catherine Marija Maria Marijana Mirjana Mirna Mojca Natalija Nata¬äa
 			Rijeka Silvija Snjezana Sofija Sophia Suzana Susana Svjetlana Suronja Tatjana Tihana 
 			Vedrana Visnja Vjekoslava Zlata Zvonimira Valerija Katalin
 		}
 		dynasty_names = {
 			"Vit" "Lanik" "Kulinic" "Trpimirovic" "Mihaljevic" "Bijelahrvatskic" "Subic" "Hrvatinic" 
 			"Kosaca" "Vukcic" "Vukasin" "Dukasin" "Kastriotic" "Babonic" "Frankopan" "Kacic" "Draskovic" 
-			"ZelemÈri" "Bebek" "Svetoslavic" "Kreöimirovic" "Domagojevic" "Feötetic" "Gorjanski" "Lackfi" 
-			"Svacic" "Kobilic" "Lackovic" "Frankopan" "Senulatovic" "äubic"
+			"Zelem√©ri" "Bebek" "Svetoslavic" "Kre¬öimirovic" "Domagojevic" "Fe¬ötetic" "Gorjanski" "Lackfi" 
+			"Svacic" "Kobilic" "Lackovic" "Frankopan" "Senulatovic" "¬äubic"
 		}
 	}
 	
@@ -662,11 +662,11 @@ baltic	= {
 		Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
 		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
 		# CKII
-		"von Finckenstein" "Wilks" "Klakis" "Luks" "Kuilis" "Kalabijjan" "von Preussen" "von Kˆnigsberg" 
+		"von Finckenstein" "Wilks" "Klakis" "Luks" "Kuilis" "Kalabijjan" "von Preussen" "von K√∂nigsberg" 
 		"Jankowskie" "von Danzig" "von Seidlitz" "von Marienburg" "Konopacki"
 		"von Memel" "von Kurs" "von Rohrbach" "Penikis" "Tontegode" "Vidins" "Draguns" "Sirkants"
 		# Ugric Baltic
-		"Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "L‰‰nemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa" 
+		"Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "L√§√§nemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa" 
 		"Ridala" "Saaremaa" "Vaiga" "Turaida"
 	}
 }
@@ -751,6 +751,188 @@ byzantine = {
 			Konstantine Constantina Kyra Kyriake Hypatia Zoe
 		}
 	}
+	attic_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	doric_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	aeolic_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	ionic_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	cypriot_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	macedonian_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
+	koine_greek = {
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
+			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+	}
 	dynasty_names = {
 		# CKII
 		"Kameniatis" "Chameas" "Demetrianos" "Laloudios" "Stamopatas" "Peloponnesites" "Klados" "Avastaktos" 
@@ -769,14 +951,14 @@ byzantine = {
 		"Kassymatas" "Nesteutes" "Scholastikos" "Chrisostomos" "Nazianzen" "Nikomedianos" "Protokletos" "Garidas" 
 		"Grammatikos" "Zeno" "Gavalas" "Axuchos" "Kamonas" "Asidenos" "Komnenos Doukas" "Hephaistos" "Karatzas" 
 		"Amiroutzes" "Bessarion" "Callistus" "Chalkokondyles" "Gazis" "Kourtesios" "Kallistos" "Kladas" "de Patras" 
-		"Gemistus" "Allatios" "Chalcocondyles" "Korniaktos" "Damaskenos" "Eparchos" "Flanginis" "Fok·s" "Heraclides" 
-		"Kallokratos" "Kottounios" "Leontaritis" "Loukanis" "Margunios" "Musurus" "Nafpliotis" "Hatzid·kis" 
+		"Gemistus" "Allatios" "Chalcocondyles" "Korniaktos" "Damaskenos" "Eparchos" "Flanginis" "Fok√°s" "Heraclides" 
+		"Kallokratos" "Kottounios" "Leontaritis" "Loukanis" "Margunios" "Musurus" "Nafpliotis" "Hatzid√°kis" 
 		"Aprenos"  "Chortatzis" "Gabrielopoulos" "Gounaropoulos" "Belissariotis" "Konstantopoulos" "Kavallarios" 
 		"Maniakis" "Notaras" "Sgouromallis" "Epiphanis" "Logaras" "Eudaimon" "Sakellarios" "Maurozoumis" "Stylaios" 
 		"Maleinos" "Basilakios" "Mamonas" "Kekaumenos" "Metaxas" "Kanavos" "Koukouzelis" "Koresis" "Makrinos" 
 		"Lambardas" "Adrianos" "Agallon" "Akropolites" "Aoinos" "Apokaukos" "Aprenos" "Arbantenos" "Argyros" 
 		"Arianites" "Atrapes" "Balsamon" "Batatzes" "Botaneiates" "Boumbalis" "Bourtzes" "Branas" "Bryennios" 
-		"Chandrenos" "Choniates" "Choumnos" "Chrysaphes" "Chrysoloras" "Dalassenos" "DermokaÔtes" "Diasorenos" 
+		"Chandrenos" "Choniates" "Choumnos" "Chrysaphes" "Chrysoloras" "Dalassenos" "Dermoka√Øtes" "Diasorenos" 
 		"Dokeianos" "Eirenikos" "Exazenos" "Gavras" "Glabas" "Iagaris" "Kabakes" "Kabasilas" "Kalamanos" "Kaloethes" 
 		"Kalothetos" "Kamateros" "Kantakouzenos" "Katrares" "Kaukadenos" "Kontostephanos" "Koresses" "Kourkouas" 
 		"Kourtikes" "Laskaris" "Limpidares" "Machoneos" "Makrembolites" "Malakes" "Maliasenos" "Mamalis" 
@@ -790,7 +972,7 @@ byzantine = {
 		"Antiochos" "Antipapas" "Arbintenos" "Areobindenos" "Areobindos" "Argyropoulos" "Aristenos" "Artoukomites" 
 		"Arvantenos" "Attaleiates" "Aulenos" "Aulepates" "Axinites" "Axiomatikos" "Balantes" "Barbaros" "Bardales" 
 		"Barenos" "Barsakes" "Barys" "Belissariotes" "Bempetziotes" "Beriboes" "Beriotes" "Blachernites" "Blangas" 
-		"BoÔlas" "Bouches" "Boutzares" "Bouzenos" "Brachamios" "Bringas" "Chaldos" "Chalkites" "Chalkoutzes" 
+		"Bo√Ølas" "Bouches" "Boutzares" "Bouzenos" "Brachamios" "Bringas" "Chaldos" "Chalkites" "Chalkoutzes" 
 		"Chamaretos" "Charsianites" "Chasanes" "Chazanes" "Choinides" "Choirosphaktes" "Chomatenos" "Chordolibas" 
 		"Choriates" "Chrouselios" "Chrousos" "Chrysanthos" "Chryselios" "Chrysobalantites" "Chrysoberges" "Chytes" 
 		"Daimones" "Dalessenos" "Dalassenos Doukas" "Dekanos" "Diabatenos" "Dikaios" "Diogenes" "Domestikopouolos" 
@@ -801,7 +983,7 @@ byzantine = {
 		"Haplorabdes" "Haploucheir" "Hexakionites" "Hexaklinites" "Hexamilites" "Hierakes" "Hikanatos" "Iasites" 
 		"Iberopoulos" "Isakiotes" "Italikos" "Kaballarios" "Kabasilas" "Kaisar" "Kalameteros" "Kalamaras" 
 		"Kalampakes" "Kalognomos" "Kamytzes Komnenodoukas" "Kappadokes" "Kappadox Kalampakes" "Karabitenos" 
-		"Karabitziotes" "KaraÔonatan" "Karamallos" "Karandenos" "Karantes" "Kardamopoulos" "Karenos" "Karianites" 
+		"Karabitziotes" "Kara√Øonatan" "Karamallos" "Karandenos" "Karantes" "Kardamopoulos" "Karenos" "Karianites" 
 		"Karkaronymos" "Karmalikes" "Karouzeiates" "Kaspax" "Kastamonites" "Katakalon" "Katakalos" "Kataphloros" 
 		"Katas" "Katharos" "Katotikos" "Katzamoundes" "Kegenes" "Kekaleimenos" "Keklymmenos" "Kemineianos" "Kenchres" 
 		"Kentenares" "Kephalas" "Keroularios" "Kibyrraiotes" "Kinnamos" "Kokkinos" "Komnenodoukas" "Konops" 
@@ -809,12 +991,12 @@ byzantine = {
 		"Kritharas" "Kritopolos" "Kyminianos" "Kynochorites" "Kyriotes" "Kyritzes" "Labouzenos" "Laktentitzes" 
 		"Lalakon" "Lampsiotes" "Lapardas" "Leichoudes" "Lependrenos" "Leukedonites" "Libadares" "Libadas" 
 		"Libellisios" "Limas" "Liparites" "Lithokastrites" "Logariastes" "Loules" "Louloukes" "Lykaon" "Machetarios" 
-		"Madrites" "Madytenos" "Makropoderes" "MaleÔnos" "Maleses" "Mamalos" "Manganes" "Marachas" "Marapas" 
+		"Madrites" "Madytenos" "Makropoderes" "Male√Ønos" "Maleses" "Mamalos" "Manganes" "Marachas" "Marapas" 
 		"Marchapsabos" "Marianites" "Marzapoulos" "Matzaris" "Matzas" "Matzoukes" "Maurex" "Maurokatakalos" "Mauros" 
 		"Maurozomes" "Mechos" "Megalommates" "Megenos" "Meginos" "Melias" "Melissenos" "Mermentoulos" "Mesarites" 
 		"Meschos" "Mesopotamites" "Metochites" "Metropoulos" "Mitylenaios" "Monachites" "Monokarites" "Monomachatos" 
 		"Moroiannes" "Mosaraph" "Moschos" "Mosele" "Moungos" "Mourmoures" "Moustakes" "Mozaes" "Myralides" 
-		"MyredeÔtes" "Myrelaetes" "Myron" "Nabatenos" "Narbiotes" "Narsites" "Neophytos" "Neustongios" "Nikerites" 
+		"Myrede√Øtes" "Myrelaetes" "Myron" "Nabatenos" "Narbiotes" "Narsites" "Neophytos" "Neustongios" "Nikerites" 
 		"Nikoulitzes" "Noe" "Oinaiotes" "Olyntenos" "Opos" "Pagomenos" "Pakourianos" "Paktiares" 
 		"Palaiologos Komnenos" "Doukas Mourtzouphlos" "Palaiotes" "Palatinos" "Pamphilos" "Panaretos" "Pankalos" 
 		"Panokomites" "Parsakoutenos" "Parthenios" "Paxenos" "Pediasimos" "Peganites" "Pegonites" "Pekoules" 
@@ -945,7 +1127,7 @@ caucasian = {
 		}
 		dynasty_names = {
 			Guaye Adamiy Abzakh Zhaney Mamkhegh Mokhosh Natukhai Temirgoy
-			Hatuqwai Khegaik Khetuk Cˆbein Shapsug Beslenei Ubykh Tazryt Okhlov
+			Hatuqwai Khegaik Khetuk C√∂bein Shapsug Beslenei Ubykh Tazryt Okhlov
 		}
 	}
 	armenian = {
@@ -1074,8 +1256,8 @@ turko_semitic	= {
 		Abdullah Abianos Abijah Abisalom Ablarion Abraam Abraham Abu-Bakr Abu-Bakr Adnan Agathon Agathos 
 		Agathonikos Agathonikos Agathos Agathos Ahmad Ahmad Akbar Akbar Alam Ali Ali Amr Androus Andrew 	
 		Anthinos Anthimos Arsenios Arsenios Ashraf Ashraf Asim Athanasios Athanasius Badr Bashir Biktor 
-		Victor Binyamin Benjamin Bishoi Bishara Boutros Peter Danyal Daniel Dawlat Daíoud David Ezra Ezra 
-		Farhan Firuz Gabriíel Gabriel Georgios George Ghiyasaddin Habil Abel Hakam Hakam Hammud Hanri Henry 
+		Victor Binyamin Benjamin Bishoi Bishara Boutros Peter Danyal Daniel Dawlat Da¬íoud David Ezra Ezra 
+		Farhan Firuz Gabri¬íel Gabriel Georgios George Ghiyasaddin Habil Abel Hakam Hakam Hammud Hanri Henry 
 		Haroun Aaron Hisham Hussayn Hussayn Ibrahim Abraham Ilyas Elijah Is'mail Ismail Izzaddin 
 		Jalaaladdin Jawdat Jerjer Gregory Kemaladdin Khalil Krystafer Christopher Latif Lot Lothair Malik 
 		Matta Matthew Mehtar Mikail Michael Mikhael Michael Milad Milad Mina Menas Muammar Muhammad 
@@ -1099,7 +1281,7 @@ turko_semitic	= {
 		"Lu'Lu" "Sulaymanid" "Abuqid" "Bursaqid" "Mahmudid" "Bahadur" "Ata-Malik" "Teginid" "Kitamid" 
 		"Masmudid" "Ma'anid" "Mozzainid" "Hayyid" "Tifilwitid" "Tuyyibid" "Yahaffid" "Jyadid" "Wazirid" 
 		"Yusufid" "Ismailid" "Ya'farid" "Lubbunid" "Ammarid" "Yasavid" "Rasiqid" "Farayid" "Abu-Ya'farid" 
-		"Mardanisid" "Musavid" "Mursiyid" "Abdallahvid" "banu F‰tima" "Laridid" "Ishbiliyid" "Qunkid" 
+		"Mardanisid" "Musavid" "Mursiyid" "Abdallahvid" "banu F√§tima" "Laridid" "Ishbiliyid" "Qunkid" 
 		"Qaturbid" "Balansiyyid" "Maymunid" "Ramimid" "Adhavid" "Hassunid" "Malaqid" "Gharnatid" 
 		"Hishamid" "Mahfuzid" "Ahlidid" "Zannunid" "Mahdid" "Sa'did" "Wadalqavirid" "Qadirid" "Hamdinid" 
 		"Farooqid" "Elbazid" "Abbarid" "Abbasid" "Shamid" "Allawid" "Aqilid" "Qahtanid" "Bahjatid" 
@@ -1157,7 +1339,7 @@ maghrebi = {
 		male_names = {
 			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul 
 			Hadjdjadj" "Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
-			Junayd Najib Qasim Rahim RashÓd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Junayd Najib Qasim Rahim Rash√Æd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
 			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
 			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
 			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
@@ -1180,8 +1362,8 @@ maghrebi = {
 			Ahmad Aytarel Attici Musa Akhamuk Meslar Bayy
 		}
 		female_names = {
-			"Tin Hinan" Takama Tanteflest Tarayna Aygul Ayg¸n AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
-			G¸nay G¸nel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana V¸sala Zemfira Zeynab
+			"Tin Hinan" Takama Tanteflest Tarayna Aygul Ayg√ºn AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
+			G√ºnay G√ºnel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana V√ºsala Zemfira Zeynab
 		}
 	}
 	dynasty_names = {
@@ -1209,9 +1391,9 @@ iranian	= {
 			Sadri Salman Shahab Shahab Shahbaz Shahbaz Shahin Shahin Shahram Shahram Shahrokh Sharokh 
 			Shahruz Shahruz Shahryar Shahryar Shapur Shapur Shayan Shayan Sina Tahmasb Tahmasb Vahhab 
 			Vahhab Vahid Vali Vandad Varshasb Varshasb Vishtasb Vishtasb Yazdegerd Yousef Joseph Zahak 
-			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ism‚'Ól Tam‚shp Mohammad Kodab‚nda 'Abb‚s Safi 
-			Hosayn N‚der Sh‚h '¬del Sh‚h Ebr‚him Sh‚h Rukh N‚der Mirza Karim Kh‚n Abu'l Fath 
-			S‚diq Mor‚d Ja'far Loft Ali Aga Muhammad Fath AlÓ Solaym‚n
+			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ism√¢'√Æl Tam√¢shp Mohammad Kodab√¢nda 'Abb√¢s Safi 
+			Hosayn N√¢der Sh√¢h '√Çdel Sh√¢h Ebr√¢him Sh√¢h Rukh N√¢der Mirza Karim Kh√¢n Abu'l Fath 
+			S√¢diq Mor√¢d Ja'far Loft Ali Aga Muhammad Fath Al√Æ Solaym√¢n
 		}
 		female_names = { 
 			Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram 
@@ -1223,16 +1405,16 @@ iranian	= {
 		}
 		dynasty_names = {
 			Sogdian Hashimid Burhanid Kartid Bavandid Qutlugh-Khan Nasrid Mihrabanid Safavid Gilani 
-			Sarbadar Faravid K‚raw‚n Jorjani Samanid Tahirid Saffarid Bamid Sirjani Furgid "Ashkayada" 
+			Sarbadar Faravid K√¢raw√¢n Jorjani Samanid Tahirid Saffarid Bamid Sirjani Furgid "Ashkayada" 
 			"Yoishta" "Kazeruni" "Tahirids" "Ummayyads" "Samanid" "Muqannid" "Sunpadh" "Khurramites" 
 			"Khorramdin" "Maziar" "Mardavij" "Ustadh" "Saffari" "Laith" "Ferdowsi" "Tamerlane" "Hulagu" 
 			"Ajami" "Rumi" "Hamadan" "Parthi" "Kubra" "Naqshband" "Bukhari" "Hanifa" "Khaldun" "Dinid" 
-			"Tusid" "Shirazid" "Khusrawid" "Birunid" "Maraghid" "Muqaffid" "Arsacid" "Ashkan" "Abes·nÌ" 
-			"Khur·s·nÌ" "M·zindar·nÌ" "Tihr·nÌ" "Isfah·nÌ" "ShÌr·zÌ" "AhvazÌ" "RazavÌ" "M·shadÌ" 
-			"KermahadÌ" "Ziyarid" "Khayyam" "Danishmend" "Gaznin" "Ka'usiya" "Kesranid" "al-Ghazali" 
+			"Tusid" "Shirazid" "Khusrawid" "Birunid" "Maraghid" "Muqaffid" "Arsacid" "Ashkan" "Abes√°n√≠" 
+			"Khur√°s√°n√≠" "M√°zindar√°n√≠" "Tihr√°n√≠" "Isfah√°n√≠" "Sh√≠r√°z√≠" "Ahvaz√≠" "Razav√≠" "M√°shad√≠" 
+			"Kermahad√≠" "Ziyarid" "Khayyam" "Danishmend" "Gaznin" "Ka'usiya" "Kesranid" "al-Ghazali" 
 			"al-Qazwini" "al-Juwayni" "al-Farisi" "Hamadani" "Ganjavi" "al-Amuli" "Balkhi" "Bukhari" 
 			"Suhrawardi" "al-Abhari" "Gorgani" "al-Tusi" "Hamadani" "al-Shirazi" "Mustawfi" "Ansari" 
-			"al-Kashi" "Kubra" "Khayy·m" "al-Razi" "Sina" "al-Jaldaki" "Fadlunid" "Karen-Pahlav" 
+			"al-Kashi" "Kubra" "Khayy√°m" "al-Razi" "Sina" "al-Jaldaki" "Fadlunid" "Karen-Pahlav" 
 			"Sassanid" "Mihran" "Habbari" "Hunas" "Barmakid" "Afrighid" "Neisany" "of Uq" "Marwazid" 
 			"Muqannid" "Surena" "of Lad" "of Persepolis" "of Aligoodarz" "Khurramid" "Rawandi" "Ishaqid" 
 			"Marwarrudhid" "Azdid" "Sijistani" "Ghurid" "Baduspanid" "Karen"
@@ -1240,9 +1422,9 @@ iranian	= {
 	}
 	alan = {
 		male_names = {
-			∆lbeg ∆mbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah BÊqÊtar Basil Bazuk Beler Ber BirÊg Boz-Uruz Bu¸rgur Buriberdi
-			Burikhan Candak Chelakhsartag Davit Djadaron Durgulel DzÊrÊs GÊtÊg Georgy Girgon Gokhar Gubaz Guram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
-			Khankhusy KhÊtag Konstantin Kubal Kuddana Kul Kuluk Lak Levan Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
+			√Ülbeg √Ümbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah B√¶q√¶tar Basil Bazuk Beler Ber Bir√¶g Boz-Uruz Bu√ºrgur Buriberdi
+			Burikhan Candak Chelakhsartag Davit Djadaron Durgulel Dz√¶r√¶s G√¶t√¶g Georgy Girgon Gokhar Gubaz Guram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
+			Khankhusy Kh√¶tag Konstantin Kubal Kuddana Kul Kuluk Lak Levan Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
 		}
 		female_names = {
 			Adadza Alda Altun Ana Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene Eliso Gergana Gulchara Guranduht Kera Keratsa Ketevan Koser
@@ -1278,49 +1460,49 @@ altaic = {
 			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
 		}
 		male_names = {
-			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut S¸leyman Bayezid Orhan Abdulaziz Abd¸lhamit Ibrahim 
-			Abd¸lmecit Abdullah Cem Cihangir Alaattin Isa Musa ÷mer Seyfettin Yakup Yusuf Giyasettin Numan 
-			Ali Davut Hasan H¸seyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
-			Nizamettin Sinan Ferhat Salih Ismail C¸neyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
+			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut S√ºleyman Bayezid Orhan Abdulaziz Abd√ºlhamit Ibrahim 
+			Abd√ºlmecit Abdullah Cem Cihangir Alaattin Isa Musa √ñmer Seyfettin Yakup Yusuf Giyasettin Numan 
+			Ali Davut Hasan H√ºseyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
+			Nizamettin Sinan Ferhat Salih Ismail C√ºneyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
 			Dursun Ramazan Recep Abdulrahman Hayrettin
-			«agri «aka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp†Arslan" "Alp†Yurek" Alptigin Artuk Ayaz 
-			Aydin Aydogan Aydogdu Aytekin Bˆru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
+			√áagri √áaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp¬†Arslan" "Alp¬†Yurek" Alptigin Artuk Ayaz 
+			Aydin Aydogan Aydogdu Aytekin B√∂ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
 			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
 			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
 			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
-			Kemal KiliÁ Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
-			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Sˆbuk Sˆkmen Sˆnmez Suleyman Saim Saltuk 
-			Saruca Savtekin Savur Sehinsah SelÁuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
-			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus UluÁ Umur Yakut Yaman Yinal 
+			Kemal Kili√ß Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
+			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan S√∂buk S√∂kmen S√∂nmez Suleyman Saim Saltuk 
+			Saruca Savtekin Savur Sehinsah Sel√ßuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
+			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Ulu√ß Umur Yakut Yaman Yinal 
 			Yunus
 		}
 		female_names = {
-			«iÁek «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
-			BozÁin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze GulÁiÁek Gulay Gulbahar Gulfem 
+			√ái√ßek √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
+			Boz√ßin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gul√ßi√ßek Gulay Gulbahar Gulfem 
 			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
 			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
-			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru TekÁe Tura 
-			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep H¸rrem Mihrimah Nurbanu 
-			Handan Alime Kˆsem H¸ma 
+			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tek√ße Tura 
+			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep H√ºrrem Mihrimah Nurbanu 
+			Handan Alime K√∂sem H√ºma 
 		}
 	}
 	xiongnu = {
 		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt¸ Dayan 
-			Delbeg Ejei Elbeg Engke G¸y¸k G¸n Gulichi Irinchibal Jorightu Kublai Kˆke Ligdan Markˆrgis Mˆngke 
-			Manduulun ÷ljei ÷r¸g Oyiradai ÷gˆdei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem¸r Toghun 
-			Tolui Toq Uskhal Yes¸n Ariq Batu Eljigidei Joichi Darayisung T¸men
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt√º Dayan 
+			Delbeg Ejei Elbeg Engke G√ºy√ºk G√ºn Gulichi Irinchibal Jorightu Kublai K√∂ke Ligdan Mark√∂rgis M√∂ngke 
+			Manduulun √ñljei √ñr√ºg Oyiradai √ñg√∂dei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem√ºr Toghun 
+			Tolui Toq Uskhal Yes√ºn Ariq Batu Eljigidei Joichi Darayisung T√ºmen
 		}
 		female_names = {
-			Tem¸len Bˆrte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Tem√ºlen B√∂rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 		dynasty_names = {
 			# CKII
 			"Onggirat" "Naiman" "Kereyid" "Sartaq" "Mengu-Timur" "Uriankhai" "Bujakhin" "Besud" "Noyan" 
 			"Jochid" "Chagatayid" "Borjigin" "Chupanid" "Injuid" "Toluid" "Ganbold" "Bolormaa" "Batbayar" 
-			"Bat-Erdene" "Otgonbayar" "Enkhtuyaa" "Gantulga" "Nerg¸i" "Lkhagvas¸ren" "Enkhjargal" 
-			"Ganzorig" "Narantsetseg" "P¸revs¸ren" "Ganbaatar" "Mˆnkhtsetseg" "Mˆnkhbat" "Mˆnkh-Erdene" 
+			"Bat-Erdene" "Otgonbayar" "Enkhtuyaa" "Gantulga" "Nerg√ºi" "Lkhagvas√ºren" "Enkhjargal" 
+			"Ganzorig" "Narantsetseg" "P√ºrevs√ºren" "Ganbaatar" "M√∂nkhtsetseg" "M√∂nkhbat" "M√∂nkh-Erdene" 
 			"Jalair" "Sartuul" "Olkhunut" "Khatagin" "Iljigin" "Tsookhor" "Qarakhanid"
 		}
 	}
@@ -1338,109 +1520,109 @@ altaic = {
 		Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur Todogen Toghoril Toghtoga Tokhtamis 
 		Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
 		# PECHENEG
-		«elgil Aba Baitzas Balgor Batan Batas Bator BayÁa BiÁkili Bizel Boru Bula Giazis Ildey Ipa Ipaos 
+		√áelgil Aba Baitzas Balgor Batan Batas Bator Bay√ßa Bi√ßkili Bizel Boru Bula Giazis Ildey Ipa Ipaos 
 		Kabuksin Karaca Kaydum Kegen Konel
-		Korkutan Kortan Kostas Kourkoutai KuerÁi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi 
+		Korkutan Kortan Kostas Kourkoutai Kuer√ßi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi 
 		# CUMAN
-		«ilbu Aepak Asalup Asep Atrak Bˆnek Bachman Begluk Blush Bonyak BorÁ EldeÁyuk Etrek Girgen Gzi 
-		Itlar Ituk KˆnÁek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru SevenÁ SirÁan 
-		Sokal Sotan Sugr Tˆrtogul Togli Tolun Tugor Uzluk Uzur
+		√áilbu Aepak Asalup Asep Atrak B√∂nek Bachman Begluk Blush Bonyak Bor√ß Elde√ßyuk Etrek Girgen Gzi 
+		Itlar Ituk K√∂n√ßek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven√ß Sir√ßan 
+		Sokal Sotan Sugr T√∂rtogul Togli Tolun Tugor Uzluk Uzur
 		# KHAZAR
-		Alp Araslan Arslan Bagha Baghatur B‰lgiÁi Barjik Barsbek Bastu Bashtwa Bihor Bˆri Bugha Bulan 
-		BulÁan Busir Buzer «at «at'n «orpan Ilik Ilt‰b‰r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
-		Kibar Kisa KundaÁiq KundaÁ M‰n‰r M‰n‰s MÎn¸marÛt ÷temis PapaÁyz Samsam Sart‰Á Simsam T‰b‰r TabghaÁ 
-		Tarkhan TarmaÁ Tuzniq Vakrim Yabghu Yavantey YenÁepi Yerneslu YeÁtirek Yilig
+		Alp Araslan Arslan Bagha Baghatur B√§lgi√ßi Barjik Barsbek Bastu Bashtwa Bihor B√∂ri Bugha Bulan 
+		Bul√ßan Busir Buzer √áat √áat'n √áorpan Ilik Ilt√§b√§r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
+		Kibar Kisa Kunda√ßiq Kunda√ß M√§n√§r M√§n√§s M√´n√ºmar√≥t √ñtemis Papa√ßyz Samsam Sart√§√ß Simsam T√§b√§r Tabgha√ß 
+		Tarkhan Tarma√ß Tuzniq Vakrim Yabghu Yavantey Yen√ßepi Yerneslu Ye√ßtirek Yilig
 		Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
 		# BOLGHAR
 		Almish Alzek Anzi Apskhih Araslan Arslan Asparukh Balamber Balambar Bars Bataul Batbayan Batoya 
 		Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh 
 		Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek 
-		Isbul Islivan Isperikh Ispor K‰laÁ Kano Karan Karaton
+		Isbul Islivan Isperikh Ispor K√§la√ß Kano Karan Karaton
 		Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt 
 		Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi 
-		Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar Bakhtiar Pav‰l Praksa 
-		Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sart‰Á Savin Sevar Shilki 
-		Sondoke T‰htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimÎr Timur TimÎreÁ TimÎrp‰lat Tingiz 
+		Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar Bakhtiar Pav√§l Praksa 
+		Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sart√§√ß Savin Sevar Shilki 
+		Sondoke T√§htaman Tarasiy Taridin Tatra Telec Telerig Tervel Tim√´r Timur Tim√´re√ß Tim√´rp√§lat Tingiz 
 		Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani 
-		Yavantey YenÁepi Yerneslu YeÁtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+		Yavantey Yen√ßepi Yerneslu Ye√ßtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
 		# AVAR
-		Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balamb‰r Balambar Barjik 
+		Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balamb√§r Balambar Barjik 
 		Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha 
-		Bughra Bulan Bulger BulÁan Busir Buzan Buzer B‰lgiÁi Bˆri 
+		Bughra Bulan Bulger Bul√ßan Busir Buzan Buzer B√§lgi√ßi B√∂ri 
 		Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda 
-		Gostun Guar Hudbad Iani Ilik Ilt‰b‰r Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh 
+		Gostun Guar Hudbad Iani Ilik Ilt√§b√§r Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh 
 		Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
-		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat KundaÁ 
-		KundaÁiq Kurt Kutrigur K‰laÁ Labertam Magotin Malamir Mugel M‰n‰r M‰n‰s MÎn¸marÛt Odolgan Okhsi 
+		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kunda√ß 
+		Kunda√ßiq Kurt Kutrigur K√§la√ß Labertam Magotin Malamir Mugel M√§n√§r M√§n√§s M√´n√ºmar√≥t Odolgan Okhsi 
 		Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
-		Oshi Ostro Pagan Pakhtiyar Bakhtiar PapaÁyz Pav‰l Praksa Rassate Rugila Sabin Samsam Sandil 
-		Sandilkh Sarkhan Sart‰Á Savin Sevar Shilki Simsam Sondoke TabghaÁ Tarasiy Taridin Tarkhan TarmaÁ 
-		Tatra Telec Telerig Tervel TimÎr Timur TimÎreÁ TimÎrp‰lat 
-		Tingiz Tiradin Toghan ToghrÔl Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq T‰b‰r Teber T‰htaman 
-		Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey YenÁepi Yerneslu YeÁtirek Yilig 
-		Zabergan Zenti «at «at'n «orpan ÷temis
+		Oshi Ostro Pagan Pakhtiyar Bakhtiar Papa√ßyz Pav√§l Praksa Rassate Rugila Sabin Samsam Sandil 
+		Sandilkh Sarkhan Sart√§√ß Savin Sevar Shilki Simsam Sondoke Tabgha√ß Tarasiy Taridin Tarkhan Tarma√ß 
+		Tatra Telec Telerig Tervel Tim√´r Timur Tim√´re√ß Tim√´rp√§lat 
+		Tingiz Tiradin Toghan Toghr√Øl Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq T√§b√§r Teber T√§htaman 
+		Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yen√ßepi Yerneslu Ye√ßtirek Yilig 
+		Zabergan Zenti √áat √áat'n √áorpan √ñtemis
 		# KARLUK
-		«ilbu Aepak Asalup Asep Atrak Bˆnek Bachman Begluk Blush Bonyak BorÁ EldeÁyuk Etrek Girgen Gzi 
-		Itlar Ituk KˆnÁek Kobyak Kopti Kotyan Koza
-		Kozel Kubasar Kuntuvdi Kutan Pulad Saru SevenÁ SirÁan Sokal Sotan Sugr Tˆrtogul Togli Tolun Tugor 
+		√áilbu Aepak Asalup Asep Atrak B√∂nek Bachman Begluk Blush Bonyak Bor√ß Elde√ßyuk Etrek Girgen Gzi 
+		Itlar Ituk K√∂n√ßek Kobyak Kopti Kotyan Koza
+		Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven√ß Sir√ßan Sokal Sotan Sugr T√∂rtogul Togli Tolun Tugor 
 		Uzluk Uzur
 		# KIRGHIZ
-		«ilbu Aepak Asalup Asep Atrak Bˆnek Bachman Begluk Blush Bonyak BorÁ EldeÁyuk Etrek Girgen Gzi 
-		Itlar Ituk KˆnÁek Kobyak Kopti Kotyan Koza
-		Kozel Kubasar Kuntuvdi Kutan Pulad Saru SevenÁ SirÁan Sokal Sotan Sugr Tˆrtogul Togli Tolun Tugor 
+		√áilbu Aepak Asalup Asep Atrak B√∂nek Bachman Begluk Blush Bonyak Bor√ß Elde√ßyuk Etrek Girgen Gzi 
+		Itlar Ituk K√∂n√ßek Kobyak Kopti Kotyan Koza
+		Kozel Kubasar Kuntuvdi Kutan Pulad Saru Seven√ß Sir√ßan Sokal Sotan Sugr T√∂rtogul Togli Tolun Tugor 
 		Uzluk Uzur
 	}
 	female_names = { 
 		Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene 
 		Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin 
-		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Tˆregene 
+		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun T√∂regene 
 		Yesugun Yesui Hoelun
 		# PECHENEG
-		«iÁek «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek Esin GulÁiÁek Gulay 
+		√ái√ßek √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek Esin Gul√ßi√ßek Gulay 
 		Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay 
-		Sevindik Sibel Sirin Sirma Songul TekÁe Tura Umay Usunbike Yasar Yeldem Yildiz
+		Sevindik Sibel Sirin Sirma Songul Tek√ße Tura Umay Usunbike Yasar Yeldem Yildiz
 		# CUMAN
-		«iÁek «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek Esin GulÁiÁek Gulay Gunduz 
+		√ái√ßek √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek Esin Gul√ßi√ßek Gulay Gunduz 
 		Gundes Gunes Ilkay Ipek Ipekel Irge Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik 
-		Sibel Sirin Sirma Songul TekÁe Tura Umay Usunbike Yasar Yeldem Yildiz
+		Sibel Sirin Sirma Songul Tek√ße Tura Umay Usunbike Yasar Yeldem Yildiz
 		# KHAZAR
-		«iÁ‰k «iÁek «eÁeppi «eÁki «eÁtilet «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek 
-		Esin GulÁiÁ‰k GulÁiÁek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-		Karacik K‰tyarikka KÎlnissa KÎlyamal Khatun L‰rkka Lyukha Mala Maturkka Mutlu NaÁa Parsbit Patiyer 
-		PaykÎlti Peksen Puyantay Samur Sarantay Sar‰ Sarica Sarikel 
-		Sati SavaÁka SavkÎlti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
-		T‰htani TekÁe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
+		√ái√ß√§k √ái√ßek √áe√ßeppi √áe√ßki √áe√ßtilet √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek 
+		Esin Gul√ßi√ß√§k Gul√ßi√ßek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
+		Karacik K√§tyarikka K√´lnissa K√´lyamal Khatun L√§rkka Lyukha Mala Maturkka Mutlu Na√ßa Parsbit Patiyer 
+		Payk√´lti Peksen Puyantay Samur Sarantay Sar√§ Sarica Sarikel 
+		Sati Sava√ßka Savk√´lti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
+		T√§htani Tek√ße Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
 		# BOLGHAR
-		«eÁek «iÁek «eÁeppi «eÁki «eÁtilet «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek 
-		Esin GulÁeÁek GulÁiÁek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-		Karacik K‰tyarikka KÎlnissa KÎlyamal L‰rkka Lyukha Mala Maturkka Mutlu NaÁa Patiyer PaykÎlti Peksen 
-		Puyantay Samur Sarantay Sar‰ Sarica Sarikel 
-		Sati SavaÁka SavkÎlti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
-		T‰htani TekÁe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
+		√áe√ßek √ái√ßek √áe√ßeppi √áe√ßki √áe√ßtilet √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek 
+		Esin Gul√ße√ßek Gul√ßi√ßek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
+		Karacik K√§tyarikka K√´lnissa K√´lyamal L√§rkka Lyukha Mala Maturkka Mutlu Na√ßa Patiyer Payk√´lti Peksen 
+		Puyantay Samur Sarantay Sar√§ Sarica Sarikel 
+		Sati Sava√ßka Savk√´lti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
+		T√§htani Tek√ße Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
 		# AVAR
-		Akgul Asli Ayasun Ayten BozÁin Dilek Esin Gulay GulÁiÁ‰k GulÁiÁek Gundes Gunduz Gunes Ikalay Ilkay 
-		Ipek Ipekel Irge Karacik Khatun K‰tyarikka KÎlnissa KÎlyamal Lyukha L‰rkka Mala Maturkka Mutlu NaÁa 
-		Parsbit Patiyer PaykÎlti Peksen Puyantay Samur Sarantay Sarica Sarikel Sar‰ Sati SavaÁka Savilay 
-		Sevilay Savintik Sevindik SavkÎlti Savtilek Shurkka Sibel Sirin Sirma Songul TekÁe Tura T‰htani 
-		Umay Usunbike Yartilek Yasar Yeldem Yildiz «eÁeppi «eÁki «eÁtilet «ilen «iltanesi «iÁ‰k «iÁek ÷zgul 
-		÷zlem
+		Akgul Asli Ayasun Ayten Boz√ßin Dilek Esin Gulay Gul√ßi√ß√§k Gul√ßi√ßek Gundes Gunduz Gunes Ikalay Ilkay 
+		Ipek Ipekel Irge Karacik Khatun K√§tyarikka K√´lnissa K√´lyamal Lyukha L√§rkka Mala Maturkka Mutlu Na√ßa 
+		Parsbit Patiyer Payk√´lti Peksen Puyantay Samur Sarantay Sarica Sarikel Sar√§ Sati Sava√ßka Savilay 
+		Sevilay Savintik Sevindik Savk√´lti Savtilek Shurkka Sibel Sirin Sirma Songul Tek√ße Tura T√§htani 
+		Umay Usunbike Yartilek Yasar Yeldem Yildiz √áe√ßeppi √áe√ßki √áe√ßtilet √áilen √áiltanesi √ái√ß√§k √ái√ßek √ñzgul 
+		√ñzlem
 		# KARLUK
-		«iÁek «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek Esin GulÁiÁek Gulay Gunduz 
+		√ái√ßek √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek Esin Gul√ßi√ßek Gulay Gunduz 
 		Gundes Gunes Ilkay Ipek Ipekel Irge
-		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul TekÁe Tura 
+		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek√ße Tura 
 		Umay Usunbike Yasar Yeldem Yildiz
 		 KIRGHIZ
-		«iÁek «ilen «iltanesi ÷zgul ÷zlem Akgul Asli Ayasun Ayten BozÁin Dilek Esin GulÁiÁek Gulay Gunduz 
+		√ái√ßek √áilen √áiltanesi √ñzgul √ñzlem Akgul Asli Ayasun Ayten Boz√ßin Dilek Esin Gul√ßi√ßek Gulay Gunduz 
 		Gundes Gunes Ilkay Ipek Ipekel Irge
-		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul TekÁe Tura 
+		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tek√ße Tura 
 		Umay Usunbike Yasar Yeldem Yildiz
 	}
 	dynasty_names = {
-		"Chagatay" "Edig¸id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+		"Chagatay" "Edig√ºid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 		Hasanid Zhetysu Bajanid Yagma Karakhanid Karlukid Chigil "of Farghana" Turai Kipchaki Osenevich 
 		Terteroba Turgay Kimak Askarid Adirlu Gutkeled Kolbasz Khovansky Olas Laktan
-		Kunev Kumanov Folban Vallani Qoun Polovtsy Kipchak Kuman Thocomer Bazaraads Kuns·g Nagykuns·g 
-		Kiskuns·g Bortz Bahariyya Klobuky Kimak Dent¸moger Andjogli Durut Kochoba Toksoba Urosoba Kimek 
+		Kunev Kumanov Folban Vallani Qoun Polovtsy Kipchak Kuman Thocomer Bazaraads Kuns√°g Nagykuns√°g 
+		Kiskuns√°g Bortz Bahariyya Klobuky Kimak Dent√ºmoger Andjogli Durut Kochoba Toksoba Urosoba Kimek 
 		Uyghurid Kirghiz
 		"Bukhal" "Tzul" "Vakrimal" "Samsamakh" "Karadakhu" "Yabghumakh" "Ashina" "Bulanid" "Kabar" 
 		"Khwaliz" "Kozar" "Baranjar"
@@ -1451,8 +1633,8 @@ altaic = {
 		"Ukil" "Bilig" "Dulo" "Erdevelu" "Vokil" "Ugain" "Altsikur" "Ezgil" "Kashu" "Barskhan" "Suvar" 
 		"Barsil" "Bilar" "Balanjar" "Baskatir"
 		# PECHENEG
-		"Y¸regir" "BeÁenek" "B¸gd¸z" "‹Áok" "«avuldur" "Bayandur" "Irtim" "Talmat" "Batas" "Alayuntlu" 
-		"«epni" "Eym¸r" "Salgurlu" "Gyla" "Jabdertim" "Kankali" "Kharoboe" "Tzopon" "Giazihopon" "Haravoi" 
+		"Y√ºregir" "Be√ßenek" "B√ºgd√ºz" "√ú√ßok" "√áavuldur" "Bayandur" "Irtim" "Talmat" "Batas" "Alayuntlu" 
+		"√áepni" "Eym√ºr" "Salgurlu" "Gyla" "Jabdertim" "Kankali" "Kharoboe" "Tzopon" "Giazihopon" "Haravoi" 
 		"Havuksingila" "Iavdiertim" "Kuertsitsur" "Sirukalpei" "Vorotalmat" "Vulatsopon" "Paguman" 
 		"Belermen" "Thonuzoba"
 		# CKII - KHANTY
@@ -1507,12 +1689,12 @@ central_american = {
 		}
 	}
 	dynasty_names = {
-		AkÈ Bonampak Becan Bolonchen Chaac Camazotz CancuÈn Caracol Cerros Chacchoben Chacmultun Chinikiha Chinkultic 
-		Chunchucmil Civiltuk Calakmul Copan Coba Dzibilchaltun Dzibilnocac Dzilam Edzn· Ekab Gumarcaj Gucumatz Hocchob 
-		Hormiguero Hunahpu Huracan Ixbalanque Ixchel Ixtab Ichmac Ichmul Itzan Ixil Iximche Ixlu Izamal Labn· Louisville 
+		Ak√© Bonampak Becan Bolonchen Chaac Camazotz Cancu√©n Caracol Cerros Chacchoben Chacmultun Chinikiha Chinkultic 
+		Chunchucmil Civiltuk Calakmul Copan Coba Dzibilchaltun Dzibilnocac Dzilam Edzn√° Ekab Gumarcaj Gucumatz Hocchob 
+		Hormiguero Hunahpu Huracan Ixbalanque Ixchel Ixtab Ichmac Ichmul Itzan Ixil Iximche Ixlu Izamal Labn√° Louisville 
 		Lubaantun LubaantunJaina Jolja Kaminaljuyu Kabah Kiuic "Kantunil Kin" Lamanai Mayapan Machaquila Mani Muluchtzekel 
-		Muyil Nakum Nakbe Naranjo Nebaj Okop Oxcutzcab Oxkintok Palenque Pomon· Pusilha Quirigua Sayil Seibal Sisila Tonina 
-		Tikal Tulum Tancah Tazumal Tecoh TopoxtÈ Uxmal Uaxactun Ucanal Uci Utatlan Wak· Xcalumkin Xcaret Xcorralche Xcucsuc 
+		Muyil Nakum Nakbe Naranjo Nebaj Okop Oxcutzcab Oxkintok Palenque Pomon√° Pusilha Quirigua Sayil Seibal Sisila Tonina 
+		Tikal Tulum Tancah Tazumal Tecoh Topoxt√© Uxmal Uaxactun Ucanal Uci Utatlan Wak√° Xcalumkin Xcaret Xcorralche Xcucsuc 
 		Xculoc Xlapak Xpuhil Xultun Xunantunich Yaklmai Yaxchilan Yaxha Yo'okop Zipacna Zaculeu 
 	}
 } 
@@ -1528,8 +1710,8 @@ andean_group = {
 			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
 		}
 		male_names = {
-			"T˙pac Amaru" "Atahualpa" "Hu·scar" "Huayna C·pac" "Manco C·pac" "Pachac˙tec" "Sayri Tupac" 
-			"Titu Cusi Yupanqui" "T˙pac Hualpa" "T˙pac Yupanqui" "Viracocha" "Yahuar Hacuac" "Inca Roca" 
+			"T√∫pac Amaru" "Atahualpa" "Hu√°scar" "Huayna C√°pac" "Manco C√°pac" "Pachac√∫tec" "Sayri Tupac" 
+			"Titu Cusi Yupanqui" "T√∫pac Hualpa" "T√∫pac Yupanqui" "Viracocha" "Yahuar Hacuac" "Inca Roca" 
 			"Anquimarca" "Marcavilca" "Sahuaraura" "Zambiza" 
 			"Atoc Sopa" "Cayo Topa" "Coyllas" "Cusichaca" "Guaritopa" "Huachuri" "Huaypalcon" "Luyes" 
 			"Ninan Cuyuchi" "Orco Varanca" "Pascac" "Pomaguala" "Pumi Sopa" "Quispe Titu" "Ruminavi" 
@@ -1552,7 +1734,7 @@ sonoran = {
 			Taos Tesuque Zia Zuni Hopi Piru
 		}
 		male_names = {
-			PopÈ Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
+			Pop√© Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
 			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
@@ -1564,7 +1746,7 @@ sonoran = {
 			Yoreme Hiakim Potam Vicam Torim Bacum Cocorit Huirivis Benem Rahum
 		}
 		male_names = {
-			Oacpicagiguya Kaviu Papago Panhop CajemÈ
+			Oacpicagiguya Kaviu Papago Panhop Cajem√©
 		}
 		female_names = {
 			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
@@ -1998,7 +2180,7 @@ mon_khmer = {
 	}
 	vietnamese = {
 		dynasty_names = {
-			"LÍ" "Tran" "Hau Le" "Mac" "Tay Son" "Nguyen" "Trinh"
+			"L√™" "Tran" "Hau Le" "Mac" "Tay Son" "Nguyen" "Trinh"
 		}
 		male_names = {
 			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
@@ -2037,8 +2219,8 @@ malay = {
 			Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
 		}
 		female_names = {
-			HÚng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nuíutea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-			Puatea Puaura Raíihau Raíimere Raíinui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			H√≤ng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu¬íutea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra¬íihau Ra¬íimere Ra¬íinui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
 			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
 			Vaite Vaitiare
 		}
@@ -2048,13 +2230,13 @@ malay = {
 			Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
 		}
 		male_names = {
-			"Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Sh‚h" "Abu Syahid" "Muzaffar Sh‚h" "Mans˚r Sh‚h" "Riayat 
-			Shah" "Mahm˚d Sh‚h" "'Abd al-JalÓl Sh‚h" "Ma'ayat Sh‚h" "Ibr‚hÓm Sh‚h" "Rahmat Sh‚h" "Sulaym‚n Badr Sh‚h" 
-			"Mu'azzam Sh‚h" "Mahm˚d Ri'‚yat Sh‚h" "'Abd ar-Rahm‚n Sh‚h" "Rajah Qasim"
+			"Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Sh√¢h" "Abu Syahid" "Muzaffar Sh√¢h" "Mans√ªr Sh√¢h" "Riayat 
+			Shah" "Mahm√ªd Sh√¢h" "'Abd al-Jal√Æl Sh√¢h" "Ma'ayat Sh√¢h" "Ibr√¢h√Æm Sh√¢h" "Rahmat Sh√¢h" "Sulaym√¢n Badr Sh√¢h" 
+			"Mu'azzam Sh√¢h" "Mahm√ªd Ri'√¢yat Sh√¢h" "'Abd ar-Rahm√¢n Sh√¢h" "Rajah Qasim"
 		}
 		female_names = {
-			Azura Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nuíutea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-			Puatea Puaura Raíihau Raíimere Raíinui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+			Azura Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu¬íutea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+			Puatea Puaura Ra¬íihau Ra¬íimere Ra¬íinui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
 			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
 			Vaite Vaitiare
 		}
@@ -2096,7 +2278,7 @@ thai = {
 			"Sotika Koumane" "Anurutha" "Manthaturat"
 		}
 		female_names = {
-			"Ch‚u" "Nang Keo Phimpha" "Manora" "Souphutta" "Anousa" "Nokasat"
+			"Ch√¢u" "Nang Keo Phimpha" "Manora" "Souphutta" "Anousa" "Nokasat"
 		}	
 	}
 	northern_thai = {
@@ -2104,7 +2286,7 @@ thai = {
 			"Chiang Mai" "Chiang Rai" "Chet Ton" Lampang Lamphun
 		}
 		male_names = {
-			"K¸ Na" "Saenmuenagma" "Samfangkaen" "Tilokaracha" "Yotchiangrai" "Kaeo" "Ket" "Saikham" "Setthathirat" 
+			"K√º Na" "Saenmuenagma" "Samfangkaen" "Tilokaracha" "Yotchiangrai" "Kaeo" "Ket" "Saikham" "Setthathirat" 
 			"Mekuti" "Nawrahta Minsaw" "Phra Choi" "Phra Chaiyathip" "Sisongmueang" "Luangthipphanet" "Phra Saenmueang" 
 			"Phrae" "Ingsemang" "Cheputarai" "Mangraenara" "Ong Kham" "Ong Chan" "Khihut" "Po Aphaikhamini" "Po 
 			Mayunguan" "Phraya Chaban" "Thammalangka" "Kawila"
@@ -2172,8 +2354,8 @@ burman= {
 			Khjungpo Dbas Mnyammed
 		}
 		male_names = {
-			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dˆn-yˆ Dorje" "Ngawang Namgyal" "Tˆndup 
-			Tseten" "Ph¸ntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" 
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "D√∂n-y√∂ Dorje" "Ngawang Namgyal" "T√∂ndup 
+			Tseten" "Ph√ºntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" 
 			"Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
 			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi 
 			Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
@@ -2272,7 +2454,7 @@ burman= {
 	}
 }
 
-hmongñmien = {
+hmong¬ñmien = {
 	graphical_culture = asiangfx
 	
 	miao = {
@@ -2406,9 +2588,9 @@ eastern_aryan = {
 			"Sailodbhava" "Nagavamsi" "Somavamsi"
 		}
 		male_names = {
-			Narasimhadeva Bhanudeva Kapilesvara Prat‚prudra Kaluadeva Govindaraja Vidyadhara Chakrapret‚pa N‚rashima 
-			Jana Raghur‚ma Chhotra Mukundadeva Harishandra R‚mchandra Deva R‚mchandra Purushottama Mukunda N‚rsimha 
-			Gang‚dar B‚labhadra Divya Simha Hari Krishna GapÓn‚th Deva Padmanabha VÓra Kishor Deva Devendravarman 
+			Narasimhadeva Bhanudeva Kapilesvara Prat√¢prudra Kaluadeva Govindaraja Vidyadhara Chakrapret√¢pa N√¢rashima 
+			Jana Raghur√¢ma Chhotra Mukundadeva Harishandra R√¢mchandra Deva R√¢mchandra Purushottama Mukunda N√¢rsimha 
+			Gang√¢dar B√¢labhadra Divya Simha Hari Krishna Gap√Æn√¢th Deva Padmanabha V√Æra Kishor Deva Devendravarman 
 			Anantavarman Ananga Bhima Narasimha Bhanu Narayan Gopinath Rudra Mukunda Bira Jagat Saheb Kumar
 			Anangabhima Anantasaktivarman Anantavarman Apsaradeva Arthapatiraja Ayasobhita Balabhadra 
 			Barjena Betta Bhanu Bhavadattavarman Bhimaratha Bhimasena Bhramarbara Bhupendra Bhupendravarman 
@@ -2502,7 +2684,7 @@ hindusthani = {
 		}
 		male_names = {
 			"Nusrat" "Sayyid Khidr" "Daulat Khan" "Khidr Khan" "Mubarrak Shah" "Mohammed Shah" "Aladdin Alam Shah" 
-			"Bahl˚l" "Saikander" "Ibrahim" "Sher" "Islam Shah" "Saadat" "Safdarjung" "Hyder" "Birjis Qadra" "Ali" 
+			"Bahl√ªl" "Saikander" "Ibrahim" "Sher" "Islam Shah" "Saadat" "Safdarjung" "Hyder" "Birjis Qadra" "Ali" 
 			"Iqbal" "Alauddin" "Bhi" "Malik" "Narendra" "Bismillah" "Obaid" "Hemu" "Ghazi"
 		}
 		female_names = {
@@ -2859,7 +3041,7 @@ dravidian = {
 			"Ganga"
 		}
 		male_names = {
-			"Yadu Raya" "Ch‚ma R‚ja" "Timmaraja" "Chamaraja" "Bettada Devaraja" "Raja Wadiyar" "Immadai Raja" 
+			"Yadu Raya" "Ch√¢ma R√¢ja" "Timmaraja" "Chamaraja" "Bettada Devaraja" "Raja Wadiyar" "Immadai Raja" 
 			"Kanthirava Narasaraja" "Chikkadevaraja" "Krishnaraja" "Narayanan" "Lakshmisa" "Singaraya" "Chidananda" 
 			"Mahesh" "Manjunatha" "Mallappa" "Murthy" "Ramachandra" "Tirumalevaidya" "Lakshmisha" "Venkayarya" 
 			Achugi Adikavi Ahavamalla Amoghavarsha Anekonda Asaga Avinita Ayanna Bhuvikrama Bijjama Bukka 
@@ -2907,66 +3089,66 @@ dravidian = {
 			"Ayyakarai Veyyapa" "Vishvanatha" "Krishnappa" "Virappa" "Muttu Krishnappa" "Muttu Virappa" "Tirumala" 
 			"Chokkanatha" "Muttu Linga" "Vijayaranga Chokkanatha" "Minaski" "Yachama" "Raghunatha" "Ariyanatha" 
 			"Chanda" "Ramayyan" "Shungrasoobyer" "Seshayya" "Ramaswami" 
-			Amarapuyankan Amarabhujanga Apar‚cita Aparajita Apar‚citavarman Aparajitavarman App˚taiy‚n 
-			ArikÍcari Arikesari AriÒcaya Arinjaya ArulmolitÍvar 
-			Arulmolivarman Atir‚cÍntira Athirajendra Atitta Aditya Avaniy‚lappirant‚r Avraaham Abraham 
-			Brahmam‚r‚yar Cadayan Cankili Cataiyavarman Sadayavarman Catturuk‚lamakal‚tittan Cayantavarman 
+			Amarapuyankan Amarabhujanga Apar√¢cita Aparajita Apar√¢citavarman Aparajitavarman App√ªtaiy√¢n 
+			Arik√™cari Arikesari Ari√±caya Arinjaya Arulmolit√™var 
+			Arulmolivarman Atir√¢c√™ntira Athirajendra Atitta Aditya Avaniy√¢lappirant√¢r Avraaham Abraham 
+			Brahmam√¢r√¢yar Cadayan Cankili Cataiyavarman Sadayavarman Catturuk√¢lamakal√¢tittan Cayantavarman 
 			Jayantavarman
-			Celiyancentan Cekar‚cacÍkaran Segarajasekaran Cevakattevan CeyavÓra Chaacko Jacob Chaandy 
-			Alexander Cimmavisnu Simhavishnu Cinkap‚ku Singhabahu Civakkolunt‚n Cuntara Sundara 
-			C‚ramutaiy‚n C‚ttan‚n 
-			CÓvallapa Seervallabha CÓvallapan Seervallabhan Daniyel Daniel Eappen Stephen Eccavar‚kan Eisow 
-			Jesus Imp‚n‚yarpattan Irattapadikonda Ir‚cacimman Rajasingan Ir‚cakecaripanmar Ir‚car‚ca 
+			Celiyancentan Cekar√¢cac√™karan Segarajasekaran Cevakattevan Ceyav√Æra Chaacko Jacob Chaandy 
+			Alexander Cimmavisnu Simhavishnu Cinkap√¢ku Singhabahu Civakkolunt√¢n Cuntara Sundara 
+			C√¢ramutaiy√¢n C√¢ttan√¢n 
+			C√Ævallapa Seervallabha C√Ævallapan Seervallabhan Daniyel Daniel Eappen Stephen Eccavar√¢kan Eisow 
+			Jesus Imp√¢n√¢yarpattan Irattapadikonda Ir√¢cacimman Rajasingan Ir√¢cakecaripanmar Ir√¢car√¢ca 
 			Rajaraja 
-			Ir‚c‚cekara Rajasekhara Ir‚c‚tir‚ca Rajadhiraja Ir‚c‚tir‚catevar Ir‚c‚titta Rajaditya 
-			Ir‚cÍntira Rajendra Ittac Isaac Iyob Job Kadarangkonda Kanakac˚riya Kantar‚titta Gandarditya 
-			Karaikkiyemarrayilaiy‚n Karunandadakkan Karunandan Katunkon Kil‚n Kir‚mar‚capattan Kont‚n Kossy 
-			Joshua Kotukulapattan KulacÍkara Kulasekhara KulacÍkaran Kulasekharan 
-			KulÙttunka Kulothunga Kunap˚sana KunavÓra Kurian Cyrus Kutameratiruvatikal KÙpperuÒcimman 
-			Kopperunchinga Lukose Luke MakÍntiravarman Mahendravarman Manapp‚kkÓlan 
-			Manav‚lapperum‚l Munn˚rruvappattan M‚mp‚kkamutaiy‚n M‚naticcuran M‚rapanmar M‚ravarman 
-			Maravarman M‚rkantaiyan Markose Marcus M‚tevapattan M‚tevipattan Nantivarman Nandivarman 
-			Naracimmavarman Narasimhavarman Nirupatunkavarman Nirupatonkavarman Niy‚yaparip‚lapattan 
-			N‚rpattenn‚yirapattan N‚tittaÒc‚ttan Pant‚ram Pandaram 
-			Parakesaripanmar ParamÍsvaravarman Parameswaravarman Paranirupacinkam Paranirupasingham 
-			Parar‚cacÍkaran Pararajasekharan Par‚kkirama Parakrama 
-			Par‚nkucan Parankusan Par‚ntaka Parantaka Pathrose Peter PaÒcavan Paulose Paul Periyapillai 
-			Perum‚l PeruÒcintevar Piram‚r‚yan Piyliypaos Philip Puvir‚ca Puviraja P‚kkil‚n P‚lar‚v‚yan 
+			Ir√¢c√¢cekara Rajasekhara Ir√¢c√¢tir√¢ca Rajadhiraja Ir√¢c√¢tir√¢catevar Ir√¢c√¢titta Rajaditya 
+			Ir√¢c√™ntira Rajendra Ittac Isaac Iyob Job Kadarangkonda Kanakac√ªriya Kantar√¢titta Gandarditya 
+			Karaikkiyemarrayilaiy√¢n Karunandadakkan Karunandan Katunkon Kil√¢n Kir√¢mar√¢capattan Kont√¢n Kossy 
+			Joshua Kotukulapattan Kulac√™kara Kulasekhara Kulac√™karan Kulasekharan 
+			Kul√¥ttunka Kulothunga Kunap√ªsana Kunav√Æra Kurian Cyrus Kutameratiruvatikal K√¥pperu√±cimman 
+			Kopperunchinga Lukose Luke Mak√™ntiravarman Mahendravarman Manapp√¢kk√Ælan 
+			Manav√¢lapperum√¢l Munn√ªrruvappattan M√¢mp√¢kkamutaiy√¢n M√¢naticcuran M√¢rapanmar M√¢ravarman 
+			Maravarman M√¢rkantaiyan Markose Marcus M√¢tevapattan M√¢tevipattan Nantivarman Nandivarman 
+			Naracimmavarman Narasimhavarman Nirupatunkavarman Nirupatonkavarman Niy√¢yaparip√¢lapattan 
+			N√¢rpattenn√¢yirapattan N√¢titta√±c√¢ttan Pant√¢ram Pandaram 
+			Parakesaripanmar Param√™svaravarman Parameswaravarman Paranirupacinkam Paranirupasingham 
+			Parar√¢cac√™karan Pararajasekharan Par√¢kkirama Parakrama 
+			Par√¢nkucan Parankusan Par√¢ntaka Parantaka Pathrose Peter Pa√±cavan Paulose Paul Periyapillai 
+			Perum√¢l Peru√±cintevar Piram√¢r√¢yan Piyliypaos Philip Puvir√¢ca Puviraja P√¢kkil√¢n P√¢lar√¢v√¢yan 
 			Ranatitta Ranaditya 
-			RanatÓran Ranadhiran Ravivarman Samuel Samuel Tantivarman Dantivarman Tennavan Thoma Thomas 
-			Tiruccirrampalapattan Tirunattapperum‚l TirupuvanavÓratevar Tripuvanacakkaravattikal 
-			Urav‚kkin‚n Utaiya Udaya Uttama Varakunan Varagunan Varakunavarman Varagunavarman VarÙtaya 
-			Varughese George Vellant‚nkin‚n Vicay‚laya Vijayalaya Vicay‚raka Vijayaraga 
-			Vicay‚titta Vijayaditya Vikkirama Vikram‚titt‚ Vikramaditya Viran‚r‚yanapattan 
-			Vir‚cakecaripanmar VÓracÍkara Virasekhara VÓrakÍcari Virakhesari 
-			VÓrar‚cÍntira Virarajendra VÓrÙtaya Virodaya Yohannaan John Yosef Joseph Zacharria Zachariah 
-			¬ccinataratippan ¬n˚rrenmanpiccan ¬yirattalipattan
+			Ranat√Æran Ranadhiran Ravivarman Samuel Samuel Tantivarman Dantivarman Tennavan Thoma Thomas 
+			Tiruccirrampalapattan Tirunattapperum√¢l Tirupuvanav√Æratevar Tripuvanacakkaravattikal 
+			Urav√¢kkin√¢n Utaiya Udaya Uttama Varakunan Varagunan Varakunavarman Varagunavarman Var√¥taya 
+			Varughese George Vellant√¢nkin√¢n Vicay√¢laya Vijayalaya Vicay√¢raka Vijayaraga 
+			Vicay√¢titta Vijayaditya Vikkirama Vikram√¢titt√¢ Vikramaditya Viran√¢r√¢yanapattan 
+			Vir√¢cakecaripanmar V√Ærac√™kara Virasekhara V√Ærak√™cari Virakhesari 
+			V√Ærar√¢c√™ntira Virarajendra V√Ær√¥taya Virodaya Yohannaan John Yosef Joseph Zacharria Zachariah 
+			√Çccinataratippan √Çn√ªrrenmanpiccan √Çyirattalipattan
 		}
 		female_names = {
-			Aaleyaamma Elizabeth Accamma Rebecca AccattÍvi Annamma Anna Aiyy‚rratikal Akk‚ranankay‚r 
-			Amittiravalli Ammaiy‚lvi Ammakkan‚r Ammank‚tÍvi Ammangadevi Ank‚ti Aramutaiy‚l 
-			Aricuk‚ti Ariyapillai AriÒcikai AriÒcikaipir‚tti AriÒcikaippir‚ttiy‚r Arulmolinankaiy‚r 
-			Aruvanki Atavall‚l Atittapat‚riy‚r Atittapit‚ri 
-			Atittapit‚riy‚r Atticapit‚riy‚r Avutaiy‚lcc‚ni Cank‚ni Cantir‚dÍvi Cenkulam CeyyacÙlam 
-			Ceyyav‚ymani CivatÍvi Civallapatevi 
-			Corappaiy‚r C‚muntappai CÍramankai CÙlam‚tÍvi Eccumantai Eluvanai Eluvatt˚r Etuttap‚tam 
-			Ir‚cinkam Ir‚c‚ticci Ir‚cacuntari 
-			Kalacci Kalicci Kanavati Kannapparaciy‚r Kantiy˚r Kariyam‚tÍvi Karum‚nikkam Kaucalaiy‚r 
-			Kavatiyakkan KaÒciakkan Kutit‚nkin‚l 
-			KuÒcaramalli KuÒciramalli K‚muttiri K‚raikk‚l KÙkil‚nadigal KÙl‚liy‚r KÙmalavalli 
-			KÙyin‚ccipit‚riy‚r K˚rrantÍvi K˚tt‚tun‚cci 
-			Mah‚deviy‚r Malaiyam‚n Malap‚ti Maraikk‚tu MaÒcavi M‚nikkam Mariamma MariM‚tÍvatikal 
-			M‚tÍvatikal‚r Nakaratt‚l NaltÍviy‚r Namaiy‚r Nankaiy‚r Nantirinankai 
-			Netuntukkai Nilammai Nimmatikal N‚cci N‚cciy‚lvi N‚rani N‚r‚yani N‚Òc˚ri NÓlakanti NÓliy‚r 
-			Olimatiy‚r Orri‚lvi Pavitram Pennaraciy‚r 
-			Peranankai Periyan‚cci Perrappai Pillay‚lvi Piramacc‚ni Piratam‚tevi Pirricc‚ni Poll‚tapillai 
-			Pommav‚yi Ponnampalattatikal‚r Punniyav‚tti P˚v‚nti
-			Raahelamma Rachel R‚catÍviy‚r R‚cakÍcari S‚mav‚yi Saramma Sarah Sosamma Susan Tatur‚ntakiy‚r 
-			TavaÒceyt‚l Tay‚nitiy‚r Thresiamma Teresa Tirum˚latt‚nam Tiruvaranki Tiruvenn‚val Tiruv‚naikk‚vi 
-			TiruvÍnkatam Tunaiyirunt‚lc‚ni T‚natonkiy‚r TÍcappukal TÍmp‚vai TÍv‚nr‚l T˚nk‚nai Umaiy‚lv‚r 
-			Utaiyaval UtaiyaÒceyt‚l Vaccavaiy‚r 
-			Varakuni Vatav‚yil Venankai Venn‚val Vicciyakkan Vicc‚tiri Vikkiram‚titti Viraiy‚ccilai Vitari 
-			V‚navanm‚tÍvi "Mangammal" "Meenakshi" "Velunatchiyar"
+			Aaleyaamma Elizabeth Accamma Rebecca Accatt√™vi Annamma Anna Aiyy√¢rratikal Akk√¢ranankay√¢r 
+			Amittiravalli Ammaiy√¢lvi Ammakkan√¢r Ammank√¢t√™vi Ammangadevi Ank√¢ti Aramutaiy√¢l 
+			Aricuk√¢ti Ariyapillai Ari√±cikai Ari√±cikaipir√¢tti Ari√±cikaippir√¢ttiy√¢r Arulmolinankaiy√¢r 
+			Aruvanki Atavall√¢l Atittapat√¢riy√¢r Atittapit√¢ri 
+			Atittapit√¢riy√¢r Atticapit√¢riy√¢r Avutaiy√¢lcc√¢ni Cank√¢ni Cantir√¢d√™vi Cenkulam Ceyyac√¥lam 
+			Ceyyav√¢ymani Civat√™vi Civallapatevi 
+			Corappaiy√¢r C√¢muntappai C√™ramankai C√¥lam√¢t√™vi Eccumantai Eluvanai Eluvatt√ªr Etuttap√¢tam 
+			Ir√¢cinkam Ir√¢c√¢ticci Ir√¢cacuntari 
+			Kalacci Kalicci Kanavati Kannapparaciy√¢r Kantiy√ªr Kariyam√¢t√™vi Karum√¢nikkam Kaucalaiy√¢r 
+			Kavatiyakkan Ka√±ciakkan Kutit√¢nkin√¢l 
+			Ku√±caramalli Ku√±ciramalli K√¢muttiri K√¢raikk√¢l K√¥kil√¢nadigal K√¥l√¢liy√¢r K√¥malavalli 
+			K√¥yin√¢ccipit√¢riy√¢r K√ªrrant√™vi K√ªtt√¢tun√¢cci 
+			Mah√¢deviy√¢r Malaiyam√¢n Malap√¢ti Maraikk√¢tu Ma√±cavi M√¢nikkam Mariamma MariM√¢t√™vatikal 
+			M√¢t√™vatikal√¢r Nakaratt√¢l Nalt√™viy√¢r Namaiy√¢r Nankaiy√¢r Nantirinankai 
+			Netuntukkai Nilammai Nimmatikal N√¢cci N√¢cciy√¢lvi N√¢rani N√¢r√¢yani N√¢√±c√ªri N√Ælakanti N√Æliy√¢r 
+			Olimatiy√¢r Orri√¢lvi Pavitram Pennaraciy√¢r 
+			Peranankai Periyan√¢cci Perrappai Pillay√¢lvi Piramacc√¢ni Piratam√¢tevi Pirricc√¢ni Poll√¢tapillai 
+			Pommav√¢yi Ponnampalattatikal√¢r Punniyav√¢tti P√ªv√¢nti
+			Raahelamma Rachel R√¢cat√™viy√¢r R√¢cak√™cari S√¢mav√¢yi Saramma Sarah Sosamma Susan Tatur√¢ntakiy√¢r 
+			Tava√±ceyt√¢l Tay√¢nitiy√¢r Thresiamma Teresa Tirum√ªlatt√¢nam Tiruvaranki Tiruvenn√¢val Tiruv√¢naikk√¢vi 
+			Tiruv√™nkatam Tunaiyirunt√¢lc√¢ni T√¢natonkiy√¢r T√™cappukal T√™mp√¢vai T√™v√¢nr√¢l T√ªnk√¢nai Umaiy√¢lv√¢r 
+			Utaiyaval Utaiya√±ceyt√¢l Vaccavaiy√¢r 
+			Varakuni Vatav√¢yil Venankai Venn√¢val Vicciyakkan Vicc√¢tiri Vikkiram√¢titti Viraiy√¢ccilai Vitari 
+			V√¢navanm√¢t√™vi "Mangammal" "Meenakshi" "Velunatchiyar"
 		}
 	}
 	telegu = {
@@ -3121,8 +3303,8 @@ mande = {
 			Askia Sonni 
 		}
 		male_names = {
-			"Muhammad" "Karbifo" "Mar Fai" "Mar-Arkana" "Mar Arandan" "Sulaym‚n" "`AlÓ Ber" "BakarÓ" "M˚s‚" "Ism‚`Ól" 
-			"Ish‚q" "D‚`˚d" "N˚h" "H‚r˚n" "al-AmÓn" "Hanga" "Samsu" "Harangi" "Silman" "Abu Bakr" "Fodi Mayrumfa"	 
+			"Muhammad" "Karbifo" "Mar Fai" "Mar-Arkana" "Mar Arandan" "Sulaym√¢n" "`Al√Æ Ber" "Bakar√Æ" "M√ªs√¢" "Ism√¢`√Æl" 
+			"Ish√¢q" "D√¢`√ªd" "N√ªh" "H√¢r√ªn" "al-Am√Æn" "Hanga" "Samsu" "Harangi" "Silman" "Abu Bakr" "Fodi Mayrumfa"	 
 			"Al-Mustafa" "Harun" "Tomo" "Bassaru Missi" "Bumi" "Koyze Baba" "Wankoy" "Mar Kiray" "Bakr Zanku" "Salman" 
 			"Birahim" "Hammadi" "Al-Mansur" "`Ammar" "Sa`id" "`Abd Allah" "Nasr" "Yahya" "Yusuf" 
 		}
@@ -3178,7 +3360,7 @@ mande = {
 			"Amoako Atta Yiadom" "Owusu Bori" "Kwadwo Tibu" "Kwakye Fram" "Kwesi Kyei" "Nkwantabisa"
 		}
 		female_names = {
-			Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi AÒuli Chi Chiamaka Chibueze Chibuike Chibuzo 
+			Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi A√±uli Chi Chiamaka Chibueze Chibuike Chibuzo 
 			Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika Chike Chikelu Chikere Chinasa Chinedu Chinonso 
 			Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya 
 			Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi 
@@ -3186,24 +3368,24 @@ mande = {
 		}
 	}
 	male_names = {
-		Abi-Bakr Abubakari Akoi Alayaman Ali Ali Ali-Fay Ali-Kolon Ali-Zalil Bad‰ Bakr Bakr-Kanbu Bamari Bankanu
-		Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud David Dawud David Demba Diara D¸ru
-		Faga-Laye Fatta Fodi Fuluku F‰dazu Gane Gao Hargani Harun Igoumou Ishaq Isaac Ismail Ismail Kabayo Kalabi Kambine
-		Kanafa Kassa KasseÔ Kaya Kayna Kinkin Kisha Kodama KoÔzÈ Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
-		Mahmud Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata Maˇroumfa Missi-IzÈ Morobani Musa Moses
-		Nintasanay Nuh Ouali Ouankoˇ Ouati Reidja Sakoura Salman Solomon Samsou-BÈri Samsou-KeÔna Sandaki Soumaba
+		Abi-Bakr Abubakari Akoi Alayaman Ali Ali Ali-Fay Ali-Kolon Ali-Zalil Bad√§ Bakr Bakr-Kanbu Bamari Bankanu
+		Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud David Dawud David Demba Diara D√ºru
+		Faga-Laye Fatta Fodi Fuluku F√§dazu Gane Gao Hargani Harun Igoumou Ishaq Isaac Ismail Ismail Kabayo Kalabi Kambine
+		Kanafa Kassa Kasse√Ø Kaya Kayna Kinkin Kisha Kodama Ko√Øz√© Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
+		Mahmud Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata Ma√øroumfa Missi-Iz√© Morobani Musa Moses
+		Nintasanay Nuh Ouali Ouanko√ø Ouati Reidja Sakoura Salman Solomon Samsou-B√©ri Samsou-Ke√Øna Sandaki Soumaba
 		Soumaoro Soundiata Sulayman Solomon Takoi Tib Tomo Thomas Tunka Umar Umar Yama Yaqub Jacob Yasiboy Zakoi Zenku
 	}
 	female_names = {
 		Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
-		Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa NamandjÈ Namiss Nana
-		Safiatou Salimata Sassouma SidibÈ Siya Sogolon Tekhaye Youma ZeÔnab
+		Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa Namandj√© Namiss Nana
+		Safiatou Salimata Sassouma Sidib√© Siya Sogolon Tekhaye Youma Ze√Ønab
 	}
 	dynasty_names = {
 		# CKII
-		"Cisse" "Diarisso" "Keita" "BeretÈ" "KÈdjou" "Moussa" "Zuwa" "Sonni" "Askiya" "Konare" "TraorÈ" "Modibo" "Toumani" 
+		"Cisse" "Diarisso" "Keita" "Beret√©" "K√©djou" "Moussa" "Zuwa" "Sonni" "Askiya" "Konare" "Traor√©" "Modibo" "Toumani" 
 		"Gurmanche" "Buricimba" "Nungu" "Mossi" "Habe" "of Zarma" "of Gurma" "of Djenne" "of Bambuk" "Ezekoye" "Sahara" 
-		"Oualata" "Bambuk" "Gurma" "DjennÈ" "Tadmekka"
+		"Oualata" "Bambuk" "Gurma" "Djenn√©" "Tadmekka"
 	}
 }
 
@@ -3218,7 +3400,7 @@ cushitic = {
 			"Harti" "Marehan" "Bartire" "Rahanweyn" "Warsangali" "Darod" "Samaale"
 			# Ethiopian
 			"Darod" "Azim" "Marisid" "Muqurrid" "Pakhoras" "Ramlid" "Sebsibeid" "Kebedeid" "Bekeleid" 
-			"Abateid" "Sabraid" "Astatkeid" "Habeshid" "DubÈ" "Gobena" "Selassie" "Zagwe" "Dengel" "Mesafint" "Sehul" 
+			"Abateid" "Sabraid" "Astatkeid" "Habeshid" "Dub√©" "Gobena" "Selassie" "Zagwe" "Dengel" "Mesafint" "Sehul" 
 			"Daw" "Alwa" "Dahnay" "Gideon" "Assabi" "Afari" "Tamirat" "Mengesha" "Teka" "Getachew" "Na'akuelo" "Yostos" 
 			"Merkourios" "Shamumun" "Desta"
 		}
@@ -3241,11 +3423,11 @@ cushitic = {
 			Bahrid
 		}
 		male_names = {
-			"Taqla H‚ym‚nÙt" "'Amsa GÓyÙrgÓs" "Tuqla GÓyÙrgÓs" "Zar'a Y‚qob" "Ba'eda M‚ry‚m" "'Amda SeyÙn" "Lebna"
+			"Taqla H√¢ym√¢n√¥t" "'Amsa G√Æy√¥rg√Æs" "Tuqla G√Æy√¥rg√Æs" "Zar'a Y√¢qob" "Ba'eda M√¢ry√¢m" "'Amda Sey√¥n" "Lebna"
 			"Saga Krestos" "Malta Krestos" "Dengel" "Welde Giyorgis" "Mika'el Sehul" "Wolda Gabrael" "Wand Bewossen" 
-			"Amda Seyon" "Sarsa Dengel" Iy‚s˚ QuastantÓnÙs SalÙmÙn YÙhannes Hezqey‚s N‚'Ùd Gal‚wdÍwÙs MÓn‚s Y‚'qob 
-			S˚senyÙs F‚sÓladas TÍwÙflÙs YÙstÙs YÙnas D‚wÓt Demetros GÓyÙrgÓs Fiqtor Menas Marqos Hamalmal F‚sÓl 
-			'Endrey‚s Yeshaq Mika'el Antenatewos Gusho Haile
+			"Amda Seyon" "Sarsa Dengel" Iy√¢s√ª Quastant√Æn√¥s Sal√¥m√¥n Y√¥hannes Hezqey√¢s N√¢'√¥d Gal√¢wd√™w√¥s M√Æn√¢s Y√¢'qob 
+			S√ªseny√¥s F√¢s√Æladas T√™w√¥fl√¥s Y√¥st√¥s Y√¥nas D√¢w√Æt Demetros G√Æy√¥rg√Æs Fiqtor Menas Marqos Hamalmal F√¢s√Æl 
+			'Endrey√¢s Yeshaq Mika'el Antenatewos Gusho Haile
 		}
 		female_names = {
 			Abeba Hagos Tenagne Habesha Abeba Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele 
@@ -3264,10 +3446,10 @@ nilotic = {
 			"Burji" "Alawiyya" "Bahri"
 		}
 		male_names = {
-			Muhammad Ahmad Q‚nsawh T˚m‚n Bay In‚l Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay 
-			Q‚yit Bay Shaik al-Mahmudi Timurbugh‚ 'Uthman Yalbay J‚nbul‚t Y˚suf Barq˚q 'AlÓ Baybars H‚jjÓ 
-			Bakr al-Hasan Isma'Ól K˚j˚k S‚lih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
-			Sayyid Yunus Jaqmaq Qasim Sa'di Sha'b‚n Ab˚ 
+			Muhammad Ahmad Q√¢nsawh T√ªm√¢n Bay In√¢l Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay 
+			Q√¢yit Bay Shaik al-Mahmudi Timurbugh√¢ 'Uthman Yalbay J√¢nbul√¢t Y√ªsuf Barq√ªq 'Al√Æ Baybars H√¢jj√Æ 
+			Bakr al-Hasan Isma'√Æl K√ªj√ªk S√¢lih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
+			Sayyid Yunus Jaqmaq Qasim Sa'di Sha'b√¢n Ab√ª 
 		}
 		female_names = {
 			Shahira Yusra Asma Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam 
@@ -3283,35 +3465,35 @@ nilotic = {
 			"Hedareb" "Atbai" "Amarar" "Bisarin" "Bisharin" "Bisariab" "Bisharyeen"
 		}
 		male_names = {
-			"'Am‚ra" "'Abd al-Q‚dir" "N‚'l" "DakÓn al-'Adil" "D˚ra" "TaiyÓb" "Unsa" "Adl‚n" "B‚dÓ" "Rub‚t" "N˚l" 
-			"N‚sir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
+			"'Am√¢ra" "'Abd al-Q√¢dir" "N√¢'l" "Dak√Æn al-'Adil" "D√ªra" "Taiy√Æb" "Unsa" "Adl√¢n" "B√¢d√Æ" "Rub√¢t" "N√ªl" 
+			"N√¢sir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
 			"Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" 
-			"Ya'qub" "Ism‚'Ól" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
-			AarÙn Aaron Aberikos Abraam Abraham AÒgelos Angelus Andreas Andrew Athanasios BalÙ 
-			Bartholomaios Bartholomew BirÍl Chael Christophoros Dauid David Dimetheos Timothy
-			Dioskoros DiÙnisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel EnÙch Enoch EphannÍ Epimachos 
+			"Ya'qub" "Ism√¢'√Æl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
+			Aar√¥n Aaron Aberikos Abraam Abraham A√±gelos Angelus Andreas Andrew Athanasios Bal√¥ 
+			Bartholomaios Bartholomew Bir√™l Chael Christophoros Dauid David Dimetheos Timothy
+			Dioskoros Di√¥nisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel En√¥ch Enoch Ephann√™ Epimachos 
 			Epiphanios Gabriel Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
-			GeÙrgios George HÍlias Elias Hoase Jesse Hoassi Jesse Hoasse Jesse Iacob Jacob Ieremias 
-			Jeremiah IÍsous Jesus IÍsousinkouda IÙannou Jonah IÙannÍs John Iordanes Jordanes Ioseph Joseph 
+			Ge√¥rgios George H√™lias Elias Hoase Jesse Hoassi Jesse Hoasse Jesse Iacob Jacob Ieremias 
+			Jeremiah I√™sous Jesus I√™sousinkouda I√¥annou Jonah I√¥ann√™s John Iordanes Jordanes Ioseph Joseph 
 			Kalinikos Kallinikios Kollouthos
 			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
 			Leontius Makarios Makarius Mariana Mariankouda Marianos Marianus Marios Marius Markos Marcus 
 			Marturophoros
-			MaöanÒal Maththias Matthew MÍlÍnkouda Mena Menankouda Merkourios Mercurius MichaÍl Michael 
-			MichaÍlkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
+			Ma¬öan√±al Maththias Matthew M√™l√™nkouda Mena Menankouda Merkourios Mercurius Micha√™l Michael 
+			Micha√™lkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
 			Paulos Paul Petros Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson 
-			Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros SolomÙn Solomon Sotinkouda Stephanos 
+			Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros Solom√¥n Solomon Sotinkouda Stephanos 
 			Stephen
-			Stephanou Thadeosi Thaddeus TheodÙros Theodore Theodosios Theodosius Theodote Theodat Thoma 
-			Thomas TophÍna Tirsakouni Zacharias Zachary Zosima Zosimus
+			Stephanou Thadeosi Thaddeus Theod√¥ros Theodore Theodosios Theodosius Theodote Theodat Thoma 
+			Thomas Toph√™na Tirsakouni Zacharias Zachary Zosima Zosimus
 		}
 		female_names = {
-			Agathe Alethia Anthelia Athanasia ChaelsoÒoja Chrissa Christina Douriko Egaloskoura Eikkir 
-			Eionmnne EionÒoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota EirotatouÒÒlki
-			Entaeiri EÙneille EphannÍ Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
-			Genseoua Hellene Helen Hemene Iannia Joan IÍsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake Kyriake MaraÒa Maria Maria Mariam Maria Mariane Marianou MichaÍliko Michaela 
-			—aööa —eööadena —ejin —ilesa —ojjl —oltou —onne —onnen —ouddl —ssitkitol OuarenÙ Patrikia 
+			Agathe Alethia Anthelia Athanasia Chaelso√±oja Chrissa Christina Douriko Egaloskoura Eikkir 
+			Eionmnne Eion√±oka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatou√±√±lki
+			Entaeiri E√¥neille Ephann√™ Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
+			Genseoua Hellene Helen Hemene Iannia Joan I√™sousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake Kyriake Mara√±a Maria Maria Mariam Maria Mariane Marianou Micha√™liko Michaela 
+			√ëa¬ö¬öa √ëe¬ö¬öadena √ëejin √ëilesa √ëojjl √ëoltou √ëonne √ëonnen √ëouddl √ëssitkitol Ouaren√¥ Patrikia 
 			Patricia Pelagia Gulzar Maram
 			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
 			Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
