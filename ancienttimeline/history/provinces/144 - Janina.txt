@@ -1,8 +1,8 @@
 #144 - Janina
 
-owner = ROM
-controller = ROM
-culture = greek
+owner = MOL
+controller = MOL
+culture = doric_greek
 religion = hellenism
 capital = "Nicopolis"
 trade_goods = wool
@@ -12,7 +12,8 @@ base_production = 2
 base_manpower = 2
 citysize = 1000
 fort1 = yes
-add_core = ROM
+add_core = MOL
+add_core = MCD
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -21,3 +22,4 @@ discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
 
+4665.9.12 = { owner = MCD controller = MCD }
