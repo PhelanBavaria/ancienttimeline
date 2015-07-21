@@ -1,7 +1,7 @@
 #1848 - Hamid
 
-owner = ROM
-controller = ROM
+owner = PER
+controller = PER
 culture = ionic_greek
 religion = hellenism
 capital = "Isparta"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 4
 citysize = 1815
 fort1 = yes
-add_core = ROM
+add_core = PER
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -21,3 +21,4 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4667.1.19 = { owner = MCD controller = MCD add_core = MCD }
