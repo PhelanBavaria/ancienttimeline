@@ -1,8 +1,8 @@
-#325 - Kastamon
+#2361 - Bolu
 
 owner = ROM
 controller = ROM
-culture = greek
+culture = ionic_greek
 religion = hellenism
 capital = "Claudiopolis"
 trade_goods = fish
