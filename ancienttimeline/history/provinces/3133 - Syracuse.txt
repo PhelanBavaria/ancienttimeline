@@ -1,8 +1,8 @@
-#124 - Messina
+#3133 - Syracuse
 
 owner = ROM
 controller = ROM
-culture = greek
+culture = doric_greek
 religion = hellenism
 hre = no 
 base_tax = 6
