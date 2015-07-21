@@ -1,8 +1,8 @@
 #142 - Corfu
 
-owner = ROM
-controller = ROM
-culture = greek
+owner = CRT
+controller = CRT
+culture = doric_greek
 religion = hellenism
 capital = "Corcyra"
 trade_goods = fish
@@ -11,7 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 citysize = 1000
-add_core = ROM
+add_core = CRT
+add_core = MCD
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -20,3 +21,4 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4665.9.12 = { owner = MCD controller = MCD }
