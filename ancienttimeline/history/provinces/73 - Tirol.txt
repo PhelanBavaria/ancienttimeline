@@ -1,10 +1,10 @@
 #73 - Tirol
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = helvetian
-religion = germanic
+owner = VIN
+controller = VIN
+add_core = VIN
+culture = vindelican
+religion = druidism
 base_tax = 4
 base_production = 4
 trade_goods = gold

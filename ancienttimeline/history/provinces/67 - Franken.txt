@@ -1,11 +1,11 @@
 # 67 - Franken
 
-owner = EAL
-controller = EAL
-add_core = EAL
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 2000
-culture = franconian
-religion = germanic
+culture = volcaean
+religion = druidism
 base_tax = 8
 base_production = 8
 trade_goods = wine

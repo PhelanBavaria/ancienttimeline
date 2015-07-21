@@ -1,11 +1,11 @@
 # 1872 - Ulm
 
-owner = EAL
-controller = EAL
-add_core = EAL
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 1600 
-culture = swabian
-religion = germanic
+culture = volcaean
+religion = druidism
 base_tax = 7
 base_production = 7
 trade_goods = grain

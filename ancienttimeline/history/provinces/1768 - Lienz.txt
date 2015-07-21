@@ -1,8 +1,8 @@
 #1768 - Lienz
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = NOI
+controller = NOI
+add_core = NOI
 culture = noric
 religion = druidism
 base_tax = 4

@@ -1,11 +1,11 @@
 #64 - Niederbayern
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = VIN
+controller = VIN
+add_core = VIN
 citysize = 1000
-culture = swabian
-religion = germanic
+culture = vindelican
+religion = druidism
 base_tax = 5
 base_production = 5
 trade_goods = grain

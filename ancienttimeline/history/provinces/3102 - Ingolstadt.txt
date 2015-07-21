@@ -1,16 +1,16 @@
-#64 - Niederbayern
+#3102 - Ingolstadt
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = VIN
+controller = VIN
+add_core = VIN
 citysize = 1000
-culture = swabian
-religion = germanic
+culture = vindelican
+religion = druidism
 base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 1
-capital	= "Castra Regina" 
+capital	= "Vindelicum" 
 hre = no
 discovered_by = eastern
 discovered_by = mediterranean

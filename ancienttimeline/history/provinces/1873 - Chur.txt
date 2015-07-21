@@ -1,17 +1,16 @@
 #1873 - Chur
 
-owner = ROM
-controller = ROM
 culture = helvetian
 religion = druidism
 capital = "Curia"
-trade_goods = wool
+trade_goods = unknown
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 1
 base_manpower = 1
-citysize = 1000
-add_core = ROM
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

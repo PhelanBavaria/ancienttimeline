@@ -1,8 +1,8 @@
 #166 - Schwyz
 
-owner = ROM
-controller = ROM
-culture = helvetian
+owner = INS
+controller = INS
+culture = gallian
 religion = druidism
 capital = "Bilitio"
 trade_goods = iron
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 citysize = 1000
-add_core = ROM
+add_core = INS
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

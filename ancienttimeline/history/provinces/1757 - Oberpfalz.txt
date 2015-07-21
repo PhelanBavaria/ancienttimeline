@@ -1,11 +1,11 @@
 #1757 - Oberpfalz
 
-owner = EAL
-controller = EAL
-add_core = EAL
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 1000
-culture = bavarian
-religion = germanic
+culture = volcaean
+religion = druidism
 base_tax = 4
 base_production = 4
 trade_goods = iron

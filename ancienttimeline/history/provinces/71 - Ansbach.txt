@@ -1,11 +1,11 @@
 # 71 - Leiningen
 
-owner = EAL
-controller = EAL
-add_core = EAL
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 1000
-culture = swabian
-religion = germanic
+culture = volcaean
+religion = druidism
 trade_goods = salt
 capital = "Hall"
 base_manpower = 1

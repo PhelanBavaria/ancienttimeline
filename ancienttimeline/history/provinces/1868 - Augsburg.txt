@@ -1,9 +1,9 @@
 # 1868 - Augsburg
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = bavarian
-religion = hellenism
+owner = VIN
+controller = VIN
+add_core = VIN
+culture = vindelican
+religion = druidism
 base_tax = 7
 base_production = 7
 trade_goods = grain

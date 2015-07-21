@@ -1,11 +1,11 @@
 #64 - Niederbayern
 
-owner = EAL
-controller = EAL
-add_core = EAL
+owner = VIN
+controller = VIN
+add_core = VIN
 citysize = 1000
-culture = swabian
-religion = germanic
+culture = vindelican
+religion = druidism
 base_tax = 6
 base_production = 6
 trade_goods = grain

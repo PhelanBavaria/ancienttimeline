@@ -1,12 +1,12 @@
 #77 - Pfalz
 
-owner = ALM
-controller = ALM
-add_core = ALM
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 1000
 capital = "Bergheim"
-culture = swabian
-religion = germanic
+culture = volcaean
+religion = druidism
 trade_goods = wine
 base_tax = 4
 base_production = 4

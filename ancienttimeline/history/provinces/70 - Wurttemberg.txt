@@ -1,11 +1,11 @@
 
-owner = ALM
-controller = ALM
-add_core = ALM
+owner = VCE
+controller = VCE
+add_core = VCE
 citysize = 1000
-culture = swabian
+culture = volcaean
 capital = "Arae"
-religion = germanic
+religion = druidism
 trade_goods = grain
 base_tax = 3
 base_production = 3

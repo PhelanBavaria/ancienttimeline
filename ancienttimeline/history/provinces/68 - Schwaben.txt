@@ -1,10 +1,10 @@
 #68 - Schwaben
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = bavarian
-religion = germanic
+owner = VIN
+controller = VIN
+add_core = VIN
+culture = vindelican
+religion = druidism
 hre = no
 base_tax = 5
 base_production = 5

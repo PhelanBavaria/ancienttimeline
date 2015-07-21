@@ -1,9 +1,9 @@
 #108 - Verona
 
-owner = ROM
-controller = ROM
-culture = venetian
-religion = hellenism 
+owner = CEM
+controller = CEM
+culture = gallian
+religion = druidism 
 hre = no
 base_tax = 8
 base_production = 8
@@ -11,7 +11,7 @@ trade_goods = cloth
 base_manpower = 5
 capital = "Verona" 
 citysize = 2000 # Estimated
-add_core = ROM
+add_core = CEM
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

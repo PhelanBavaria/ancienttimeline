@@ -1,11 +1,11 @@
 # 69 - Konstanz
 
-culture = swabian
-owner = ROM
-controller = ROM
-add_core = ROM
+culture = vindelican
+owner = VIN
+controller = VIN
+add_core = VIN
 capital = "Cambodunum"
-religion = germanic
+religion = druidism
 trade_goods = salt
 base_tax = 5
 base_production = 5
