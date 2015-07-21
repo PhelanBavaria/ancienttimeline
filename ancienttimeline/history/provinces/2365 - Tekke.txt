@@ -1,8 +1,8 @@
-#319 - Antalya
+#319 - Tekke
 
 owner = ROM
 controller = ROM
-culture = greek
+culture = ionic_greek
 religion = hellenism
 capital = "Attalia"
 trade_goods = cotton
