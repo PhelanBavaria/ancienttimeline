@@ -1,8 +1,8 @@
 #146 - Athens
 
-owner = ROM
-controller = ROM
-culture = greek
+owner = CRT
+controller = CRT
+culture = attic_greek
 religion = hellenism
 capital = "Athens"
 trade_goods = fish
@@ -13,7 +13,7 @@ base_manpower = 3
 citysize = 3800
 fort_15th = yes
   # Acropolis
-add_core = ROM
+add_core = CRT
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
