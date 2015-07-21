@@ -1,8 +1,6 @@
 #151 - Thrace
 
-owner = ROM
-controller = ROM
-culture = greek
+culture = thracian
 religion = hellenism
 capital = "Byzantium"
 trade_goods = grain
@@ -12,7 +10,6 @@ base_production = 9
 base_manpower = 5
 citysize = 36000
 fort_15th = yes 
-add_core = ROM
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -33,4 +30,4 @@ discovered_by = ottoman
 		}
 
 }
-
+4665.6.1 = { owner = MCD controller = MCD add_core = MCD culture = attic_greek }
