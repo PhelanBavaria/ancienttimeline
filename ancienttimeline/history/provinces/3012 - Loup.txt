@@ -1,4 +1,4 @@
-#2012 - Arsigantegok
+#3012 - Loup
 
 culture = huron
 religion = totemism
