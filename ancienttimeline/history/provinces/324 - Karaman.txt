@@ -1,7 +1,7 @@
 #324 - Karaman
 
-owner = CAP
-controller = CAP
+owner = PER
+controller = PER
 culture = cappadocian
 religion = hellenism
 capital = "Laranda"
@@ -12,7 +12,7 @@ base_production = 6
 base_manpower = 5
 citysize = 1050
 fort1 = yes
-add_core = CAP
+add_core = PER
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -21,4 +21,5 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4667.1.2 = { owner = MCD controller = MCD add_core = MCD }
 5018.1.1 = { owner = ROM controller = ROM add_core = ROM }
