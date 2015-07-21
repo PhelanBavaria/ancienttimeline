@@ -2,7 +2,7 @@
 
 owner = ROM
 controller = ROM
-culture = greek
+culture = ionic_greek
 religion = hellenism
 capital = "Nicaea"
 trade_goods = silk
