@@ -1,4 +1,4 @@
-#2007 - Arikara
+#2132 - Arikara
 
 culture = pawnee
 religion = totemism
