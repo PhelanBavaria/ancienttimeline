@@ -1,7 +1,7 @@
 #521 - Panipat
 
-owner = WSA
-controller = WSA
+owner = SUR
+controller = SUR
 culture = gujarati
 religion = hinduism
 capital = "Patan"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 citysize = 1075
-add_core = WSA
+add_core = SUR
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 
@@ -19,3 +19,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4700.1.1 = { owner = MAU controller = MAU add_core = MAU }
+4800.1.1 = { owner = SUR controller = SUR add_core = SUR remove_core = MAU }
+4900.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = SUR }

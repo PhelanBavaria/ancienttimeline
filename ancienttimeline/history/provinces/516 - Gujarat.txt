@@ -1,7 +1,7 @@
 #516 - Ahmadabad
 
-owner = WSA
-controller = WSA
+owner = SUR
+controller = SUR
 culture = gujarati
 religion = hinduism
 capital = "Ashaval"
@@ -11,8 +11,7 @@ base_tax = 6
 base_production = 7
 base_manpower = 2
 citysize = 6000
-add_core = WSA
-fort1 = yes
+add_core = SUR
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
@@ -26,3 +25,6 @@ discovered_by = chinese
 		}
 }
 
+4700.1.1 = { owner = MAU controller = MAU add_core = MAU }
+4800.1.1 = { owner = SUR controller = SUR add_core = SUR remove_core = MAU }
+4900.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = SUR }

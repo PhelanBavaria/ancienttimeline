@@ -1,7 +1,7 @@
 #517 - Baroda
 
-owner = WSA
-controller = WSA
+owner = ASA
+controller = ASA
 culture = gujarati
 religion = jainism
 capital = "Surat"
@@ -11,7 +11,7 @@ base_tax = 8
 base_production = 8
 base_manpower = 3
 citysize = 4928
-add_core = WSA
+add_core = ASA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 
@@ -19,3 +19,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4690.1.1 = { owner = MAU controller = MAU add_core = MAU }
+4815.1.1 = { owner = SUR controller = SUR add_core = SUR remove_core = MAU }
+4900.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = SUR }
