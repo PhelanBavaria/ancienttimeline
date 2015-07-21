@@ -49,6 +49,16 @@ monarch_names = {
 	"Devavarman #0" = 20
 	"Satadhanvan #0" = 20
 	"Brhadratha #0" = 20
+	"Pushyamitra #0" = 5
+	"Agnimitra #0" = 5
+	"Vasujyeshtha #0" = 5
+	"Vasumitra #0" = 5
+	"Andhraka #0" = 5
+	"Pulindaka #0" = 5
+	"Ghosha #0" = 5
+	"Vajramitra #0" = 5
+	"Bhagabhadra #0" = 5
+	"Devabhuti #0" = 5
 
 	"Durdhara #0" = -1
 	"Devi #0" = -1

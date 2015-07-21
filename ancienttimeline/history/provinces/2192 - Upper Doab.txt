@@ -19,3 +19,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
+4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
+4815.1.1 = { owner = KUN controller = KUN add_core = KUN remove_core = MAU }

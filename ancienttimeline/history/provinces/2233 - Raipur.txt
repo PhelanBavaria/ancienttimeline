@@ -19,3 +19,6 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+4739.1.1 = { owner = MAU controller = MAU add_core = MAU }
+4815.1.1 = { owner = KAL controller = KAL add_core = KAL remove_core = MAU }
+4850.1.1 = { owner = SAT controller = SAT add_core = SAT remove_core = KAL }

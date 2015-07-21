@@ -26,3 +26,8 @@ discovered_by = chinese
 	}
 }
 
+4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
+4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
+4815.1.1 = { owner = KAL controller = KAL add_core = KAL remove_core = MAU }
+4890.1.1 = { owner = SHN controller = SHN add_core = SHN remove_core = KAL }
+4925.1.1 = { owner = SUH controller = SUH add_core = SUH remove_core = SHN }

@@ -29,36 +29,36 @@ historical_units = {
 }
 
 monarch_names = {
-	"Mahapadma #0" = 20
-	"Pandhuka #0" = 20
-	"Panghupati #0" = 20
-	"Bhutapala #0" = 20
-	"Rashtrapala #0" = 20
-	"Govishanaka #0" = 20
-	"Dashasidhaka #0" = 20
-	"Kaivarta #0" = 20
-	"Mahendra #0" = 20
-	"Dhana #0" = 20
-	"Karvinatha #0" = 20
-	"Chandragupta #0" = 20
-	"Bindusara #0" = 20
-	"Ashoka #0" = 20
-	"Dasaratha #0" = 20
-	"Samprati #0" = 20
-	"Salisuka #0" = 20
-	"Devavarman #0" = 20
-	"Satadhanvan #0" = 20
-	"Brhadratha #0" = 20
-	"Pushyamitra #0" = 5
-	"Agnimitra #0" = 5
-	"Vasujyeshtha #0" = 5
-	"Vasumitra #0" = 5
-	"Andhraka #0" = 5
-	"Pulindaka #0" = 5
-	"Ghosha #0" = 5
-	"Vajramitra #0" = 5
-	"Bhagabhadra #0" = 5
-	"Devabhuti #0" = 5
+	"Pushyamitra #0" = 20
+	"Agnimitra #0" = 20
+	"Vasujyeshtha #0" = 20
+	"Vasumitra #0" = 20
+	"Andhraka #0" = 20
+	"Pulindaka #0" = 20
+	"Ghosha #0" = 20
+	"Vajramitra #0" = 20
+	"Bhagabhadra #0" = 20
+	"Devabhuti #0" = 20
+	"Mahapadma #0" = 5
+	"Pandhuka #0" = 5
+	"Panghupati #0" = 5
+	"Bhutapala #0" = 5
+	"Rashtrapala #0" = 5
+	"Govishanaka #0" = 5
+	"Dashasidhaka #0" = 5
+	"Kaivarta #0" = 5
+	"Mahendra #0" = 5
+	"Dhana #0" = 5
+	"Karvinatha #0" = 5
+	"Chandragupta #0" = 5
+	"Bindusara #0" = 5
+	"Ashoka #0" = 5
+	"Dasaratha #0" = 5
+	"Samprati #0" = 5
+	"Salisuka #0" = 5
+	"Devavarman #0" = 5
+	"Satadhanvan #0" = 5
+	"Brhadratha #0" = 5
 
 	"Durdhara #0" = -1
 	"Devi #0" = -1
@@ -68,7 +68,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Nanda Maurya Vardhana Varman Shunga Kanva Haryanka Shishunaga Amitraghata
+	Shunga Vardhana Varman Shunga Kanva Haryanka Shishunaga Amitraghata
 }
 
 ship_names = {
