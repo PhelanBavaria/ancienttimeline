@@ -1,8 +1,8 @@
-#317 - Bursa
+#2369 - Biga
 
 owner = ROM
 controller = ROM
-culture = greek
+culture = ionic_greek
 religion = hellenism
 capital = "Kyzikos"
 trade_goods = naval_supplies
