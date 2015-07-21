@@ -1,5 +1,8 @@
 #151 - Thrace
 
+owner = MCD
+controller = MCD
+add_core = MCD
 culture = thracian
 religion = hellenism
 capital = "Byzantium"
@@ -30,4 +33,4 @@ discovered_by = ottoman
 		}
 
 }
-4665.6.1 = { owner = MCD controller = MCD add_core = MCD culture = attic_greek }
+4665.6.1 = { culture = attic_greek }

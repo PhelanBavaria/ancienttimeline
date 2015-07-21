@@ -85,7 +85,7 @@ MOL	= "countries/Molossia.txt"
 MYC	= "countries/Mycenae.txt"
 NAX	= "countries/Naxos.txt"
 ODR	= "countries/Odrysia.txt"
-SPR	= "countries/Sparta.txt
+SPR	= "countries/Sparta.txt"
 THS	= "countries/Thessaly.txt"
 
 #Italy
