@@ -93,5 +93,11 @@ ship_names = {
 	Musasir
 }
 
+army_names = {
+	"Askariye d'$PROVINCE$"
+}
 
+fleet_names = {
+	"Gamiye d'$PROVINCE$"
+}
 
