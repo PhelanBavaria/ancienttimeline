@@ -1,8 +1,8 @@
 # 129 - Krain
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CNI
+controller = CNI
+add_core = CNI
 culture = noric
 religion = druidism
 base_tax = 7

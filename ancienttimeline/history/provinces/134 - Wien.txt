@@ -1,10 +1,10 @@
 #134 - Wien
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = TRS
+controller = TRS
+add_core = TRS
 culture = noric
-religion = germanic
+religion = druidism
 base_tax = 7
 base_production = 7
 trade_goods = wine 

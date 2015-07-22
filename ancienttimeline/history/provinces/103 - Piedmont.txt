@@ -1,9 +1,9 @@
 #103 - Piedmont
 
-owner = ROM
-controller = ROM
-culture = ligurian
-religion = hellenism
+owner = SLS
+controller = SLS
+culture = gallian
+religion = druidism
 hre = no
 base_tax = 7
 base_production = 7
@@ -12,7 +12,7 @@ base_manpower = 3
 fort1 = yes
 capital = "Taurinorum"
 citysize = 2500
-add_core = ROM
+add_core = SLS
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
