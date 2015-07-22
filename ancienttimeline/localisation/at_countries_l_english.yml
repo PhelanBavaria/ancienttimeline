@@ -221,15 +221,12 @@
  MHN_ADJ: "Mahan"
  MIT: "Mitanni"
  MIT_ADJ: "Mitannian"
-<<<<<<< HEAD
  MLB: "Manipur"
  MLB_ADJ: "Manipuri"
  MLW: "Malwa"
  MLW_ADJ: "Malvi"
-=======
  MLS: "Molossia"
  MLS_ADJ: "Molossian"
->>>>>>> origin/master
  MNA: "Ma'in"
  MNA_ADJ: "Minaean"
  MNN: "Min"
@@ -342,15 +339,12 @@
  TEO_ADJ: "Teotihuacan"
  THM: "Thamud"
  THM_ADJ: "Thamudic"
-<<<<<<< HEAD
  TPR: "Tripura"
  TPR_ADJ: "Tripuri"
-=======
  THS: "Thessaly"
  THS_ADJ: "Thessalian"
  TRS: "Taurisci"
  TRS_ADJ: "Taurisci"
->>>>>>> origin/master
  UGA: "Ugarit"
  UGA_ADJ: "Ugaritic"
  UNE: "Unelli"
