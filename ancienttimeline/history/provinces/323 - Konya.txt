@@ -1,7 +1,7 @@
 #323 - Konya
 
-owner = PER
-controller = PER
+owner = ACA
+controller = ACA
 culture = cappadocian
 religion = hellenism
 capital = "Claudioconium"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 5
 citysize = 1333
 fort1 = yes
-add_core = PER
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
