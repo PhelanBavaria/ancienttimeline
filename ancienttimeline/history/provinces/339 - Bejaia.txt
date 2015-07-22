@@ -1,7 +1,7 @@
 #339 - Kabylia
 
-owner = ROM
-controller = ROM
+owner = CTH
+controller = CTH
 culture = berber
 religion = african
 capital = "Saldae"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1217
-add_core = ROM
+add_core = CTH
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

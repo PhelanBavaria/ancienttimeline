@@ -1,7 +1,7 @@
 #356 - Cyrenaica
 
-owner = ROM
-controller = ROM
+owner = CTH
+controller = CTH
 culture = tuareg
 religion = hellenism
 capital = "Cyrene"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 2135
-add_core = ROM
+add_core = CTH
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

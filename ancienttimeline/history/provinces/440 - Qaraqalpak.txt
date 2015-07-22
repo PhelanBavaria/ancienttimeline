@@ -1,8 +1,8 @@
 #440 - Khawarzam
 
-owner = KHW
-controller = KHW
-add_core = KHW
+owner = ACA
+controller = ACA
+add_core = ACA
 citysize = 1500
 culture = uzbehk
 religion = zoroastrian

@@ -1,8 +1,8 @@
 #220 - València
 
-owner = CTH
-controller = CTH
-add_core = CTH
+owner = ROM
+controller = ROM
+add_core = ROM
 culture = punic
 religion = carthaginian
 hre = no

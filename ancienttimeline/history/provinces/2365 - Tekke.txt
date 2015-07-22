@@ -1,7 +1,7 @@
 #2365 - Tekke
 
-owner = PER
-controller = PER
+owner = ACA
+controller = ACA
 culture = ionic_greek
 religion = hellenism
 capital = "Attalia"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 citysize = 1800
 fort1 = yes
-add_core = PER
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

@@ -1,7 +1,7 @@
 #317 - Bursa
 
-owner = PER
-controller = PER
+owner = ACA
+controller = ACA
 culture = ionic_greek
 religion = hellenism
 capital = "Nicaea"
@@ -12,7 +12,7 @@ base_production = 7
 base_manpower = 4
 citysize = 2589
 fort1 = yes
-add_core = PER
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

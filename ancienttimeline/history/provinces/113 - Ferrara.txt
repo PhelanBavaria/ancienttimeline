@@ -1,9 +1,9 @@
 #113 - Ferrara
 
-owner = ROM
-controller = ROM
-culture = etruscan
-religion = hellenism
+owner = ILG
+controller = ILG
+culture = gallian
+religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
@@ -11,7 +11,7 @@ trade_goods = salt
 base_manpower = 2
 capital = "Patavium" 
 citysize = 1700
-add_core = ROM
+add_core = ILG
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

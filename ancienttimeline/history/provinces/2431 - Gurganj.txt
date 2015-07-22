@@ -1,8 +1,8 @@
-#441 - Khiva
+#2431 - Gurganj
 
-owner = KHW
-controller = KHW
-add_core = KHW
+owner = ACA
+controller = ACA
+add_core = ACA
 citysize = 1000
 culture = uzbehk
 religion = zoroastrian

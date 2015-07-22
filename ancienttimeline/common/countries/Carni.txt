@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 142  50  61 }
+color = { 148  36  242 }
 
 historical_idea_groups = {
 	early_religious_ideas

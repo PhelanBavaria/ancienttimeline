@@ -1,7 +1,7 @@
 #355 - Sirt
 
-owner = ROM
-controller = ROM
+owner = CTH
+controller = CTH
 culture = tuareg
 religion = african
 capital = "Arae Philaenorum"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 1000
-add_core = ROM
+add_core = CTH
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
