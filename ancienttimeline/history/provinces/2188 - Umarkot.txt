@@ -1,7 +1,5 @@
-#504 - Sind
+#2188 - Umarkot
 
-owner = IPA
-controller = IPA
 culture = sindhi
 religion = hinduism
 capital = "Umarkot"
@@ -11,7 +9,6 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 citysize = 3339
-add_core = IPA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

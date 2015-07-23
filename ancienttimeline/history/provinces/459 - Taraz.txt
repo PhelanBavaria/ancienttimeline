@@ -1,5 +1,7 @@
 #459 - Chuy
 
+owner = ACA
+controller = ACA
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Chuy"
@@ -8,6 +10,7 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 2
+add_core = ACA
 discovered_by = chinese
 discovered_by = muslim
 discovered_by = ottoman

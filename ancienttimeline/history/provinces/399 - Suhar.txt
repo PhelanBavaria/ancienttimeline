@@ -27,4 +27,5 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-4450.1.1 = { owner = MSQ controller = MSQ add_core = MSQ remove_core = MAG }
+4450.1.1 = { owner = ACA controller = ACA add_core = ACA remove_core = MAG }
+4670.7.17 = { owner = MSQ controller = MSQ add_core = MSQ remove_core = ACA }

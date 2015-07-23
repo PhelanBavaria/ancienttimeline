@@ -1,7 +1,7 @@
-#508 - Jammu
+#508 - Kashmir
 
-owner = KSH
-controller = KSH
+owner = ACA
+controller = ACA
 culture = kashmiri
 religion = mahayana
 capital = "Skardu"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 1100
-add_core = KSH
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

@@ -1,4 +1,4 @@
-#412 - Khuzestan
+#2278 - Ilam
 
 owner = ELA
 controller = ELA
@@ -17,4 +17,6 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = indian
 fort_15th = yes
+
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 

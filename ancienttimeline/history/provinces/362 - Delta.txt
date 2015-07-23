@@ -1,7 +1,7 @@
 #362 - Delta
 
-owner = ROM
-controller = ROM
+owner = ACA
+controller = ACA
 culture = al_misr_arabic
 religion = hellenism
 capital = "Rosetta"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 citysize = 4270
 fort1 = yes
-add_core = ROM
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

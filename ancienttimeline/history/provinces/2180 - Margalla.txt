@@ -1,7 +1,7 @@
-#507 - Lahore
+#2180 - Margalla
 
-owner = IGR
-controller = IGR
+owner = ACA
+controller = ACA
 culture = panjabi
 religion = hinduism
 capital = "Rawalpindi"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 citysize = 2182
-add_core = IGR
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #505 - Bakkar
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = sindhi
 religion = hinduism
 capital = "Bhakkar"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 2235
-add_core = IPA
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

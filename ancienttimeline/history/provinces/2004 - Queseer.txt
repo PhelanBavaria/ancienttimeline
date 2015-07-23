@@ -1,8 +1,8 @@
 #2004 - Al Qusayr
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = ACA
+controller = ACA
+add_core = ACA
 culture = nubian #beja
 religion = egyptian
 capital = "Quseir"

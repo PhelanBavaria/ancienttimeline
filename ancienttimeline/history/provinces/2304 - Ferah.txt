@@ -1,7 +1,7 @@
-#435 - Sistan
+#2304 - Ferah
 
-owner = PRT
-controller = PRT
+owner = ACA
+controller = ACA
 culture = khorasani
 religion = zunism
 capital = "Ferah"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 citysize = 1259
-add_core = PRT
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

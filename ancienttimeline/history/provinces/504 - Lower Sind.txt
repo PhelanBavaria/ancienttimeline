@@ -1,7 +1,7 @@
 #504 - Sind
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = sindhi
 religion = hinduism
 capital = "Thatta"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 citysize = 3339
-add_core = IPA
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

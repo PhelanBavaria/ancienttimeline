@@ -1,8 +1,8 @@
 #454 - Samarkand
 
-owner = KUS
-controller = KUS
-culture = uzbehk
+owner = ACA
+controller = ACA
+culture = uzbek
 religion = mahayana
 capital = "Samarkand"
 trade_goods = spices
@@ -11,7 +11,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 7
 citysize = 2211
-add_core = KUS
+add_core = ACA
 fort1 = yes
 discovered_by = muslim
 discovered_by = ottoman

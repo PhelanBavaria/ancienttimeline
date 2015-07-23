@@ -1,7 +1,7 @@
-#508 - Jammu
+#2122 - Jammu
 
-owner = KSH
-controller = KSH
+owner = ACA
+controller = ACA
 culture = kashmiri
 religion = mahayana
 capital = "Srinagar"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 1100
-add_core = KSH
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

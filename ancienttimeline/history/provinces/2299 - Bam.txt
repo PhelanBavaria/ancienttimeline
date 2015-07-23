@@ -1,7 +1,7 @@
-#432 - Kerman
+#2299 - Bam
 
-owner = PRT
-controller = PRT
+owner = ACA
+controller = ACA
 culture = persian
 religion = zoroastrian
 capital = "Bam"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 2217
-add_core = PRT
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

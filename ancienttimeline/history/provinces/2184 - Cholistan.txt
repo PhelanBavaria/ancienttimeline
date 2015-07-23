@@ -1,7 +1,7 @@
 #506 - Multan
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = panjabi
 religion = hinduism
 capital = "Uch"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 3396
-add_core = IPA
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

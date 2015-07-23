@@ -1,7 +1,7 @@
-#356 - Cyrenaica
+#2517 - Darnah
 
-owner = ROM
-controller = ROM
+owner = ACA
+controller = ACA
 culture = al_misr_arabic
 religion = hellenism
 capital = "Darnis"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 2135
-add_core = ROM
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

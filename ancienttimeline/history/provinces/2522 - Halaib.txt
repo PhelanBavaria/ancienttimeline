@@ -1,4 +1,4 @@
-#2004 - Al Qusayr
+#2522 - Halaib
 
 owner = BLE
 controller = BLE

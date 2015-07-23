@@ -2,7 +2,7 @@
 
 owner = ACA
 controller = ACA
-culture = uzbehk
+culture = uzbek
 religion = zoroastrian
 capital = "Urgench"
 trade_goods = grain

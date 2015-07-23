@@ -1,8 +1,8 @@
 #456 - Turkestan
 
-owner = KGJ
-controller = KGJ
-add_core = KGJ
+owner = ACA
+controller = ACA
+add_core = ACA
 citysize = 1000
 culture = khazak
 religion = tengri_pagan_reformed

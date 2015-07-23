@@ -1,7 +1,7 @@
-#578 - Kohistan
+#2182 - Sind Sagar
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = panjabi
 religion = hinduism
 capital = "Karor"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 citysize = 2237
 fort1 = yes
-add_core = IPA
+add_core = ACA
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

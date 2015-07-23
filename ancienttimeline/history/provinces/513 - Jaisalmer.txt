@@ -1,7 +1,5 @@
 #513 - Jaisalmer
 
-owner = IPA
-controller = IPA
 culture = rajput
 religion = hinduism
 capital = "Devgarh"
@@ -11,7 +9,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 1078
-add_core = IPA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

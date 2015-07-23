@@ -1,7 +1,7 @@
 #507 - Lahore
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = panjabi
 religion = hinduism
 capital = "Lahore"
@@ -11,7 +11,7 @@ base_tax = 11
 base_production = 12
 base_manpower = 5
 citysize = 2182
-add_core = IPA
+add_core = ACA
 fort_15th = yes
 discovered_by = indian
 discovered_by = muslim

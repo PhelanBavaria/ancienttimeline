@@ -1,7 +1,7 @@
-#505 - Bakkar
+#2186 - Sehwan
 
-owner = IPA
-controller = IPA
+owner = ACA
+controller = ACA
 culture = sindhi
 religion = hinduism
 capital = "Sehwan"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 2235
-add_core = IPA
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim

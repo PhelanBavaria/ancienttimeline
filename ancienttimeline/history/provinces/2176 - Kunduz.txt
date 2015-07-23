@@ -1,5 +1,7 @@
-owner = KUS
-controller = KUS
+#2176 - Kunduz
+
+owner = ACA
+controller = ACA
 culture = afghani
 religion = mahayana
 capital = "Kunduz"
@@ -9,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 citysize = 1000
-add_core = KUS
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

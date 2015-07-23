@@ -1,7 +1,7 @@
 #445 - Marv
 
-owner = KUS
-controller = KUS
+owner = ACA
+controller = ACA
 culture = turkmeni
 religion = zoroastrian
 capital = "Merv"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1000
-add_core = KUS
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

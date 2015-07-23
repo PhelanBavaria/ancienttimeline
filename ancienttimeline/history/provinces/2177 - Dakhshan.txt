@@ -1,5 +1,7 @@
-owner = KUS
-controller = KUS
+#2177 - Dakhshan
+
+owner = ACA
+controller = ACA
 culture = kashmiri
 religion = mahayana
 capital = "Jauz Gun"
@@ -9,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 1100
-add_core = KUS
+add_core = ACA
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim
