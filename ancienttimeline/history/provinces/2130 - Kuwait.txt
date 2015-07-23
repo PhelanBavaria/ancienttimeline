@@ -1,4 +1,4 @@
-#408 - Basra
+#2130 - Kuwait
 
 owner = SUM
 controller = SUM
@@ -19,3 +19,4 @@ discovered_by = nomad_group
 
 2666.1.1 = { owner = AKK controller = AKK add_core = AKK }
 2807.1.1 = { owner = SUM controller = SUM add_core = SUM remove_core = AKK }
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA remove_core = SUM }
