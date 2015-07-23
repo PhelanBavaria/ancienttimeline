@@ -1,9 +1,5 @@
 #620 - Siak
 
-owner = KNT
-controller = KNT
-add_core = KNT
-citysize = 1000
 culture = sumatran
 religion = mahayana
 capital = "Siak"

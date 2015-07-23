@@ -1,9 +1,5 @@
 #599 - Kelantan
 
-owner = LGK
-controller = LGK
-add_core = LGK
-citysize = 1000
 culture = malayan
 religion = hinduism
 capital = "Kelantan"

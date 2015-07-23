@@ -1,7 +1,5 @@
 #1815 - Hyuga
 
-owner = MNX
-controller = MNX
 culture = mon
 religion = buddhism
 capital = "Pathein"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-citysize = 5760
-add_core = MNX
-fort1 = yes
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

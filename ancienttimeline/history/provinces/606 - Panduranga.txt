@@ -1,7 +1,5 @@
 #606 - Panduranga
 
-owner = FUN
-controller = FUN
 culture = cham
 religion = hinduism
 capital = "Panduranga"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-fort1 = yes
-citysize = 4317
-add_core = FUN
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

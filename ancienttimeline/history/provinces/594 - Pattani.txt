@@ -1,9 +1,5 @@
 #594 - Pattani
 
-owner = LGK
-controller = LGK
-add_core = LGK
-citysize = 2100
 culture = malayan
 religion = hinduism
 capital = "Pattani"

@@ -1,7 +1,5 @@
 #585 - Toungoo
 
-owner = PYU
-controller = PYU
 culture = burmese
 religion = mahayana
 capital = "Sri Ksetra"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 6
 base_production = 6
 base_manpower = 4
-fort1 = yes
-citysize = 4481
-add_core = PYU
 discovered_by = chinese
 discovered_by = indian
 

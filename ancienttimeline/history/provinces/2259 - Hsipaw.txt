@@ -1,7 +1,5 @@
 #583 - Hsenwi
 
-owner = PYU
-controller = PYU
 culture = shan
 religion = mahayana
 capital = "Hsipaw"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-fort1 = yes
-citysize = 1125
-add_core = PYU
 discovered_by = chinese
 discovered_by = indian
 

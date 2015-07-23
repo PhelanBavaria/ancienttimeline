@@ -1,7 +1,5 @@
 #591 - Tenasserim
 
-owner = MNX
-controller = MNX
 culture = mon
 religion = mahayana
 capital = "Tavoy"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-citysize = 1107
-add_core = MNX
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

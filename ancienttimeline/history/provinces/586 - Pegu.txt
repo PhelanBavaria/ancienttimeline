@@ -1,7 +1,5 @@
 #586 - Pegu
 
-owner = MNX
-controller = MNX
 culture = mon
 religion = buddhism
 capital = "Pegu"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 4
-fort1 = yes
-citysize = 6007
-add_core = MNX
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

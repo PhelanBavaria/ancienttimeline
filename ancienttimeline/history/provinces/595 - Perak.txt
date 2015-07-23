@@ -1,9 +1,5 @@
 #595 - Perak
 
-owner = KED
-controller = KED
-add_core = KED
-citysize = 1000
 culture = malayan
 religion = hinduism
 capital = "Perak"

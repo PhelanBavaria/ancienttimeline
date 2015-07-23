@@ -1,7 +1,5 @@
 #605 - Prey Nokor
 
-owner = FUN
-controller = FUN
 culture = khmer
 religion = hinduism
 capital = "Prey Nokor"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-citysize = 3264
-add_core = FUN
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
