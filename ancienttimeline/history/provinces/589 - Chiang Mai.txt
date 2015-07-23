@@ -1,7 +1,5 @@
 #589 - Chiang Mai
 
-owner = MNX
-controller = MNX
 culture = northern_thai
 religion = mahayana
 capital = "Lamphun"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-citysize = 4750
-add_core = MNX
-fort1 = yes
 discovered_by = chinese
 discovered_by = indian
 

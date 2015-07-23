@@ -1,7 +1,7 @@
 #547 - Bastar
 
-owner = SAT
-controller = SAT
+owner = KAL
+controller = KAL
 culture = gondi
 religion = mahayana
 capital = "Raipur"
@@ -11,8 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 citysize = 2318
-add_core = SAT
-fort1 = yes
+add_core = KAL
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
