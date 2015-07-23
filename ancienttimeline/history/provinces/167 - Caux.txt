@@ -1,8 +1,8 @@
 # 167 Caux - Principal cities: Rouen
 
-owner = ROM
-controller = ROM
-capital = "Rotomagus"
+owner = CLT
+controller = CLT
+capital = "Caracotinum"
 citysize = 3500
 culture = gallian
 religion = druidism
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 trade_goods = cloth
 base_manpower = 5
-add_core = ROM
+add_core = CLT
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

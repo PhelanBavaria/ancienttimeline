@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = belgae
+religion = druidism
+technology_group = celtiberians
+capital = 89  # Picardie

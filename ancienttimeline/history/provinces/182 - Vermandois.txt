@@ -1,7 +1,7 @@
 # 182 Vermandois - Principal cities: Compiègne
 
-owner = ROM
-controller = ROM
+owner = BLL
+controller = BLL
 capital = "Noviomagus Veromanduorum"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 4
-add_core = ROM
+add_core = BLL
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

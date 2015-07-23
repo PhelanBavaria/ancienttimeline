@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 148  74  133 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_adm_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+}
+
+monarch_names = {
+	"Abucatos #0" = 10
+	"Acco #0" = 10
+	"Acichorius #0" = 10
+	"Adgennorix #0" = 10
+	"Adiatuanos #0" = 10
+	"Ambicatos #0" = 10
+	"Ambiorix #0" = 10
+	"Andecombogios #0" = 10
+	"Aneroestes #0" = 10
+	"Antaros #0" = 10
+	"Apotouros #0" = 10
+	"Atis #0" = 10
+	"Bathannatos #0" = 10
+	"Bellovesos #0" = 10
+	"Bituitis #0" = 10
+	"Boduognatos #0" = 10
+	"Boiorix #0" = 10
+	"Bolgios #0" = 10
+	"Brancos #0" = 10
+	"Brennos #0" = 10
+	"Britomaros #0" = 10
+	"Caburos #0" = 10
+	"Cambaules #0" = 10
+	"Camulogenos #0" = 10
+	"Casticos #0" = 10
+	"Catamantaloedis #0" = 10
+	"Catugnatos #0" = 10
+	"Catuvolcos #0" = 10
+	"Cauros #0" = 10
+	"Cavarillos #0" = 10
+	"Celtillos #0" = 10
+	"Cerethrios #0" = 10
+	"Ciderios #0" = 10
+	"Cincibilos #0" = 10
+	"Cingetorix #0" = 10
+	"Claodicos #0" = 10
+	"Comantorios #0" = 10
+	"Concolitanos #0" = 10
+	"Conconnetodumnos #0" = 10
+	"Connos #0" = 10
+	"Convictolitavis #0" = 10
+	"Corsignatos #0" = 10
+	"Cotos #0" = 10
+	"Critognatos #0" = 10
+	"Crixos #0" = 10
+	"Divico #0" = 10
+	"Divitiacos #0" = 10
+	"Drappes #0" = 10
+	"Ducarios #0" = 10
+	"Dumnacos #0" = 10
+	"Dumnorix #0" = 10
+	"Dumnatauros #0" = 10
+	"Duratios #0" = 10
+	"Elitovios #0" = 10
+	"Epasnactos #0" = 10
+	"Eporedorix #0" = 10
+	"Gaesorix #0" = 10
+	"Galatos #0" = 10
+	"Galba #0" = 10
+	"Gobannitio #0" = 10
+	"Gutuater #0" = 10
+	"Helicon #0" = 10
+	"Iccios #0" = 10
+	"Indotiomaros #0" = 10
+	"Ivorix #0" = 10
+	"Litaviccos #0" = 10
+	"Louernios #0" = 10
+	"Lucterios #0" = 10
+	"Megalos #0" = 10
+	"Moenicoeptos #0" = 10
+	"Molistomos #0" = 10
+	"Moritasgos #0" = 10
+	"Nammeios #0" = 10
+	"Nannos #0" = 10
+	"Ollovico #0" = 10
+	"Orgetorix #0" = 10
+	"Piso #0" = 10
+	"Sedullos #0" = 10
+	"Sigovesos #0" = 10
+	"Tasgetios #0" = 10
+	"Teutomatos #0" = 10
+	"Valetiacos #0" = 10
+	"Vercassivellaunos #0" = 10
+	"Vercingetorix #0" = 10
+	"Vertico #0" = 10
+	"Vertiscos #0" = 10
+	"Verucloetios #0" = 10
+	"Viridovix #0" = 10
+	"Viridomaros #0" = 10
+	"Vismaros #0" = 10
+	"Voccio #0" = 10
+}
+
+leader_names = {
+    Abucatos Acco Acichorius Adgennorix Adiatuanos Ambicatos Ambiorix Andecombogios Aneroestes Antaros Apotouros Atis Bathannatos Bellovesos Bituitis Boduognatos Boiorix Bolgios Brancos Brennos Britomaros Caburos Cambaules Camulogenos Casticos Catamantaloedis Catugnatos Catuvolcos Cauros Cavarillos Celtillos Cerethrios Ciderios Cincibilos Cingetorix Claodicos Comantorios Concolitanos Conconnetodumnos Connos Convictolitavis Corsignatos Cotos Critognatos Crixos Divico Divitiacos Drappes Ducarios Dumnacos Dumnorix Dumnatauros Duratios Elitovios Epasnactos Eporedorix Gaesorix Galatos Galba Gobannitio Gutuater Helicon Iccios Indotiomaros Ivorix Litaviccos Louernios Lucterios Megalos Moenicoeptos Molistomos Moritasgos Nammeios Nannos Ollovico Orgetorix Piso Sedullos Sigovesos Tasgetios Teutomatos Valetiacos Vercassivellaunos Vercingetorix Vertico Vertiscos Verucloetios Viridovix Viridomaros Vismaros Voccio
+}
+
+ship_names = {
+	Abandinus Abellio Abelio Alaunus Alisanos Ambisagrus Anextiomarus Ankou Atepomarus Arvernus Arausio Barinthus Belenus Borvo Borrum Buxenus Camulus Canetonnessis Cernunnos Cicolluis Cimbrianus Cissonius Cnabetius Cocidius Condatis Contrebis "Dii Cassis" "Dis Pater" Esus Fagus "Genii Cucullati" Grannus Intarabus Iovantucarus Lenus Leucetios Lugus Luxovius Maponos Mogons Moritasgus Mullo Nemausus Nerius Nodens Ogmios Robor Rudianos Segomo Smertrios Sucellos Taranis Toutatis Caturix Tridamos Veteris Virotutis Visucius Vindonnus Vinotonus Vosegus
+}
+

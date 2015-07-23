@@ -1,8 +1,8 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = ROM
-controller = ROM
-capital = "Nemetocenna"
+owner = ATE
+controller = ATE
+capital = "Nematacum"
 citysize = 5000
 culture = belgae
 religion = druidism
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-add_core = ROM
+add_core = ATE
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

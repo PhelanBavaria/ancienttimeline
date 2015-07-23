@@ -1,17 +1,17 @@
 # 1743 Cambray
 
-owner = ROM
-controller = ROM
+owner = VIR
+controller = VIR
 capital = "Bagacum"
 citysize = 1000
 culture = belgae
-religion = germanic
+religion = druidism
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-add_core = ROM
+add_core = VIR
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

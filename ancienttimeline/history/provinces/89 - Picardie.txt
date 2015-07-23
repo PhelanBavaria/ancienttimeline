@@ -1,7 +1,7 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = ROM
-controller = ROM 
+owner = AMI
+controller = AMI 
 capital = "Ambianum"
 citysize = 1500
 culture = belgae
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 5
-add_core = ROM
+add_core = AMI
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean
