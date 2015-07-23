@@ -1,0 +1,40 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = berber
+religion = african
+technology_group = middle_eastern
+capital = 340
+
+2.1.1 = {
+	monarch = {
+		name = "Masinissa"
+		dynasty = "Ptolemaic"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2.1.1 = {
+	heir = {
+		name = "Micipsa "
+		monarch_name = "Ptolemy"
+		dynasty = "Ptolemaic"
+		birth_date = 2.1.1
+		death_date = 40.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+23.1.1 = {
+	monarch = {
+		name = "Ptolemy"
+		dynasty = "Ptolemaic"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

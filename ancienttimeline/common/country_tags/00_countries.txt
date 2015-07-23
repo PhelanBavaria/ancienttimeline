@@ -164,7 +164,7 @@ DMT	= "countries/Dmt.txt"
 EGY 	= "countries/Egypt.txt"
 MEO	= "countries/Meroe.txt"
 MRN	= "countries/Mauretania.txt"
-NUM = "countries/Numidia.txt"
+NMD = "countries/Numidia.txt"
 		
 #Central Asia
 HOT	= "countries/Hotan.txt"
