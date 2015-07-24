@@ -122,3 +122,133 @@ capital = 2007
 		mil = 4
 	}
 }
+
+4552.1.1 = {
+	monarch = {
+		name = "Perdiccas"
+		dynasty = "Argead"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+4587.1.1 = {
+	monarch = {
+		name = "Archelaus"
+		dynasty = "Argead"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4601.1.1 = {
+	monarch = {
+		name = "Craterus"
+		dynasty = "Argead"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+4601.1.5 = {
+	monarch = {
+		name = "Orestes"
+		dynasty = "Argead"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+4604.1.1 = {
+	monarch = {
+		name = "Archelaus"
+		dynasty = "Argead"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+4607.1.1 = {
+	monarch = {
+		name = "Amyntas"
+		dynasty = "Argead"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+4607.1.2 = {
+	monarch = {
+		name = "Pausanias"
+		dynasty = "Argead"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4607.7.1 = {
+	monarch = {
+		name = "Amyntas"
+		dynasty = "Argead"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+4630.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Argead"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+4632.1.1 = {
+	monarch = {
+		name = "Perdiccas"
+		dynasty = "Argead"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4641.1.1 = {
+	monarch = {
+		name = "Amyntas"
+		dynasty = "Argead"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4644.1.1 = {
+	monarch = {
+		name = "Philip"
+		dynasty = "Argead"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+4664.10.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Argead"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
