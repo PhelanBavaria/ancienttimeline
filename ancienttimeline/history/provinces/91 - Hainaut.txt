@@ -1,7 +1,7 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
 
-owner = ROM
-controller = ROM
+owner = NER
+controller = NER
 capital = "Tornacum"
 citysize = 2000
 culture = belgae
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-add_core = ROM
+add_core = NER
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

@@ -1,17 +1,17 @@
 # 92 Brabant - Principal cities: Brussel & Mechelen
 
-owner = ROM
-controller = ROM 
+owner = TOX
+controller = TOX 
 capital = "Lovanium"
 citysize = 1500
 culture = belgae
-religion = germanic
+religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = cloth
 base_manpower = 4
-add_core = ROM
+add_core = TOX
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

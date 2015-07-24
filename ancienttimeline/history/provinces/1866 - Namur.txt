@@ -1,17 +1,17 @@
 # 1866 -- Namur
 
-owner = ROM
-controller = ROM
+owner = NER
+controller = NER
 capital = "Vodgoriacum"
 citysize = 1300
 culture = belgae
-religion = germanic
+religion = druidism
 hre = no
 base_tax = 7
 base_production = 7
 trade_goods = iron
 base_manpower = 3
-add_core = ROM
+add_core = NER
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

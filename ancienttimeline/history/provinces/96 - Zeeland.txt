@@ -1,17 +1,17 @@
 # 96 Zeeland - Principal cities: Middelburg, Vlissingen & Zierikzee
 
-owner = ROM
-controller = ROM
+owner = MEA
+controller = MEA
 capital = "Lugdunum Batavorum"
 citysize = 1000
-culture = dutch
-religion = germanic
+culture = belgae
+religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = salt
 base_manpower = 3
-add_core = ROM
+add_core = MEA
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

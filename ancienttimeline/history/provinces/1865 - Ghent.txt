@@ -1,17 +1,17 @@
 # 1865 - Ghent
 
-owner = ROM
-controller = ROM
+owner = NER
+controller = NER
 capital = "Cortoriacum"
 citysize = 2500
 culture = belgae
-religion = germanic
+religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = cloth
 base_manpower = 3
-add_core = ROM
+add_core = NER
 unrest = 4
 discovered_by = eastern
 discovered_by = mediterranean

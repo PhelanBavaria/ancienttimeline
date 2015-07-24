@@ -1,7 +1,7 @@
 # 90 Vlaanderen - Principal cities: Brugge
 
-owner = ROM
-controller = ROM
+owner = MOI
+controller = MOI
 capital = "Viroviacum"
 citysize = 20000
 culture = belgae
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-add_core = ROM
+add_core = MOI
 fort1 = yes
 discovered_by = eastern
 discovered_by = mediterranean
