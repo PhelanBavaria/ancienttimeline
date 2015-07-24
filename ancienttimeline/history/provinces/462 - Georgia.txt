@@ -1,8 +1,8 @@
 #462 - Georgia
 
-owner = PON
-controller = PON
-add_core = PON
+owner = ACA
+controller = ACA
+add_core = ACA
 citysize = 1000
 culture = georgian
 religion = hellenism

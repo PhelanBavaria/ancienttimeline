@@ -1,7 +1,7 @@
 #331 - Erserum
 
-owner = ARM
-controller = ARM
+owner = ACA
+controller = ACA
 culture = armenian
 religion = hellenism
 capital = "Erserum"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 citysize = 3142
-add_core = ARM
+add_core = ACA
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = muslim

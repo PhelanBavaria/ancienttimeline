@@ -1,4 +1,4 @@
-#327 - Adana
+#2367 - Antioch
 
 owner = ALL
 controller = ALL
@@ -22,3 +22,4 @@ discovered_by = muslim
 discovered_by = ottoman
 
 3190.1.1 = { owner = YMH controller = YMH add_core = YMH }
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

@@ -27,4 +27,4 @@ discovered_by = nomad_group
 		duration = -1
 	}
 }
-
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

@@ -1,7 +1,7 @@
 #419 - Armenia
 
-owner = ARM
-controller = ARM
+owner = ACA
+controller = ACA
 culture = armenian
 religion = hellenism
 capital = "Vagharshpat"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 1640
-add_core = ARM 
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

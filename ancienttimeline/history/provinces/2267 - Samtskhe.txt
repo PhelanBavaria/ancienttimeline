@@ -1,7 +1,7 @@
-#331 - Erserum
+#2267 - Samtskhe
 
-owner = ARM
-controller = ARM
+owner = ACA
+controller = ACA
 culture = armenian
 religion = hellenism
 capital = "Kars"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 3142
-add_core = ARM
+add_core = ACA
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = muslim

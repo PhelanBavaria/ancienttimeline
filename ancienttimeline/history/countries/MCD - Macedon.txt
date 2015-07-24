@@ -12,3 +12,113 @@ primary_culture = attic_greek
 religion = hellenism
 technology_group = mediterranean
 capital = 2007
+
+4192.1.1 = {
+	monarch = {
+		name = "Karanus"
+		dynasty = "Argead"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4222.1.1 = {
+	monarch = {
+		name = "Koinus"
+		dynasty = "Argead"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4250.1.1 = {
+	monarch = {
+		name = "Tyrimmas"
+		dynasty = "Argead"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+4300.1.1 = {
+	monarch = {
+		name = "Perdiccas"
+		dynasty = "Argead"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4322.1.1 = {
+	monarch = {
+		name = "Argaeus"
+		dynasty = "Argead"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4360.1.1 = {
+	monarch = {
+		name = "Philip"
+		dynasty = "Argead"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4398.1.1 = {
+	monarch = {
+		name = "Aeropus"
+		dynasty = "Argead"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4424.1.1 = {
+	monarch = {
+		name = "Alcetas"
+		dynasty = "Argead"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+4453.1.1 = {
+	monarch = {
+		name = "Amyntas"
+		dynasty = "Argead"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4502.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Argead"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+4546.1.1 = {
+	monarch = {
+		name = "Alcetas"
+		dynasty = "Argead"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

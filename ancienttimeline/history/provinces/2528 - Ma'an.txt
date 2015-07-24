@@ -29,4 +29,5 @@ discovered_by = MLI
 discovered_by = SFA
 
 3900.1.1 = { owner = EDO controller = EDO add_core = EDO citysize = 3000 trade_goods = wool }
-4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = EDO }
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA remove_core = EDO }
+4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = ACA }

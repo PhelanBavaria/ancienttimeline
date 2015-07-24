@@ -29,5 +29,6 @@ discovered_by = MLI
 discovered_by = SFA
 
 3700.1.1 = { owner = MOA controller = MOA add_core = MOA citysize = 3000 trade_goods = grain }
-4600.1.1 = { owner = QED controller = QED add_core = QED remove_core = MOA }
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA remove_core = MOA }
+4668.10.15 = { owner = QED controller = QED add_core = QED remove_core = ACA }
 4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = QED }

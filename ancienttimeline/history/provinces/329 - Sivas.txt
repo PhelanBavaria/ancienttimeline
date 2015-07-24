@@ -1,7 +1,7 @@
 #329 - Sivas
 
-owner = PON
-controller = PON
+owner = ACA
+controller = ACA
 culture = pontic_greek
 religion = hellenism
 capital = "Sebasteia"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 citysize = 1260
-add_core = PON
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

@@ -1,7 +1,7 @@
-#329 - Sivas
+#2268 - Erzincan
 
-owner = ARM
-controller = ARM
+owner = ACA
+controller = ACA
 culture = armenian
 religion = hellenism
 capital = "Arsamosata"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1260
-add_core = ARM
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

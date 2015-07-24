@@ -28,4 +28,5 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-4500.1.1 = { owner = NAB controller = NAB add_core = NAB citysize = 1000 trade_goods = wool }
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA citysize = 1000 trade_goods = wool }
+4668.11.12 = { owner = NAB controller = NAB add_core = NAB remove_core = ACA }

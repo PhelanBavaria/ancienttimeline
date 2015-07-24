@@ -19,3 +19,4 @@ discovered_by = nomad_group
 
 2846.1.1 = { owner = SUM controller = SUM add_core = SUM }
 3106.1.1 = { owner = BAB controller = BAB add_core = BAB remove_core = AKK remove_core = SUM capital = "Babylon" }
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA remove_core = BAB }

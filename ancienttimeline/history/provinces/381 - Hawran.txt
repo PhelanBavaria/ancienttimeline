@@ -32,3 +32,4 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

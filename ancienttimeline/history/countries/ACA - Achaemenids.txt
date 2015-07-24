@@ -12,3 +12,143 @@ primary_culture = persian
 religion = zoroastrian 
 technology_group = middle_eastern
 capital = 409
+
+4441.1.1 = {
+	monarch = {
+		name = "Cyrus"
+		dynasty = "Achaemenid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+4470.1.1 = {
+	monarch = {
+		name = "Cambyses"
+		dynasty = "Achaemenid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4478.2.1 = {
+	monarch = {
+		name = "Bardiya"
+		dynasty = "Achaemenid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4478.5.1 = {
+	monarch = {
+		name = "Darius"
+		dynasty = "Achaemenid"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4515.1.1 = {
+	monarch = {
+		name = "Xerxes"
+		dynasty = "Achaemenid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+4535.1.1 = {
+	monarch = {
+		name = "Artaxerxes"
+		dynasty = "Achaemenid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4576.1.1 = {
+	monarch = {
+		name = "Xerxes"
+		dynasty = "Achaemenid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+4576.2.15 = {
+	monarch = {
+		name = "Sogdianus"
+		dynasty = "Achaemenid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4576.8.30 = {
+	monarch = {
+		name = "Darius"
+		dynasty = "Achaemenid"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+4596.1.1 = {
+	monarch = {
+		name = "Artaxerxes"
+		dynasty = "Achaemenid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4642.1.1 = {
+	monarch = {
+		name = "Artaxerxes"
+		dynasty = "Achaemenid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+4662.1.1 = {
+	monarch = {
+		name = "Artaxerxes"
+		dynasty = "Achaemenid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4664.1.1 = {
+	monarch = {
+		name = "Darius"
+		dynasty = "Achaemenid"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	monarch = {
+		name = "Artaxerxes"
+		dynasty = "Achaemenid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

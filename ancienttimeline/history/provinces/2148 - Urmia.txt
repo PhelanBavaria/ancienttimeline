@@ -1,7 +1,7 @@
 #2148 - Urmia
 
-owner = ARM
-controller = ARM
+owner = ACA
+controller = ACA
 culture = armenian
 religion = hellenism
 capital = "Urmia"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1724
-add_core = ARM
+add_core = ACA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

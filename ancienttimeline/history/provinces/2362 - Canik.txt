@@ -1,7 +1,7 @@
 #2362 - Canik
 
-owner = PON
-controller = PON
+owner = ACA
+controller = ACA
 culture = pontic_greek
 religion = hellenism
 capital = "Polemonion"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 3
 citysize = 1115
 fort1 = yes
-add_core = PON
+add_core = ACA
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
