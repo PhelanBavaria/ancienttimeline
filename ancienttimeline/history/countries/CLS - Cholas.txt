@@ -1,0 +1,2803 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 540
+
+1980.1.1 = {
+	monarch = {
+		name = "Eri Oliyan Vaendhi"
+		dynasty = "Chola"
+		birth_date = 1950.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1990.1.1 = {
+	heir = {
+		name = "Maandhuvaazhi"
+		monarch_name = "Maandhuvaazhi"
+		dynasty = "Chola"
+		birth_date = 1990.1.1
+		death_date = 2055.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+2020.1.1 = {
+	monarch = {
+		name = "Maandhuvaazhi"
+		dynasty = "Chola"
+		birth_date = 1990.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+2025.1.1 = {
+	heir = {
+		name = "El Mei Nannan"
+		monarch_name = "El Mei Nannan"
+		dynasty = "Chola"
+		birth_date = 2025.1.1
+		death_date = 2005.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+2055.1.1 = {
+	monarch = {
+		name = "El Mei Nannan"
+		dynasty = "Chola"
+		birth_date = 2025.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+2055.1.1 = {
+	heir = {
+		name = "Keezhai Kinjuvan"
+		monarch_name = "Keezhai Kinjuvan"
+		dynasty = "Chola"
+		birth_date = 1975.1.1
+		death_date = 2135.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+2005.1.1 = {
+	monarch = {
+		name = "Keezhai Kinjuvan"
+		dynasty = "Chola"
+		birth_date = 1975.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+2105.1.1 = {
+	heir = {
+		name = "Vazhisai Nannan"
+		monarch_name = "Vazhisai Nannan"
+		dynasty = "Chola"
+		birth_date = 2105.1.1
+		death_date = 2190.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2135.1.1 = {
+	monarch = {
+		name = "Vazhisai Nannan"
+		dynasty = "Chola"
+		birth_date = 2105.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2160.1.1 = {
+	heir = {
+		name = "Mei Kiyagusi Aerru"
+		monarch_name = "Mei Kiyagusi Aerru"
+		dynasty = "Chola"
+		birth_date = 2160.1.1
+		death_date = 2200.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+2190.1.1 = {
+	monarch = {
+		name = "Mei Kiyagusi Aerru"
+		dynasty = "Chola"
+		birth_date = 2160.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+2190.1.1 = {
+	heir = {
+		name = "Thizhagan Maandhi"
+		monarch_name = "Thizhagan Maandhi"
+		dynasty = "Chola"
+		birth_date = 2170.1.1
+		death_date = 2230.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+2200.1.1 = {
+	monarch = {
+		name = "Thizhagan Maandhi"
+		dynasty = "Chola"
+		birth_date = 2170.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+2200.1.1 = {
+	heir = {
+		name = "Maandhi Vaelan"
+		monarch_name = "Maandhi Vaelan"
+		dynasty = "Chola"
+		birth_date = 2200.1.1
+		death_date = 2275.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+2230.1.1 = {
+	monarch = {
+		name = "Maandhi Vaelan"
+		dynasty = "Chola"
+		birth_date = 2200.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+2245.1.1 = {
+	heir = {
+		name = "Aai Adumban"
+		monarch_name = "Aai Adumban"
+		dynasty = "Chola"
+		birth_date = 2245.1.1
+		death_date = 2290.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+2275.1.1 = {
+	monarch = {
+		name = "Aai Adumban"
+		dynasty = "Chola"
+		birth_date = 2245.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+2275.1.1 = {
+	heir = {
+		name = "Aai Nedun Jaet Chozha Thagaiyan"
+		monarch_name = "Aai Nedun Jaet Chozha Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2260.1.1
+		death_date = 2320.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+2290.1.1 = {
+	monarch = {
+		name = "Aai Nedun Jaet Chozha Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2260.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+2290.1.1 = {
+	heir = {
+		name = "El Mei Agguvan"
+		monarch_name = "El Mei Agguvan"
+		dynasty = "Chola"
+		birth_date = 2290.1.1
+		death_date = 2350.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+2320.1.1 = {
+	monarch = {
+		name = "El Mei Agguvan"
+		dynasty = "Chola"
+		birth_date = 2290.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+2320.1.1 = {
+	heir = {
+		name = "Mudiko Mei Kaalaiyam Thagaiyan"
+		monarch_name = "Mudiko Mei Kaalaiyam Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2320.1.1
+		death_date = 2355.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+2350.1.1 = {
+	monarch = {
+		name = "Mudiko Mei Kaalaiyam Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2320.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+2350.1.1 = {
+	heir = {
+		name = "Ilangok Keezh Kaalaiyan Thagaiyan"
+		monarch_name = "Ilangok Keezh Kaalaiyan Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2325.1.1
+		death_date = 2370.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+2355.1.1 = {
+	monarch = {
+		name = "Ilangok Keezh Kaalaiyan Thagaiyan"
+		dynasty = "Chola"
+		birth_date = 2325.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+2355.1.1 = {
+	heir = {
+		name = "Kaalaiyan Gudingyan"
+		monarch_name = "Kaalaiyan Gudingyan"
+		dynasty = "Chola"
+		birth_date = 2340.1.1
+		death_date = 2385.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+2370.1.1 = {
+	monarch = {
+		name = "Kaalaiyan Gudingyan"
+		dynasty = "Chola"
+		birth_date = 2340.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+2370.1.1 = {
+	heir = {
+		name = "Nedun Gaalayan Dhagayan"
+		monarch_name = "Nedun Gaalayan Dhagayan"
+		dynasty = "Chola"
+		birth_date = 2355.1.1
+		death_date = 2386.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2385.1.1 = {
+	monarch = {
+		name = "Nedun Gaalayan Dhagayan"
+		dynasty = "Chola"
+		birth_date = 2355.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2385.1.1 = {
+	heir = {
+		name = "Vaengai Nedu Vael Varaiyan"
+		monarch_name = "Vaengai Nedu Vael Varaiyan"
+		dynasty = "Chola"
+		birth_date = 2356.1.1
+		death_date = 2400.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+2386.1.1 = {
+	monarch = {
+		name = "Vaengai Nedu Vael Varaiyan"
+		dynasty = "Chola"
+		birth_date = 2356.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+2386.1.1 = {
+	heir = {
+		name = "Vaet Kaal Kudingyan"
+		monarch_name = "Vaet Kaal Kudingyan"
+		dynasty = "Chola"
+		birth_date = 2370.1.1
+		death_date = 2410.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+2400.1.1 = {
+	monarch = {
+		name = "Vaet Kaal Kudingyan"
+		dynasty = "Chola"
+		birth_date = 2370.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+2400.1.1 = {
+	heir = {
+		name = "Maei Ila Vael Varaiyan"
+		monarch_name = "Maei Ila Vael Varaiyan"
+		dynasty = "Chola"
+		birth_date = 2380.1.1
+		death_date = 2420.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+2410.1.1 = {
+	monarch = {
+		name = "Maei Ila Vael Varaiyan"
+		dynasty = "Chola"
+		birth_date = 2380.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+2410.1.1 = {
+	heir = {
+		name = "Sibi Vendhi"
+		monarch_name = "Sibi Vendhi"
+		dynasty = "Chola"
+		birth_date = 2390.1.1
+		death_date = 2465.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+2420.1.1 = {
+	monarch = {
+		name = "Sibi Vendhi"
+		dynasty = "Chola"
+		birth_date = 2390.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+2435.1.1 = {
+	heir = {
+		name = "Paru Nonji Chaamazhingyan"
+		monarch_name = "Paru Nonji Chaamazhingyan"
+		dynasty = "Chola"
+		birth_date = 2435.1.1
+		death_date = 2475.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+2465.1.1 = {
+	monarch = {
+		name = "Paru Nonji Chaamazhingyan"
+		dynasty = "Chola"
+		birth_date = 2435.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+2465.1.1 = {
+	heir = {
+		name = "Vaeqrartri Chembiya Chozhan"
+		monarch_name = "Vaeqrartri Chembiya Chozhan"
+		dynasty = "Chola"
+		birth_date = 2445.1.1
+		death_date = 2485.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+2475.1.1 = {
+	monarch = {
+		name = "Vaeqrartri Chembiya Chozhan"
+		dynasty = "Chola"
+		birth_date = 2445.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+2475.1.1 = {
+	heir = {
+		name = "Saamazhi Chozhiya Vaelaan"
+		monarch_name = "Saamazhi Chozhiya Vaelaan"
+		dynasty = "Chola"
+		birth_date = 2455.1.1
+		death_date = 2505.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+2485.1.1 = {
+	monarch = {
+		name = "Saamazhi Chozhiya Vaelaan"
+		dynasty = "Chola"
+		birth_date = 2455.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+2485.1.1 = {
+	heir = {
+		name = "Uthi Ven Gaalai Vaelaan"
+		monarch_name = "Uthi Ven Gaalai Vaelaan"
+		dynasty = "Chola"
+		birth_date = 2475.1.1
+		death_date = 2525.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+2505.1.1 = {
+	monarch = {
+		name = "Uthi Ven Gaalai Vaelaan"
+		dynasty = "Chola"
+		birth_date = 2475.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+2505.1.1 = {
+	heir = {
+		name = "Nannan That Kaalai Thagan"
+		monarch_name = "Nannan That Kaalai Thagan"
+		dynasty = "Chola"
+		birth_date = 2495.1.1
+		death_date = 2555.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+2525.1.1 = {
+	monarch = {
+		name = "Nannan That Kaalai Thagan"
+		dynasty = "Chola"
+		birth_date = 2495.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+2525.1.1 = {
+	heir = {
+		name = "Vel Vaen Mindi"
+		monarch_name = "Vel Vaen Mindi"
+		dynasty = "Chola"
+		birth_date = 2525.1.1
+		death_date = 2585.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+2555.1.1 = {
+	monarch = {
+		name = "Vel Vaen Mindi"
+		dynasty = "Chola"
+		birth_date = 2525.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+2555.1.1 = {
+	heir = {
+		name = "Nedun Jembiyan"
+		monarch_name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2555.1.1
+		death_date = 2625.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}
+
+2585.1.1 = {
+	monarch = {
+		name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2555.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}
+
+2595.1.1 = {
+	heir = {
+		name = "Nedu Nonji Vendhi"
+		monarch_name = "Nedu Nonji Vendhi"
+		dynasty = "Chola"
+		birth_date = 2595.1.1
+		death_date = 2670.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2625.1.1 = {
+	monarch = {
+		name = "Nedu Nonji Vendhi"
+		dynasty = "Chola"
+		birth_date = 2595.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2640.1.1 = {
+	heir = {
+		name = "Maei Vael Paqrartri"
+		monarch_name = "Maei Vael Paqrartri"
+		dynasty = "Chola"
+		birth_date = 2640.1.1
+		death_date = 2685.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+2670.1.1 = {
+	monarch = {
+		name = "Maei Vael Paqrartri"
+		dynasty = "Chola"
+		birth_date = 2640.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+2670.1.1 = {
+	heir = {
+		name = "Aai Perun Thoan Nonji"
+		monarch_name = "Aai Perun Thoan Nonji"
+		dynasty = "Chola"
+		birth_date = 2655.1.1
+		death_date = 2725.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+2685.1.1 = {
+	monarch = {
+		name = "Aai Perun Thoan Nonji"
+		dynasty = "Chola"
+		birth_date = 2655.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+2695.1.1 = {
+	heir = {
+		name = "Kudiko Pungi"
+		monarch_name = "Kudiko Pungi"
+		dynasty = "Chola"
+		birth_date = 2695.1.1
+		death_date = 2750.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+2725.1.1 = {
+	monarch = {
+		name = "Kudiko Pungi"
+		dynasty = "Chola"
+		birth_date = 2695.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+2725.1.1 = {
+	heir = {
+		name = "Perun Goep Poguvan"
+		monarch_name = "Perun Goep Poguvan"
+		dynasty = "Chola"
+		birth_date = 2720.1.1
+		death_date = 2805.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+2750.1.1 = {
+	monarch = {
+		name = "Perun Goep Poguvan"
+		dynasty = "Chola"
+		birth_date = 2720.1.1
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+2775.1.1 = {
+	heir = {
+		name = "Koeth Thatrtri"
+		monarch_name = "Koeth Thatrtri"
+		dynasty = "Chola"
+		birth_date = 2775.1.1
+		death_date = 2840.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+2805.1.1 = {
+	monarch = {
+		name = "Koeth Thatrtri"
+		dynasty = "Chola"
+		birth_date = 2775.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+2810.1.1 = {
+	heir = {
+		name = "Vadi Sembiyan"
+		monarch_name = "Vadi Sembiyan"
+		dynasty = "Chola"
+		birth_date = 2810.1.1
+		death_date = 2890.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2840.1.1 = {
+	monarch = {
+		name = "Vadi Sembiyan"
+		dynasty = "Chola"
+		birth_date = 2810.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2860.1.1 = {
+	heir = {
+		name = "Aalam Poguvan"
+		monarch_name = "Aalam Poguvan"
+		dynasty = "Chola"
+		birth_date = 2860.1.1
+		death_date = 2915.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+2890.1.1 = {
+	monarch = {
+		name = "Aalam Poguvan"
+		dynasty = "Chola"
+		birth_date = 2860.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+2890.1.1 = {
+	heir = {
+		name = "Nedun Jembiyan"
+		monarch_name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2885.1.1
+		death_date = 2944.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+2915.1.1 = {
+	monarch = {
+		name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2885.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+2915.1.1 = {
+	heir = {
+		name = "Perum Paeyar Poguvan"
+		monarch_name = "Perum Paeyar Poguvan"
+		dynasty = "Chola"
+		birth_date = 2914.1.1
+		death_date = 2967.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+2944.1.1 = {
+	monarch = {
+		name = "Perum Paeyar Poguvan"
+		dynasty = "Chola"
+		birth_date = 2914.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+2944.1.1 = {
+	heir = {
+		name = "Kadun Jembiyan"
+		monarch_name = "Kadun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2937.1.1
+		death_date = 2985.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+2967.1.1 = {
+	monarch = {
+		name = "Kadun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 2937.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+2967.1.1 = {
+	heir = {
+		name = "Nedun Kathan"
+		monarch_name = "Nedun Kathan"
+		dynasty = "Chola"
+		birth_date = 2955.1.1
+		death_date = 3040.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+2985.1.1 = {
+	monarch = {
+		name = "Nedun Kathan"
+		dynasty = "Chola"
+		birth_date = 2955.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+3010.1.1 = {
+	heir = {
+		name = "Paru Nakkan"
+		monarch_name = "Paru Nakkan"
+		dynasty = "Chola"
+		birth_date = 3010.1.1
+		death_date = 3073.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+3040.1.1 = {
+	monarch = {
+		name = "Paru Nakkan"
+		dynasty = "Chola"
+		birth_date = 3010.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+3043.1.1 = {
+	heir = {
+		name = "Vani Sembiyan"
+		monarch_name = "Vani Sembiyan"
+		dynasty = "Chola"
+		birth_date = 3043.1.1
+		death_date = 3098.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+3073.1.1 = {
+	monarch = {
+		name = "Vani Sembiyan"
+		dynasty = "Chola"
+		birth_date = 3043.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+3073.1.1 = {
+	heir = {
+		name = "Udha Chira Mondhuvan"
+		monarch_name = "Udha Chira Mondhuvan"
+		dynasty = "Chola"
+		birth_date = 3068.1.1
+		death_date = 3125.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+3098.1.1 = {
+	monarch = {
+		name = "Udha Chira Mondhuvan"
+		dynasty = "Chola"
+		birth_date = 3068.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+3098.1.1 = {
+	heir = {
+		name = "Perun Kaththan"
+		monarch_name = "Perun Kaththan"
+		dynasty = "Chola"
+		birth_date = 3095.1.1
+		death_date = 3140.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+3125.1.1 = {
+	monarch = {
+		name = "Perun Kaththan"
+		dynasty = "Chola"
+		birth_date = 3095.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+3125.1.1 = {
+	heir = {
+		name = "Kadun Kandhalan"
+		monarch_name = "Kadun Kandhalan"
+		dynasty = "Chola"
+		birth_date = 3110.1.1
+		death_date = 3201.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+3140.1.1 = {
+	monarch = {
+		name = "Kadun Kandhalan"
+		dynasty = "Chola"
+		birth_date = 3110.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+3171.1.1 = {
+	heir = {
+		name = "Nakka Monjuvan"
+		monarch_name = "Nakka Monjuvan"
+		dynasty = "Chola"
+		birth_date = 3171.1.1
+		death_date = 3214.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+3201.1.1 = {
+	monarch = {
+		name = "Nakka Monjuvan"
+		dynasty = "Chola"
+		birth_date = 3171.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+3201.1.1 = {
+	heir = {
+		name = "Maarko Vael Maandhuvan Aaththikko"
+		monarch_name = "Maarko Vael Maandhuvan Aaththikko"
+		dynasty = "Chola"
+		birth_date = 3184.1.1
+		death_date = 3247.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+3214.1.1 = {
+	monarch = {
+		name = "Maarko Vael Maandhuvan Aaththikko"
+		dynasty = "Chola"
+		birth_date = 3184.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+3217.1.1 = {
+	heir = {
+		name = "Musukunthan Vaendhi"
+		monarch_name = "Musukunthan Vaendhi"
+		dynasty = "Chola"
+		birth_date = 3217.1.1
+		death_date = 3277.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+3247.1.1 = {
+	monarch = {
+		name = "Musukunthan Vaendhi"
+		dynasty = "Chola"
+		birth_date = 3217.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+3247.1.1 = {
+	heir = {
+		name = "Peru Nakkan Thatrtri"
+		monarch_name = "Peru Nakkan Thatrtri"
+		dynasty = "Chola"
+		birth_date = 3247.1.1
+		death_date = 3297.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+3277.1.1 = {
+	monarch = {
+		name = "Peru Nakkan Thatrtri"
+		dynasty = "Chola"
+		birth_date = 3247.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+3277.1.1 = {
+	heir = {
+		name = "Vaer Kaththan"
+		monarch_name = "Vaer Kaththan"
+		dynasty = "Chola"
+		birth_date = 3267.1.1
+		death_date = 3318.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3297.1.1 = {
+	monarch = {
+		name = "Vaer Kaththan"
+		dynasty = "Chola"
+		birth_date = 3267.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3297.1.1 = {
+	heir = {
+		name = "Ambalaththu Irumundruvan"
+		monarch_name = "Ambalaththu Irumundruvan"
+		dynasty = "Chola"
+		birth_date = 3288.1.1
+		death_date = 3360.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+}
+
+3318.1.1 = {
+	monarch = {
+		name = "Ambalaththu Irumundruvan"
+		dynasty = "Chola"
+		birth_date = 3288.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+}
+
+3330.1.1 = {
+	heir = {
+		name = "Kaari Mondhuvan"
+		monarch_name = "Kaari Mondhuvan"
+		dynasty = "Chola"
+		birth_date = 3330.1.1
+		death_date = 3385.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+3360.1.1 = {
+	monarch = {
+		name = "Kaari Mondhuvan"
+		dynasty = "Chola"
+		birth_date = 3330.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+3360.1.1 = {
+	heir = {
+		name = "Vennakkan Thatrtri"
+		monarch_name = "Vennakkan Thatrtri"
+		dynasty = "Chola"
+		birth_date = 3355.1.1
+		death_date = 3435.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+3385.1.1 = {
+	monarch = {
+		name = "Vennakkan Thatrtri"
+		dynasty = "Chola"
+		birth_date = 3355.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+3405.1.1 = {
+	heir = {
+		name = "Maarko Chunthuvan"
+		monarch_name = "Maarko Chunthuvan"
+		dynasty = "Chola"
+		birth_date = 3405.1.1
+		death_date = 3480.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+3435.1.1 = {
+	monarch = {
+		name = "Maarko Chunthuvan"
+		dynasty = "Chola"
+		birth_date = 3405.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+3450.1.1 = {
+	heir = {
+		name = "Vaer Parunthoan Mundruvan"
+		monarch_name = "Vaer Parunthoan Mundruvan"
+		dynasty = "Chola"
+		birth_date = 3450.1.1
+		death_date = 3545.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+3480.1.1 = {
+	monarch = {
+		name = "Vaer Parunthoan Mundruvan"
+		dynasty = "Chola"
+		birth_date = 3450.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+3515.1.1 = {
+	heir = {
+		name = "Udhan Kaththan"
+		monarch_name = "Udhan Kaththan"
+		dynasty = "Chola"
+		birth_date = 3515.1.1
+		death_date = 3560.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+3545.1.1 = {
+	monarch = {
+		name = "Udhan Kaththan"
+		dynasty = "Chola"
+		birth_date = 3515.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+3545.1.1 = {
+	heir = {
+		name = "Kaariko Sunthuvan"
+		monarch_name = "Kaariko Sunthuvan"
+		dynasty = "Chola"
+		birth_date = 3530.1.1
+		death_date = 3604.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+3560.1.1 = {
+	monarch = {
+		name = "Kaariko Sunthuvan"
+		dynasty = "Chola"
+		birth_date = 3530.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+3574.1.1 = {
+	heir = {
+		name = "Vendri Nungunan"
+		monarch_name = "Vendri Nungunan"
+		dynasty = "Chola"
+		birth_date = 3574.1.1
+		death_date = 3624.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+3604.1.1 = {
+	monarch = {
+		name = "Vendri Nungunan"
+		dynasty = "Chola"
+		birth_date = 3574.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+3604.1.1 = {
+	heir = {
+		name = "Mondhuvan Vendhi"
+		monarch_name = "Mondhuvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3594.1.1
+		death_date = 3641.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+3624.1.1 = {
+	monarch = {
+		name = "Mondhuvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3594.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+3624.1.1 = {
+	heir = {
+		name = "Kaandhaman"
+		monarch_name = "Kaandhaman"
+		dynasty = "Chola"
+		birth_date = 3616.1.1
+		death_date = 3663.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+3641.1.1 = {
+	monarch = {
+		name = "Kaandhaman"
+		dynasty = "Chola"
+		birth_date = 3616.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+3641.1.1 = {
+	heir = {
+		name = "Mundruvan Vendhi"
+		monarch_name = "Mundruvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3633.1.1
+		death_date = 3703.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+3663.1.1 = {
+	monarch = {
+		name = "Mundruvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3633.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+3703.1.1 = {
+	monarch = {
+		name = "Kaandhaman"
+		dynasty = "Chola"
+		birth_date = 3616.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+3703.1.1 = {
+	heir = {
+		name = "Monjuvan Vendhi"
+		monarch_name = "Monjuvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3694.1.1
+		death_date = 3741.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+3724.1.1 = {
+	monarch = {
+		name = "Monjuvan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3694.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+3724.1.1 = {
+	heir = {
+		name = "Ani Sembiyan"
+		monarch_name = "Ani Sembiyan"
+		dynasty = "Chola"
+		birth_date = 3711.1.1
+		death_date = 3755.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+3741.1.1 = {
+	monarch = {
+		name = "Ani Sembiyan"
+		dynasty = "Chola"
+		birth_date = 3711.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+3741.1.1 = {
+	heir = {
+		name = "Nungunan Vendhi"
+		monarch_name = "Nungunan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3725.1.1
+		death_date = 3771.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+3755.1.1 = {
+	monarch = {
+		name = "Nungunan Vendhi"
+		dynasty = "Chola"
+		birth_date = 3725.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+3755.1.1 = {
+	heir = {
+		name = "Maarkop Perum Cenni"
+		monarch_name = "Maarkop Perum Cenni"
+		dynasty = "Chola"
+		birth_date = 3741.1.1
+		death_date = 3820.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+3771.1.1 = {
+	monarch = {
+		name = "Maarkop Perum Cenni"
+		dynasty = "Chola"
+		birth_date = 3741.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+3790.1.1 = {
+	heir = {
+		name = "Monjuvan Nanvendhi"
+		monarch_name = "Monjuvan Nanvendhi"
+		dynasty = "Chola"
+		birth_date = 3790.1.1
+		death_date = 3830.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+3820.1.1 = {
+	monarch = {
+		name = "Monjuvan Nanvendhi"
+		dynasty = "Chola"
+		birth_date = 3790.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+3820.1.1 = {
+	heir = {
+		name = "Kop Perunar Chenni"
+		monarch_name = "Kop Perunar Chenni"
+		dynasty = "Chola"
+		birth_date = 3800.1.1
+		death_date = 3855.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+3830.1.1 = {
+	monarch = {
+		name = "Kop Perunar Chenni"
+		dynasty = "Chola"
+		birth_date = 3800.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+3830.1.1 = {
+	heir = {
+		name = "Monthuvan Jembiyan"
+		monarch_name = "Monthuvan Jembiyan"
+		dynasty = "Chola"
+		birth_date = 3825.1.1
+		death_date = 3895.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+3855.1.1 = {
+	monarch = {
+		name = "Monthuvan Jembiyan"
+		dynasty = "Chola"
+		birth_date = 3825.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+3865.1.1 = {
+	heir = {
+		name = "Narchenni"
+		monarch_name = "Narchenni"
+		dynasty = "Chola"
+		birth_date = 3865.1.1
+		death_date = 3905.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+3895.1.1 = {
+	monarch = {
+		name = "Narchenni"
+		dynasty = "Chola"
+		birth_date = 3865.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+3895.1.1 = {
+	heir = {
+		name = "Caet Chembiyan"
+		monarch_name = "Caet Chembiyan"
+		dynasty = "Chola"
+		birth_date = 3875.1.1
+		death_date = 3940.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+3905.1.1 = {
+	monarch = {
+		name = "Caet Chembiyan"
+		dynasty = "Chola"
+		birth_date = 3875.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+3910.1.1 = {
+	heir = {
+		name = "Nakkar Chenni"
+		monarch_name = "Nakkar Chenni"
+		dynasty = "Chola"
+		birth_date = 3910.1.1
+		death_date = 3955.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+3940.1.1 = {
+	monarch = {
+		name = "Nakkar Chenni"
+		dynasty = "Chola"
+		birth_date = 3910.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+3940.1.1 = {
+	heir = {
+		name = "Parun Jembiyan"
+		monarch_name = "Parun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 3925.1.1
+		death_date = 4002.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+3955.1.1 = {
+	monarch = {
+		name = "Parun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 3925.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+3972.1.1 = {
+	heir = {
+		name = "Venjenni"
+		monarch_name = "Venjenni"
+		dynasty = "Chola"
+		birth_date = 3972.1.1
+		death_date = 4011.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+4002.1.1 = {
+	monarch = {
+		name = "Venjenni"
+		dynasty = "Chola"
+		birth_date = 3972.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+4002.1.1 = {
+	heir = {
+		name = "Musugunthan"
+		monarch_name = "Musugunthan"
+		dynasty = "Chola"
+		birth_date = 3981.1.1
+		death_date = 4040.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4011.1.1 = {
+	monarch = {
+		name = "Musugunthan"
+		dynasty = "Chola"
+		birth_date = 3981.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4011.1.1 = {
+	heir = {
+		name = "Maarkop Perun Jembiyan"
+		monarch_name = "Maarkop Perun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4010.1.1
+		death_date = 4065.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+4040.1.1 = {
+	monarch = {
+		name = "Maarkop Perun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4010.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+4040.1.1 = {
+	heir = {
+		name = "Nedunjenni"
+		monarch_name = "Nedunjenni"
+		dynasty = "Chola"
+		birth_date = 4035.1.1
+		death_date = 4085.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+4065.1.1 = {
+	monarch = {
+		name = "Nedunjenni"
+		dynasty = "Chola"
+		birth_date = 4035.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+4065.1.1 = {
+	heir = {
+		name = "Thatchembiyan"
+		monarch_name = "Thatchembiyan"
+		dynasty = "Chola"
+		birth_date = 4055.1.1
+		death_date = 4105.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4085.1.1 = {
+	monarch = {
+		name = "Thatchembiyan"
+		dynasty = "Chola"
+		birth_date = 4055.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4085.1.1 = {
+	heir = {
+		name = "Ambalaththu Iruvaer Chembiyan"
+		monarch_name = "Ambalaththu Iruvaer Chembiyan"
+		dynasty = "Chola"
+		birth_date = 4075.1.1
+		death_date = 4135.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+4105.1.1 = {
+	monarch = {
+		name = "Ambalaththu Iruvaer Chembiyan"
+		dynasty = "Chola"
+		birth_date = 4075.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+4105.1.1 = {
+	heir = {
+		name = "Kaariko Chenni"
+		monarch_name = "Kaariko Chenni"
+		dynasty = "Chola"
+		birth_date = 4105.1.1
+		death_date = 4170.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4135.1.1 = {
+	monarch = {
+		name = "Kaariko Chenni"
+		dynasty = "Chola"
+		birth_date = 4105.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4140.1.1 = {
+	heir = {
+		name = "Venvaer Chenni"
+		monarch_name = "Venvaer Chenni"
+		dynasty = "Chola"
+		birth_date = 4140.1.1
+		death_date = 4212.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4170.1.1 = {
+	monarch = {
+		name = "Venvaer Chenni"
+		dynasty = "Chola"
+		birth_date = 4140.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4182.1.1 = {
+	heir = {
+		name = "Kaandhaman"
+		monarch_name = "Kaandhaman"
+		dynasty = "Chola"
+		birth_date = 4182.1.1
+		death_date = 4279.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4212.1.1 = {
+	monarch = {
+		name = "Kaandhaman"
+		dynasty = "Chola"
+		birth_date = 4182.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4249.1.1 = {
+	heir = {
+		name = "Kaandhalan"
+		monarch_name = "Kaandhalan"
+		dynasty = "Chola"
+		birth_date = 4249.1.1
+		death_date = 4302.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+4279.1.1 = {
+	monarch = {
+		name = "Kaandhalan"
+		dynasty = "Chola"
+		birth_date = 4249.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+4279.1.1 = {
+	heir = {
+		name = "Caetchenni"
+		monarch_name = "Caetchenni"
+		dynasty = "Chola"
+		birth_date = 4272.1.1
+		death_date = 4320.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+4302.1.1 = {
+	monarch = {
+		name = "Caetchenni"
+		dynasty = "Chola"
+		birth_date = 4272.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+4302.1.1 = {
+	heir = {
+		name = "Vani Nungunan"
+		monarch_name = "Vani Nungunan"
+		dynasty = "Chola"
+		birth_date = 4290.1.1
+		death_date = 4360.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+4320.1.1 = {
+	monarch = {
+		name = "Vani Nungunan"
+		dynasty = "Chola"
+		birth_date = 4290.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+4330.1.1 = {
+	heir = {
+		name = "Mudhu Sembiyan Vendhi"
+		monarch_name = "Mudhu Sembiyan Vendhi"
+		dynasty = "Chola"
+		birth_date = 4330.1.1
+		death_date = 4385.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+4360.1.1 = {
+	monarch = {
+		name = "Mudhu Sembiyan Vendhi"
+		dynasty = "Chola"
+		birth_date = 4330.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+4360.1.1 = {
+	heir = {
+		name = "Peelan Jembiyan Chozhiyan"
+		monarch_name = "Peelan Jembiyan Chozhiyan"
+		dynasty = "Chola"
+		birth_date = 4355.1.1
+		death_date = 4410.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4385.1.1 = {
+	monarch = {
+		name = "Peelan Jembiyan Chozhiyan"
+		dynasty = "Chola"
+		birth_date = 4355.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4385.1.1 = {
+	heir = {
+		name = "Maeyan Gadungo"
+		monarch_name = "Maeyan Gadungo"
+		dynasty = "Chola"
+		birth_date = 4380.1.1
+		death_date = 4430.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4410.1.1 = {
+	monarch = {
+		name = "Maeyan Gadungo"
+		dynasty = "Chola"
+		birth_date = 4380.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4410.1.1 = {
+	heir = {
+		name = "Thiththan"
+		monarch_name = "Thiththan"
+		dynasty = "Chola"
+		birth_date = 4400.1.1
+		death_date = 4485.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4430.1.1 = {
+	monarch = {
+		name = "Thiththan"
+		dynasty = "Chola"
+		birth_date = 4400.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4455.1.1 = {
+	heir = {
+		name = "Perunarkilli Porvaiko"
+		monarch_name = "Perunarkilli Porvaiko"
+		dynasty = "Chola"
+		birth_date = 4455.1.1
+		death_date = 4504.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4485.1.1 = {
+	monarch = {
+		name = "Perunarkilli Porvaiko"
+		dynasty = "Chola"
+		birth_date = 4455.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4485.1.1 = {
+	heir = {
+		name = "Kadu Mundruvan"
+		monarch_name = "Kadu Mundruvan"
+		dynasty = "Chola"
+		birth_date = 4474.1.1
+		death_date = 4505.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+4504.1.1 = {
+	monarch = {
+		name = "Kadu Mundruvan"
+		dynasty = "Chola"
+		birth_date = 4474.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+4504.1.1 = {
+	heir = {
+		name = "Kopperunjozhan"
+		monarch_name = "Kopperunjozhan"
+		dynasty = "Chola"
+		birth_date = 4475.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4505.1.1 = {
+	monarch = {
+		name = "Kopperunjozhan"
+		dynasty = "Chola"
+		birth_date = 4475.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4505.1.1 = {
+	heir = {
+		name = "Narkilli Mudiththalai"
+		monarch_name = "Narkilli Mudiththalai"
+		dynasty = "Chola"
+		birth_date = 4490.1.1
+		death_date = 4535.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+}
+
+4520.1.1 = {
+	monarch = {
+		name = "Narkilli Mudiththalai"
+		dynasty = "Chola"
+		birth_date = 4490.1.1
+		adm = 1
+		dip = 5
+		mil = 0
+	}
+}
+
+4520.1.1 = {
+	heir = {
+		name = "Thevvango Chozhan"
+		monarch_name = "Thevvango Chozhan"
+		dynasty = "Chola"
+		birth_date = 4505.1.1
+		death_date = 4545.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4535.1.1 = {
+	monarch = {
+		name = "Thevvango Chozhan"
+		dynasty = "Chola"
+		birth_date = 4505.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4535.1.1 = {
+	heir = {
+		name = "Naran Jembiyan"
+		monarch_name = "Naran Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4515.1.1
+		death_date = 4560.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+
+4545.1.1 = {
+	monarch = {
+		name = "Naran Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4515.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+
+4545.1.1 = {
+	heir = {
+		name = "Nakkam Peela Valavan"
+		monarch_name = "Nakkam Peela Valavan"
+		dynasty = "Chola"
+		birth_date = 4530.1.1
+		death_date = 4590.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+4560.1.1 = {
+	monarch = {
+		name = "Nakkam Peela Valavan"
+		dynasty = "Chola"
+		birth_date = 4530.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+4560.1.1 = {
+	heir = {
+		name = "Iniyan Thevvan Jenni"
+		monarch_name = "Iniyan Thevvan Jenni"
+		dynasty = "Chola"
+		birth_date = 4560.1.1
+		death_date = 4605.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+4590.1.1 = {
+	monarch = {
+		name = "Iniyan Thevvan Jenni"
+		dynasty = "Chola"
+		birth_date = 4560.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+4590.1.1 = {
+	heir = {
+		name = "Varcembiyan"
+		monarch_name = "Varcembiyan"
+		dynasty = "Chola"
+		birth_date = 4575.1.1
+		death_date = 4614.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+4605.1.1 = {
+	monarch = {
+		name = "Varcembiyan"
+		dynasty = "Chola"
+		birth_date = 4575.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+4605.1.1 = {
+	heir = {
+		name = "Nedun Jembiyan"
+		monarch_name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4584.1.1
+		death_date = 4655.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4614.1.1 = {
+	monarch = {
+		name = "Nedun Jembiyan"
+		dynasty = "Chola"
+		birth_date = 4584.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4625.1.1 = {
+	heir = {
+		name = "Nakkan Aran Jozhan"
+		monarch_name = "Nakkan Aran Jozhan"
+		dynasty = "Chola"
+		birth_date = 4625.1.1
+		death_date = 4670.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+4655.1.1 = {
+	monarch = {
+		name = "Nakkan Aran Jozhan"
+		dynasty = "Chola"
+		birth_date = 4625.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+4655.1.1 = {
+	heir = {
+		name = "Ambalathu Irungoch Chenni"
+		monarch_name = "Ambalathu Irungoch Chenni"
+		dynasty = "Chola"
+		birth_date = 4640.1.1
+		death_date = 4684.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4670.1.1 = {
+	monarch = {
+		name = "Ambalathu Irungoch Chenni"
+		dynasty = "Chola"
+		birth_date = 4640.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4670.1.1 = {
+	heir = {
+		name = "Perunarkilli"
+		monarch_name = "Perunarkilli"
+		dynasty = "Chola"
+		birth_date = 4654.1.1
+		death_date = 4714.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4684.1.1 = {
+	monarch = {
+		name = "Perunarkilli"
+		dynasty = "Chola"
+		birth_date = 4654.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4684.1.1 = {
+	heir = {
+		name = "Kochaet Cenni"
+		monarch_name = "Kochaet Cenni"
+		dynasty = "Chola"
+		birth_date = 4684.1.1
+		death_date = 4725.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4714.1.1 = {
+	monarch = {
+		name = "Kochaet Cenni"
+		dynasty = "Chola"
+		birth_date = 4684.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4714.1.1 = {
+	heir = {
+		name = "Cerupazhi Erinda Ilanjaetcenni"
+		monarch_name = "Cerupazhi Erinda Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4695.1.1
+		death_date = 4780.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4725.1.1 = {
+	monarch = {
+		name = "Cerupazhi Erinda Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4695.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4750.1.1 = {
+	heir = {
+		name = "Nedungop Perunkilli"
+		monarch_name = "Nedungop Perunkilli"
+		dynasty = "Chola"
+		birth_date = 4750.1.1
+		death_date = 4795.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4780.1.1 = {
+	monarch = {
+		name = "Nedungop Perunkilli"
+		dynasty = "Chola"
+		birth_date = 4750.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4780.1.1 = {
+	heir = {
+		name = "Cenni Ellagan"
+		monarch_name = "Cenni Ellagan"
+		dynasty = "Chola"
+		birth_date = 4765.1.1
+		death_date = 4835.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4795.1.1 = {
+	monarch = {
+		name = "Cenni Ellagan"
+		dynasty = "Chola"
+		birth_date = 4765.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4805.1.1 = {
+	heir = {
+		name = "Perungilli"
+		monarch_name = "Perungilli"
+		dynasty = "Chola"
+		birth_date = 4805.1.1
+		death_date = 4860.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+4835.1.1 = {
+	monarch = {
+		name = "Perungilli"
+		dynasty = "Chola"
+		birth_date = 4805.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+4835.1.1 = {
+	heir = {
+		name = "Kopperun Jozhiyav Ilanjaetcenni"
+		monarch_name = "Kopperun Jozhiyav Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4830.1.1
+		death_date = 4880.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+4860.1.1 = {
+	monarch = {
+		name = "Kopperun Jozhiyav Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4830.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+4860.1.1 = {
+	heir = {
+		name = "Perunarkilli Mudiththalaiko"
+		monarch_name = "Perunarkilli Mudiththalaiko"
+		dynasty = "Chola"
+		birth_date = 4850.1.1
+		death_date = 4900.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+4880.1.1 = {
+	monarch = {
+		name = "Perunarkilli Mudiththalaiko"
+		dynasty = "Chola"
+		birth_date = 4850.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+4880.1.1 = {
+	heir = {
+		name = "Ilam Perunjenni"
+		monarch_name = "Ilam Perunjenni"
+		dynasty = "Chola"
+		birth_date = 4870.1.1
+		death_date = 4930.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Ilam Perunjenni"
+		dynasty = "Chola"
+		birth_date = 4870.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	heir = {
+		name = "Perungilli Vendhi"
+		monarch_name = "Perungilli Vendhi"
+		dynasty = "Chola"
+		birth_date = 4900.1.1
+		death_date = 4965.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4930.1.1 = {
+	monarch = {
+		name = "Perungilli Vendhi"
+		dynasty = "Chola"
+		birth_date = 4900.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4935.1.1 = {
+	heir = {
+		name = "Nedumudi Killi"
+		monarch_name = "Nedumudi Killi"
+		dynasty = "Chola"
+		birth_date = 4935.1.1
+		death_date = 4980.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4965.1.1 = {
+	monarch = {
+		name = "Nedumudi Killi"
+		dynasty = "Chola"
+		birth_date = 4935.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4965.1.1 = {
+	heir = {
+		name = "Ilavanthigaipalli Thunjiya Maei Nalangilli Caet Cenni"
+		monarch_name = "Ilavanthigaipalli Thunjiya Maei Nalangilli Caet Cenni"
+		dynasty = "Chola"
+		birth_date = 4950.1.1
+		death_date = 4985.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4980.1.1 = {
+	monarch = {
+		name = "Ilavanthigaipalli Thunjiya Maei Nalangilli Caet Cenni"
+		dynasty = "Chola"
+		birth_date = 4950.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4980.1.1 = {
+	heir = {
+		name = "Aai Vaenalangilli"
+		monarch_name = "Aai Vaenalangilli"
+		dynasty = "Chola"
+		birth_date = 4955.1.1
+		death_date = 4990.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4985.1.1 = {
+	monarch = {
+		name = "Aai Vaenalangilli"
+		dynasty = "Chola"
+		birth_date = 4955.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4985.1.1 = {
+	heir = {
+		name = "Uruvapakraer Ilanjaetcenni"
+		monarch_name = "Uruvapakraer Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4960.1.1
+		death_date = 5010.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+4990.1.1 = {
+	monarch = {
+		name = "Uruvapakraer Ilanjaetcenni"
+		dynasty = "Chola"
+		birth_date = 4960.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

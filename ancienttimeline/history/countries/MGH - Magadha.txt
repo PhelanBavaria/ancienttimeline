@@ -1,0 +1,102 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bihari
+religion = hinduism
+technology_group = indian
+capital = 558 # Pataliputra
+
+4925.1.1 = {
+	monarch = {
+		name = "Vasudeva"
+		dynasty = "Kanva"
+		birth_date = 4895.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4925.1.1 = {
+	heir = {
+		name = "Bhumimitra"
+		monarch_name = "Bhumimitra"
+		dynasty = "Kanva"
+		birth_date = 4904.1.1
+		death_date = 4948.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+
+4934.1.1 = {
+	monarch = {
+		name = "Bhumimitra"
+		dynasty = "Kanva"
+		birth_date = 4904.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+
+4934.1.1 = {
+	heir = {
+		name = "Narayana"
+		monarch_name = "Narayana"
+		dynasty = "Kanva"
+		birth_date = 4918.1.1
+		death_date = 4960.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4948.1.1 = {
+	monarch = {
+		name = "Narayana"
+		dynasty = "Kanva"
+		birth_date = 4918.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4948.1.1 = {
+	heir = {
+		name = "Susharman"
+		monarch_name = "Susharman"
+		dynasty = "Kanva"
+		birth_date = 4930.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+4960.1.1 = {
+	monarch = {
+		name = "Susharman"
+		dynasty = "Kanva"
+		birth_date = 4930.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+4970.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}

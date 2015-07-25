@@ -1,0 +1,218 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bihari
+religion = buddhism
+technology_group = indian
+capital = 558 # Pataliputra
+
+4678.1.1 = {
+	monarch = {
+		name = "Chandragupta"
+		dynasty = "Maurya"
+		birth_date = 4660.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+4680.1.1 = {
+	heir = {
+		name = "Bindusara"
+		monarch_name = "Bindusara"
+		dynasty = "Maurya"
+		birth_date = 4680.1.1
+		death_date = 4728.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4702.1.1 = {
+	monarch = {
+		name = "Bindusara"
+		dynasty = "Maurya"
+		birth_date = 4680.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4702.1.1 = {
+	heir = {
+		name = "Ashoka"
+		monarch_name = "Ashoka"
+		dynasty = "Maurya"
+		birth_date = 4696.1.1
+		death_date = 4768.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+4728.1.1 = {
+	monarch = {
+		name = "Ashoka"
+		dynasty = "Maurya"
+		birth_date = 4696.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+4738.1.1 = {
+	heir = {
+		name = "Dasaratha"
+		monarch_name = "Dasaratha"
+		dynasty = "Maurya"
+		birth_date = 4738.1.1
+		death_date = 4776.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4768.1.1 = {
+	monarch = {
+		name = "Dasaratha"
+		dynasty = "Maurya"
+		birth_date = 4738.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4768.1.1 = {
+	heir = {
+		name = "Samprati"
+		monarch_name = "Samprati"
+		dynasty = "Maurya"
+		birth_date = 4746.1.1
+		death_date = 4785.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+}
+
+4776.1.1 = {
+	monarch = {
+		name = "Samprati"
+		dynasty = "Maurya"
+		birth_date = 4746.1.1
+		adm = 5
+		dip = 0
+		mil = 0
+	}
+}
+
+4776.1.1 = {
+	heir = {
+		name = "Salisuka"
+		monarch_name = "Salisuka"
+		dynasty = "Maurya"
+		birth_date = 4755.1.1
+		death_date = 4798.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4785.1.1 = {
+	monarch = {
+		name = "Salisuka"
+		dynasty = "Maurya"
+		birth_date = 4755.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4785.1.1 = {
+	heir = {
+		name = "Devavarman"
+		monarch_name = "Devavarman"
+		dynasty = "Maurya"
+		birth_date = 4768.1.1
+		death_date = 4805.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+4798.1.1 = {
+	monarch = {
+		name = "Devavarman"
+		dynasty = "Maurya"
+		birth_date = 4768.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+4798.1.1 = {
+	heir = {
+		name = "Satadhanvan"
+		monarch_name = "Satadhanvan"
+		dynasty = "Maurya"
+		birth_date = 4775.1.1
+		death_date = 4813.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4805.1.1 = {
+	monarch = {
+		name = "Satadhanvan"
+		dynasty = "Maurya"
+		birth_date = 4775.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4805.1.1 = {
+	heir = {
+		name = "Brihadratha"
+		monarch_name = "Brihadratha"
+		dynasty = "Maurya"
+		birth_date = 4783.1.1
+		death_date = 4820.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4813.1.1 = {
+	monarch = {
+		name = "Brihadratha"
+		dynasty = "Maurya"
+		birth_date = 4783.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+

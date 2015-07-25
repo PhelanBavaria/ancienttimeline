@@ -1,0 +1,243 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bihari
+religion = hinduism
+technology_group = indian
+capital = 558 # Pataliputra
+
+4815.1.1 = {
+	monarch = {
+		name = "Pushyamitra"
+		dynasty = "Shunga"
+		birth_date = 4785.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4821.1.1 = {
+	heir = {
+		name = "Agnimitra"
+		monarch_name = "Agnimitra"
+		dynasty = "Shunga"
+		birth_date = 4821.1.1
+		death_date = 4859.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+}
+
+4851.1.1 = {
+	monarch = {
+		name = "Agnimitra"
+		dynasty = "Shunga"
+		birth_date = 4821.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+}
+
+4851.1.1 = {
+	heir = {
+		name = "Vasujyeshtha"
+		monarch_name = "Vasujyeshtha"
+		dynasty = "Shunga"
+		birth_date = 4829.1.1
+		death_date = 4869.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+4859.1.1 = {
+	monarch = {
+		name = "Vasujyeshtha"
+		dynasty = "Shunga"
+		birth_date = 4829.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+4859.1.1 = {
+	heir = {
+		name = "Vasumitra"
+		monarch_name = "Vasumitra"
+		dynasty = "Shunga"
+		birth_date = 4839.1.1
+		death_date = 4876.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+4869.1.1 = {
+	monarch = {
+		name = "Vasumitra"
+		dynasty = "Shunga"
+		birth_date = 4839.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+4869.1.1 = {
+	heir = {
+		name = "Andhraka"
+		monarch_name = "Andhraka"
+		dynasty = "Shunga"
+		birth_date = 4846.1.1
+		death_date = 4878.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+4876.1.1 = {
+	monarch = {
+		name = "Andhraka"
+		dynasty = "Shunga"
+		birth_date = 4846.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+4876.1.1 = {
+	heir = {
+		name = "Pulindaka"
+		monarch_name = "Pulindaka"
+		dynasty = "Shunga"
+		birth_date = 4848.1.1
+		death_date = 4881.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+4878.1.1 = {
+	monarch = {
+		name = "Pulindaka"
+		dynasty = "Shunga"
+		birth_date = 4848.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+4878.1.1 = {
+	heir = {
+		name = "Ghosha"
+		monarch_name = "Ghosha"
+		dynasty = "Shunga"
+		birth_date = 4851.1.1
+		death_date = 4895.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4881.1.1 = {
+	monarch = {
+		name = "Ghosha"
+		dynasty = "Shunga"
+		birth_date = 4851.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4881.1.1 = {
+	heir = {
+		name = "Vajramitra"
+		monarch_name = "Vajramitra"
+		dynasty = "Shunga"
+		birth_date = 4865.1.1
+		death_date = 4905.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4895.1.1 = {
+	monarch = {
+		name = "Vajramitra"
+		dynasty = "Shunga"
+		birth_date = 4865.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4895.1.1 = {
+	heir = {
+		name = "Bhagadbara"
+		monarch_name = "Bhagadbara"
+		dynasty = "Shunga"
+		birth_date = 4875.1.1
+		death_date = 4917.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4905.1.1 = {
+	monarch = {
+		name = "Bhagadbara"
+		dynasty = "Shunga"
+		birth_date = 4875.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4905.1.1 = {
+	heir = {
+		name = "Devabhuti"
+		monarch_name = "Devabhuti"
+		dynasty = "Shunga"
+		birth_date = 4887.1.1
+		death_date = 4927.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+4917.1.1 = {
+	monarch = {
+		name = "Devabhuti"
+		dynasty = "Shunga"
+		birth_date = 4887.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+

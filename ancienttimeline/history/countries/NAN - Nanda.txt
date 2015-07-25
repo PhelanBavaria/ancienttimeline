@@ -1,0 +1,42 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bihari
+religion = hinduism
+technology_group = indian
+capital = 558 # Pataliputra
+
+4655.1.1 = {
+	monarch = {
+		name = "Mahapadma"
+		dynasty = "Nanda"
+		birth_date = 4600.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+4655.1.1 = {
+	heir = {
+		name = "Dhana"
+		monarch_name = "Dhana"
+		dynasty = "Nanda"
+		birth_date = 4641.1.1
+		death_date = 4679.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+4671.1.1 = {
+	monarch = {
+		name = "Dhana"
+		dynasty = "Nanda"
+		birth_date = 4641.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
