@@ -592,3 +592,35 @@ mesopotamian = {
 
 	crusade_name = CRUSADE
 }
+
+caucasian_group = {
+	georgian_religion = {
+		color = { 0 0.4 0.4 }
+		icon = 30
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			hostile_attrition = 1
+			tolerance_heathen = 1
+		}
+		
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+	}
+
+	armenian_religion = {
+		color = { 0.3 0.8 0.8 }
+		icon = 32
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			land_morale = 0.10
+			tolerance_heathen = 1
+		}
+		
+		heretic = { GOAT_SKULL }
+	}
+
+	crusade_name = CRUSADE
+}
