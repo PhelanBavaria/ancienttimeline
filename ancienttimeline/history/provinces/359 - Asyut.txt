@@ -1,9 +1,9 @@
 #359 - Asyut
 
-owner = ACA
-controller = ACA
+owner = EGT
+controller = EGT
 culture = al_misr_arabic
-religion = hellenism
+religion = egyptian
 capital = "Crocodilopolis"
 trade_goods = grain
 hre = no
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 citysize = 1768
 fort1 = yes
-add_core = ACA
+add_core = EGT
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -33,3 +33,6 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
+#Converts to hellenism
+4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }

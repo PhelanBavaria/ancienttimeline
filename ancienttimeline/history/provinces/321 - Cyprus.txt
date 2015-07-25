@@ -1,7 +1,7 @@
 #321 - Cyprus
 
-owner = ROM
-controller = ROM
+owner = CYS
+controller = CYS
 culture = cypriot_greek
 religion = animism
 capital = "Salamis"
@@ -12,7 +12,7 @@ base_production = 6
 base_manpower = 3
 citysize = 1135
 fort1 = yes
-add_core = ROM
+add_core = CYS
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -21,3 +21,9 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4291.1.1 = { owner = ASY controller = ASY add_core = ASY }
+4331.1.1 = { owner = CYS controller = CYS remove_core = ASY }
+4450.1.1 = { owner = EGT controller = EGT add_core = EGT }
+4455.1.1 = { owner = ACA controller = ACA add_core = ACA remove_core = EGT }
+4679.1.1 = { owner = EGP controller = EGP add_core = EGP remove_core = ACA }
+4942.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = EGP }

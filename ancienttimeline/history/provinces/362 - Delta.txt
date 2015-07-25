@@ -1,9 +1,9 @@
 #362 - Delta
 
-owner = ACA
-controller = ACA
+owner = EGT
+controller = EGT
 culture = al_misr_arabic
-religion = hellenism
+religion = egyptian
 capital = "Rosetta"
 trade_goods = fish
 hre = no
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 citysize = 4270
 fort1 = yes
-add_core = ACA
+add_core = EGT
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -39,4 +39,6 @@ discovered_by = SFA
 			duration = -1
 		}
 }
-
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
+#Converts to hellenism
+4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }

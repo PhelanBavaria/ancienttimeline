@@ -1,9 +1,9 @@
 #2517 - Darnah
 
-owner = ACA
-controller = ACA
+owner = EGT
+controller = EGT
 culture = al_misr_arabic
-religion = hellenism
+religion = egyptian
 capital = "Darnis"
 trade_goods = wool
 hre = no
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 2135
-add_core = ACA
+add_core = EGT
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -20,3 +20,6 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = mediterranean
 
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
+#Whenever it is Macedon takes over, religion will convert to hellenism
+4695.6.2 = { owner = EGP controller = EGP add_core = EGP }

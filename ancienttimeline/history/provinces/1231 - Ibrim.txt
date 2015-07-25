@@ -1,8 +1,8 @@
 #1231 - Ibrim
 
-owner = ACA
-controller = ACA
-add_core = ACA
+owner = EGT
+controller = EGT
+add_core = EGT
 culture = nubian
 religion = egyptian
 capital = "Swenett"
@@ -29,4 +29,5 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4670.7.17 = { owner = MEO controller = MEO add_core = MEO remove_core = ACA }
