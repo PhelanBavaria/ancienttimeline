@@ -164,7 +164,9 @@ YMH	= "countries/Yamhad.txt"
 		
 #Asia Minor		
 ARM	= "countries/Armenia.txt"
+BIY	= "countries/Bithynia.txt"
 CAP	= "countries/Cappadocia.txt"
+CLC	= "countries/Colchis.txt"
 CYS	= "countries/Cyprus.txt"
 PON	= "countries/Pontus.txt"
 	

@@ -22,3 +22,4 @@ discovered_by = muslim
 discovered_by = ottoman
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4667.3.12 = { owner = BIY controller = BIY add_core = BIY remove_core = BIY }
