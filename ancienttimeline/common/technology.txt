@@ -9,7 +9,7 @@
 groups = {
 	mediterranean = { #for Romans, Greeks, Egypt and such, possibly available only at later dates
 		modifier = 0
-		start_level = 4
+		start_level = 0
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
@@ -50,19 +50,19 @@ groups = {
 	}
 	north_american = { #Unused for now
 		modifier = 0.60
-		start_level = 1
+		start_level = 0
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
 	mesoamerican = { #Unused for now
 		modifier = 0.60
-		start_level = 1
+		start_level = 0
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
 	south_american = { #Unused for now
 		modifier = 0.60
-		start_level = 1
+		start_level = 0
 		cav_to_inf_ratio = 0.5
 		power = -1
 	}
