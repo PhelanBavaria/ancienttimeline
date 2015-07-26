@@ -3681,3 +3681,19 @@ bonus_group = {
 		}
 	}
 }
+
+egyptian_group = {
+	graphical_culture = muslimgfx
+	al_misr_arabic = {
+		primary = EGT
+		dynasty_names = {
+			"Intef" "Iry-pat" "Khety" "Anu" "Ibi" "Tereru" "Pepiseneb" "Mentuhotep" "Amenemhat" "Senusret" "Sobekkare" "Sobekhotep" "Hor"
+		}
+		male_names = {
+			Narmer Hor-Aha Djer Djet Den Anedjib Semerkhet Qa'a Sneferka Hotepsekhemwy Nebra Raneb Nynetjer Weneg Senedj Seth-Peribsen Sekhemib-Perenmaat Khasekhaemwy Djoser Sekhemkhet Sanakhte Khaba Huni Sneferu Khufu Djedefra Khafre Bikheris Menkaura Shepseskaf Djedefptah Userkaf Sahure Ranefer Neferefre Shepseskare Unas Teti Userkare Pepi Neferka Menkare Merenhor Neferkamin Nikare Neferkahor Setut Meryhathor Intef Wahanka
+		}
+		female_names = {
+			Merneith Neit Tausret Nefertiti Hatshepsut Maatkare Nefertari Ashotep Sobeknefru Neithhikret Ankhnesmeryre Khentkaus Nimaethap
+		}
+	}
+}

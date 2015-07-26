@@ -31,4 +31,5 @@ discovered_by = MLI
 discovered_by = SFA
 
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
-4670.7.17 = { owner = MEO controller = MEO add_core = MEO remove_core = ACA }
+4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4670.7.17 = { owner = MEO controller = MEO add_core = MEO remove_core = MCD }

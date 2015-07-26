@@ -1,4 +1,4 @@
-#380 - Al Karak
+#2528 - Ma'an
 
 culture = bedouin_arabic
 religion = nabataean
@@ -30,4 +30,5 @@ discovered_by = SFA
 
 3900.1.1 = { owner = EDO controller = EDO add_core = EDO citysize = 3000 trade_goods = wool }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA remove_core = EDO }
-4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = ACA }
+4668.8.17 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4695.6.2 = { owner = NAB controller = NAB add_core = NAB remove_core = MCD }

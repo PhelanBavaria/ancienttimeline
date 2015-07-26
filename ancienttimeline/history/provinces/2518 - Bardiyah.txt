@@ -3,7 +3,7 @@
 owner = EGT
 controller = EGT
 culture = al_misr_arabic
-religion = hellenism
+religion = egyptian
 capital = "Petras Maior"
 trade_goods = wool
 hre = no
@@ -21,5 +21,5 @@ discovered_by = eastern
 discovered_by = mediterranean
 
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
-
-4695.6.2 = { owner = EGP controller = EGP add_core = EGP }
+4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = hellenism }
+4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }
