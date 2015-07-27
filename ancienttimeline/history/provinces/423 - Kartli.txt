@@ -3,7 +3,7 @@
 owner = IBE
 controller = IBE
 culture = georgian
-religion = hellenism
+religion = georgian_religion
 capital = "Mtskheta"
 trade_goods = dyes
 hre = no
@@ -23,3 +23,5 @@ discovered_by = celtiberians
 discovered_by = nomad_group
 
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = IBE }
+4669.6.3 = { owner = IBE controller = IBE add_core = IBE remove_core = ACA }
+4688.2.2 = { religion = hellenism }

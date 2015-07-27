@@ -1,9 +1,9 @@
 #2270 - Mush
 
-owner = ACA
-controller = ACA
+owner = ARM
+controller = ARM
 culture = armenian
-religion = hellenism
+religion = armenian_religion
 capital = "Mus"
 trade_goods = wool
 hre = no
@@ -22,3 +22,6 @@ discovered_by = barbarian
 discovered_by = celtiberians
 fort1 = yes
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4669.6.3 = { owner = ARM controller = ARM add_core = ARM remove_core = ACA }
+4688.2.2 = { religion = hellenism }

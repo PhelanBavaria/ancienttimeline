@@ -1,7 +1,5 @@
 #406 - Badiyat Ash Sham
 
-owner = ACA
-controller = ACA
 culture = aramaic
 religion = ashurism
 capital = "Haditha"
@@ -10,4 +8,6 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = ACA
+
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA trade_goods = grain }
+4669.6.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }

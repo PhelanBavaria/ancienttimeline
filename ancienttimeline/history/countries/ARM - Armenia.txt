@@ -1,0 +1,16 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = 2
+primary_culture = armenian
+religion = armenian_religion
+technology_group = middle_eastern
+capital = 419
+
+4688.2.2 = { religion = hellenism }

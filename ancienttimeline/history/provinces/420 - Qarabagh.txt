@@ -2,7 +2,7 @@
 
 owner = CLB
 controller = CLB
-culture = azerbaijani
+culture = albanian_caucasian
 religion = zoroastrian
 capital = "Ganja"
 trade_goods = cotton

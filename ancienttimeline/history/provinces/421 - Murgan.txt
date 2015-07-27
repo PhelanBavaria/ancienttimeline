@@ -2,7 +2,7 @@
 
 owner = CLB
 controller = CLB
-culture = azerbaijani
+culture = albanian_caucasian
 religion = zoroastrian
 capital = "Bagavan"
 trade_goods = silk

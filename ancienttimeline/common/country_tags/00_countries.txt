@@ -168,6 +168,7 @@ BIY	= "countries/Bithynia.txt"
 CAP	= "countries/Cappadocia.txt"
 CLC	= "countries/Colchis.txt"
 CYS	= "countries/Cyprus.txt"
+IBE	= "countries/Iberia.txt"
 PON	= "countries/Pontus.txt"
 	
 #Africa

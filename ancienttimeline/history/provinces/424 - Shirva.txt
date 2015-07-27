@@ -2,7 +2,7 @@
 
 owner = ACA
 controller = ACA
-culture = azerbaijani
+culture = albanian_caucasian
 religion = zoroastrian
 capital = "Ardabil"
 trade_goods = dyes

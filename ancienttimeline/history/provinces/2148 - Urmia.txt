@@ -1,9 +1,9 @@
 #2148 - Urmia
 
-owner = ACA
-controller = ACA
+owner = ARM
+controller = ARM
 culture = armenian
-religion = hellenism
+religion = armenian_religion
 capital = "Urmia"
 trade_goods = wine
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1724
-add_core = ACA
+add_core = ARM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -22,3 +22,6 @@ discovered_by = barbarian
 discovered_by = celtiberians
 fort1 = yes
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4669.6.3 = { owner = ARM controller = ARM add_core = ARM remove_core = ACA }
+4688.2.2 = { religion = hellenism }

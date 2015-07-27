@@ -2,7 +2,7 @@
 
 owner = ACA
 controller = ACA
-culture = azerbaijani
+culture = albanian_caucasian
 religion = hellenism
 capital = "Khankendi"
 trade_goods = wool
