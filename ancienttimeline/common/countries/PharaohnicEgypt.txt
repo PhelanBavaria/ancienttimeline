@@ -39,9 +39,9 @@ historical_units = {
 }
 
 monarch_names = {
-	"Scorpion #1" = 40
+	"Scorpion #0" = 40
 	"Double Falcon #0" = 40
-	"Iry-Hor #1" = 20
+	"Iry-Hor #0" = 20
 	"Ka #1" = -10
 	"Narmer #0" = 10
 	"Hor-Aha #0" = 0
