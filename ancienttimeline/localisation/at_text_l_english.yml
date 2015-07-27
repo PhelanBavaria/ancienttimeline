@@ -1,2 +1,7 @@
 l_english:
  WORLD_YEAR: "The Ancient World" #$YEAR$"
+ mediterranean: "Mediterranean"
+ celtiberians: "Western"
+ barbarian: "Barbarian"
+ balkan_group: "Balkan"
+ middle_eastern: "Middle Eastern"
