@@ -1,11 +1,11 @@
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = gallian
-religion = hellenism
+owner = TRV
+controller = TRV
+add_core = TRV
+culture = belgae
+religion = druidism
 trade_goods = grain
-capital = "Augusta Trevenorum"
+capital = "Augusta Treverorum"
 base_tax = 5
 base_production = 5
 citysize = 1000

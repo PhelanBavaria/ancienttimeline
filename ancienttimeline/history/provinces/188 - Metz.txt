@@ -1,17 +1,17 @@
 # 188 Metz - Principal cities: Metz, Thionville
 
-owner = ROM
-controller = ROM 
-capital = "Divodurum Mediomatricum"
+owner = MET
+controller = MET 
+capital = "Divodurum"
 citysize = 1600
-culture = gallian
+culture = belgae
 religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
 trade_goods = iron
 base_manpower = 5
-add_core = ROM
+add_core = MET
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

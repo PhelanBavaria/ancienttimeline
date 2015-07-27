@@ -1,17 +1,17 @@
 # 181 Valenciennes - Principal cities: Valenciennes, Douai & Cambrai
 
-owner = ROM
-controller = ROM
+owner = REM
+controller = REM
 capital = "Verbinum"
 citysize = 1000
-culture = gallian
+culture = belgae
 religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 2
-add_core = ROM
+add_core = REM
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

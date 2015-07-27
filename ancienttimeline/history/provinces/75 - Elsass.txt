@@ -1,17 +1,17 @@
 # 75 Elsass - Principal cities: Strasbourg
 
-owner = ROM
-controller = ROM 
+owner = MET
+controller = MET 
 capital = "Argentoratum"
 citysize = 1300
-culture = swabian
-religion = germanic
+culture = belgae
+religion = druidism
 hre = no
 base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 5
-add_core = ROM
+add_core = MET
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

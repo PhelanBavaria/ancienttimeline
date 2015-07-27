@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = gallian
+religion = druidism
+technology_group = celtiberians
+capital = 189  # Lothringen

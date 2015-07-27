@@ -1,17 +1,17 @@
 # 196 Toulouse - Principal cities: Toulouse
 
-owner = ROM
-controller = ROM
+owner = TEC
+controller = TEC
 capital = "Tolosa"
 citysize = 1750
-culture = gallian
-religion = hellenism
+culture = volcaean
+religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
 trade_goods = wine
 base_manpower = 5
-add_core = ROM
+add_core = TEC
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

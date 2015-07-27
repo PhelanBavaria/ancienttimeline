@@ -1,13 +1,13 @@
 #74 - Baden
 
-owner = ALM
-controller = ALM
-add_core = ALM
+owner = HEL
+controller = HEL
+add_core = HEL
 citysize = 1000
 capital = "Baden"
 trade_goods = wine
-religion = germanic
-culture = swabian
+religion = druidism
+culture = helvetian
 base_tax = 2
 base_production = 2
 base_manpower = 1

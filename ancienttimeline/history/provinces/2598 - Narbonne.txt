@@ -1,17 +1,17 @@
 # Narbonne
 
-owner = ROM
-controller = ROM
+owner = TEC
+controller = TEC
 capital = "Narbo"
 citysize = 1000
-culture = gallian
-religion = hellenism
+culture = volcaean
+religion = druidism
 hre = no
 base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 1
-add_core = ROM
+add_core = TEC
 fort_15th = yes
 discovered_by = eastern
 discovered_by = mediterranean

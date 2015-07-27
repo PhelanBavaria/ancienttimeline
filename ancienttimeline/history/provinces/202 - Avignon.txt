@@ -1,7 +1,7 @@
 # 202 Avignon - Principal cities: Avignon
 
-owner = ROM
-controller = ROM
+owner = VOC
+controller = VOC
 capital = "Avenio"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = cloth
 base_manpower = 4
-add_core = ROM
+add_core = VOC
 #  # L'Université d'Avignon
 discovered_by = eastern
 discovered_by = mediterranean

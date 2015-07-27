@@ -1,11 +1,11 @@
 #72 - Breisgau
 
-owner = ALM
-controller = ALM
-add_core = ALM
+owner = HEL
+controller = HEL
+add_core = HEL
 citysize = 1000
-culture = swabian
-religion = germanic
+culture = helvetian
+religion = druidism
 base_tax = 2
 base_production = 2
 trade_goods = grain 
