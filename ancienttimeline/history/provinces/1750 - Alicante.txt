@@ -1,8 +1,8 @@
 #1750 - Alàcant
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CTT
+controller = CTT
+add_core = CTT
 culture = iberi
 religion = animism
 hre = no

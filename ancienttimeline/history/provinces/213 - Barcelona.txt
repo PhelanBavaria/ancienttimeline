@@ -1,10 +1,10 @@
 #213 - Barcelona
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CES
+controller = CES
+add_core = CES
 culture = iberi
-religion = hellenism
+religion = animism
 hre = no
 base_tax = 6
 base_production = 6

@@ -1,10 +1,10 @@
 #213 - Barcelona
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = punic
-religion = carthaginian
+owner = ILR
+controller = ILR
+add_core = ILR
+culture = iberi
+religion = animism
 hre = no
 base_tax = 5
 base_production = 5

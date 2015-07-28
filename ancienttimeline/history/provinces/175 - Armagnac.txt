@@ -1,7 +1,7 @@
 # 175 Armagnac - Principal cities: Auch
 
-owner = ROM
-controller = ROM
+owner = SOT
+controller = SOT
 capital = "Elimberris"
 citysize = 1000
 culture = aquitanian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = wool
 base_manpower = 4
-add_core = ROM
+add_core = SOT
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

@@ -1,7 +1,7 @@
 # 198 Rouergue - Principal cities: Rodez
 
-owner = ROM
-controller = ROM
+owner = RUT
+controller = RUT
 capital = "Segodunum"
 citysize = 1000
 culture = gallian
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wool
 base_manpower = 2
-add_core = ROM
+add_core = RUT
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western

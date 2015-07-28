@@ -1,7 +1,7 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
 
-owner = ROM
-controller = ROM
+owner = TRB
+controller = TRB
 capital = "Lapurdum"
 citysize = 1000
 culture = aquitanian
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 4
-add_core = ROM
+add_core = TRB
 add_core = VAS
 discovered_by = eastern
 discovered_by = mediterranean

@@ -1,17 +1,17 @@
 #220 - València
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = punic
-religion = carthaginian
+owner = EDT
+controller = EDT
+add_core = EDT
+culture = iberi
+religion = animism
 hre = no
 base_tax = 6
 base_production = 5
 trade_goods = wine
 base_manpower = 3
 fort1 = yes
-capital = "Valentia" 
+capital = "Sagunt" 
 citysize = 2200
 discovered_by = western
 discovered_by = barbarian

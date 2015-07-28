@@ -1,7 +1,7 @@
 # 176 Béarn - Principal cities: Pau
 
-owner = ROM
-controller = ROM
+owner = ASC
+controller = ASC
 capital = "Turba"
 citysize = 1000
 culture = aquitanian
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 trade_goods = wool
 base_manpower = 3
-add_core = ROM
+add_core = ASC
 discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = western
