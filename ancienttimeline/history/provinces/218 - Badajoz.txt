@@ -1,8 +1,8 @@
 #218 - Badajoz
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = TRD
+controller = TRD
+add_core = TRD
 culture = celtiberian
 religion = druidism
 hre = no

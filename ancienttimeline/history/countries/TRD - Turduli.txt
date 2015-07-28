@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = celtiberian
+religion = druidism
+technology_group = celtiberians
+capital = 1851	# Ribatejo

@@ -1,10 +1,10 @@
 #214 - Aragón
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = iberi
-religion = animism
+owner = CTB
+controller = CTB
+add_core = CTB
+culture = celtiberian
+religion = druidism
 hre = no
 base_tax = 6
 base_production = 6

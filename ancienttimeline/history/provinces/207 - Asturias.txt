@@ -1,17 +1,16 @@
 #207 - Asturias
 
-owner = ROM
-controller = ROM
-add_core = ROM
-add_core = VAS
-culture = galician
-religion = druidism
+owner = ASR
+controller = ASR
+add_core = ASR
+culture = gallaic
+religion = animism
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = salt 
 base_manpower = 3
-capital = "Asturorum" 
+capital = "Asturorum"
 citysize = 1000
 discovered_by = eastern
 discovered_by = mediterranean

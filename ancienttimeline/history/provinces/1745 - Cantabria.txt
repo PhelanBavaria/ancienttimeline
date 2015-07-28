@@ -1,9 +1,9 @@
 #1745 - Cantabria
 
-owner = VAS
-controller = VAS
-add_core = VAS
-culture = basque
+owner = CTR
+controller = CTR
+add_core = CTR
+culture = celtiberian
 religion = animism
 hre = no
 base_tax = 4

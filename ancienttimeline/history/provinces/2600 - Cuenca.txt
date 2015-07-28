@@ -1,8 +1,8 @@
 #Cuenca
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CTB
+controller = CTB
+add_core = CTB
 culture = celtiberian
 religion = druidism
 hre = no

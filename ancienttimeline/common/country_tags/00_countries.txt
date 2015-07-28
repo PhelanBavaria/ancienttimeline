@@ -115,8 +115,17 @@ ETR	= "countries/Etruria.txt"
 ROM	= "countries/Rome.txt"
 
 #Hispania
-GAL	= "countries/Galicia.txt"
-VAS	= "countries/Vasconia.txt"
+ASR = "countries/Asturias.txt"
+CLL = "countries/Callaeci.txt"
+CRP = "countries/Carpetani.txt"
+CTB = "countries/Celtiberi.txt"
+CTC = "countries/Celtici.txt"
+CTR = "countries/Cantabri.txt"
+LUI = "countries/Lusitani.txt"
+TRD = "countries/Turduli.txt"
+VAS = "countries/Vasconia.txt"
+VCC = "countries/Vaccaei.txt"
+VTT = "countries/Vettones.txt"
 
 #East Europe
 PRS	= "countries/Prussians.txt"

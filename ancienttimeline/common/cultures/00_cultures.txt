@@ -270,6 +270,50 @@ gaelic	= {
 			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
 		}
 	}
+	celtiberian = {
+		dynasty_names = {
+			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone
+		}
+		male_names = {
+			Bandua Berobreus Bormanicus Cossus Reue Lugus Endovelicus Viriathus Punicus Cesarus Caucenus Tautalus
+			Caros Corocotta Gauson Toutonus Totonus Arceltius Latronius Rotamus Pentinus Progenei Cloutius Meiduenus
+			Mezukenos Ambon Babpo Buntalos Caciro Lesson Letondon Liteno Lubbo Olindico Pirreso Sigilo Thurro Uxentio
+			Retogeno Magavarico
+		}
+		female_names = {
+			Nabia Coventina Stena
+		}
+	}
+	gallaic = {
+		dynasty_names = {
+			Osorio Andrade
+		}
+		male_names = {
+			García Ordoño Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
+			Cristovo Domingos Estevo Felipe Fernán Francisco Frederico Gonzalo Guillerme Gumersindo Henrique 
+			Hermenexildo Hixinio Hugo Iago Ignacio Leandro Lope Miguel Nuno Odón Paulo Pedro Ramón Roi Tomé 
+			Vitor Xoan Xorxe
+		}
+		female_names = {
+			Branca Iria Sabela Lúa Rodolfa Sofía Aldara Alduara Aldonça Aldonza Beatriz Beatrice Berengária Berengaria Branca 
+			Blanche Antía Branca Carme Catarina Dores Iria Lía Margarida María Noela Rosalía Sabela Uxía Xoana
+		}
+	}
+	lusitanian = {
+		dynasty_names = {
+			Osorio Andrade
+		}
+		male_names = {
+			García Ordoño Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
+			Cristovo Domingos Estevo Felipe Fernán Francisco Frederico Gonzalo Guillerme Gumersindo Henrique 
+			Hermenexildo Hixinio Hugo Iago Ignacio Leandro Lope Miguel Nuno Odón Paulo Pedro Ramón Roi Tomé 
+			Vitor Xoan Xorxe
+		}
+		female_names = {
+			Branca Iria Sabela Lúa Rodolfa Sofía Aldara Alduara Aldonça Aldonza Beatriz Beatrice Berengária Berengaria Branca 
+			Blanche Antía Branca Carme Catarina Dores Iria Lía Margarida María Noela Rosalía Sabela Uxía Xoana
+		}
+	}
 }
 	
 latin = {
@@ -531,21 +575,27 @@ iberian	= {
 			Blanche Antía Branca Carme Catarina Dores Iria Lía Margarida María Noela Rosalía Sabela Uxía Xoana
 		}
 	}
-	celtiberian = {
+	iberi = {
 		dynasty_names = {
-			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone
+			Oretani Bastetani Contestani Edetani Ilercavone Ilergean Indikete Cessetani Lacetani Ausetani
 		}
 		male_names = {
-			Bandua Berobreus Bormanicus Cossus Reue Lugus Endovelicus Viriathus Punicus Cesarus Caucenus Tautalus
-			Caros Corocotta Gauson Toutonus Totonus Arceltius Latronius Rotamus Pentinus Progenei Cloutius Meiduenus
-			Mezukenos Ambon Babpo Buntalos Caciro Lesson Letondon Liteno Lubbo Olindico Pirreso Sigilo Thurro Uxentio
-			Retogeno Magavarico
+			Abadutiker Abararban Abargitibasar Abartiaigis Abartanban Abartiaigis Ablón Aibekeres Aiunesker Alorildui Alortigis
+			Alostibas Alucio Amusico Andobales Antorbanen Arbiskar Argisabam Argitibasar Argitiker Armitalsko Atabeles Atabels
+			Atinbelaur Bagarok Bailar Baisebilos Baisetas Baitesir Balacertar Balcaldur Balceadin Balcebe Balceskar Balkar Bartar
+			Basirtir Baspedas Bastartine Bedule Viriato Belasbaisereban Binturke Biosildun Biulakos Biurbetin Biurdiki Biurtan 
+			Biurtetel Biurtibes Biurtilaur Bodilkas Boutintibas Budar Busadines Caikonbe Cerdubeles Culcas Culchas Edecón
+			Edereta Ertebas Eterindu Iceatin Ieorbeles Ieortas Ildutas Iltiradin Indíbil Indikortes Indo Isbataris
+			Isceradin Iscerbeles Kara Katulatin Korbis Korribilo Lagunas Mandonio Nabarsosin Nereildun Nerseadin Nisunin Olónico 
+			Orison Orisos Otigirteker Tiresio Redukeno Retógenes Sakarbik Sakarisker Seihar Zeihar Selgiterar Sicedunin Sicounin 
+			Sinebetin Situbolai Sosinbiuru Sosian Sosintacer Talskubilos Tarkunbiur Teitebas Tibaste Turibas Ultidikán Unibelos 
+			Unibetin Untigorisar Uraucen Urcaildu Urcebas Urcetices
 		}
 		female_names = {
-			Nabia Coventina Stena
+			Aretaunin Auruningica Canine Daleninar Himilce Similce
 		}
 	}
-	iberi = {
+	turdetanian = {
 		dynasty_names = {
 			Oretani Bastetani Contestani Edetani Ilercavone Ilergean Indikete Cessetani Lacetani Ausetani
 		}

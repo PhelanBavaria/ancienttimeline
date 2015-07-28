@@ -1,8 +1,8 @@
 #215 - Castilla La Vieja
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = VCC
+controller = VCC
+add_core = VCC
 culture = celtiberian
 religion = druidism
 hre = no

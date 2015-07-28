@@ -1,8 +1,8 @@
 #1748 - La Mancha
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CRP
+controller = CRP
+add_core = CRP
 culture = celtiberian
 religion = druidism
 hre = no

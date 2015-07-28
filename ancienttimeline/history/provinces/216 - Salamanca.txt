@@ -1,10 +1,10 @@
 #216 - Salamanca
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = VTT
+controller = VTT
+add_core = VTT
 culture = celtiberian
-religion = druidism
+religion = lusitanian_poly
 hre = no
 base_tax = 6
 base_production = 6

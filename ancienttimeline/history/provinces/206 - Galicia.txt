@@ -1,9 +1,9 @@
 #206 - Galicia
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = galician
+owner = CLL
+controller = CLL
+add_core = CLL
+culture = gallaic
 religion = druidism
 hre = no
 base_tax = 3
