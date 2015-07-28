@@ -1,8 +1,8 @@
 #1748 - La Mancha
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = ORT
+controller = ORT
+add_core = ORT
 culture = iberi
 religion = animism
 hre = no

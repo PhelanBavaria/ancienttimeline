@@ -3,7 +3,7 @@
 owner = VAS
 controller = VAS
 add_core = VAS
-culture = basque
+culture = aquitanian
 religion = animism
 hre = no
 base_tax = 3

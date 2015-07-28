@@ -1,18 +1,17 @@
 #230 - Algarve
 
-owner = ROM
-controller = ROM
+owner = COU
+controller = COU
 culture = celtiberian
 religion = druidism
-capital = "Ossonoba"
+capital = "Conistorgis"
 trade_goods = fish
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 4
 citysize = 1000 
-add_core = ROM
-fort1 = yes
+add_core = COU
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

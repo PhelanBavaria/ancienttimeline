@@ -1,9 +1,9 @@
 #209 - Vizcaya
 
-owner = VAS
-controller = VAS
-add_core = VAS
-culture = basque
+owner = VAR
+controller = VAR
+add_core = VAR
+culture = aquitanian
 religion = animism
 hre = no
 base_tax = 2

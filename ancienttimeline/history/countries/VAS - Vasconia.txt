@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = aquitanian
+religion = animism
+technology_group = celtiberians
+capital = 210	# Navarra

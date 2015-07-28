@@ -1,9 +1,9 @@
 #225 - Córdoba
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = iberi
+owner = TUT
+controller = TUT
+add_core = TUT
+culture = turdetanian
 religion = animism
 hre = no
 base_tax = 4

@@ -1,9 +1,8 @@
 #Soria
 
-owner = ROM
-controller = ROM
-add_core = ROM
-add_core = VAS
+owner = BNS
+controller = BNS
+add_core = BNS
 culture = celtiberian
 religion = druidism
 hre = no

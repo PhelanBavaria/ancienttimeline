@@ -1,8 +1,8 @@
 #212 - Girona
 
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = ILE
+controller = ILE
+add_core = ILE
 culture = iberi
 religion = animism
 hre = no

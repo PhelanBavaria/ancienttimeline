@@ -1,9 +1,9 @@
 #211 - Pirineo
 
-owner = ROM
-controller = ROM
-add_core = ROM
-culture = basque
+owner = IAC
+controller = IAC
+add_core = IAC
+culture = aquitanian
 religion = animism
 hre = no
 base_tax = 3

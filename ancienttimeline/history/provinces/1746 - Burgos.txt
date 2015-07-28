@@ -1,9 +1,8 @@
 #1746 - Burgos
 
-owner = ROM
-controller = ROM
-add_core = ROM
-add_core = VAS
+owner = TDG
+controller = TDG
+add_core = TDG
 culture = celtiberian
 religion = druidism
 hre = no

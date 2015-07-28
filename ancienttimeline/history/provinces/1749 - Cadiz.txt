@@ -3,6 +3,7 @@
 owner = CTH
 controller = CTH
 add_core = CTH
+add_core = TUT
 culture = punic
 religion = carthaginian
 hre = no
