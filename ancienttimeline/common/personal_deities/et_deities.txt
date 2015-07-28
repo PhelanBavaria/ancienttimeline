@@ -1206,3 +1206,129 @@ anubis =
                   }
         }
 }
+#Hittite
+aas =
+{
+	core_creation = -0.10
+        land_attrition = -0.10
+
+	allow = { religion = hittite_religion }
+	sprite = 73
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+alalu =
+{
+	global_unrest = -1
+	recover_army_morale_speed = 0.05
+
+	allow = { religion = hittite_religion }
+	sprite = 74
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+aruna =
+{
+	naval_morale = 0.20
+        global_trade_goods_size = 0.20
+
+	allow = { religion = hittite_religion }
+	sprite = 75
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+	}
+}
+
+hannahannah =
+{
+	heir_chance = 0.5
+	global_tax_modifier = 0.1
+
+	allow = { religion = hittite_religion }
+	sprite = 76
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+hapantali =
+{
+	manpower_recovery_speed = 0.2
+	infantry_power = 0.3
+
+	allow = { religion = hittite_religion }
+	sprite = 77
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}
+
+wurrukatte =
+{
+	siege_ability = 1
+	land_morale = 1
+
+	allow = { religion = hittite_religion }
+	sprite = 78
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+	}
+}

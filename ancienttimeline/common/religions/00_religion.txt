@@ -127,6 +127,22 @@ dharmic = {
 		heretic = { BHAKTI }
 	}
 
+	vedism = {
+		color = { 0 0.9 0.7 }
+		icon = 12 #Temporary icon
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_own = 2
+			advisor_cost = -0.1
+		}
+
+		personal_diety = yes
+
+		heretic = { BHAKTI }
+	}
+
 	crusade_name = CRUSADE
 }
 
@@ -269,6 +285,20 @@ hellenic = {
 		}
 
 		personal_deity = yes
+
+		heretic = { SERAPIS }
+	}
+
+	minoan_religion = {
+		color = { 0.9 0 0 }
+		icon = 19 #Temporary
+		province = {
+			local_missionary_strength = 0.05
+		}
+		country = {
+			tolerance_own = 1
+			global_unrest = -2
+		}
 
 		heretic = { SERAPIS }
 	}
@@ -606,6 +636,24 @@ mesopotamian = {
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 		
+		annex = yes
+	}
+
+	hittite_religion = {
+		color = { 0.2 0.2 0.2 }
+		icon = 37 #Temporary
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			defensiveness = 0.1
+			hostile_attrition = 1
+		}
+
+		personal_diety = yes
+
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+
 		annex = yes
 	}
 
