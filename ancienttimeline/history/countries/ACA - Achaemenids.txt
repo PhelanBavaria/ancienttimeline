@@ -9,7 +9,7 @@ mercantilism = 0.1
 #quality_quantity = 4
 #serfdom_freesubjects = -3
 primary_culture = persian
-religion = zoroastrian 
+religion = zoroastrian
 technology_group = middle_eastern
 capital = 409
 

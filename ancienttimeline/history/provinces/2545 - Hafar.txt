@@ -31,3 +31,4 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4669.9.12 = { owner = NAJ controller = NAJ remove_core = ACA }
