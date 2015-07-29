@@ -12,3 +12,5 @@ primary_culture = panjabi
 religion = vedism
 technology_group = indian
 capital = 2192
+
+4500.1.1 = { religion = hinduism }
