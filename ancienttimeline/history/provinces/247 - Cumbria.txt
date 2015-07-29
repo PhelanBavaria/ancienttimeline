@@ -1,8 +1,8 @@
 #247 - Cumbria
 
-owner = PCT
-controller = PCT
-add_core = PCT
+owner = BRG
+controller = BRG
+add_core = BRG
 citysize = 1000
 culture = briton
 religion = druidism

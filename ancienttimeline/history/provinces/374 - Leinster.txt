@@ -1,8 +1,8 @@
 #374 - Leinster
 
-owner = MNS
-controller = MNS
-add_core = MNS
+owner = COI
+controller = COI
+add_core = COI
 citysize = 1000
 culture = irish
 religion = druidism

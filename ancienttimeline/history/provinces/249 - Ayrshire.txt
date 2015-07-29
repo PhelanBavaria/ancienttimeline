@@ -1,8 +1,8 @@
 #249 - Ayrshire
 
-owner = PCT
-controller = PCT
-add_core = PCT
+owner = NVT
+controller = NVT
+add_core = NVT
 citysize = 1000
 culture = pictish
 religion = druidism

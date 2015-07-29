@@ -1,7 +1,7 @@
 #239 - Gloucestershire
 
-owner = ERG
-controller = ERG
+owner = DOB
+controller = DOB
 culture = briton
 religion = druidism
 hre = no
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 4
 capital = "Abona"
 citysize = 1000
-add_core = ERG
+add_core = DOB
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

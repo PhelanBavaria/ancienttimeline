@@ -1,7 +1,7 @@
 #236 - London
 
-owner = CTV
-controller = CTV
+owner = ERG
+controller = ERG
 culture = briton
 religion = druidism
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 6
 capital = "Londinium"
 citysize = 10000
-add_core = CTV
+add_core = ERG
 fort_15th = yes
 discovered_by = western
 discovered_by = barbarian

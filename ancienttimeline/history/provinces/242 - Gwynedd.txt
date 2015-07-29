@@ -1,8 +1,8 @@
 #242 - Gwynedd
 
-owner = SLR
-controller = SLR
-add_core = SLR
+owner = ORD
+controller = ORD
+add_core = ORD
 citysize = 1000
 culture = briton
 religion = druidism

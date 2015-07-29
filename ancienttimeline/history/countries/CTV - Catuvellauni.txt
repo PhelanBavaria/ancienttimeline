@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = briton
+religion = druidism
+technology_group = celtiberians
+capital = 237  # Oxfordshire

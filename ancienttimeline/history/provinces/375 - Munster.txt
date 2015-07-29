@@ -1,8 +1,8 @@
 #375 - Munster
 
-owner = MNS
-controller = MNS
-add_core = MNS
+owner = IVE
+controller = IVE
+add_core = IVE
 citysize = 1000
 culture = irish
 religion = druidism
@@ -12,5 +12,5 @@ base_production = 4
 trade_goods = fish
 base_manpower = 2
 capital = "Cork"
-discovered_by = PCT
+discovered_by = celtiberians
 

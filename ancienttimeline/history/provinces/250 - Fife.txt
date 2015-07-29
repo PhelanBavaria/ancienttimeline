@@ -1,8 +1,8 @@
 #250 - Fife
 
-owner = PCT
-controller = PCT
-add_core = PCT
+owner = VEC
+controller = VEC
+add_core = VEC
 citysize = 1000
 culture = pictish
 religion = druidism

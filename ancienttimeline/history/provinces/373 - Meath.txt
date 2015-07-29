@@ -1,8 +1,8 @@
 #373 - Meath
 
-owner = ULA
-controller = ULA
-add_core = ULA
+owner = EBD
+controller = EBD
+add_core = EBD
 citysize = 1000
 culture = irish
 religion = druidism

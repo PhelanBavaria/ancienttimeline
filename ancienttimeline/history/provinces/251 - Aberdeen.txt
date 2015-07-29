@@ -1,8 +1,8 @@
 #251 - Aberdeen
 
-owner = PCT
-controller = PCT
-add_core = PCT
+owner = TAE
+controller = TAE
+add_core = TAE
 citysize = 1000
 culture = pictish
 religion = druidism
