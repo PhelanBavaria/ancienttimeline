@@ -1,7 +1,7 @@
 #630 - Sunda
 
 culture = javanese
-religion = hinduism
+religion = vedism
 capital = "Sundapura"
 trade_goods = unknown
 hre = no
@@ -19,4 +19,4 @@ discovered_by = chinese
 		duration = -1
 	}
 }
-
+4500.1.1 = { religion = hinduism }

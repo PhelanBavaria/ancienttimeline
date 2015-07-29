@@ -1,9 +1,9 @@
-#740 - Ladakh
+#2204 - Chanderi
 
 owner = WSA
 controller = WSA
 culture = malvi
-religion = hinduism
+religion = vedism
 capital = "Chanderi"
 trade_goods = cloth #Chintz
 hre = no
@@ -19,6 +19,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
 4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = MLW controller = MLW add_core = MLW remove_core = MAU }

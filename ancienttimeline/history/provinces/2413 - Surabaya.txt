@@ -1,7 +1,7 @@
-#628 - Surabaya
+#2413 - Surabaya
 
 culture = javanese
-religion = hinduism
+religion = vedism
 capital = "Surabaya"
 trade_goods = unknown
 hre = no
@@ -18,3 +18,4 @@ discovered_by = KDR
 discovered_by = KNT
 discovered_by = MTR
 
+4500.1.1 = { religion = hinduism }

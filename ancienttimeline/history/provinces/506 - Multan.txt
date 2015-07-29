@@ -1,9 +1,9 @@
 #506 - Multan
 
-owner = ACA
-controller = ACA
+owner = ROW
+controller = ROW
 culture = panjabi
-religion = hinduism
+religion = vedism
 capital = "Multan"
 trade_goods = cloth #Chintz
 hre = no
@@ -11,7 +11,7 @@ base_tax = 8
 base_production = 8
 base_manpower = 4
 citysize = 3396
-add_core = ACA
+add_core = ROW
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim
@@ -19,3 +19,5 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4500.1.1 = { religion = hinduism }

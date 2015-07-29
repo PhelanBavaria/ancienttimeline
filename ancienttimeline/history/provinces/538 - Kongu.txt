@@ -4,7 +4,7 @@ owner = PUZ
 controller = PUZ
 capital = "Coimbatore"
 culture = tamil
-religion = hinduism
+religion = vedism
 trade_goods = grain
 hre = no
 base_tax = 3
@@ -18,4 +18,5 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
 4700.1.1 = { owner = KGU controller = KGU add_core = KGU remove_core = PUZ }

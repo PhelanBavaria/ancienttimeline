@@ -3,7 +3,7 @@
 owner = CRT
 controller = CRT
 culture = doric_greek
-religion = hellenism
+religion = minoan_religion
 capital = "Gortyn"
 trade_goods = fish
 hre = no

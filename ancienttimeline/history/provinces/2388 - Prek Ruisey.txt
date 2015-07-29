@@ -1,7 +1,7 @@
-#605 - Prey Nokor
+#2388 - Prek Ruisey
 
 culture = khmer
-religion = hinduism
+religion = vedism
 capital = "Prek Russey"
 trade_goods = grain
 hre = no
@@ -19,4 +19,4 @@ discovered_by = ottoman
 			duration = -1
 		}
 }
-
+4500.1.1 = { religion = hinduism }

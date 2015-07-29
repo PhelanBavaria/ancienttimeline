@@ -3,7 +3,7 @@
 owner = CRH
 controller = CRH
 culture = ionic_greek
-religion = hellenism
+religion = minoan_religion
 capital = "Naxos"
 trade_goods = wine
 hre = no

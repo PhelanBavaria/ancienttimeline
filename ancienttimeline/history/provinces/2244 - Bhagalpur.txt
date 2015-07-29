@@ -1,9 +1,9 @@
-#563 - Pandua
+#2244 - Bhagalpur
 
 owner = MGH
 controller = MGH
 culture = bengali
-religion = hinduism
+religion = vedism
 capital = "Bhagalpur"
 trade_goods = silk
 hre = no
@@ -19,6 +19,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
 4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = SHN controller = SHN add_core = SHN remove_core = MAU }

@@ -1,9 +1,9 @@
-#566 - Assam
+#2252 - Sadiya
 
 owner = ASS
 controller = ASS
 culture = assamese
-religion = hinduism
+religion = vedism
 capital = "Sadiya"
 trade_goods = tea
 hre = no
@@ -17,3 +17,4 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }

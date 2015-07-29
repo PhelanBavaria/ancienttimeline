@@ -1,7 +1,7 @@
 #606 - Panduranga
 
 culture = cham
-religion = hinduism
+religion = vedism
 capital = "Panduranga"
 trade_goods = fish
 hre = no
@@ -13,3 +13,4 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+4500.1.1 = { religion = hinduism }

@@ -1,7 +1,7 @@
-#638 - Kutei
+#2424 - Tarakan
 
 culture = bornean
-religion = hinduism
+religion = vedism
 capital = "Tarakan"
 trade_goods = unknown
 hre = no
@@ -13,3 +13,4 @@ native_ferocity = 1
 native_hostileness = 5
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }

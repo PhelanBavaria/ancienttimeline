@@ -1,9 +1,9 @@
-#514 - Jodphur
+#2195 - Nagaur
 
 owner = WSA
 controller = WSA
 culture = rajput
-religion = hinduism
+religion = vedism
 capital = "Nagaur"
 trade_goods = grain
 hre = no
@@ -19,6 +19,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
 4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = SAU controller = SAU add_core = SAU remove_core = MAU }

@@ -1,7 +1,7 @@
 #639 - Banjarmasin
 
 culture = bornean
-religion = hinduism
+religion = vedism
 capital = "Banjarmasin"
 trade_goods = unknown
 hre = no
@@ -13,3 +13,4 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }

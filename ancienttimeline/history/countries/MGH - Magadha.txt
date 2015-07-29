@@ -1,9 +1,11 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = bihari
-religion = hinduism
+religion = vedism
 technology_group = indian
 capital = 558 # Pataliputra
+
+4500.1.1 = { religion = hinduism }
 
 4925.1.1 = {
 	monarch = {

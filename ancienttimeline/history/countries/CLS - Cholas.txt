@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = kannada
-religion = hinduism
+religion = vedism
 technology_group = indian
 capital = 540
 
@@ -2190,6 +2190,8 @@ capital = 540
 		mil = 3
 	}
 }
+
+4500.1.1 = { religion = hinduism }
 
 4504.1.1 = {
 	monarch = {

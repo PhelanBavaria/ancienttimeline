@@ -3,7 +3,7 @@
 owner = HUY
 controller = HUY
 culture = cham
-religion = hinduism
+religion = vedism
 capital = "Vijaya"
 trade_goods = tropical_wood
 hre = no
@@ -17,3 +17,4 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+4500.1.1 = { religion = hinduism }

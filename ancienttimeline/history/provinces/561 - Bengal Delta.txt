@@ -1,9 +1,9 @@
-#561 - Bangala
+#561 - Bengal Delta
 
 owner = GNG
 controller = GNG
 culture = bengali
-religion = hinduism
+religion = vedism
 capital = "Nabadwip"
 trade_goods = silk
 hre = no
@@ -24,7 +24,7 @@ discovered_by = chinese
 		duration = -1
 	}
 }
-
+4500.1.1 = { religion = hinduism }
 4680.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = GNG }
 4815.1.1 = { owner = KAL controller = KAL add_core = KAL remove_core = MAU }
 4890.1.1 = { owner = SHN controller = SHN add_core = SHN remove_core = KAL }

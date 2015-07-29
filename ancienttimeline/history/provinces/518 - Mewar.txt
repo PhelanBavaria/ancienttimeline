@@ -1,9 +1,9 @@
-#518 - Udaipur
+#518 - Mewar
 
 owner = WSA
 controller = WSA
 culture = rajput
-religion = hinduism
+religion = vedism
 capital = "Kotharia"
 trade_goods = gold #Silver and Zink mines
 hre = no
@@ -19,6 +19,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
 4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = ABH controller = ABH add_core = ABH remove_core = MAU }

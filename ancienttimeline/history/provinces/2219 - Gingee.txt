@@ -1,9 +1,9 @@
-#Carnatic
+#2219 - Gingee
 
 owner = CLS
 controller = CLS
 culture = tamil
-religion = hinduism
+religion = vedism
 capital = "Gingee"
 trade_goods = cloth
 hre = no
@@ -19,3 +19,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }

@@ -1,9 +1,9 @@
-#564 - Vanga
+#564 - Dacca
 
 owner = GNG
 controller = GNG
 culture = bengali
-religion = hinduism
+religion = vedism
 capital = "Vikrampur"
 trade_goods = cloth
 hre = no
@@ -24,6 +24,6 @@ discovered_by = chinese
 		duration = -1
 	}
 }
-
+4500.1.1 = { religion = hinduism }
 4680.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = GNG }
 4815.1.1 = { owner = VGA controller = VGA add_core = VGA remove_core = MAU }

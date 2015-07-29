@@ -1,9 +1,9 @@
-#507 - Lahore
+#507 - Punjab
 
-owner = ACA
-controller = ACA
+owner = ROW
+controller = ROW
 culture = panjabi
-religion = hinduism
+religion = vedism
 capital = "Lahore"
 trade_goods = silk
 hre = no
@@ -11,7 +11,7 @@ base_tax = 11
 base_production = 12
 base_manpower = 5
 citysize = 2182
-add_core = ACA
+add_core = ROW
 fort_15th = yes
 discovered_by = indian
 discovered_by = muslim
@@ -25,4 +25,5 @@ discovered_by = chinese
 		duration = -1
 	}
 }
-
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4500.1.1 = { religion = hinduism }

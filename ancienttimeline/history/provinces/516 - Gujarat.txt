@@ -1,9 +1,9 @@
-#516 - Ahmadabad
+#516 - Gujarat
 
 owner = SUR
 controller = SUR
 culture = gujarati
-religion = hinduism
+religion = vedism
 capital = "Ashaval"
 trade_goods = cloth
 hre = no
@@ -24,7 +24,7 @@ discovered_by = chinese
 			duration = -1
 		}
 }
-
+4500.1.1 = { religion = hinduism }
 4700.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4800.1.1 = { owner = SUR controller = SUR add_core = SUR remove_core = MAU }
 4900.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = SUR }

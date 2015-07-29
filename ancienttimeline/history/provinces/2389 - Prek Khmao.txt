@@ -1,7 +1,7 @@
-#605 - Prey Nokor
+#2389 - Prek Khmao
 
 culture = khmer
-religion = hinduism
+religion = vedism
 capital = "Oc Eo"
 trade_goods = fish
 hre = no
@@ -13,3 +13,4 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+4500.1.1 = { religion = hinduism }

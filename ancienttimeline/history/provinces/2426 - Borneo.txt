@@ -1,7 +1,7 @@
-#639 - Banjarmasin
+#2426 - Borneo
 
 culture = bornean
-religion = hinduism
+religion = vedism
 capital = "Putussibau"
 trade_goods = unknown
 hre = no
@@ -35,3 +35,4 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
+4500.1.1 = { religion = hinduism }

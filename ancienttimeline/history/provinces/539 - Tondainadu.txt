@@ -3,7 +3,7 @@
 owner = CLS
 controller = CLS
 culture = telegu
-religion = hinduism
+religion = vedism
 capital = "Kanchipuram"
 trade_goods = cloth
 hre = no
@@ -25,4 +25,4 @@ discovered_by = chinese
 			duration = -1
 		}
 }
-
+4500.1.1 = { religion = hinduism }

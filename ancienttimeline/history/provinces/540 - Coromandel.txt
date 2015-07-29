@@ -1,9 +1,9 @@
-#540 - Bangalore
+#540 - Coromandel
 
 owner = CLS
 controller = CLS
 culture = tamil
-religion = hinduism
+religion = vedism
 capital = "Poompuhar"
 trade_goods = cloth
 hre = no
@@ -25,4 +25,4 @@ discovered_by = chinese
 			duration = -1
 		}
 }
-
+4500.1.1 = { religion = hinduism }

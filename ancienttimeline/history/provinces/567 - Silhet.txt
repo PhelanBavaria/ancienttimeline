@@ -3,7 +3,7 @@
 owner = GNG
 controller = GNG
 culture = bengali
-religion = hinduism
+religion = vedism
 capital = "Sylhet"
 trade_goods = cotton
 hre = no
@@ -16,6 +16,7 @@ discovered_by = indian
 discovered_by = chinese
 discovered_by = nomad_group
 
+4500.1.1 = { religion = hinduism }
 4680.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = GNG }
 4815.1.1 = { owner = VGA controller = VGA add_core = VGA remove_core = MAU }
 4950.1.1 = { owner = TPR controller = TPR add_core = TPR remove_core = VGA }

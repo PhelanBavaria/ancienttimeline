@@ -1,9 +1,9 @@
 #2186 - Sehwan
 
-owner = ACA
-controller = ACA
+owner = ROW
+controller = ROW
 culture = sindhi
-religion = hinduism
+religion = vedism
 capital = "Sehwan"
 trade_goods = silk #Silk cloth, fine calicoes, painted cloth
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 2235
-add_core = ACA
+add_core = ROW
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim
@@ -19,3 +19,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

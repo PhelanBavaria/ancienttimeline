@@ -1,7 +1,7 @@
 #640 - Sukadane
 
 culture = bornean
-religion = hinduism
+religion = vedism
 capital = "Katapang"
 trade_goods = unknown
 hre = no
@@ -13,3 +13,4 @@ native_ferocity = 1
 native_hostileness = 5
 discovered_by = chinese
 
+4500.1.1 = { religion = hinduism }
