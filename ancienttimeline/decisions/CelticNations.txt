@@ -1,0 +1,141 @@
+country_decisions = {
+
+    belgic_nation = {
+        major = yes
+        potential = {
+            OR = {
+                ai = no
+                is_playing_custom_nation = no
+            }
+            NOT = { exists = BLG }
+            primary_culture = belgae
+            is_colonial_nation = no
+            OR = {
+                is_former_colonial_nation = no
+                AND = {
+                    is_former_colonial_nation = yes
+                    ai = no
+                }
+            }
+        }
+        allow = {
+            adm_tech = 10
+            is_subject = no
+            is_at_war = no
+            is_emperor = no
+            owns_core_province = 80
+            owns_core_province = 87
+            owns_core_province = 96
+            owns_core_province = 1743
+            num_of_cities = 10
+        }
+        effect = {
+            change_tag = BLG
+            set_government_rank = 2
+            add_country_modifier = {
+                name = "centralization_modifier"
+                duration = 7300
+            }
+            add_prestige = 25
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    armorican_nation = {
+        major = yes
+        potential = {
+            OR = {
+                ai = no
+                is_playing_custom_nation = no
+            }
+            NOT = { exists = ARO }
+            primary_culture = armorican
+            is_colonial_nation = no
+            OR = {
+                is_former_colonial_nation = no
+                AND = {
+                    is_former_colonial_nation = yes
+                    ai = no
+                }
+            }
+        }
+        allow = {
+            adm_tech = 10
+            is_subject = no
+            is_at_war = no
+            is_emperor = no
+            owns_core_province = 168
+            owns_core_province = 169
+            owns_core_province = 170
+            owns_core_province = 171
+            owns_core_province = 172
+        }
+        effect = {
+            change_tag = ARO
+            set_government_rank = 2
+            add_country_modifier = {
+                name = "centralization_modifier"
+                duration = 7300
+            }
+            add_prestige = 25
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    gallian_nation = {
+        major = yes
+        potential = {
+            OR = {
+                ai = no
+                is_playing_custom_nation = no
+            }
+            NOT = { exists = GLL }
+            OR = {
+                primary_culture = gallian
+                tag = ARO
+                tag = BLG
+            }
+            is_colonial_nation = no
+            OR = {
+                is_former_colonial_nation = no
+                AND = {
+                    is_former_colonial_nation = yes
+                    ai = no
+                }
+            }
+        }
+        allow = {
+            adm_tech = 10
+            is_subject = no
+            is_at_war = no
+            is_emperor = no
+            owns_core_province = 183 # Ile-de-France
+            owns_core_province = 199 # Auvergne
+            owns_core_province = 180 # Poitou
+            num_of_cities = 15
+        }
+        effect = {
+            change_tag = GLL
+            set_government_rank = 3
+            gallian_region = {
+                limit = {
+                    NOT = { owned_by = ROOT }
+                }
+                add_claim = GLL
+            }
+            add_country_modifier = {
+                name = "centralization_modifier"
+                duration = 7300
+            }
+            add_prestige = 25
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+}

@@ -69,6 +69,8 @@ VIR = "countries/Viromandui.txt"
 VIV = "countries/Vivisci.txt"
 VNI = "countries/Veneti.txt"
 VOC = "countries/Voconti.txt"
+ARO = "countries/Armorica.txt"
+BLG = "countries/Belgica.txt"
 
 #Britain
 AUT = "countries/Auteni.txt"
