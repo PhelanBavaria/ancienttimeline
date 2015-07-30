@@ -3,7 +3,7 @@
 owner = CTH
 controller = CTH
 culture = berber
-religion = african
+religion = punic_religion
 capital = "Hippo Regius"
 trade_goods = naval_supplies
 hre = no

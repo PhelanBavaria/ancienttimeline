@@ -2,8 +2,8 @@
 
 owner = CTH
 controller = CTH
-culture = tuareg
-religion = african
+culture = punic
+religion = punic_religion
 capital = "Arae Philaenorum"
 trade_goods = fish
 hre = no

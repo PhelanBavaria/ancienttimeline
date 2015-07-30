@@ -3,7 +3,7 @@
 owner = CTH
 controller = CTH
 culture = berber
-religion = african
+religion = punic_religion
 capital = "Saldae"
 trade_goods = iron
 hre = no

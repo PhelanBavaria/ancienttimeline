@@ -20,4 +20,5 @@ discovered_by = nomad_group
 discovered_by = chinese
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4670.7.17 = { owner = STG controller = STG add_core = STG remove_core = ACA }
 5010.1.1 = { owner = IPA controller = IPA add_core = IPA remove_core = IGR capital = "Sialkot" }

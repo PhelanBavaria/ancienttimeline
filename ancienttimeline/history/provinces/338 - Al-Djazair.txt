@@ -3,7 +3,7 @@
 owner = CTH
 controller = CTH  
 culture = berber
-religion = african
+religion = punic_religion
 capital = "Icosium"
 trade_goods = grain
 hre = no

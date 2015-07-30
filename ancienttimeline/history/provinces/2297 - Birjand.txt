@@ -1,8 +1,8 @@
 #2297 - Birjand
 
-owner = ACA
-controller = ACA
-culture = khorasani
+owner = ROW
+controller = ROW
+culture = parthian
 religion = zoroastrian
 capital = "Birjand"
 trade_goods = cotton
@@ -11,10 +11,12 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 1558
-add_core = ACA
+add_core = ROW
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 fort1 = yes
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4670.7.17 = { owner = PRT controller = PRT add_core = PRT remove_core = ACA }

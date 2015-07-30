@@ -3,7 +3,7 @@
 owner = CTH
 controller = CTH
 culture = punic
-religion = carthaginian
+religion = punic_religion
 capital = "Thubactis"
 trade_goods = cloth
 hre = no

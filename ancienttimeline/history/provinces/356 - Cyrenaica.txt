@@ -3,7 +3,7 @@
 owner = CTH
 controller = CTH
 culture = tuareg
-religion = hellenism
+religion = punic_religion
 capital = "Cyrene"
 trade_goods = wool
 hre = no

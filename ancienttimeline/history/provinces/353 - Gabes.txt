@@ -2,8 +2,8 @@
 
 owner = CTH
 controller = CTH 
-culture = tunisian
-religion = noreligion
+culture = punic
+religion = punic_religion
 capital = "Tacape"
 trade_goods = grain
 hre = no
