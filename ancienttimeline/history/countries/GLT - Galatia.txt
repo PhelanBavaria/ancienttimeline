@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = galatian
+religion = druidism
+technology_group = mediterranean
+capital = 326  # Angora

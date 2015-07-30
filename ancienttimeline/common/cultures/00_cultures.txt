@@ -265,6 +265,11 @@ gaelic	= {
 			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
 		}
 	}
+	galatian = {
+		dynasty_names = {
+			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+		}
+	}
 	armorican = {
 		dynasty_names = {
 			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
