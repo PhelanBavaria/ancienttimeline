@@ -1,10 +1,10 @@
 #222 - Almería
 
-owner = CTH
-controller = CTH
-add_core = CTH
-culture = punic
-religion = carthaginian
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = roman
+religion = hellenism
 hre = no
 base_tax = 2
 base_production = 2

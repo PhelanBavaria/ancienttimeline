@@ -1,10 +1,10 @@
 #221 - Murcia
 
-owner = CTH
-controller = CTH
-add_core = CTH
+owner = ROM
+controller = ROM
+add_core = ROM
 culture = punic
-religion = carthaginian
+religion = punic_religion
 hre = no
 base_tax = 5
 base_production = 4

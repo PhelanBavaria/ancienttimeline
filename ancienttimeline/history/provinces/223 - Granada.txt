@@ -1,11 +1,11 @@
 #223 - Granada
 
-owner = CTH
-controller = CTH
-add_core = CTH
+owner = ROM
+controller = ROM
+add_core = ROM
 add_core = TUT
 culture = punic
-religion = carthaginian
+religion = hellenism
 hre = no
 base_tax = 6
 base_production = 6

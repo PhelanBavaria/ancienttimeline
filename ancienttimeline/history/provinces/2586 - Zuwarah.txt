@@ -2,8 +2,8 @@
 
 owner = CTH
 controller = CTH
-culture = tunisian
-religion = african
+culture = punic
+religion = punic_religion
 capital = "Sabrata"
 trade_goods = fish
 hre = no
