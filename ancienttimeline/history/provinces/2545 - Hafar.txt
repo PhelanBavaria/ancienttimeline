@@ -1,7 +1,7 @@
 #2545 - Hafar
 
-owner = ACA
-controller = ACA
+owner = ROW
+controller = ROW
 culture = bedouin_arabic
 religion = south_arabian
 capital = "Hafar"
@@ -10,7 +10,7 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = ACA
+add_core = ROW
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -31,4 +31,5 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4669.9.12 = { owner = NAJ controller = NAJ remove_core = ACA }
