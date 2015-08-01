@@ -1,9 +1,5 @@
 #51 - Ruppin
 
-owner = LOM
-controller = LOM
-add_core = LOM
-citysize = 1000
 culture = langobardi
 religion = germanic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = grain
 base_manpower = 1
 capital = "Neuruppin"
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

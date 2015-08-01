@@ -1,9 +1,5 @@
 #256 - Plock
 
-owner = GCR
-controller = GCR
-add_core = GCR
-citysize = 1000
 capital = "Plock"
 culture = gothic
 religion = germanic
@@ -12,7 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-discovered_by = GCR
-discovered_by = PRS
-discovered_by = VNE
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

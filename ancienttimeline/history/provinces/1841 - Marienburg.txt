@@ -1,9 +1,5 @@
 #1841 - Izu
 
-owner = GCR
-controller = GCR
-add_core = GCR
-citysize = 1000
 capital  = "Marienburg"
 culture = gothic
 religion = germanic
@@ -12,7 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-discovered_by = GCR
-discovered_by = PRS
-discovered_by = POM
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

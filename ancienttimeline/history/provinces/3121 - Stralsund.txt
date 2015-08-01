@@ -1,9 +1,5 @@
 #47 - Vorpommern
 
-owner = RUG
-controller = RUG
-add_core = RUG
-citysize = 1000
 culture = pommeranian
 religion = germanic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Stralsund"
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

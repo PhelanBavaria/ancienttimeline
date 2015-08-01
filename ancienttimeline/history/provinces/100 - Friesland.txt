@@ -1,9 +1,5 @@
 # 100 Friesland - Principal cities: Groningen & Leeuwarden
 
-owner = FRS
-controller = FRS
-add_core = FRS
-citysize = 1000
 capital = "Groningen"
 culture = dutch
 religion = germanic
@@ -12,7 +8,6 @@ base_tax = 6
 base_production = 6
 trade_goods = fish 
 base_manpower = 4
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

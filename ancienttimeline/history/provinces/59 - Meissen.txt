@@ -1,9 +1,5 @@
 #59 - Meissen
 
-owner = LOM
-controller = LOM
-add_core = LOM
-citysize = 1000
 culture = langobardi
 religion = germanic
 capital = "Wittenberg"
@@ -12,7 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

@@ -1,9 +1,5 @@
 # 86 - Munster
 
-owner = FRK
-controller = FRK
-add_core = FRK
-citysize = 1000
 culture = frankish
 religion = germanic
 trade_goods = cloth
@@ -12,11 +8,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 hre = no
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 

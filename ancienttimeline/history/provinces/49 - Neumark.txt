@@ -1,9 +1,5 @@
 #49 - Neumark
 
-owner = RUG
-controller = RUG
-add_core = RUG
-citysize = 1000
 culture = pommeranian
 religion = germanic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = grain
 base_manpower = 3
 capital = "Soldin"
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

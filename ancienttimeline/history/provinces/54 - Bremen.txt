@@ -1,9 +1,5 @@
 #54 - Stade
 
-owner = SAX
-controller = SAX
-add_core = SAX
-citysize = 1000
 culture = saxon
 religion = germanic
 capital = "Bremervörde"
@@ -12,7 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 4
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

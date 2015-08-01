@@ -1,9 +1,5 @@
 #257 - Mazovia
 
-owner = GCR
-controller = GCR
-add_core = GCR
-citysize = 1000
 capital = "Warszawa"
 culture = gothic
 religion = germanic
@@ -12,6 +8,6 @@ hre = no
 base_tax = 8
 base_production = 8
 base_manpower = 4
-discovered_by = GCR
-discovered_by = VNE
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

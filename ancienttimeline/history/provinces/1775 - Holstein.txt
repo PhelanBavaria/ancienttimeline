@@ -1,9 +1,5 @@
 #1775 - Holstein
 
-owner = ANL
-controller = ANL
-add_core = ANL
-citysize = 1000
 culture = hannoverian
 religion = germanic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = fish
 base_manpower = 5
 capital = "Kiel"
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6

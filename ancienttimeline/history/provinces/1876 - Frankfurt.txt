@@ -1,9 +1,5 @@
 # 1876 - Frankfurt
 
-owner = ALM
-controller = ALM
-add_core = ALM
-citysize = 1500
 capital = "Frankonovurd"
 culture = swabian
 religion = germanic
@@ -12,13 +8,10 @@ base_tax = 7
 base_production = 7
 base_manpower = 4
 hre = no
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
+
 
 2.1.1 = {
 	add_permanent_province_modifier = {

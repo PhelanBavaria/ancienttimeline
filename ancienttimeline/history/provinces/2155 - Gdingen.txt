@@ -1,9 +1,5 @@
 #2155 - Gdingen
 
-owner = POM
-controller = POM
-add_core = POM
-citysize = 1000
 capital = "Oxhöft"
 culture = pommeranian
 religion = romuva
@@ -12,7 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
