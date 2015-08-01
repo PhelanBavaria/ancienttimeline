@@ -1,23 +1,19 @@
 #114 - Romagna
 
-owner = IBI
-controller = IBI
-culture = boian
-religion = druidism
+culture = etruscan
+religion = etruscan_poly
 hre = no 
 base_tax = 6
 base_production = 6
 trade_goods = salt
 base_manpower = 4
 fort1 = yes 
-capital = "Bononia" 
+capital = "Felsina" 
 citysize = 5000
-add_core = IBI
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4000.1.1 = { discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean discovered_by = muslim discovered_by = ottoman }
+4250.1.1 = { owner = ETR controller = ETR add_core = ETR trade_goods = salt}
+4609.1.1 = { owner = IBI controller = IBI add_core = IBI culture = boian religion = druidism capital = "Bononia"}

@@ -244,6 +244,22 @@ pagan = {
 
 hellenic = {
 	hellenism = {
+		color = { 0.3 0.2 0.2 }
+		icon = 19
+		province = {
+			local_missionary_strength = 0.04
+		}
+		country = {
+			global_tax_modifier = 0.05
+			tolerance_heathen = 2
+		}
+
+		personal_deity = yes
+
+		heretic = { SERAPIS }
+	}
+
+	etruscan_poly = {
 		color = { 0.4 0 0.3 }
 		icon = 19
 		province = {
