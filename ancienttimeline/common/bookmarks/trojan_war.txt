@@ -1,0 +1,7 @@
+
+bookmark =
+{
+	name = "TROJAN_WAR_NAME"
+	desc = "TROJAN_WAR_DESC"
+	date = 3740.1.1
+}

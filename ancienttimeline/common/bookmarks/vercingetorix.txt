@@ -1,0 +1,10 @@
+
+bookmark =
+{
+	name = "VERCINGETORIX_NAME"
+	desc = "VERCINGETORIX_DESC"
+	date = 4948.1.1
+
+    country = ARV
+    country = ROM
+}
