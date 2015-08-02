@@ -1,0 +1,77 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = malvi
+religion = hinduism
+technology_group = indian
+capital = 740	# Ujjain
+
+4815.1.1 = {
+	monarch = {
+		name = "Gandharvasena"
+		dynasty = "Paramara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4845.1.1 = {
+	heir = {
+		name = "Sankharaja"
+		monarch_name = "Sankharaja"
+		dynasty = "Paramara"
+		birth_date = 4845.1.1
+		death_date = 4895.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+4865.1.1 = {
+	monarch = {
+		name = "Sankharaja"
+		dynasty = "Paramara"
+		birth_date = 4835.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+4895.1.1 = {
+	monarch = {
+		name = "Gandharvasena"
+		dynasty = "Paramara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4898.1.1 = {
+	heir = {
+		name = "Vikramaditya"
+		monarch_name = "Vikramaditya"
+		dynasty = "Paramara"
+		birth_date = 4898.1.1
+		death_date = 5015.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4915.1.1 = {
+	monarch = {
+		name = "Vikramaditya"
+		dynasty = "Paramara"
+		birth_date = 4898.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+

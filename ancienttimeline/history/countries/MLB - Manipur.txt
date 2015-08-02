@@ -1,0 +1,16 @@
+government = tribal_kingdom
+technology_group = indian
+primary_culture = chin
+religion = animism
+capital = 2253 # Imphal
+
+#Rajas of Manipur
+5033.1.1 = {
+	monarch = {
+		name = "Nongda Lairen Pakhangba"
+		dynasty = "Ningthouja"
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+}

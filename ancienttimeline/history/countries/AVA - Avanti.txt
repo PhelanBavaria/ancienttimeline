@@ -3,5 +3,5 @@ mercantilism = 0.1
 technology_group = indian
 religion = hinduism
 primary_culture = rajput
-capital = 518
+capital = 528
 

@@ -1,0 +1,822 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = sinhala
+capital = 572	# Kandy
+
+4457.1.1 = {
+	monarch = {
+		name = "Vijaya"
+		dynasty = "Vijaya"
+		birth_date = 4427.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4465.1.1 = {
+	heir = {
+		name = "Upatissa"
+		monarch_name = "Upatissa"
+		dynasty = "Vijaya"
+		birth_date = 4465.1.1
+		death_date = 4496.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4495.1.1 = {
+	monarch = {
+		name = "Upatissa"
+		dynasty = "Vijaya"
+		birth_date = 4465.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4495.1.1 = {
+	heir = {
+		name = "Panduvasdeva"
+		monarch_name = "Panduvasdeva"
+		dynasty = "Vijaya"
+		birth_date = 4466.1.1
+		death_date = 4526.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+4496.1.1 = {
+	monarch = {
+		name = "Panduvasdeva"
+		dynasty = "Vijaya"
+		birth_date = 4466.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+4496.1.1 = {
+	heir = {
+		name = "Abhaya"
+		monarch_name = "Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4496.1.1
+		death_date = 4546.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+4526.1.1 = {
+	monarch = {
+		name = "Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4496.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+4526.1.1 = {
+	heir = {
+		name = "Tissa"
+		monarch_name = "Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4516.1.1
+		death_date = 4563.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4546.1.1 = {
+	monarch = {
+		name = "Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4516.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4546.1.1 = {
+	heir = {
+		name = "Pandukaghaya"
+		monarch_name = "Pandukaghaya"
+		dynasty = "Vijaya"
+		birth_date = 4526.1.1
+		death_date = 4633.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4563.1.1 = {
+	monarch = {
+		name = "Pandukaghaya"
+		dynasty = "Vijaya"
+		birth_date = 4526.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4603.1.1 = {
+	heir = {
+		name = "Mutasiva"
+		monarch_name = "Mutasiva"
+		dynasty = "Vijaya"
+		birth_date = 4603.1.1
+		death_date = 4693.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+4633.1.1 = {
+	monarch = {
+		name = "Mutasiva"
+		dynasty = "Vijaya"
+		birth_date = 4603.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+4663.1.1 = {
+	heir = {
+		name = "Devanampiya Tissa"
+		monarch_name = "Devanampiya Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4663.1.1
+		death_date = 4733.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+4693.1.1 = {
+	monarch = {
+		name = "Devanampiya Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4663.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+4703.1.1 = {
+	heir = {
+		name = "Uttiya"
+		monarch_name = "Uttiya"
+		dynasty = "Vijaya"
+		birth_date = 4703.1.1
+		death_date = 4743.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4733.1.1 = {
+	monarch = {
+		name = "Uttiya"
+		dynasty = "Vijaya"
+		birth_date = 4703.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4733.1.1 = {
+	heir = {
+		name = "Mahasiva"
+		monarch_name = "Mahasiva"
+		dynasty = "Vijaya"
+		birth_date = 4713.1.1
+		death_date = 4753.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4743.1.1 = {
+	monarch = {
+		name = "Mahasiva"
+		dynasty = "Vijaya"
+		birth_date = 4713.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4743.1.1 = {
+	heir = {
+		name = "Suratissa"
+		monarch_name = "Suratissa"
+		dynasty = "Vijaya"
+		birth_date = 4723.1.1
+		death_date = 4763.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4753.1.1 = {
+	monarch = {
+		name = "Suratissa"
+		dynasty = "Vijaya"
+		birth_date = 4723.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+4763.1.1 = {
+	monarch = {
+		name = "Sena"
+		dynasty = "Tamil"
+		birth_date = 4723.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4785.1.1 = {
+	monarch = {
+		name = "Asela"
+		dynasty = "Vijaya"
+		birth_date = 4755.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+4795.1.1 = {
+	monarch = {
+		name = "Elara"
+		dynasty = "Chola"
+		birth_date = 4765.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4839.1.1 = {
+	monarch = {
+		name = "Dutthagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4809.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4839.1.1 = {
+	heir = {
+		name = "Saddha Tissa"
+		monarch_name = "Saddha Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4833.1.1
+		death_date = 4881.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+4863.1.1 = {
+	monarch = {
+		name = "Saddha Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4833.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+4863.1.1 = {
+	heir = {
+		name = "Lanja Tissa"
+		monarch_name = "Lanja Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4851.1.1
+		death_date = 4891.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+4881.1.1 = {
+	monarch = {
+		name = "Lanja Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4851.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+4881.1.1 = {
+	heir = {
+		name = "Khallata Naga"
+		monarch_name = "Khallata Naga"
+		dynasty = "Vijaya"
+		birth_date = 4861.1.1
+		death_date = 4896.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+4891.1.1 = {
+	monarch = {
+		name = "Khallata Naga"
+		dynasty = "Vijaya"
+		birth_date = 4861.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+4891.1.1 = {
+	heir = {
+		name = "Vattagamani Abhaya"
+		monarch_name = "Vattagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4866.1.1
+		death_date = 4897.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4896.1.1 = {
+	monarch = {
+		name = "Vattagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4866.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4897.1.1 = {
+	monarch = {
+		name = "Pulahatta"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Bahiya"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4902.1.1 = {
+	monarch = {
+		name = "Panya Mara"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4909.1.1 = {
+	monarch = {
+		name = "Pilaya Mara"
+		dynasty = "Pandya"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+4910.1.1 = {
+	monarch = {
+		name = "Dathika"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4911.1.1 = {
+	monarch = {
+		name = "Vattagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4881.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4911.1.1 = {
+	heir = {
+		name = "Mahakuli Mahatissa"
+		monarch_name = "Mahakuli Mahatissa"
+		dynasty = "Vijaya"
+		birth_date = 4894.1.1
+		death_date = 4938.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+4924.1.1 = {
+	monarch = {
+		name = "Mahakuli Mahatissa"
+		dynasty = "Vijaya"
+		birth_date = 4894.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+4924.1.1 = {
+	heir = {
+		name = "Chora Naga"
+		monarch_name = "Chora Naga"
+		dynasty = "Vijaya"
+		birth_date = 4908.1.1
+		death_date = 4950.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+4938.1.1 = {
+	monarch = {
+		name = "Chora Naga"
+		dynasty = "Vijaya"
+		birth_date = 4908.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+4938.1.1 = {
+	heir = {
+		name = "Kuda Tissa"
+		monarch_name = "Kuda Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4920.1.1
+		death_date = 4953.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+4950.1.1 = {
+	monarch = {
+		name = "Kuda Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4920.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+4950.1.1 = {
+	heir = {
+		name = "Anula"
+		monarch_name = "Anula"
+		dynasty = "Vijaya"
+		birth_date = 4923.1.1
+		death_date = 4958.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+4953.1.1 = {
+	monarch = {
+		name = "Anula"
+		dynasty = "Vijaya"
+		birth_date = 4923.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+4953.1.1 = {
+	heir = {
+		name = "Kutakanna Tissa"
+		monarch_name = "Kutakanna Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4928.1.1
+		death_date = 4980.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4958.1.1 = {
+	monarch = {
+		name = "Kutakanna Tissa"
+		dynasty = "Vijaya"
+		birth_date = 4928.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+4958.1.1 = {
+	heir = {
+		name = "Bhatikabhaya Abhaya"
+		monarch_name = "Bhatikabhaya Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4950.1.1
+		death_date = 5009.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4980.1.1 = {
+	monarch = {
+		name = "Bhatikabhaya Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4950.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4980.1.1 = {
+	heir = {
+		name = "Mahadathika Mahanaga"
+		monarch_name = "Mahadathika Mahanaga"
+		dynasty = "Vijaya"
+		birth_date = 4979.1.1
+		death_date = 5021.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+5009.1.1 = {
+	monarch = {
+		name = "Mahadathika Mahanaga"
+		dynasty = "Vijaya"
+		birth_date = 4979.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+5009.1.1 = {
+	heir = {
+		name = "Amandagamani Abhaya"
+		monarch_name = "Amandagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4991.1.1
+		death_date = 5030.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+5021.1.1 = {
+	monarch = {
+		name = "Amandagamani Abhaya"
+		dynasty = "Vijaya"
+		birth_date = 4991.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+5021.1.1 = {
+	heir = {
+		name = "Kanirajanu Tissa"
+		monarch_name = "Kanirajanu Tissa"
+		dynasty = "Vijaya"
+		birth_date = 5000.1.1
+		death_date = 5033.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+5030.1.1 = {
+	monarch = {
+		name = "Kanirajanu Tissa"
+		dynasty = "Vijaya"
+		birth_date = 5000.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+5030.1.1 = {
+	heir = {
+		name = "Chulabhaya"
+		monarch_name = "Chulabhaya"
+		dynasty = "Vijaya"
+		birth_date = 5003.1.1
+		death_date = 5035.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+5033.1.1 = {
+	monarch = {
+		name = "Chulabhaya"
+		dynasty = "Vijaya"
+		birth_date = 5003.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+5033.1.1 = {
+	heir = {
+		name = "Sivali"
+		monarch_name = "Sivali"
+		dynasty = "Vijaya"
+		birth_date = 5005.1.1
+		death_date = 5038.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+5035.1.1 = {
+	monarch = {
+		name = "Sivali"
+		dynasty = "Vijaya"
+		birth_date = 5005.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+5035.1.1 = {
+	heir = {
+		name = "Ilanaga"
+		monarch_name = "Ilanaga"
+		dynasty = "Vijaya"
+		birth_date = 5008.1.1
+		death_date = 5044.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+5038.1.1 = {
+	monarch = {
+		name = "Ilanaga"
+		dynasty = "Vijaya"
+		birth_date = 5008.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+5038.1.1 = {
+	heir = {
+		name = "Chandamukha"
+		monarch_name = "Chandamukha"
+		dynasty = "Vijaya"
+		birth_date = 5014.1.1
+		death_date = 5052.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+5044.1.1 = {
+	monarch = {
+		name = "Chandamukha"
+		dynasty = "Vijaya"
+		birth_date = 5014.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+5044.1.1 = {
+	heir = {
+		name = "Yassalalaka"
+		monarch_name = "Yassalalaka"
+		dynasty = "Vijaya"
+		birth_date = 5022.1.1
+		death_date = 5060.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+5052.1.1 = {
+	monarch = {
+		name = "Yassalalaka"
+		dynasty = "Vijaya"
+		birth_date = 5022.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
