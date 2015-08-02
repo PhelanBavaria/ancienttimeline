@@ -235,6 +235,30 @@ gaelic	= {
 		}
 	}
 }
+
+tyrsenian = {
+	graphical_culture = westerngfx
+
+	dynasty_names = {
+		Acvilnas Apatrui Arathenas Atelinas Camitlnas Catharnai Churinas Cucrina Cuthna Hathisna Kurvenas Leprna Lusinies Marcena Meclasia Peipnas
+		Satlans Sentina Teithurna Telecles Velavesna Vestarcnies Zalthu
+	}
+	male_names = {
+		Hercle Achle Tite Vel Avle Aranthur Arnth Aule Cae Caile Cneve Cuinte Kaisie Kavie Larce Larth Lecne Mamarce Marce Metie Nerie Numesie
+		Pesna "Plecu Apatrui" Rasce Sethre Spurie Teitu Teucer Thefarie Thesanthei Thresu Thucer Velthur Venel Venthi Vulca
+	}
+	female_names = {
+		Uni Menvra Zipu Hercna Arnthi Hathli Pevtha Seianthi Semni Sethra Tita Vela Velia Vesia "Pure Nesithva" "Metli Spitu" "Larthia Cilnia" 
+		Ati Culni
+	}
+
+	etruscan = {
+		primary = ETR
+	}
+	raetian = {
+		primary = RAE
+	}
+}
 	
 latin = {
 	graphical_culture = westerngfx
@@ -250,20 +274,6 @@ latin = {
 	}
 	sicilian = {
 		primary = SIC
-	}
-	etruscan = {
-		dynasty_names = {
-			Acvilnas Apatrui Arathenas Atelinas Camitlnas Catharnai Churinas Cucrina Cuthna Hathisna Kurvenas Leprna Lusinies Marcena Meclasia Peipnas
-			Satlans Sentina Teithurna Telecles Velavesna Vestarcnies Zalthu
-		}
-		male_names = {
-			Hercle Achle Tite Vel Avle Aranthur Arnth Aule Cae Caile Cneve Cuinte Kaisie Kavie Larce Larth Lecne Mamarce Marce Metie Nerie Numesie
-			Pesna "Plecu Apatrui" Rasce Sethre Spurie Teitu Teucer Thefarie Thesanthei Thresu Thucer Velthur Venel Venthi Vulca
-		}
-		female_names = {
-			Uni Menvra Zipu Hercna Arnthi Hathli Pevtha Seianthi Semni Sethra Tita Vela Velia Vesia "Pure Nesithva" "Metli Spitu" "Larthia Cilnia" 
-			Ati Culni
-		}
 	}
 	roman = {
 		primary = ROM

@@ -1,0 +1,6 @@
+government = chiefdom
+mercantilism = 0.1
+primary_culture = raetian
+religion = druidism
+technology_group = celtiberians
+capital = 110  # Trent
