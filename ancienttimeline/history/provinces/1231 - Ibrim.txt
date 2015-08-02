@@ -1,8 +1,8 @@
 #1231 - Ibrim
 
-owner = EGT
-controller = EGT
-add_core = EGT
+owner = EGY
+controller = EGY
+add_core = EGY
 culture = nubian
 religion = egyptian
 capital = "Swenett"

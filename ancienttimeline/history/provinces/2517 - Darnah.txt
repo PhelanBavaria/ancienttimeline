@@ -1,7 +1,7 @@
 #2517 - Darnah
 
-owner = EGT
-controller = EGT
+owner = EGY
+controller = EGY
 culture = al_misr_arabic
 religion = egyptian
 capital = "Darnis"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 2135
-add_core = EGT
+add_core = EGY
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

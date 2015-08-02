@@ -23,8 +23,8 @@ discovered_by = ottoman
 
 4291.1.1 = { owner = ASY controller = ASY add_core = ASY }
 4331.1.1 = { owner = CYS controller = CYS remove_core = ASY }
-4450.1.1 = { owner = EGT controller = EGT add_core = EGT }
-4455.1.1 = { owner = ACA controller = ACA add_core = ACA remove_core = EGT }
+4450.1.1 = { owner = EGY controller = EGY add_core = EGY }
+4455.1.1 = { owner = ACA controller = ACA add_core = ACA remove_core = EGY }
 4668.10.3 = { owner = CYS controller = CYS add_core = CYS remove_core = ACA }
 4679.1.1 = { owner = MCD controller = MCD add_core = MCD }
 4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }
