@@ -1,22 +1,15 @@
 #245 - Yorkshire
 
-owner = BRG
-controller = BRG
 culture = briton
 religion = druidism
 hre = no
 base_tax = 6
 base_production = 7
-trade_goods = iron
+trade_goods = unknown
 base_manpower = 3
 capital = "Eboracum"
-citysize = 2500
-add_core = BRG
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
-discovered_by = mediterranean
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = BRG controller = BRG add_core = BRG citysize = 1000 trade_goods = iron  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
