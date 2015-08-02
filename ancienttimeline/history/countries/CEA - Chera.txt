@@ -1,0 +1,193 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 534
+
+4700.1.1 = {
+	monarch = {
+		name = "Nedum Cheralathan"
+		dynasty = "Chera"
+		birth_date = 4670.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4710.1.1 = {
+	heir = {
+		name = "Palyane Chel Kezhu Kuttuvan"
+		monarch_name = "Palyane Chel Kezhu Kuttuvan"
+		dynasty = "Chera"
+		birth_date = 4710.1.1
+		death_date = 4780.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4740.1.1 = {
+	monarch = {
+		name = "Palyane Chel Kezhu Kuttuvan"
+		dynasty = "Chera"
+		birth_date = 4710.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4750.1.1 = {
+	heir = {
+		name = "Narmudi Cheral"
+		monarch_name = "Narmudi Cheral"
+		dynasty = "Chera"
+		birth_date = 4750.1.1
+		death_date = 4820.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+4780.1.1 = {
+	monarch = {
+		name = "Narmudi Cheral"
+		dynasty = "Chera"
+		birth_date = 4750.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+4790.1.1 = {
+	heir = {
+		name = "Senguttuvan"
+		monarch_name = "Senguttuvan"
+		dynasty = "Chera"
+		birth_date = 4790.1.1
+		death_date = 4860.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+4820.1.1 = {
+	monarch = {
+		name = "Senguttuvan"
+		dynasty = "Chera"
+		birth_date = 4790.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+4830.1.1 = {
+	heir = {
+		name = "Adu Kottu Pattu Cheralathan"
+		monarch_name = "Adu Kottu Pattu Cheralathan"
+		dynasty = "Chera"
+		birth_date = 4830.1.1
+		death_date = 4900.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+4860.1.1 = {
+	monarch = {
+		name = "Adu Kottu Pattu Cheralathan"
+		dynasty = "Chera"
+		birth_date = 4830.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+4870.1.1 = {
+	heir = {
+		name = "Selva Kadumko Valiathan"
+		monarch_name = "Selva Kadumko Valiathan"
+		dynasty = "Chera"
+		birth_date = 4870.1.1
+		death_date = 5950.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Selva Kadumko Valiathan"
+		dynasty = "Chera"
+		birth_date = 4870.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+5920.1.1 = {
+	heir = {
+		name = "Perum Cheral Irumporai"
+		monarch_name = "Perum Cheral Irumporai"
+		dynasty = "Chera"
+		birth_date = 5920.1.1
+		death_date = 5000.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+5950.1.1 = {
+	monarch = {
+		name = "Perum Cheral Irumporai"
+		dynasty = "Chera"
+		birth_date = 5920.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+5950.1.1 = {
+	heir = {
+		name = "Ilam Cheral Irumporai"
+		monarch_name = "Ilam Cheral Irumporai"
+		dynasty = "Chera"
+		birth_date = 4970.1.1
+		death_date = 5059.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+5000.1.1 = {
+	monarch = {
+		name = "Ilam Cheral Irumporai"
+		dynasty = "Chera"
+		birth_date = 4970.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+

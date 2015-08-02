@@ -1,0 +1,1928 @@
+government = despotic_monarchy 
+mercantilism = 0.1
+primary_culture = bengali
+religion = mahayana
+capital = 579	# Akyab
+technology_group = chinese
+
+2334.1.1 = {
+	monarch = {
+		name = "Mara Yu"
+		dynasty = "Danyawaddy"
+		birth_date = 2304.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+}
+
+2366.1.1 = {
+	heir = {
+		name = "Mara Zi"
+		monarch_name = "Mara Zi I"
+		dynasty = "Danyawaddy"
+		birth_date = 2366.1.1
+		death_date = 2428.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+2396.1.1 = {
+	monarch = {
+		name = "Mara Zi I"
+		dynasty = "Danyawaddy"
+		birth_date = 2366.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+2398.1.1 = {
+	heir = {
+		name = "Mara Onlin"
+		monarch_name = "Mara Onlin"
+		dynasty = "Danyawaddy"
+		birth_date = 2398.1.1
+		death_date = 2481.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+2428.1.1 = {
+	monarch = {
+		name = "Mara Onlin"
+		dynasty = "Danyawaddy"
+		birth_date = 2398.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+2451.1.1 = {
+	heir = {
+		name = "Mara Rwaylin"
+		monarch_name = "Mara Rwaylin"
+		dynasty = "Danyawaddy"
+		birth_date = 2451.1.1
+		death_date = 2529.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+2481.1.1 = {
+	monarch = {
+		name = "Mara Rwaylin"
+		dynasty = "Danyawaddy"
+		birth_date = 2451.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+2499.1.1 = {
+	heir = {
+		name = "Mara Bin"
+		monarch_name = "Mara Bin"
+		dynasty = "Danyawaddy"
+		birth_date = 2499.1.1
+		death_date = 2584.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+2529.1.1 = {
+	monarch = {
+		name = "Mara Bin"
+		dynasty = "Danyawaddy"
+		birth_date = 2499.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+2554.1.1 = {
+	heir = {
+		name = "Mara Zi"
+		monarch_name = "Mara Zi II"
+		dynasty = "Danyawaddy"
+		birth_date = 2554.1.1
+		death_date = 2617.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+2584.1.1 = {
+	monarch = {
+		name = "Mara Zi II"
+		dynasty = "Danyawaddy"
+		birth_date = 2554.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+2587.1.1 = {
+	heir = {
+		name = "Mara Kin"
+		monarch_name = "Mara Kin"
+		dynasty = "Danyawaddy"
+		birth_date = 2587.1.1
+		death_date = 2649.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+2617.1.1 = {
+	monarch = {
+		name = "Mara Kin"
+		dynasty = "Danyawaddy"
+		birth_date = 2587.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+2619.1.1 = {
+	heir = {
+		name = "Nga Sha Po"
+		monarch_name = "Nga Sha Po"
+		dynasty = "Danyawaddy"
+		birth_date = 2619.1.1
+		death_date = 2670.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+2649.1.1 = {
+	monarch = {
+		name = "Nga Sha Po"
+		dynasty = "Danyawaddy"
+		birth_date = 2619.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+2649.1.1 = {
+	heir = {
+		name = "Dwara Sanda"
+		monarch_name = "Dwara Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2640.1.1
+		death_date = 2710.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+2670.1.1 = {
+	monarch = {
+		name = "Dwara Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2640.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+2680.1.1 = {
+	heir = {
+		name = "Thola Sanda"
+		monarch_name = "Thola Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2680.1.1
+		death_date = 2743.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+2710.1.1 = {
+	monarch = {
+		name = "Thola Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2680.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+2713.1.1 = {
+	heir = {
+		name = "Sanda Thuriya Sanda"
+		monarch_name = "Sanda Thuriya Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2713.1.1
+		death_date = 2780.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2743.1.1 = {
+	monarch = {
+		name = "Sanda Thuriya Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2713.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2750.1.1 = {
+	heir = {
+		name = "Kala Sanda"
+		monarch_name = "Kala Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2750.1.1
+		death_date = 2820.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+2780.1.1 = {
+	monarch = {
+		name = "Kala Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2750.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+2790.1.1 = {
+	heir = {
+		name = "Ti Sanda"
+		monarch_name = "Ti Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2790.1.1
+		death_date = 2851.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+2820.1.1 = {
+	monarch = {
+		name = "Ti Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2790.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+2821.1.1 = {
+	heir = {
+		name = "Madhutha Sanda"
+		monarch_name = "Madhutha Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2821.1.1
+		death_date = 2871.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+2851.1.1 = {
+	monarch = {
+		name = "Madhutha Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2821.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+2851.1.1 = {
+	heir = {
+		name = "Zeya Sanda"
+		monarch_name = "Zeya Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2841.1.1
+		death_date = 2911.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+2871.1.1 = {
+	monarch = {
+		name = "Zeya Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2841.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+2881.1.1 = {
+	heir = {
+		name = "Mokkha Sanda"
+		monarch_name = "Mokkha Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2881.1.1
+		death_date = 2937.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2911.1.1 = {
+	monarch = {
+		name = "Mokkha Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2881.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+2911.1.1 = {
+	heir = {
+		name = "Gunna Sanda"
+		monarch_name = "Gunna Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2907.1.1
+		death_date = 2950.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+2937.1.1 = {
+	monarch = {
+		name = "Gunna Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 2907.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+2937.1.1 = {
+	heir = {
+		name = "Kan Raza"
+		monarch_name = "Kan Raza I"
+		dynasty = "Danyawaddy"
+		birth_date = 2920.1.1
+		death_date = 2991.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}
+
+2950.1.1 = {
+	monarch = {
+		name = "Kan Raza I"
+		dynasty = "Danyawaddy"
+		birth_date = 2920.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}
+
+2961.1.1 = {
+	heir = {
+		name = "Kan Raza"
+		monarch_name = "Kan Raza II"
+		dynasty = "Danyawaddy"
+		birth_date = 2961.1.1
+		death_date = 3027.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+2991.1.1 = {
+	monarch = {
+		name = "Kan Raza II"
+		dynasty = "Danyawaddy"
+		birth_date = 2961.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+2997.1.1 = {
+	heir = {
+		name = "Athurinda Thuriya"
+		monarch_name = "Athurinda Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 2997.1.1
+		death_date = 3062.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+3027.1.1 = {
+	monarch = {
+		name = "Athurinda Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 2997.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+3032.1.1 = {
+	heir = {
+		name = "Tharameta"
+		monarch_name = "Tharameta"
+		dynasty = "Danyawaddy"
+		birth_date = 3032.1.1
+		death_date = 3120.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+3062.1.1 = {
+	monarch = {
+		name = "Tharameta"
+		dynasty = "Danyawaddy"
+		birth_date = 3032.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+3090.1.1 = {
+	heir = {
+		name = "Thuriya"
+		monarch_name = "Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 3090.1.1
+		death_date = 3151.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+3120.1.1 = {
+	monarch = {
+		name = "Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 3090.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+3121.1.1 = {
+	heir = {
+		name = "Min Thi"
+		monarch_name = "Min Thi"
+		dynasty = "Danyawaddy"
+		birth_date = 3121.1.1
+		death_date = 3173.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+3151.1.1 = {
+	monarch = {
+		name = "Min Thi"
+		dynasty = "Danyawaddy"
+		birth_date = 3121.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+3151.1.1 = {
+	heir = {
+		name = "Min Ba"
+		monarch_name = "Min Ba"
+		dynasty = "Danyawaddy"
+		birth_date = 3143.1.1
+		death_date = 3195.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+3173.1.1 = {
+	monarch = {
+		name = "Min Ba"
+		dynasty = "Danyawaddy"
+		birth_date = 3143.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+3173.1.1 = {
+	heir = {
+		name = "Si Aung"
+		monarch_name = "Si Aung"
+		dynasty = "Danyawaddy"
+		birth_date = 3165.1.1
+		death_date = 3223.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+3195.1.1 = {
+	monarch = {
+		name = "Si Aung"
+		dynasty = "Danyawaddy"
+		birth_date = 3165.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+3195.1.1 = {
+	heir = {
+		name = "Tataingthin"
+		monarch_name = "Tataingthin"
+		dynasty = "Danyawaddy"
+		birth_date = 3193.1.1
+		death_date = 3254.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+3223.1.1 = {
+	monarch = {
+		name = "Tataingthin"
+		dynasty = "Danyawaddy"
+		birth_date = 3193.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+3224.1.1 = {
+	heir = {
+		name = "Kyaw-Khaung Win"
+		monarch_name = "Kyaw-Khaung Win"
+		dynasty = "Danyawaddy"
+		birth_date = 3224.1.1
+		death_date = 3285.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+3254.1.1 = {
+	monarch = {
+		name = "Kyaw-Khaung Win"
+		dynasty = "Danyawaddy"
+		birth_date = 3224.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+3255.1.1 = {
+	heir = {
+		name = "Thuriya Nandameit"
+		monarch_name = "Thuriya Nandameit"
+		dynasty = "Danyawaddy"
+		birth_date = 3255.1.1
+		death_date = 3306.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+}
+
+3285.1.1 = {
+	monarch = {
+		name = "Thuriya Nandameit"
+		dynasty = "Danyawaddy"
+		birth_date = 3255.1.1
+		adm = 0
+		dip = 0
+		mil = 5
+	}
+}
+
+3285.1.1 = {
+	heir = {
+		name = "Athu Yindabaya"
+		monarch_name = "Athu Yindabaya"
+		dynasty = "Danyawaddy"
+		birth_date = 3276.1.1
+		death_date = 3337.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+3306.1.1 = {
+	monarch = {
+		name = "Athu Yindabaya"
+		dynasty = "Danyawaddy"
+		birth_date = 3276.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+3307.1.1 = {
+	heir = {
+		name = "Letya Sithugyi"
+		monarch_name = "Letya Sithugyi"
+		dynasty = "Danyawaddy"
+		birth_date = 3307.1.1
+		death_date = 3369.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+3337.1.1 = {
+	monarch = {
+		name = "Letya Sithugyi"
+		dynasty = "Danyawaddy"
+		birth_date = 3307.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+3339.1.1 = {
+	heir = {
+		name = "Thihaka"
+		monarch_name = "Thihaka"
+		dynasty = "Danyawaddy"
+		birth_date = 3339.1.1
+		death_date = 3412.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+3369.1.1 = {
+	monarch = {
+		name = "Thihaka"
+		dynasty = "Danyawaddy"
+		birth_date = 3339.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+3382.1.1 = {
+	heir = {
+		name = "Min Bun Than"
+		monarch_name = "Min Bun Than"
+		dynasty = "Danyawaddy"
+		birth_date = 3382.1.1
+		death_date = 3443.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+3412.1.1 = {
+	monarch = {
+		name = "Min Bun Than"
+		dynasty = "Danyawaddy"
+		birth_date = 3382.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+3413.1.1 = {
+	heir = {
+		name = "Thayet Hmwe"
+		monarch_name = "Thayet Hmwe"
+		dynasty = "Danyawaddy"
+		birth_date = 3413.1.1
+		death_date = 3492.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+3443.1.1 = {
+	monarch = {
+		name = "Thayet Hmwe"
+		dynasty = "Danyawaddy"
+		birth_date = 3413.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+3462.1.1 = {
+	heir = {
+		name = "Zeya Nandathu"
+		monarch_name = "Zeya Nandathu"
+		dynasty = "Danyawaddy"
+		birth_date = 3462.1.1
+		death_date = 3543.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+3492.1.1 = {
+	monarch = {
+		name = "Zeya Nandathu"
+		dynasty = "Danyawaddy"
+		birth_date = 3462.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+3513.1.1 = {
+	heir = {
+		name = "Tekkathu"
+		monarch_name = "Tekkathu"
+		dynasty = "Danyawaddy"
+		birth_date = 3513.1.1
+		death_date = 3589.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3543.1.1 = {
+	monarch = {
+		name = "Tekkathu"
+		dynasty = "Danyawaddy"
+		birth_date = 3513.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3559.1.1 = {
+	heir = {
+		name = "Lekkhana"
+		monarch_name = "Lekkhana"
+		dynasty = "Danyawaddy"
+		birth_date = 3559.1.1
+		death_date = 3626.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3589.1.1 = {
+	monarch = {
+		name = "Lekkhana"
+		dynasty = "Danyawaddy"
+		birth_date = 3559.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+3596.1.1 = {
+	heir = {
+		name = "Gunnarit"
+		monarch_name = "Gunnarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3596.1.1
+		death_date = 3674.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+3626.1.1 = {
+	monarch = {
+		name = "Gunnarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3596.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+3644.1.1 = {
+	heir = {
+		name = "Thiwarit"
+		monarch_name = "Thiwarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3644.1.1
+		death_date = 3715.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+3674.1.1 = {
+	monarch = {
+		name = "Thiwarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3644.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+3685.1.1 = {
+	heir = {
+		name = "Min Hla Hmwe"
+		monarch_name = "Min Hla Hmwe"
+		dynasty = "Danyawaddy"
+		birth_date = 3685.1.1
+		death_date = 3746.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+3715.1.1 = {
+	monarch = {
+		name = "Min Hla Hmwe"
+		dynasty = "Danyawaddy"
+		birth_date = 3685.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+3716.1.1 = {
+	heir = {
+		name = "Marinda"
+		monarch_name = "Marinda"
+		dynasty = "Danyawaddy"
+		birth_date = 3716.1.1
+		death_date = 3808.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+3746.1.1 = {
+	monarch = {
+		name = "Marinda"
+		dynasty = "Danyawaddy"
+		birth_date = 3716.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+3778.1.1 = {
+	heir = {
+		name = "Theiddat Kumara"
+		monarch_name = "Theiddat Kumara"
+		dynasty = "Danyawaddy"
+		birth_date = 3778.1.1
+		death_date = 3830.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+3808.1.1 = {
+	monarch = {
+		name = "Theiddat Kumara"
+		dynasty = "Danyawaddy"
+		birth_date = 3778.1.1
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+3808.1.1 = {
+	heir = {
+		name = "Min Hla"
+		monarch_name = "Min Hla I"
+		dynasty = "Danyawaddy"
+		birth_date = 3800.1.1
+		death_date = 3877.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+3830.1.1 = {
+	monarch = {
+		name = "Min Hla I"
+		dynasty = "Danyawaddy"
+		birth_date = 3800.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+3847.1.1 = {
+	heir = {
+		name = "Min Hla"
+		monarch_name = "Min Hla II"
+		dynasty = "Danyawaddy"
+		birth_date = 3847.1.1
+		death_date = 3901.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+3877.1.1 = {
+	monarch = {
+		name = "Min Hla II"
+		dynasty = "Danyawaddy"
+		birth_date = 3847.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+3877.1.1 = {
+	heir = {
+		name = "Nga Sarit"
+		monarch_name = "Nga Sarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3871.1.1
+		death_date = 3939.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+3901.1.1 = {
+	monarch = {
+		name = "Nga Sarit"
+		dynasty = "Danyawaddy"
+		birth_date = 3871.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+3909.1.1 = {
+	heir = {
+		name = "Myethna Wun"
+		monarch_name = "Myethna Wun"
+		dynasty = "Danyawaddy"
+		birth_date = 3909.1.1
+		death_date = 3970.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+3939.1.1 = {
+	monarch = {
+		name = "Myethna Wun"
+		dynasty = "Danyawaddy"
+		birth_date = 3909.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+3940.1.1 = {
+	heir = {
+		name = "Let Thut Kyi"
+		monarch_name = "Let Thut Kyi"
+		dynasty = "Danyawaddy"
+		birth_date = 3940.1.1
+		death_date = 3997.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+3970.1.1 = {
+	monarch = {
+		name = "Let Thut Kyi"
+		dynasty = "Danyawaddy"
+		birth_date = 3940.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+3970.1.1 = {
+	heir = {
+		name = "Thiri Kamma Thunda"
+		monarch_name = "Thiri Kamma Thunda"
+		dynasty = "Danyawaddy"
+		birth_date = 3967.1.1
+		death_date = 4028.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+3997.1.1 = {
+	monarch = {
+		name = "Thiri Kamma Thunda"
+		dynasty = "Danyawaddy"
+		birth_date = 3967.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+3998.1.1 = {
+	heir = {
+		name = "Nanda Kotabaya"
+		monarch_name = "Nanda Kotabaya"
+		dynasty = "Danyawaddy"
+		birth_date = 3998.1.1
+		death_date = 4055.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4028.1.1 = {
+	monarch = {
+		name = "Nanda Kotabaya"
+		dynasty = "Danyawaddy"
+		birth_date = 3998.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4028.1.1 = {
+	heir = {
+		name = "Min Nan Phyu"
+		monarch_name = "Min Nan Phyu"
+		dynasty = "Danyawaddy"
+		birth_date = 4025.1.1
+		death_date = 4075.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+4055.1.1 = {
+	monarch = {
+		name = "Min Nan Phyu"
+		dynasty = "Danyawaddy"
+		birth_date = 4025.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+4055.1.1 = {
+	heir = {
+		name = "Min Manu"
+		monarch_name = "Min Manu"
+		dynasty = "Danyawaddy"
+		birth_date = 4045.1.1
+		death_date = 4103.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+4075.1.1 = {
+	monarch = {
+		name = "Min Manu"
+		dynasty = "Danyawaddy"
+		birth_date = 4045.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+4075.1.1 = {
+	heir = {
+		name = "Minkhaung"
+		monarch_name = "Minkhaung"
+		dynasty = "Danyawaddy"
+		birth_date = 4073.1.1
+		death_date = 4122.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+4103.1.1 = {
+	monarch = {
+		name = "Minkhaung"
+		dynasty = "Danyawaddy"
+		birth_date = 4073.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+4103.1.1 = {
+	heir = {
+		name = "Laukkhaung Raza"
+		monarch_name = "Laukkhaung Raza"
+		dynasty = "Danyawaddy"
+		birth_date = 4092.1.1
+		death_date = 4162.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4122.1.1 = {
+	monarch = {
+		name = "Laukkhaung Raza"
+		dynasty = "Danyawaddy"
+		birth_date = 4092.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4132.1.1 = {
+	heir = {
+		name = "Min Nge Pyaw-Hla-Si"
+		monarch_name = "Min Nge Pyaw-Hla-Si"
+		dynasty = "Danyawaddy"
+		birth_date = 4132.1.1
+		death_date = 4175.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+4162.1.1 = {
+	monarch = {
+		name = "Min Nge Pyaw-Hla-Si"
+		dynasty = "Danyawaddy"
+		birth_date = 4132.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+4175.1.1 = {
+	monarch = {
+		name = "Kan Raza III"
+		dynasty = "Danyawaddy"
+		birth_date = 4145.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+4182.1.1 = {
+	heir = {
+		name = "Thila Raza"
+		monarch_name = "Thila Raza"
+		dynasty = "Danyawaddy"
+		birth_date = 4182.1.1
+		death_date = 4260.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4212.1.1 = {
+	monarch = {
+		name = "Thila Raza"
+		dynasty = "Danyawaddy"
+		birth_date = 4182.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4230.1.1 = {
+	heir = {
+		name = "Wasa Thura"
+		monarch_name = "Wasa Thura"
+		dynasty = "Danyawaddy"
+		birth_date = 4230.1.1
+		death_date = 4291.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4260.1.1 = {
+	monarch = {
+		name = "Wasa Thura"
+		dynasty = "Danyawaddy"
+		birth_date = 4230.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4261.1.1 = {
+	heir = {
+		name = "Nandawi Thura"
+		monarch_name = "Nandawi Thura"
+		dynasty = "Danyawaddy"
+		birth_date = 4261.1.1
+		death_date = 4331.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+4291.1.1 = {
+	monarch = {
+		name = "Nandawi Thura"
+		dynasty = "Danyawaddy"
+		birth_date = 4261.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+4301.1.1 = {
+	heir = {
+		name = "Puna Thuriya"
+		monarch_name = "Puna Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 4301.1.1
+		death_date = 4363.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+4331.1.1 = {
+	monarch = {
+		name = "Puna Thuriya"
+		dynasty = "Danyawaddy"
+		birth_date = 4301.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+4333.1.1 = {
+	heir = {
+		name = "Thuranda"
+		monarch_name = "Thuranda"
+		dynasty = "Danyawaddy"
+		birth_date = 4333.1.1
+		death_date = 4386.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+4363.1.1 = {
+	monarch = {
+		name = "Thuranda"
+		dynasty = "Danyawaddy"
+		birth_date = 4333.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+4363.1.1 = {
+	heir = {
+		name = "Sandima"
+		monarch_name = "Sandima"
+		dynasty = "Danyawaddy"
+		birth_date = 4356.1.1
+		death_date = 4423.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4386.1.1 = {
+	monarch = {
+		name = "Sandima"
+		dynasty = "Danyawaddy"
+		birth_date = 4356.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4393.1.1 = {
+	heir = {
+		name = "Thiri Sanda"
+		monarch_name = "Thiri Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 4393.1.1
+		death_date = 4463.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+4423.1.1 = {
+	monarch = {
+		name = "Thiri Sanda"
+		dynasty = "Danyawaddy"
+		birth_date = 4393.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+4433.1.1 = {
+	heir = {
+		name = "Thiha Ran"
+		monarch_name = "Thiha Ran"
+		dynasty = "Danyawaddy"
+		birth_date = 4433.1.1
+		death_date = 4509.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4463.1.1 = {
+	monarch = {
+		name = "Thiha Ran"
+		dynasty = "Danyawaddy"
+		birth_date = 4433.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4479.1.1 = {
+	heir = {
+		name = "Thiha Nu"
+		monarch_name = "Thiha Nu"
+		dynasty = "Danyawaddy"
+		birth_date = 4479.1.1
+		death_date = 4529.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+4509.1.1 = {
+	monarch = {
+		name = "Thiha Nu"
+		dynasty = "Danyawaddy"
+		birth_date = 4479.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+4509.1.1 = {
+	heir = {
+		name = "Payaka"
+		monarch_name = "Payaka"
+		dynasty = "Danyawaddy"
+		birth_date = 4499.1.1
+		death_date = 4560.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+4529.1.1 = {
+	monarch = {
+		name = "Payaka"
+		dynasty = "Danyawaddy"
+		birth_date = 4499.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+4530.1.1 = {
+	heir = {
+		name = "Nela Gun"
+		monarch_name = "Nela Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4530.1.1
+		death_date = 4601.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4560.1.1 = {
+	monarch = {
+		name = "Nela Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4530.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4571.1.1 = {
+	heir = {
+		name = "Rohaha Gun"
+		monarch_name = "Rohaha Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4571.1.1
+		death_date = 4632.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4601.1.1 = {
+	monarch = {
+		name = "Rohaha Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4571.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4602.1.1 = {
+	heir = {
+		name = "Thiri Gun"
+		monarch_name = "Thiri Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4602.1.1
+		death_date = 4656.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4632.1.1 = {
+	monarch = {
+		name = "Thiri Gun"
+		dynasty = "Danyawaddy"
+		birth_date = 4602.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4632.1.1 = {
+	heir = {
+		name = "Thamaza"
+		monarch_name = "Thamaza"
+		dynasty = "Danyawaddy"
+		birth_date = 4626.1.1
+		death_date = 4691.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4656.1.1 = {
+	monarch = {
+		name = "Thamaza"
+		dynasty = "Danyawaddy"
+		birth_date = 4626.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4661.1.1 = {
+	heir = {
+		name = "Kummara"
+		monarch_name = "Kummara"
+		dynasty = "Danyawaddy"
+		birth_date = 4661.1.1
+		death_date = 4711.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+4691.1.1 = {
+	monarch = {
+		name = "Kummara"
+		dynasty = "Danyawaddy"
+		birth_date = 4661.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+4691.1.1 = {
+	heir = {
+		name = "Thet Htin Phyu"
+		monarch_name = "Thet Htin Phyu"
+		dynasty = "Danyawaddy"
+		birth_date = 4681.1.1
+		death_date = 4751.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+4711.1.1 = {
+	monarch = {
+		name = "Thet Htin Phyu"
+		dynasty = "Danyawaddy"
+		birth_date = 4681.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+4721.1.1 = {
+	heir = {
+		name = "Tha Bin U"
+		monarch_name = "Tha Bin U"
+		dynasty = "Danyawaddy"
+		birth_date = 4721.1.1
+		death_date = 4793.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+4751.1.1 = {
+	monarch = {
+		name = "Tha Bin U"
+		dynasty = "Danyawaddy"
+		birth_date = 4721.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+4763.1.1 = {
+	heir = {
+		name = "Teza Wun"
+		monarch_name = "Teza Wun"
+		dynasty = "Danyawaddy"
+		birth_date = 4763.1.1
+		death_date = 4829.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4793.1.1 = {
+	monarch = {
+		name = "Teza Wun"
+		dynasty = "Danyawaddy"
+		birth_date = 4763.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4799.1.1 = {
+	heir = {
+		name = "Munzayaba"
+		monarch_name = "Munzayaba"
+		dynasty = "Danyawaddy"
+		birth_date = 4799.1.1
+		death_date = 4863.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4829.1.1 = {
+	monarch = {
+		name = "Munzayaba"
+		dynasty = "Danyawaddy"
+		birth_date = 4799.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4833.1.1 = {
+	heir = {
+		name = "Kummara Withuddi"
+		monarch_name = "Kummara Withuddi"
+		dynasty = "Danyawaddy"
+		birth_date = 4833.1.1
+		death_date = 4950.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4863.1.1 = {
+	monarch = {
+		name = "Kummara Withuddi"
+		dynasty = "Danyawaddy"
+		birth_date = 4833.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4920.1.1 = {
+	heir = {
+		name = "Wathu Mun Dala"
+		monarch_name = "Wathu Mun Dala"
+		dynasty = "Danyawaddy"
+		birth_date = 4920.1.1
+		death_date = 4984.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+4950.1.1 = {
+	monarch = {
+		name = "Wathu Mun Dala"
+		dynasty = "Danyawaddy"
+		birth_date = 4920.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+4954.1.1 = {
+	heir = {
+		name = "Thurinda"
+		monarch_name = "Thurinda"
+		dynasty = "Danyawaddy"
+		birth_date = 4954.1.1
+		death_date = 5015.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+4984.1.1 = {
+	monarch = {
+		name = "Thurinda"
+		dynasty = "Danyawaddy"
+		birth_date = 4954.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+4985.1.1 = {
+	heir = {
+		name = "Ralamayu"
+		monarch_name = "Ralamayu"
+		dynasty = "Danyawaddy"
+		birth_date = 4985.1.1
+		death_date = 5037.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+5015.1.1 = {
+	monarch = {
+		name = "Ralamayu"
+		dynasty = "Danyawaddy"
+		birth_date = 4985.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+5015.1.1 = {
+	heir = {
+		name = "Nalamayu"
+		monarch_name = "Nalamayu"
+		dynasty = "Danyawaddy"
+		birth_date = 5007.1.1
+		death_date = 5068.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+5037.1.1 = {
+	monarch = {
+		name = "Nalamayu"
+		dynasty = "Danyawaddy"
+		birth_date = 5007.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}

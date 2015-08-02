@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kashmiri
+religion = hinduism
+technology_group = indian
+capital = 509	# Srinagar

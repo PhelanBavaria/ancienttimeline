@@ -1,0 +1,76 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = indian
+capital = 536 #Madurai
+
+4700.1.1 = {
+	monarch = {
+		name = "Koon Pandiyan"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4750.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan I"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Mudukudumi Paruvaludhi"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan II"
+		dynasty = "Pandya"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Nan Maran"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+4950.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan III"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+5000.1.1 = {
+	monarch = {
+		name = "Kadalul Maintha Ukkirap Peruvaludi"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 1
+		dip = 1
+	}
+}

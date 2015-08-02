@@ -1,0 +1,7 @@
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = telegu
+religion = hinduism
+technology_group = indian
+capital = 551

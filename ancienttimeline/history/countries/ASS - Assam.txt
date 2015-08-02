@@ -1,0 +1,116 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = assamese
+religion = hinduism
+technology_group = chinese
+capital = 566	# Gargaon
+
+4450.1.1 = {
+	monarch = {
+		name = "Mahiranga"
+		dynasty = "Danava"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4500.1.1 = {
+	monarch = {
+		name = "Hatakasura"
+		dynasty = "Danava"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+4550.1.1 = {
+	monarch = {
+		name = "Sambarasura"
+		dynasty = "Danava"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4600.1.1 = {
+	monarch = {
+		name = "Ratnasura"
+		dynasty = "Danava"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+4650.1.1 = {
+	monarch = {
+		name = "Ghatakasura"
+		dynasty = "Danava"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4700.1.1 = {
+	monarch = {
+		name = "Narakasura"
+		dynasty = "Naraka"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4750.1.1 = {
+	monarch = {
+		name = "Bhagadatta"
+		dynasty = "Naraka"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Vajradatta"
+		dynasty = "Naraka"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Vajrapani"
+		dynasty = "Naraka"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Subahu"
+		dynasty = "Naraka"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+4950.1.1 = {
+	monarch = {
+		name = "Suparua"
+		dynasty = "Naraka"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}

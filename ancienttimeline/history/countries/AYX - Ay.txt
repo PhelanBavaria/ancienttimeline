@@ -1,0 +1,36 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 535
+
+4700.1.1 = {
+	monarch = {
+		name = "Antiran"
+		dynasty = "Ay"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Titiyan"
+		dynasty = "Ay"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Atiyan"
+		dynasty = "Ay"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
