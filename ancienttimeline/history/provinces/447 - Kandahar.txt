@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = afghani
+culture = avestan
 religion = zunism
 capital = "Kandahar"
 trade_goods = cotton

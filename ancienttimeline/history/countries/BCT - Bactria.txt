@@ -11,4 +11,4 @@ mercantilism = 0.1
 primary_culture = avestan
 religion = zoroastrian
 technology_group = middle_eastern
-capital = 451
+capital = 450

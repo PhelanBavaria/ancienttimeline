@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = afghani
+culture = avestan
 religion = mahayana
 capital = "Gazni"
 trade_goods = grain

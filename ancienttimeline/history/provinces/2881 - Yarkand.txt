@@ -1,7 +1,7 @@
 #2881 - Yarkand
 
-owner = ACA
-controller = ACA
+owner = ROW
+controller = ROW
 culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Yarkant"
@@ -11,8 +11,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 1680
-add_core = ACA
+add_core = ROW
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4670.7.17 = { owner = GNR controller = GNR add_core = GNR remove_core = ACA }

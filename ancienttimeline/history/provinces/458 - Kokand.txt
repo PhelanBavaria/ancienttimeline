@@ -1,10 +1,10 @@
-#458 - Ferghana
+#458 - Kokand
 
-owner = ACA
-controller = ACA
-add_core = ACA
+owner = ROW
+controller = ROW
+add_core = ROW
 citysize = 1000
-culture = turkish
+culture = avestan
 religion = tengri_pagan_reformed
 capital = "Kokand"
 trade_goods = iron
@@ -17,3 +17,5 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = indian
 
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4670.7.17 = { owner = GNR controller = GNR add_core = GNR remove_core = ACA }

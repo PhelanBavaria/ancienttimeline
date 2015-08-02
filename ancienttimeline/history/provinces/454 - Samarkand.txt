@@ -1,8 +1,8 @@
 #454 - Samarkand
 
-owner = ACA
-controller = ACA
-culture = uzbek
+owner = ROW
+controller = ROW
+culture = avestan
 religion = mahayana
 capital = "Samarkand"
 trade_goods = spices
@@ -11,7 +11,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 7
 citysize = 2211
-add_core = ACA
+add_core = ROW
 fort1 = yes
 discovered_by = muslim
 discovered_by = ottoman
@@ -24,4 +24,5 @@ discovered_by = indian
 		duration = -1
 	}
 }
-
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
+4670.7.17 = { owner = BCT controller = BCT add_core = BCT remove_core = ACA }

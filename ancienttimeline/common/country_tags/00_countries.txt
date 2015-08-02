@@ -135,13 +135,13 @@ THS	= "countries/Thessaly.txt"
 TYL	= "countries/Tylis.txt"
 
 #Italy
-APU = "countries/Apuani.txt"
-ETR = "countries/Etruria.txt"
-ING = "countries/Ingauni.txt"
-INT = "countries/Intemelii.txt"
-OXY = "countries/Oxybii.txt"
-ROM = "countries/Rome.txt"
-SUV = "countries/Salluvii.txt"
+APU	= "countries/Apuani.txt"
+ETR	= "countries/Etruria.txt"
+ING	= "countries/Ingauni.txt"
+INT	= "countries/Intemelii.txt"
+OXY	= "countries/Oxybii.txt"
+ROM	= "countries/Rome.txt"
+SUV	= "countries/Salluvii.txt"
 
 #Hispania
 ASR	= "countries/Asturias.txt"
