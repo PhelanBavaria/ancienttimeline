@@ -1,7 +1,8 @@
+# Removed for now, before the earliest start date
 
-bookmark =
-{
-	name = "FOUNDING_OF_URIM_NAME"
-	desc = "FOUNDING_OF_URIM_DESC"
-	date = 1200.1.1
-}
+#bookmark =
+#{
+#	name = "FOUNDING_OF_URIM_NAME"
+#	desc = "FOUNDING_OF_URIM_DESC"
+#	date = 1200.1.1
+#}
