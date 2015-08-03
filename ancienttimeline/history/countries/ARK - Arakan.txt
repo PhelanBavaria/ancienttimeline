@@ -3,7 +3,7 @@ mercantilism = 0.1
 primary_culture = bengali
 religion = hinduism
 capital = 579	# Akyab
-technology_group = chinese
+technology_group = indian
 
 2334.1.1 = {
 	monarch = {

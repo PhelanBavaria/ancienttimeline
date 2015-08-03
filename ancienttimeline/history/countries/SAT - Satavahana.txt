@@ -1,0 +1,275 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = kannada
+religion = mahayana
+technology_group = indian
+capital = 2223	# Amaravati
+
+4770.1.1 = {
+	monarch = {
+		name = "Simuka"
+		dynasty = "Satavahana"
+		birth_date = 4740.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4770.1.1 = {
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna"
+		dynasty = "Satavahana"
+		birth_date = 4763.1.1
+		death_date = 4811.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4793.1.1 = {
+	monarch = {
+		name = "Krishna"
+		dynasty = "Satavahana"
+		birth_date = 4763.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4793.1.1 = {
+	heir = {
+		name = "Sri Mallakarni"
+		monarch_name = "Sri Mallakarni"
+		dynasty = "Satavahana"
+		birth_date = 4781.1.1
+		death_date = 4821.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4811.1.1 = {
+	monarch = {
+		name = "Sri Mallakarni"
+		dynasty = "Satavahana"
+		birth_date = 4781.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4811.1.1 = {
+	heir = {
+		name = "Purnotsanga"
+		monarch_name = "Purnotsanga"
+		dynasty = "Satavahana"
+		birth_date = 4791.1.1
+		death_date = 4839.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4821.1.1 = {
+	monarch = {
+		name = "Purnotsanga"
+		dynasty = "Satavahana"
+		birth_date = 4791.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4821.1.1 = {
+	heir = {
+		name = "Skandhastambhi"
+		monarch_name = "Skandhastambhi"
+		dynasty = "Satavahana"
+		birth_date = 4809.1.1
+		death_date = 4857.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4839.1.1 = {
+	monarch = {
+		name = "Skandhastambhi"
+		dynasty = "Satavahana"
+		birth_date = 4809.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4839.1.1 = {
+	heir = {
+		name = "Satakarni"
+		monarch_name = "Satakarni"
+		dynasty = "Satavahana"
+		birth_date = 4827.1.1
+		death_date = 4913.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4857.1.1 = {
+	monarch = {
+		name = "Satakarni"
+		dynasty = "Satavahana"
+		birth_date = 4827.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4883.1.1 = {
+	heir = {
+		name = "Lambodara"
+		monarch_name = "Lambodara"
+		dynasty = "Satavahana"
+		birth_date = 4883.1.1
+		death_date = 4933.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+4913.1.1 = {
+	monarch = {
+		name = "Lambodara"
+		dynasty = "Satavahana"
+		birth_date = 4883.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+4913.1.1 = {
+	heir = {
+		name = "Pulomavi"
+		monarch_name = "Pulomavi"
+		dynasty = "Satavahana"
+		birth_date = 4903.1.1
+		death_date = 4980.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+4933.1.1 = {
+	monarch = {
+		name = "Pulomavi"
+		dynasty = "Satavahana"
+		birth_date = 4903.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+4950.1.1 = {
+	heir = {
+		name = "Riktavarna"
+		monarch_name = "Riktavarna"
+		dynasty = "Satavahana"
+		birth_date = 4950.1.1
+		death_date = 5020.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4980.1.1 = {
+	monarch = {
+		name = "Riktavarna"
+		dynasty = "Satavahana"
+		birth_date = 4950.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4990.1.1 = {
+	heir = {
+		name = "Hala"
+		monarch_name = "Hala"
+		dynasty = "Satavahana"
+		birth_date = 4990.1.1
+		death_date = 5024.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+5020.1.1 = {
+	monarch = {
+		name = "Hala"
+		dynasty = "Satavahana"
+		birth_date = 4990.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+5020.1.1 = {
+	heir = {
+		name = "Mandalaka"
+		monarch_name = "Mandalaka"
+		dynasty = "Satavahana"
+		birth_date = 4994.1.1
+		death_date = 5059.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+5024.1.1 = {
+	monarch = {
+		name = "Mandalaka"
+		dynasty = "Satavahana"
+		birth_date = 4994.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
