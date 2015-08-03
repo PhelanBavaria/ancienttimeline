@@ -18,31 +18,28 @@ chiefdom = {
 
     rank = {
         1 = {
-            land_forcelimit_modifier = 1.0
-            global_manpower_modifier = 0.75
-            global_manpower = 1
-            global_regiment_cost = -0.4 
-
-            technology_cost = 0.5
-            global_prov_trade_power_modifier = -1.0
+            land_forcelimit_modifier = -1.0
+            global_manpower_modifier = -0.75
+            global_manpower = -1
+            global_regiment_cost = -1
+            unrest = -5
+            global_prov_trade_power_modifier = 1.0
         }
         2 = {
-            land_forcelimit_modifier = 1.0
-            global_manpower_modifier = 0.75
-            global_manpower = 1
-            global_regiment_cost = -0.4 
-
-            technology_cost = 0.5
-            global_prov_trade_power_modifier = -1.0
+            land_forcelimit_modifier = -1.0
+            global_manpower_modifier = -0.75
+            global_manpower = -1
+            global_regiment_cost = -1
+            unrest = -5
+            global_prov_trade_power_modifier = 1.0
         }
         3 = {
-            land_forcelimit_modifier = 1.0
-            global_manpower_modifier = 0.75
-            global_manpower = 1
-            global_regiment_cost = -0.4 
-
-            technology_cost = 0.5
-            global_prov_trade_power_modifier = -1.0
+            land_forcelimit_modifier = -1.0
+            global_manpower_modifier = -0.75
+            global_manpower = -1
+            global_regiment_cost = -1
+            unrest = -5
+            global_prov_trade_power_modifier = 1.0
         }
     }
 }

@@ -112,6 +112,11 @@ gaelic	= {
 			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
 		}
 	}
+	irish = {
+		dynasty_names = {
+			Vennicnii Robogdii Cruithin Darini Ebdani Blanii Cauci Menapii Domnainn Usidae Coriondi Brigantes Vodiae Uterni Iverni Velabri Luceni Gangani Concani Auteni Nagnate Erdin
+		}
+	}
 	briton = {
 		dynasty_names = {
 			Atrebate Brigante Caereni Cantiaci Carveti Coritani Cornovi Creone Damnoni
@@ -147,12 +152,12 @@ gaelic	= {
 	}
 	belgae = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Menapi Nervii Eburones Atrebates Virumandui Paemani Treveri Caeresi Condrusi Aduatuci
 		}
 	}
 	helvetian = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Verbigeni Tigurini Tougeni
 		}
 	}
 	noric = {
