@@ -1,7 +1,7 @@
 #123 - Calabria
 
-owner = ROM
-controller = ROM
+owner = RHG
+controller = RHG
 culture = doric_greek
 religion = hellenism 
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 2
 fort1 = yes
 capital = "Rhegium"
 citysize = 2600 
-add_core = ROM
+add_core = RHG
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

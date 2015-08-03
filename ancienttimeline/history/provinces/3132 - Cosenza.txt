@@ -1,7 +1,7 @@
 #3132 - Cosenza
 
-owner = ROM
-controller = ROM
+owner = KRN
+controller = KRN
 culture = doric_greek
 religion = hellenism 
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 1
 fort1 = yes
 capital = "Cosentia"
 citysize = 2600 
-add_core = ROM
+add_core = KRN
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

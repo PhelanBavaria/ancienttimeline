@@ -1,7 +1,7 @@
 #122 - Apulia
 
-owner = ROM
-controller = ROM
+owner = KLP
+controller = KLP
 culture = doric_greek
 religion = hellenism
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 2
 fort1 = yes 
 capital = "Tarentum"
 citysize = 2500 # Estimated 
-add_core = ROM
+add_core = KLP
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
