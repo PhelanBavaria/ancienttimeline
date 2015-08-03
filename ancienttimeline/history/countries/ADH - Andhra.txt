@@ -1,0 +1,7 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = telegu
+capital = 2228
+
