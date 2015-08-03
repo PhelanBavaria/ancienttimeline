@@ -1,24 +1,15 @@
 #213 - Barcelona
 
-owner = CES
-controller = CES
-add_core = CES
 culture = iberi
 religion = animism
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = wine 
+trade_goods = unknown 
 base_manpower = 3
-fort1 = yes
 capital = "Barcino" 
-citysize = 3200
- 
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = CES controller = CES add_core = CES citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

@@ -151,6 +151,7 @@ VEN	= "countries/Venice.txt"
 
 #Hispania
 ASR	= "countries/Asturias.txt"
+BES = "countries/Bestetani.txt"
 BNS	= "countries/Berones.txt"
 CES	= "countries/Cessetani.txt"
 CLL	= "countries/Callaeci.txt"
