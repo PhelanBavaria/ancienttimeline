@@ -8,48 +8,48 @@
 
 groups = {
 	mediterranean = { #for Romans, Greeks, Egypt and such, possibly available only at later dates
-		modifier = 0
-		start_level = 0
+		modifier = 0.3
+		start_level = 10
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
 	celtiberians = { #West European or Western, for Celts, Iberians and pre-Roman Italians
-		modifier = 0.30
+		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.6
 	}
 	barbarian = { #North European or Northern, for Germanic, Slavic and Baltic cultures
-		modifier = 0.35
+		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.5
 	}
 	balkan_group = { #for Illyrians, Thracians, Dacians and early Greeks
-		modifier = 0.30
+		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.6
 	}
 	indian = {
-		modifier = 0.25
+		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.5
 	}
 	chinese = {
-		modifier = 0.30
+		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.5
 	}
 	nomad_group = {
-		modifier = 0.50
+		modifier = 0.3
 		start_level = 3
 		cav_to_inf_ratio = 1.0
 	}
 	arfican = { #Tribal Africans
-		modifier = 0.30
+		modifier = 0.3
 		start_level = 2
 		cav_to_inf_ratio = 0.5
 	}
 	north_american = { #Unused for now
-		modifier = 0.60
+		modifier = 0.3
 		start_level = 0
 		cav_to_inf_ratio = 0.5
 		power = -1
