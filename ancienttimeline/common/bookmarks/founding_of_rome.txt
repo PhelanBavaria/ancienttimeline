@@ -1,0 +1,9 @@
+
+bookmark =
+{
+	name = "FOUNDING_OF_ROME_NAME"
+	desc = "FOUNDING_OF_ROME_DESC"
+	date = 4247.1.1
+
+    country = ROM
+}

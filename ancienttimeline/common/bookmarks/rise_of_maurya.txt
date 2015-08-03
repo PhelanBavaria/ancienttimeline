@@ -1,0 +1,7 @@
+
+bookmark =
+{
+	name = "RISE_OF_MAURYA_NAME"
+	desc = "RISE_OF_MAURYA_DESC"
+	date = 4677.1.1
+}
