@@ -563,6 +563,34 @@ pagan_roman_monarchy = {
 	}
 }
 
+gov_tribal = {
+	rank = {
+		1 = CHIEFDOM
+		2 = TRIBAL_KINGDOM
+		3 = TRIBAL_EMPIRE
+	}
+	
+	ruler_male = {
+		1 = CHIEF
+		2 = HIGH_CHIEF
+		3 = PARAMOUNT_CHIEF
+	}
+	
+	ruler_female = {
+		1 = CHIEFTESS
+		2 = HIGH_CHIEFTESS
+		3 = PARAMOUNT_CHIEFTESS
+	}
+	
+	trigger = {
+		OR = {
+			government = chiefdom
+			government = tribal_despotism
+			government = tribal_federation
+		}
+	}
+}
+
 jurchen_monarchy = {
 	rank = {
 		1 = PRINCIPALITY

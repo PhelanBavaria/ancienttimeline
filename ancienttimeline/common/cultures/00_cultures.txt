@@ -162,37 +162,37 @@ gaelic	= {
 	}
 	noric = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Nori Alauni Ambidravi Ambilini Ambisontes Laianci Saevates
 		}
 	}
 	boian = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Boii
 		}
 	}
 	vindelican = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Rucinates Leuni Cosuanetes Benlauni Breuni Liccates
 		}
 	}
 	volcaean = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Volcae Tectosages Arecomici
 		}
 	}
 	galatian = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Galati Tectosages Tolistobogii Ocandiani Trocmi
 		}
 	}
 	armorican = {
 		dynasty_names = {
-			Atrebate Morini Ambiani Caleti Veliocasse Bellovaci Suessione Viromandui Menapi Eburone
+			Veneti Osismii Curiosolites Lexovii Eboruvices Aulerici Redones Cenomani
 		}
 	}
 	celtiberian = {
 		dynasty_names = {
-			Celtiberi Carpetani Vaccaei Turduli Celtici Callaeci Bastetani Edetani Ilercavone
+			Astures Cantabri Turmodigi Vaccaei Berones Carpetani Turduli Celtici Titti Pelendones Lusones Arevaci Belli Turboletae Olcades Lobetani
 		}
 		male_names = {
 			Bandua Berobreus Bormanicus Cossus Reue Lugus Endovelicus Viriathus Punicus Cesarus Caucenus Tautalus
@@ -206,7 +206,7 @@ gaelic	= {
 	}
 	gallaic = {
 		dynasty_names = {
-			Osorio Andrade
+			Neri Arrotrebae Arroni Addovi Cibarci Egi Albiones Lougei Seurri Baedi Cileni Grovi Leuni Helleni Seubri Bracari Caladuni Copori
 		}
 		male_names = {
 			García Ordoño Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
@@ -221,7 +221,7 @@ gaelic	= {
 	}
 	lusitanian = {
 		dynasty_names = {
-			Osorio Andrade
+			Paesuri Lanciences Transcudani Igaeditani Opidani Tapori Elbocori Calvri Coerenses Calontinses
 		}
 		male_names = {
 			García Ordoño Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos 
@@ -236,7 +236,7 @@ gaelic	= {
 	}
 	ligurian = {
 		dynasty_names = {
-			Apuani Ingauni Intemelii Oxybii Salluvi
+			Elisyci Salluvii Oxybii Intemelii Ingauni Statielli Taurini Libici Ilvates Tigulli Apuani
 		}
 	}
 }
