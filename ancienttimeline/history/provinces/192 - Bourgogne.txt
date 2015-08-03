@@ -1,22 +1,15 @@
 # 192 Bourgogne - Principal cities: Dijon
 
-owner = AED
-controller = AED 
 capital = "Divio"
-citysize = 1400
 culture = gallian
 religion = druidism
 hre = no
 base_tax = 8
 base_production = 8
-trade_goods = wine
+trade_goods = unknown
 base_manpower = 7
-add_core = AED
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4400.1.1 = { owner = AED controller = AED add_core = AED citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

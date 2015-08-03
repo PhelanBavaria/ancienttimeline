@@ -1,29 +1,22 @@
 # 172 Vendée - Principal cities: Nantes
 
-owner = NMN
-controller = NMN
 capital = "Portus Namnetum"
-citysize = 1100
 culture = armorican
 religion = druidism
 hre = no
 base_tax = 5
 base_production = 5
-trade_goods = salt
+trade_goods = unknown
 base_manpower = 5
-add_core = NMN
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
 2.1.1   = {
-		add_permanent_province_modifier = {
-			name = loire_estuary_modifier
-			duration = -1
-		}
+        add_permanent_province_modifier = {
+            name = loire_estuary_modifier
+            duration = -1
+        }
 }
+4600.1.1 = { owner = NMN controller = NMN add_core = NMN citysize = 1000 trade_goods = salt  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
 

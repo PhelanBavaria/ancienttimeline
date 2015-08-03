@@ -1,31 +1,22 @@
 # 201 Provence - Principal cities: Aix-en-Provence, Marseille
 
-owner = ROM
-controller = ROM
 capital = "Massilia"
-citysize = 1700
 culture = ionic_greek
 religion = hellenism
 hre = no
 base_tax = 7
 base_production = 7
-trade_goods = wine
+trade_goods = unknown
 base_manpower = 5
-add_core = ROM
-fort_15th = yes
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
 2.1.1 = {
-	add_permanent_province_modifier = {
-		name = rhone_estuary_modifier
-		duration = -1
-	}
+    add_permanent_province_modifier = {
+        name = rhone_estuary_modifier
+        duration = -1
+    }
 }
-4400.1.1 = { owner = MAS controller = MAS add_core = MAS remove_core = ROM }
+4400.1.1 = { owner = MAS controller = MAS add_core = MAS citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
 

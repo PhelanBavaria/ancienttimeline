@@ -1,23 +1,15 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
 
-owner = TRB
-controller = TRB
 capital = "Lapurdum"
-citysize = 1000
 culture = aquitanian
 religion = animism
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = wine
+trade_goods = unknown
 base_manpower = 4
-add_core = TRB
-add_core = VAS
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = TRB controller = TRB add_core = TRB citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

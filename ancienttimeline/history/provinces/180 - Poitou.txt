@@ -1,23 +1,15 @@
 # 180 Poitou - Principal cities: Poitiers
 
-owner = PIT
-controller = PIT
 capital = "Pictavium"
-citysize = 1700
 culture = gallian
 religion = druidism 
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = salt
+trade_goods = unknown
 base_manpower = 5
-add_core = PIT
-#  # L'Université de Poitiers 1431
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = PIT controller = PIT add_core = PIT citysize = 1000 trade_goods = salt  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

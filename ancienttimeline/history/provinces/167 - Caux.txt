@@ -1,25 +1,16 @@
 # 167 Caux - Principal cities: Rouen
 
-owner = CLT
-controller = CLT
 capital = "Caracotinum"
-citysize = 3500
 culture = gallian
 religion = druidism
 hre = no
 base_tax = 4
 base_production = 4
-trade_goods = cloth
+trade_goods = unknown
 base_manpower = 5
-add_core = CLT
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-fort1 = yes
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
 2.1.1 = {
 		add_permanent_province_modifier = {
@@ -27,4 +18,5 @@ fort1 = yes
 			duration = -1
 		}
 }
+4600.1.1 = { owner = CLT controller = CLT add_core = CLT citysize = 1000 trade_goods = cloth  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
 

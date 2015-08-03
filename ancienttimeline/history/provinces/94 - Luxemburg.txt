@@ -1,22 +1,15 @@
 # 94 Luxembourg - Principal cities: Luxembourg
 
-owner = TRV
-controller = TRV
 capital = "Andetanna"
-citysize = 1000
 culture = belgae
 religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = iron
+trade_goods = unknown
 base_manpower = 2
-add_core = TRV
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = TRV controller = TRV add_core = TRV citysize = 1000 trade_goods = iron  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

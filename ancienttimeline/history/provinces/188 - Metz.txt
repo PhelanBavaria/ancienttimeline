@@ -1,22 +1,15 @@
 # 188 Metz - Principal cities: Metz, Thionville
 
-owner = MET
-controller = MET 
 capital = "Divodurum"
-citysize = 1600
 culture = belgae
 religion = druidism
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = iron
+trade_goods = unknown
 base_manpower = 5
-add_core = MET
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4600.1.1 = { owner = MET controller = MET add_core = MET citysize = 1000 trade_goods = iron  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
