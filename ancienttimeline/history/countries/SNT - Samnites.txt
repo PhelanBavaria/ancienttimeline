@@ -1,0 +1,7 @@
+government = tribal_federation
+government_rank = 2
+mercantilism = 0.1
+primary_culture = umbrian
+religion = animism
+technology_group = celtiberians
+capital = 117	# Siena

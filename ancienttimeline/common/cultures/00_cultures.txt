@@ -277,6 +277,9 @@ latin = {
 	umbrian = {
 		primary = URB
 	}
+	oscan = {
+		primary = URB
+	}
 	sicilian = {
 		primary = SIC
 	}
