@@ -133,6 +133,7 @@ ODR	= "countries/Odrysia.txt"
 SPR	= "countries/Sparta.txt"
 THS	= "countries/Thessaly.txt"
 TYL	= "countries/Tylis.txt"
+ALB = "countries/Albani.txt"
 
 #Italy
 APU = "countries/Apuani.txt"
