@@ -1,22 +1,15 @@
 #1871 - Wallis
 
-owner = SED
-controller = SED
 culture = helvetian
 religion = druidism
 capital = "Octodurum"
-trade_goods = wool
+trade_goods = unknown
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-citysize = 1000
-add_core = SED
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4400.1.1 = { owner = SED controller = SED add_core = SED citysize = 1000 trade_goods = wool  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

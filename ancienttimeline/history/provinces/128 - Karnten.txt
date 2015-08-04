@@ -1,23 +1,15 @@
 #128 - Kärnten
 
-owner = NOI
-controller = NOI
-add_core = NOI
 culture	= noric
 religion = druidism
 base_tax = 6
 base_production = 6
-trade_goods = copper  
+trade_goods = unknown  
 base_manpower = 5
-fort1 = yes
-capital = "Virunum" 
-citysize = 1000
+capital = "Virunum"
 hre = no
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4400.1.1 = { owner = NOI controller = NOI add_core = NOI citysize = 1000 trade_goods = copper  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

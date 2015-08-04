@@ -1,23 +1,15 @@
 #106 - Modena
 
-owner = IBI
-controller = IBI
 culture = boian
 religion = druidism
 hre = no
 base_tax = 5
 base_production = 5
-trade_goods = wine
+trade_goods = unknown
 base_manpower = 2
-fort1 = yes 
 capital = "Mutina" 
-citysize = 1800
-add_core = IBI
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4400.1.1 = { owner = IBI controller = IBI add_core = IBI citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

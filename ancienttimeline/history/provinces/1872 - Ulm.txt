@@ -1,22 +1,15 @@
 # 1872 - Ulm
 
-owner = VCE
-controller = VCE
-add_core = VCE
-citysize = 1600 
 culture = volcaean
 religion = druidism
 base_tax = 7
 base_production = 7
-trade_goods = grain
+trade_goods = unknown
 base_manpower = 4
 capital = "Ulm"
 hre = no
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4400.1.1 = { owner = VCE controller = VCE add_core = VCE citysize = 1000 trade_goods = grain  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
