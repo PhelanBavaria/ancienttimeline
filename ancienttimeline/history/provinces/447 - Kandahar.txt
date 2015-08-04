@@ -20,3 +20,4 @@ fort1 = yes
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4670.7.17 = { owner = ARC controller = ARC add_core = ARC remove_core = ACA }
+4671.2.2 = { owner = MCD controller = MCD add_core = MCD }

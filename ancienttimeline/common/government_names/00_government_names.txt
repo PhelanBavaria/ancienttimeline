@@ -94,6 +94,57 @@ persian_monarchy = {
 	}
 }
 
+punic_monarchy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = BAAL
+		2 = MILCO
+		3 = GREAT_MILCO
+	}
+
+	ruler_female = {
+		1 = BAAL
+		2 = MILCO
+		3 = GREAT_MILCO
+	}
+
+	trigger = {
+		government = monarchy
+		primary_culture = punic
+		NOT = { government = elder_council }
+	}
+}
+
+punic_council = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = ADONI
+		2 = SUFFETE
+		3 = GREAT_SUFFETE
+	}
+
+	ruler_female = {
+		1 = ADONI
+		2 = SUFFETE
+		3 = GREAT_SUFFETE
+	}
+
+	trigger = {
+		primary_culture = punic
+		government = elder_council
+	}
+}
+
 somali_monarchy = {
 	rank = {
 		1 = PRINCEDOM
