@@ -1,0 +1,32 @@
+namespace = brawls
+
+country_event = {
+    id = brawls.1
+    title = "brawl.1t"
+    desc = "brawl.1d"
+    picture = ANGRY_MOB_eventPicture
+
+    trigger = {
+        is_at_war = no
+        OR = {
+            government = tribal_democracy
+            government = tribal_federation
+            government = tribal_kingdom
+            government = tribal_despotism
+            government = steppe_horde
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "brawl.1a"
+        add_country_modifier = {
+            name = "morale_boost"
+            duration = 365
+        }
+        add_manpower = -1
+    }
+}

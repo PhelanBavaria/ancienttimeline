@@ -597,6 +597,22 @@ brigid =
 	}	
 }
 
+epona =
+{
+    cavalry_power = 0.20
+
+    allow = { religion = druidism }
+    sprite = 42
+
+    ai_will_do = {
+        factor = 1
+        modifier = {
+            factor = 2
+            personality = ai_militarist
+        }
+    }
+}
+
 #Hellenism
 jupiter =
 {

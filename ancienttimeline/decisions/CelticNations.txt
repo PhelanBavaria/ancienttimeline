@@ -138,4 +138,36 @@ country_decisions = {
         }
     }
 
+    brawl = {
+        allow = {
+            is_at_war = no
+            any_neighbor_province = {
+                owner = {
+                    is_rival = ROOT
+                    government = chiefdom
+                }
+            }
+            government = chiefdom
+        }
+        effect = {
+            add_country_modifier = {
+                name = "morale_boost"
+                duration = 365
+            }
+            add_manpower = -1
+            any_neigbor_province = {
+                owner = {
+                    add_country_modifier = {
+                        name = "morale_boost"
+                        duration = 365
+                    }
+                    add_manpower = -1
+                }
+            }
+        }
+        ai_will_do = {
+            NOT = { manpower_percentage = 0.8 }
+        }
+    }
+
 }
