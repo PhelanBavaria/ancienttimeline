@@ -1,6 +1,6 @@
 #472 - Zheteru
 
-culture = hunnic
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Zhetyru"
 trade_goods = unknown

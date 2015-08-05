@@ -1,6 +1,6 @@
 #479 - Kerey
 
-culture = khazak
+culture = turkish
 religion = tengri_pagan_reformed
 capital = "Kerey"
 trade_goods = unknown

@@ -1,6 +1,6 @@
-#471 - Alimuly
+#2442 - Altyn
 
-culture = khazak
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Altyn"
 trade_goods = unknown

@@ -1,6 +1,6 @@
 #465 - Bersh
 
-culture = hunnic
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Saraychik"
 trade_goods = unknown

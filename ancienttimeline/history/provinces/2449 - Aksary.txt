@@ -1,6 +1,6 @@
-#479 - Kerey
+#2449 - Aksary
 
-culture = khazak
+culture = turkish
 religion = tengri_pagan_reformed
 capital = "Aksary"
 trade_goods = unknown

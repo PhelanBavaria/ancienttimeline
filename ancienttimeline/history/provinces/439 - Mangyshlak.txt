@@ -1,6 +1,6 @@
 #439 - Mangyshlak
 
-culture = turkmeni
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Mangyshlak"
 trade_goods = unknown

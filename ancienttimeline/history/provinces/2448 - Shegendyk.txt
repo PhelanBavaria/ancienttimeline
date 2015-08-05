@@ -1,4 +1,4 @@
-#478 - Argyn
+#2448 - Shegendyk
 
 culture = turkish
 religion = tengri_pagan_reformed

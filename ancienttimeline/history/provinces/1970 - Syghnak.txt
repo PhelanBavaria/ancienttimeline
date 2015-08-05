@@ -1,6 +1,6 @@
 #1970 - Syghnak
 
-culture = khazak
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Syghnak"
 trade_goods = wool

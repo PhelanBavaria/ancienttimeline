@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = uzbek
+culture = bactrian
 religion = zoroastrian
 capital = "Charjuy"
 trade_goods = wool

@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = turkmeni
+culture = saka
 religion = zoroastrian
 capital = "Nisa"
 trade_goods = wool

@@ -1,6 +1,6 @@
-#443 - Ust Yurt
+#2430 - Kungirot
 
-culture = turkmeni
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Kungirot"
 trade_goods = wool

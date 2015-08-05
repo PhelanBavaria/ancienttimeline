@@ -1,6 +1,6 @@
 #469 - Mordvar
 
-culture = hunnic
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Orda"
 trade_goods = unknown

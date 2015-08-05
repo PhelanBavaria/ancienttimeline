@@ -1,6 +1,6 @@
 #470 - Baybaktu
 
-culture = hunnic
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Utva"
 trade_goods = unknown

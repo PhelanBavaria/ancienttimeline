@@ -1,6 +1,6 @@
 #474 - Uralsk
 
-culture = hunnic
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Kalmyk"
 trade_goods = unknown

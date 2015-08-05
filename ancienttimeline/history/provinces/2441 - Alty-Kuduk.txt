@@ -1,6 +1,6 @@
-#471 - Alimuly
+#2441 - Alty-Kuduk
 
-culture = khazak
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Alty-Kuduk"
 trade_goods = unknown

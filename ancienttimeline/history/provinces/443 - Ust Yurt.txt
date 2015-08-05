@@ -1,6 +1,6 @@
 #443 - Ust Yurt
 
-culture = turkmeni
+culture = saka
 religion = tengri_pagan_reformed
 capital = "Ust Yurt"
 trade_goods = unknown
