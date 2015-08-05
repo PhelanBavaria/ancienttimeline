@@ -1,22 +1,16 @@
 #137 - Ragusa
 
-owner = ROM
-controller = ROM
 culture = illyrian
-religion = hellenism
-trade_goods = fish
+religion = animism
+trade_goods = unknown
 hre = no
 base_tax = 5
 base_production = 6
 base_manpower = 3
-citysize = 1800
-add_core = ROM
 capital = "Epidaurum"
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
-discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4000.1.1 = { discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean discovered_by = muslim discovered_by = ottoman }
+4350.1.1 = { owner = DAO controller = DAO add_core = DAO trade_goods = fish }

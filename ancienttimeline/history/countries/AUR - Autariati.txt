@@ -1,0 +1,6 @@
+government = chiefdom
+government_rank = 1
+primary_culture = illyrian
+religion = animism
+technology_group = mediterranean
+capital = 1831 # Travunia
