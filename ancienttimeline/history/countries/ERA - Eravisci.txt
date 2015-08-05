@@ -1,0 +1,6 @@
+government = chiefdom
+government_rank = 1
+primary_culture = illyrian
+religion = animism
+technology_group = celtiberians
+capital = 1864 # Somogdy
