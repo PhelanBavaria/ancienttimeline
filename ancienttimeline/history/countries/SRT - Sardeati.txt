@@ -1,4 +1,4 @@
-government = chiefdom
+government = tribal_kingdom
 government_rank = 1
 primary_culture = illyrian
 religion = animism

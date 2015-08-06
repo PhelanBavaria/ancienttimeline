@@ -1913,19 +1913,20 @@ gov_tribal = {
 	
 	ruler_male = {
 		1 = CHIEF
-		2 = HIGH_CHIEF
-		3 = PARAMOUNT_CHIEF
+		2 = KING
+		3 = HIGH_KING
 	}
 	
 	ruler_female = {
 		1 = CHIEFTESS
-		2 = HIGH_CHIEFTESS
-		3 = PARAMOUNT_CHIEFTESS
+		2 = QUEEN
+		3 = HIGH_QUEEN
 	}
 	
 	trigger = {
 		OR = {
-			government = chiefdom
+			government = tribal_democracy
+			government = tribal_kingdom
 			government = tribal_despotism
 			government = tribal_federation
 		}

@@ -44,7 +44,6 @@ technology = {
 technology = {
 	# Tech 6
 	year = 1950
-	trade_range				=	10
 }
 
 technology = {
@@ -68,7 +67,6 @@ technology = {
 technology = {
 	# Tech 10
 	year = 2050
-	trade_range				=	10
 }
 
 technology = {
@@ -98,7 +96,6 @@ technology = {
 technology = {
 	# Tech 15
 	year = 2175
-	trade_range				=	10
 }
 
 technology = {
@@ -122,7 +119,6 @@ technology = {
 technology = {
 	# Tech 19
 	year = 2275
-	trade_range				=	10
 }
 
 technology = {
@@ -152,7 +148,6 @@ technology = {
 technology = {
 	# Tech 24
 	year = 2400
-	trade_range				=	10
 }
 
 technology = {
@@ -176,7 +171,6 @@ technology = {
 technology = {
 	# Tech 28
 	year = 2500
-	trade_range				=	10
 }
 
 technology = {
@@ -200,7 +194,6 @@ technology = {
 technology = {
 	# Tech 32
 	year = 2600
-	trade_range				=	10
 }
 
 technology = {
@@ -229,7 +222,6 @@ technology = {
 technology = {
 	# Tech 37
 	year = 2725
-	trade_range				=	10
 }
 
 technology = {
@@ -253,7 +245,6 @@ technology = {
 technology = {
 	# Tech 41
 	year = 2825
-	trade_range				=	10
 }
 
 technology = {
@@ -277,7 +268,6 @@ technology = {
 technology = {
 	# Tech 45
 	year = 2925
-	trade_range				=	10
 }
 
 technology = {
@@ -301,7 +291,6 @@ technology = {
 technology = {
 	# Tech 49
 	year = 3025
-	trade_range				=	10
 }
 
 technology = {
@@ -319,7 +308,6 @@ technology = {
 technology = {
 	# Tech 52
 	year = 3100
-	trade_range				=	10
 }
 
 technology = {
@@ -343,7 +331,6 @@ technology = {
 technology = {
 	# Tech 56
 	year = 3200
-	trade_range				=	10
 }
 
 technology = {
@@ -367,7 +354,6 @@ technology = {
 technology = {
 	# Tech 60
 	year = 3300
-	trade_range				=	10
 }
 
 technology = {
@@ -385,7 +371,6 @@ technology = {
 technology = {
 	# Tech 63
 	year = 3375
-	trade_range				=	10
 }
 
 technology = {
@@ -409,7 +394,6 @@ technology = {
 technology = {
 	# Tech 67
 	year = 3475
-	trade_range				=	10
 }
 
 technology = {
@@ -427,7 +411,6 @@ technology = {
 technology = {
 	# Tech 70
 	year = 3550
-	trade_range				=	10
 }
 
 technology = {
@@ -469,7 +452,6 @@ technology = {
 technology = {
 	# Tech 77
 	year = 3725
-	trade_range				=	10
 }
 
 technology = {
@@ -487,7 +469,6 @@ technology = {
 technology = {
 	# Tech 80
 	year = 3800
-	trade_range				=	10
 }
 
 technology = {
@@ -505,7 +486,6 @@ technology = {
 technology = {
 	# Tech 83
 	year = 3875
-	trade_range				=	10
 }
 
 technology = {
@@ -529,7 +509,6 @@ technology = {
 technology = {
 	# Tech 87
 	year = 3975
-	trade_range				=	10
 }
 
 technology = {
@@ -559,7 +538,6 @@ technology = {
 technology = {
 	# Tech 92
 	year = 4100
-	trade_range				=	10
 }
 
 technology = {
@@ -583,7 +561,6 @@ technology = {
 technology = {
 	# Tech 96
 	year = 4200
-	trade_range				=	10
 }
 
 technology = {
@@ -613,7 +590,6 @@ technology = {
 technology = {
 	# Tech 101
 	year = 4325
-	trade_range				=	10
 }
 
 technology = {
@@ -637,7 +613,6 @@ technology = {
 technology = {
 	# Tech 105
 	year = 4425
-	trade_range				=	10
 }
 
 technology = {
@@ -667,7 +642,6 @@ technology = {
 technology = {
 	# Tech 110
 	year = 4550
-	trade_range				=	10
 }
 
 technology = {
@@ -703,7 +677,6 @@ technology = {
 technology = {
 	# Tech 116
 	year = 4700
-	trade_range				=	10
 }
 
 technology = {
@@ -745,7 +718,6 @@ technology = {
 technology = {
 	# Tech 123
 	year = 4875
-	trade_range				=	10
 }
 
 technology = {
@@ -775,7 +747,6 @@ technology = {
 technology = {
 	# Tech 128
 	year = 5000
-	trade_range				=	10
 }
 
 technology = {
