@@ -19,3 +19,4 @@ discovered_by = indian
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4670.7.17 = { owner = AMY controller = AMY add_core = AMY remove_core = ACA }
+4671.6.1 = { owner = SKK controller = SKK add_core = SKK remove_core = AMY }

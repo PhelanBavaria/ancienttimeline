@@ -1,0 +1,15 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 3
+#innovative_narrowminded = -1
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -4
+#quality_quantity = 4
+#serfdom_freesubjects = -2
+primary_culture = saka
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 438

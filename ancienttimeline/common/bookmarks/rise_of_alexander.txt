@@ -3,7 +3,7 @@ bookmark =
 {
     name = "RISE_OF_ALEXANDER_NAME"
     desc = "RISE_OF_ALEXANDER_DESC"
-    date = 4664.7.1
+    date = 4664.10.1
     
     country = MCD
 }
