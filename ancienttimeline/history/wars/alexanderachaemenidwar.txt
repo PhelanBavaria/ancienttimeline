@@ -1,0 +1,16 @@
+name = "Alexander's invasion of the Achaemenid Empire"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4664.10.1 = {
+	add_attacker = MCD
+	add_defender = ACA
+}
+
+4670.7.17 = {
+	rem_attacker = MCD
+	rem_defender = ACA
+}

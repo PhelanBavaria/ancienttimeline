@@ -1,0 +1,18 @@
+name = "Spitamenes Rebellion"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4671.7.7 = {
+	add_attacker = MCD
+	add_defender = SGD
+	add_defender = BCT
+}
+
+4672.3.2 = {
+	rem_attacker = MCD
+	rem_defender = SGD
+	rem_defender = BCT
+}

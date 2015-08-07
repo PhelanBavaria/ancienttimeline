@@ -1,0 +1,66 @@
+name = "Bessus' War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4670.7.17 = {
+	add_attacker = MCD
+	add_defender = BCT
+	add_defender = AIA
+	add_defender = AMY
+	add_defender = ARC
+	add_defender = CHS
+	add_defender = CMN
+	add_defender = DAE
+	add_defender = GDR
+	add_defender = GNR
+	add_defender = HDS
+	add_defender = MSG
+	add_defender = PRT
+	add_defender = SGD
+	add_defender = STG
+}
+
+4670.8.20 = {
+	rem_defender = PRT
+}
+
+4670.9.12 = {
+	rem_defender = AIA
+}
+
+4671.2.2 = {
+	rem_defender = ARC
+}
+
+4671.2.23 = {
+	rem_defender = CMN
+}
+
+4671.2.28 = {
+	rem_defender = CHS
+}
+
+4671.3.2 = {
+	rem_defender = GDR
+}
+
+4671.3.3 = {
+	rem_defender = GNR
+}
+
+4671.4.26 = {
+	rem_defender = HDS
+}
+
+4671.6.1 = {
+	rem_attacker = MCD
+	rem_defender = AMY
+	rem_defender = BCT
+	rem_defender = DAE
+	rem_defender = MSG
+	rem_defender = SGD
+	rem_defender = STG
+}
