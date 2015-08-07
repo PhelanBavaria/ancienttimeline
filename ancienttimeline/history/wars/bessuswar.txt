@@ -20,11 +20,12 @@ war_goal = {
 	add_defender = MSG
 	add_defender = PRT
 	add_defender = SGD
+	add_defender = SGT
 	add_defender = STG
 }
 
 4670.8.20 = {
-	rem_defender = PRT
+	rem_defender = SGT
 }
 
 4670.9.12 = {
@@ -40,7 +41,7 @@ war_goal = {
 }
 
 4671.2.28 = {
-	rem_defender = CHS
+	rem_defender = PRT
 }
 
 4671.3.2 = {
@@ -59,6 +60,7 @@ war_goal = {
 	rem_attacker = MCD
 	rem_defender = AMY
 	rem_defender = BCT
+	rem_defender = CHS
 	rem_defender = DAE
 	rem_defender = MSG
 	rem_defender = SGD

@@ -19,5 +19,5 @@ discovered_by = nomad_group
 fort1 = yes
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
-4670.7.17 = { owner = PRT controller = PRT add_core = PRT remove_core = ACA }
+4670.7.17 = { owner = SGT controller = SGT add_core = SGT remove_core = ACA }
 4670.8.20 = { owner = MCD controller = MCD add_core = MCD }
