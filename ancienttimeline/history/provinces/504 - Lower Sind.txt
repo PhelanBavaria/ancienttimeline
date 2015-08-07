@@ -27,5 +27,5 @@ discovered_by = chinese
 }
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4500.1.1 = { religion = hinduism }
-4670.7.17 = { owner = HDS controller = HDS add_core = HDS remove_core = ACA }
+4670.7.17 = { owner = STG controller = STG add_core = STG remove_core = ACA }
 4671.4.26 = { owner = MCD controller = MCD add_core = MCD }

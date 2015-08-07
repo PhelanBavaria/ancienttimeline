@@ -12,6 +12,6 @@ mercantilism = 0.1
 primary_culture = parthian
 religion = zoroastrian
 technology_group = middle_eastern
-capital = 432
+capital = 2294
 
 4753.1.1 = { government_rank = 3 }
