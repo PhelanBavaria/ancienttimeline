@@ -2,5 +2,5 @@ government = tribal_kingdom
 mercantilism = 0.1
 primary_culture = ligurian
 religion = druidism
-technology_group = celtiberians
+technology_group = gauls
 capital = 3126  # Lucca

@@ -11,5 +11,5 @@ mercantilism = 0.1
 #serfdom_freesubjects = -4
 primary_culture = venetian
 religion = animism
-technology_group = celtiberians
+technology_group = east_celtic
 capital = 130	# Istria

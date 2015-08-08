@@ -3,5 +3,5 @@ government_rank = 2
 mercantilism = 0.1
 primary_culture = gallaic
 religion = druidism
-technology_group = celtiberians
+technology_group = hispanian
 capital = 206  # Galicia

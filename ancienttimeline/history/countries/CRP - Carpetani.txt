@@ -3,5 +3,5 @@ government_rank = 1
 mercantilism = 0.1
 primary_culture = celtiberian
 religion = druidism
-technology_group = celtiberians
+technology_group = hispanian
 capital = 219	# Toledo

@@ -3,5 +3,5 @@ government_rank = 2
 mercantilism = 0.1
 primary_culture = vindelican
 religion = druidism
-technology_group = celtiberians
+technology_group = east_celtic
 capital = 267  # Plsen

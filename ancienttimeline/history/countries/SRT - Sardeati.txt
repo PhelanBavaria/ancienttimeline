@@ -2,5 +2,5 @@ government = tribal_kingdom
 government_rank = 1
 primary_culture = illyrian
 religion = animism
-technology_group = celtiberians
+technology_group = east_celtic
 capital = 1828 # Soli

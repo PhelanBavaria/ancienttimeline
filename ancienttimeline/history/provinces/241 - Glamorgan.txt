@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = SLR controller = SLR add_core = SLR citysize = 1000 trade_goods = iron  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
+4500.1.1 = { owner = SLR controller = SLR add_core = SLR citysize = 1000 trade_goods = iron  discovered_by = british }

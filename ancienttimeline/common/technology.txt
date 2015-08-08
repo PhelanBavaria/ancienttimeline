@@ -13,7 +13,22 @@ groups = {
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
-	celtiberians = { #West European or Western, for Celts, Iberians and pre-Roman Italians
+	gauls = { # Gauls, Armoricans, Belgae and Aquitani
+		modifier = 0.3
+		start_level = 4
+		cav_to_inf_ratio = 0.6
+	}
+	hispanian = {
+		modifier = 0.3
+		start_level = 4
+		cav_to_inf_ratio = 0.6
+	}
+	british = { # Britain
+		modifier = 0.3
+		start_level = 4
+		cav_to_inf_ratio = 0.6
+	}
+	east_celtic = { # Boian, Vindelican, Noric, Volcaean and Galatian
 		modifier = 0.3
 		start_level = 4
 		cav_to_inf_ratio = 0.6
@@ -47,24 +62,6 @@ groups = {
 		modifier = 0.3
 		start_level = 2
 		cav_to_inf_ratio = 0.5
-	}
-	north_american = { #Unused for now
-		modifier = 0.3
-		start_level = 0
-		cav_to_inf_ratio = 0.5
-		power = -1
-	}
-	mesoamerican = { #Unused for now
-		modifier = 0.60
-		start_level = 0
-		cav_to_inf_ratio = 0.5
-		power = -1
-	}
-	south_american = { #Unused for now
-		modifier = 0.60
-		start_level = 0
-		cav_to_inf_ratio = 0.5
-		power = -1
 	}
 	middle_eastern = { #Mesopotamia and Persia, these countries may switch to Mediterranean group on later dates.
 		modifier = 0.20
