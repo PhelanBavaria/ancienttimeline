@@ -89,6 +89,7 @@ persian_monarchy = {
 			tag = MSG
 			tag = PRT
 			tag = SGD
+			tag = SGT
 			tag = STG
 		}
 	}
