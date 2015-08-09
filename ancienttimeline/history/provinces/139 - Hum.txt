@@ -1,5 +1,6 @@
 #139 - Hum
-
+owner = ARD
+controller = ARD
 culture = illyrian
 religion = animism
 capital = "Bona"

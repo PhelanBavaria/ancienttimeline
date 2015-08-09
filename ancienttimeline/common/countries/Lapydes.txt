@@ -1,0 +1,63 @@
+color = { 116 198 240 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_religious_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+}
+
+monarch_names = {
+	"Epicadus #0" = 20
+	"Bato #0" = 20
+	"Gentius #0" = 20
+	"Glaukus #0" = 20
+	"Demetrius #0" = 20
+	"Laidas #0" = 20
+	"Temus #0" = 20
+	"Pinnes #0" = 20
+	"Pinnius #0" = 0
+	"Monounios #0" = 0
+	"Grabus #0" = 0
+	"Epidius #0" = 0
+	"Verzo #0" = 0
+	"Zanatis #0" = 0
+	"Hyllus #0" = 0
+	"Bardhyllus #0" = 0
+	"Teuta #0" = 0
+	"Agron #0" = 0
+	"Kleitus #0" = 0
+	"Pleuratus #0" = 0
+	"Mytilius #0" = 0
+	"Skerdilaidas #0" = 0
+
+}
+
+leader_names = {
+        ""
+}
+
+ship_names = {
+	Deuádai Abeis Rinos Sibina
+}

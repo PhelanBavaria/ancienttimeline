@@ -14,3 +14,4 @@ native_hostileness = 6
 
 4000.1.1 = { discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean discovered_by = muslim discovered_by = ottoman }
 4500.1.1 = { owner = HIS controller = HIS add_core = HIS trade_goods = wool }
+600.1.1 = { owner = LAP controller = LAP add_core = LAP trade_goods = wool }
