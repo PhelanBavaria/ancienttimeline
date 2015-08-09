@@ -13,6 +13,10 @@ country_event = {
 	}
 
 	add_country_flag = { alexander_the_great }
+	add_country_modifier = {
+		name = "alexander_invasion"
+		duration = -1
+	}
 }
 
 country_event = {
