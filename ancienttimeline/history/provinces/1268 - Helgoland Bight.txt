@@ -1,4 +1,2 @@
-discovered_by = western
+discovered_by = gauls
 discovered_by = barbarian
-discovered_by = celtiberians
-
