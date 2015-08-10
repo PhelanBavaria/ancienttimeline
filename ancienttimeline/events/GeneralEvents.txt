@@ -1,0 +1,25 @@
+namespace = gen
+
+country_event = {
+
+	id = gen.1
+	hidden = yes
+
+	trigger = {
+		any_neighbor_province = {
+			NOT = { owner = ROOT }
+			controller = ROOT
+		}
+	}
+	mean_time_to_happen = {
+		months = 3
+	}
+
+	any_neighbor_province = {
+		limit = {
+			NOT = { owner = ROOT } 
+			controller = ROOT
+		}
+		cede_province = ROOT
+	}
+}
