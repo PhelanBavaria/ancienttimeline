@@ -29,4 +29,8 @@ discovered_by = nomad_group
 }
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = DAC }
 4665.6.1 = { owner = DAC controller = DAC add_core = DAC remove_core = ACA }
+<<<<<<< HEAD
 420.1.1 = { owner = TRI controller = TRI add_core= TRI}
+=======
+4580.1.1 = { owner = TRZ controller = TRZ add_core= TRZ}
+>>>>>>> parent of c06f594... Revert "some bugfixes"
