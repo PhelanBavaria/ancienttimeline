@@ -22,4 +22,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 5046.1.1 = { owner = ROM controller = ROM add_core = ROM capital = "Novae" }
-4580.1.1 = { owner = TRZ controller = TRZ add_core= TRZ}
+4580.1.1 = { owner = TRI controller = TRI add_core= TRI}
