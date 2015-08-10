@@ -1,14 +1,6 @@
 government = despotic_monarchy
 government_rank = 3
-#aristocracy_plutocracy = 0
-#centralization_decentralization = -2
-#innovative_narrowminded = -3
-#mercantilism_freetrade = -1
 mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = -3
-#quality_quantity = 4
-#serfdom_freesubjects = -3
 primary_culture = persian
 religion = zoroastrian
 technology_group = middle_eastern
@@ -16,99 +8,249 @@ capital = 409
 
 4441.1.1 = {
 	monarch = {
-		name = "Cyrus"
+		name = "Cyrus I"
 		dynasty = "Achaemenid"
+		birth_date = 4424.1.1
 		adm = 6
 		dip = 6
 		mil = 6
 	}
 }
 
-4470.1.1 = {
-	monarch = {
+4441.1.1 = {
+	heir = {
 		name = "Cambyses"
+		monarch_name = "Cambyses II"
 		dynasty = "Achaemenid"
+		birth_date = 4440.1.1
+		death_date = 4478.1.1
+		claim = 95
 		adm = 2
 		dip = 3
 		mil = 2
 	}
 }
 
-4478.2.1 = {
+4470.1.1 = {
 	monarch = {
-		name = "Bardiya"
+		name = "Cambyses II"
 		dynasty = "Achaemenid"
+		birth_date = 4440.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4470.1.1 = {
+	heir = {
+		name = "Bardiya"
+		monarch_name = "Bardiya I"
+		dynasty = "Achaemenid"
+		birth_date = 4448.1.1
+		death_date = 4478.9.1
+		claim = 95
 		adm = 1
 		dip = 1
 		mil = 2
 	}
 }
 
-4478.5.1 = {
+4478.1.1 = {
 	monarch = {
-		name = "Darius"
+		name = "Bardiya I"
 		dynasty = "Achaemenid"
+		birth_date = 4448.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4478.1.1 = {
+	heir = {
+		name = "Darius"
+		monarch_name = "Darius I"
+		dynasty = "Achaemenid"
+		birth_date = 4450.1.1
+		death_date = 4514.10.1
+		claim = 95
 		adm = 5
 		dip = 3
 		mil = 2
 	}
 }
 
-4515.1.1 = {
+4478.9.1 = {
 	monarch = {
-		name = "Xerxes"
+		name = "Darius I"
 		dynasty = "Achaemenid"
+		birth_date = 4450.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4481.1.1 = {
+	heir = {
+		name = "Xerxes"
+		monarch_name = "Xerxes I"
+		dynasty = "Achaemenid"
+		birth_date = 4481.1.1
+		death_date = 4535.1.1
+		claim = 95
 		adm = 3
 		dip = 3
 		mil = 2
 	}
 }
 
-4535.1.1 = {
+4514.10.1 = {
 	monarch = {
-		name = "Artaxerxes"
+		name = "Xerxes I"
 		dynasty = "Achaemenid"
+		birth_date = 4481.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+4514.10.1 = {
+	heir = {
+		name = "Artaxerxes"
+		monarch_name = "Artaxerxes I"
+		dynasty = "Achaemenid"
+		birth_date = 4505.1.1
+		death_date = 4576.1.1
+		claim = 95
 		adm = 2
 		dip = 4
 		mil = 2
 	}
 }
 
-4576.1.1 = {
+4535.1.1 = {
 	monarch = {
-		name = "Xerxes"
+		name = "Artaxerxes I"
 		dynasty = "Achaemenid"
+		birth_date = 4505.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4546.1.1 = {
+	heir = {
+		name = "Xerxes"
+		monarch_name = "Xerxes II"
+		dynasty = "Achaemenid"
+		birth_date = 4546.1.1
+		death_date = 4576.6.1
+		claim = 95
 		adm = 2
 		dip = 1
 		mil = 1
 	}
 }
 
-4576.2.15 = {
+4576.1.1 = {
 	monarch = {
-		name = "Sogdianus"
+		name = "Xerxes II"
 		dynasty = "Achaemenid"
-		adm = 1
+		birth_date = 4546.1.1
+		adm = 2
 		dip = 1
-		mil = 2
+		mil = 1
 	}
 }
 
-4576.8.30 = {
-	monarch = {
-		name = "Darius"
+4576.1.1 = {
+	heir = {
+		name = "Sogdianus"
+		monarch_name = "Sogdianus I"
 		dynasty = "Achaemenid"
+		birth_date = 4546.1.1
+		death_date = 4577.6.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4576.6.1 = {
+	monarch = {
+		name = "Sogdianus I"
+		dynasty = "Achaemenid"
+		birth_date = 4546.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4576.6.1 = {
+	heir = {
+		name = "Darius"
+		monarch_name = "Darius II"
+		dynasty = "Achaemenid"
+		birth_date = 4547.1.1
+		death_date = 4596.1.1
+		claim = 95
 		adm = 5
 		dip = 4
 		mil = 5
 	}
 }
 
+4577.6.1 = {
+	monarch = {
+		name = "Darius II"
+		dynasty = "Achaemenid"
+		birth_date = 4547.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+4577.6.1 = {
+	heir = {
+		name = "Artaxerxes"
+		monarch_name = "Artaxerxes II"
+		dynasty = "Achaemenid"
+		birth_date = 4555.1.1
+		death_date = 4642.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
 4596.1.1 = {
 	monarch = {
-		name = "Artaxerxes"
+		name = "Artaxerxes II"
 		dynasty = "Achaemenid"
+		birth_date = 4555.1.1
 		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4596.1.1 = {
+	heir = {
+		name = "Artaxerxes"
+		monarch_name = "Artaxerxes III"
+		dynasty = "Achaemenid"
+		birth_date = 4575.1.1
+		death_date = 4662.1.1
+		claim = 95
+		adm = 3
 		dip = 3
 		mil = 3
 	}
@@ -116,19 +258,49 @@ capital = 409
 
 4642.1.1 = {
 	monarch = {
-		name = "Artaxerxes"
+		name = "Artaxerxes III"
 		dynasty = "Achaemenid"
+		birth_date = 4575.1.1
 		adm = 3
 		dip = 3
 		mil = 3
 	}
 }
 
+4642.1.1 = {
+	heir = {
+		name = "Artaxerxes"
+		monarch_name = "Artaxerxes IV"
+		dynasty = "Achaemenid"
+		birth_date = 4632.1.1
+		death_date = 4664.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
 4662.1.1 = {
 	monarch = {
-		name = "Artaxerxes"
+		name = "Artaxerxes IV"
 		dynasty = "Achaemenid"
+		birth_date = 4632.1.1
 		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4662.1.1 = {
+	heir = {
+		name = "Darius"
+		monarch_name = "Darius III"
+		dynasty = "Achaemenid"
+		birth_date = 4620.1.1
+		death_date = 4670.7.1
+		claim = 95
+		adm = 1
 		dip = 2
 		mil = 2
 	}
@@ -136,19 +308,35 @@ capital = 409
 
 4664.1.1 = {
 	monarch = {
-		name = "Darius"
+		name = "Darius III"
 		dynasty = "Achaemenid"
+		birth_date = 4620.1.1
 		adm = 1
 		dip = 2
 		mil = 2
 	}
 }
 
-4670.1.1 = {
-	monarch = {
+4664.1.1 = {
+	heir = {
 		name = "Artaxerxes"
+		monarch_name = "Artaxerxes V"
 		dynasty = "Achaemenid"
-		adm = 1
+		birth_date = 4640.1.1
+		death_date = 4671.7.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4670.7.1 = {
+	monarch = {
+		name = "Artaxerxes V"
+		dynasty = "Achaemenid"
+		birth_date = 4640.1.1
+		adm = 0
 		dip = 1
 		mil = 1
 	}
