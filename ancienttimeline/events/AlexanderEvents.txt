@@ -6,7 +6,7 @@ country_event = {
 	hidden = yes
 
 	trigger = {
-		has_ruler = "Alexander"
+		has_ruler = "Alexander III"
 	}
 	mean_time_to_happen = {
 		months = 1
@@ -27,7 +27,7 @@ country_event = {
 	picture = DEATH_OF_HEIR_eventPicture
 
 	trigger = {
-		NOT = { has_ruler = "Alexander" }
+		NOT = { has_ruler = "Alexander III" }
 		has_country_flag = { alexander_the_great }
 	}
 	mean_time_to_happen = {
