@@ -6,8 +6,6 @@ color = { 155  147  180 }
 
 historical_score = 300
 
-preferred_religion = protestant
-
 historical_idea_groups = {
 	early_religious_ideas
 	early_mil_ideas

@@ -55,10 +55,10 @@ monarch_names = {
 }
 
 leader_names = {
-        "Skerdilaidas"
-        "Epicadus
-        "Bato"
-        "Laidas
+        Skerdilaidas
+        Epicadus
+        Bato
+        Laidas
 }
 
 ship_names = {

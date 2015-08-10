@@ -80,7 +80,7 @@ capital = 540
 	}
 }
 
-2005.1.1 = {
+2075.1.1 = {
 	monarch = {
 		name = "Keezhai Kinjuvan"
 		dynasty = "Chola"
