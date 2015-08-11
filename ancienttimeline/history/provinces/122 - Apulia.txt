@@ -1,7 +1,5 @@
 #122 - Apulia
 
-owner = KLP
-controller = KLP
 culture = doric_greek
 religion = hellenism
 hre = no 
@@ -12,7 +10,6 @@ base_manpower = 2
 fort1 = yes 
 capital = "Tarentum"
 citysize = 2500 # Estimated 
-add_core = KLP
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -21,3 +18,4 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4266.1.1 = { owner = KLP controller = KLP add_core = KLP }

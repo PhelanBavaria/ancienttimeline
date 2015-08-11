@@ -1,7 +1,5 @@
 #3133 - Syracuse
 
-owner = SYC
-controller = SYC
 culture = doric_greek
 religion = hellenism
 hre = no 
@@ -12,7 +10,6 @@ base_manpower = 4
 fort_15th = yes
 capital = "Syracuse"
 citysize = 6000
-add_core = SYC
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -21,3 +18,4 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4266.1.1 = { owner = SYC controller = SYC add_core = SYC }

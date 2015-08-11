@@ -21,3 +21,4 @@ discovered_by = mediterranean
 discovered_by = muslim
 discovered_by = ottoman
 
+4266.1.1 = { owner = RHG controller = RHG add_core = RHG }
