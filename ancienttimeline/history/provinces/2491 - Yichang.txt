@@ -17,3 +17,5 @@ fort1 = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+4100.1.1 = { owner = QIN controller = QIN add_core = QIN }
+4794.1.1 = { owner = HND controller = HND add_core = HND remove_core = QIN }

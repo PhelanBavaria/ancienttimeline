@@ -24,3 +24,7 @@ discovered_by = nomad_group
 		}
 }
 
+3970.1.1 = { owner = CHC controller = CHC add_core = CHC }
+4777.1.1 = { owner = QIN controller = QIN add_core = QIN }
+4794.1.1 = { owner = CHC controller = CHC add_core = CHC remove_core = QIN }
+4798.1.1 = { owner = HND controller = HND add_core = HND remove_core = CHC }

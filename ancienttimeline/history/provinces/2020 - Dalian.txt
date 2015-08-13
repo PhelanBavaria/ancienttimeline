@@ -1,7 +1,5 @@
 #2020 - Dalian
 
-owner = HND
-controller = HND
 culture = manchu
 religion = confucianism
 capital = "Sanshan"
@@ -10,10 +8,9 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-citysize = 12071
-add_core = HND
-add_core = WEI
-fort1 = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+4778.1.1 = { owner = QIN controller = QIN add_core = QIN citysize = 12071 }
+4794.1.1 = { owner = YAN controller = YAN add_core = YAN remove_core = QIN }
+4798.1.1 = { owner = HND controller = HND add_core = HND remove_core = YAN }
