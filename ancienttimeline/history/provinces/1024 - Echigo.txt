@@ -1,7 +1,5 @@
 #1024 - Echigo
 
-owner = EMI
-controller = EMI
 culture = emishi
 religion = animism
 capital = "Naoetsu"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-citysize = 3385
-add_core = EMI
-fort1 = yes
 discovered_by = chinese
 

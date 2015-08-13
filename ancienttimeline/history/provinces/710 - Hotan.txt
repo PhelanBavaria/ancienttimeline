@@ -1,7 +1,7 @@
 #710 - Hotan
 
-owner = HOT
-controller = HOT
+owner = YZH
+controller = YZH
 culture = uyghur
 religion = mahayana
 capital = "Hotan"
@@ -11,8 +11,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 citysize = 2700
-add_core = HOT
+add_core = YZH
 discovered_by = chinese
 discovered_by = nomad_group
 
-5056.1.1 = { owner = KAS controller = KAS }
+4920.1.1 = { owner = HOT controller = HOT add_core = HOT remove_core = YZH }
+5056.1.1 = { owner = YAR controller = YAR }

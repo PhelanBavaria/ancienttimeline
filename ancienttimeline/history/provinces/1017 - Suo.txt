@@ -1,7 +1,5 @@
 #1017 - Nagato
 
-owner = KIB
-controller = KIB
 culture = japanese
 religion = animism
 capital = "Yamaguchi"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-citysize = 1353
-add_core = KIB
-fort1 = yes
 discovered_by = chinese
 

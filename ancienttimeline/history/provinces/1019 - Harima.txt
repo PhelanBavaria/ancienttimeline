@@ -1,7 +1,5 @@
 #1019 - Harima
 
-owner = IZU
-controller = IZU
 culture = japanese
 religion = animism
 capital = "Himeji"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-citysize = 2300
-fort1 = yes
-add_core = IZU
 discovered_by = chinese
 

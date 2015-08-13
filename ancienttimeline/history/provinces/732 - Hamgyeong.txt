@@ -1,7 +1,7 @@
 #732 - Hamgyeong
 
-owner = GOG
-controller = GOG
+owner = GOJ
+controller = GOJ
 culture = korean
 religion = shamanism
 capital = "Hamheung"
@@ -11,8 +11,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1649
-add_core = GOG
-fort1 = yes
+add_core = GOJ
 discovered_by = chinese
 discovered_by = nomad_group
 
+4892.1.1 = { owner = DON controller = DON add_core = DON remove_core = GOJ }

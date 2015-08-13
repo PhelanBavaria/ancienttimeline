@@ -1,7 +1,7 @@
 #736 - Gyeongsang
 
-owner = SLL
-controller = SLL
+owner = JIN
+controller = JIN
 culture = korean
 religion = shamanism
 capital = "Seorabeol"
@@ -11,8 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1151
-add_core = SLL
-fort1 = yes
+add_core = JIN
 discovered_by = chinese
 
 2.1.1 = {
@@ -22,3 +21,5 @@ discovered_by = chinese
 	}
 }
 
+4900.1.1 = { owner = JHN controller = JHN add_core = JHN remove_core = JIN }
+4943.1.1 = { owner = SLL controller = SLL add_core = SLL remove_core = JHN }

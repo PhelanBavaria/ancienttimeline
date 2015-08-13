@@ -1,7 +1,5 @@
 #1018 - Izumo
 
-owner = IZU
-controller = IZU
 culture = japanese
 religion = animism
 capital = "Izumo"
@@ -10,9 +8,5 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-citysize = 1344
-add_core = IZU
-fort1 = yes
 discovered_by = chinese
-  # Izumo Shrine
 

@@ -1,7 +1,5 @@
 #1028 - Musachi
 
-owner = EMI
-controller = EMI
 culture = emishi
 religion = animism
 capital = "Edo"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 6
 base_production = 6
 base_manpower = 3
-citysize = 10375
-add_core = EMI
-fort1 = yes
 discovered_by = chinese
 

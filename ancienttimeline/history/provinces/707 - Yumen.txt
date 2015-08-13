@@ -1,7 +1,7 @@
 #707 - Yumen
 
-owner = HND
-controller = HND
+owner = YZH
+controller = YZH
 culture = oirats
 religion = mahayana
 capital = "Yumen"
@@ -11,9 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 citysize = 2783
-add_core = HND
-add_core = WEI
-fort1 = yes
+add_core = YZH
 discovered_by = chinese
 discovered_by = nomad_group
 
@@ -24,3 +22,5 @@ discovered_by = nomad_group
 	}
 }
 
+4824.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = YZH }
+4879.1.1 = { owner = HND controller = HND add_core = HND remove_core = XIO }

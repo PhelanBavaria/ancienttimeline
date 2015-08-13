@@ -1,7 +1,5 @@
 #1029 - Shinano
 
-owner = YAM
-controller = YAM
 culture = emishi
 religion = animism
 capital = "Kofu"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-citysize = 1439
-add_core = YAM
-fort1 = yes
 discovered_by = chinese
 

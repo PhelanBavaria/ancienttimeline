@@ -1,7 +1,7 @@
 #733 - Pyeongan
 
-owner = HND
-controller = HND
+owner = GOJ
+controller = GOJ
 culture = korean
 religion = shamanism
 capital = "Gaegyeong"
@@ -11,9 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 5710
-add_core = HND
-add_core = WEI
-fort1 = yes
+add_core = GOJ
 discovered_by = chinese
 discovered_by = nomad_group
 
+4892.1.1 = { owner = HND controller = HND add_core = HND }

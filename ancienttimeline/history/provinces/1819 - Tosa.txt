@@ -1,7 +1,5 @@
 #1819 - Tosa
 
-owner = KIB
-controller = KIB
 culture = japanese
 religion = animism
 capital = "Nakamura"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 3
-citysize = 5234
-add_core = KIB
-fort1 = yes
 discovered_by = chinese
 

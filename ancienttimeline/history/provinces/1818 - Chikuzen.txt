@@ -1,7 +1,5 @@
 #1818 - Chikuzen
 
-owner = KYU
-controller = KYU
 culture = japanese
 religion = animism
 capital = "Chikuzen"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 6
 base_production = 6
 base_manpower = 2
-citysize = 1889
-add_core = KYU
-fort1 = yes
 discovered_by = chinese
 
 2.1.1 = {

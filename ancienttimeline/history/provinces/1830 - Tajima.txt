@@ -1,7 +1,5 @@
 #1830 - Tajima
 
-owner = IZU
-controller = IZU
 culture = japanese
 religion = animism
 capital = "Tottori"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
-citysize = 1891
-add_core = IZU
-fort1 = yes
 discovered_by = chinese
 

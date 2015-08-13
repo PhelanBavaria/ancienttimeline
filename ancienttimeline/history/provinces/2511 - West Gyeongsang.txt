@@ -1,7 +1,7 @@
 #736 - Gyeongsang
 
-owner = SLL
-controller = SLL
+owner = JIN
+controller = JIN
 culture = korean
 religion = shamanism
 capital = "Daegu"
@@ -11,8 +11,9 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 citysize = 1151
-add_core = SLL
-fort1 = yes
+add_core = JIN
 discovered_by = chinese
 discovered_by = nomad_group
 
+4900.1.1 = { owner = BHN controller = BHN add_core = BHN remove_core = JIN }
+4943.1.1 = { owner = SLL controller = SLL add_core = SLL remove_core = BHN }

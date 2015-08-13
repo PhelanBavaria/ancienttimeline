@@ -1,7 +1,5 @@
 #1820 - Awa
 
-owner = KIB
-controller = KIB
 culture = japanese
 religion = animism
 capital = "Tokushima"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-citysize = 1335
-add_core = KIB
-fort1 = yes
 discovered_by = chinese
 

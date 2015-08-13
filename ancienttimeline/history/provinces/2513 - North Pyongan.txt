@@ -1,7 +1,7 @@
 #2513 - North Pyongan
 
-owner = HND
-controller = HND
+owner = GOJ
+controller = GOJ
 culture = korean
 religion = shamanism
 capital = "Nyongbyon"
@@ -11,9 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 4746
-add_core = HND
-add_core = WEI
-fort1 = yes
+add_core = GOJ
 discovered_by = chinese
 discovered_by = nomad_group
 
+4892.1.1 = { owner = HND controller = HND add_core = HND }
