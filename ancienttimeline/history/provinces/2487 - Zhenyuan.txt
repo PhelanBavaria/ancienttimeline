@@ -1,7 +1,7 @@
 #673 - Bozhou
 
-owner = HND
-controller = HND
+owner = YEL
+controller = YEL
 culture = miao
 religion = animism
 capital = "Zhenyuan"
@@ -11,9 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 citysize = 5937
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = YEL
 discovered_by = chinese
 discovered_by = nomad_group
 
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = YEL }

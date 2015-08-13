@@ -1,7 +1,7 @@
 #1824 - Wenzhou
 
-owner = HND
-controller = HND
+owner = YUE
+controller = YUE
 culture = wu
 religion = confucianism
 capital = "Wenzhou"
@@ -11,9 +11,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 23928
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = YUE
 discovered_by = chinese
 discovered_by = nomad_group
 
+4778.1.1 = { owner = QIN controller = QIN add_core = QIN }
+4794.1.1 = { owner = MNY controller = MNY add_core = MNY remove_core = QIN remove_core = YUE }
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = MNY }

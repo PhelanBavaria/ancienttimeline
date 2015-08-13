@@ -1,7 +1,7 @@
 #664 - Guangxi
 
-owner = HND
-controller = HND
+owner = ZHN
+controller = ZHN
 culture = zhuang
 religion = confucianism
 capital = "Tanzhong"
@@ -11,9 +11,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 5282
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = ZHN
 discovered_by = chinese
 discovered_by = nomad_group
 
+4796.1.1 = { owner = YEL controller = YEL add_core = YEL remove_core = ZHN }
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = YEL }

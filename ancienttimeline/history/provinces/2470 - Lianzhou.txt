@@ -1,7 +1,7 @@
 #665 - Jiangmen
 
-owner = HND
-controller = HND
+owner = VNL
+controller = VNL
 culture = cantonese
 religion = confucianism
 capital = "Limchow"
@@ -11,10 +11,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 6333
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = VNL
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 
+4743.1.1 = { owner = ALC controller = ALC add_core = ALC remove_core = VNL }
+4793.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ALC }
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }

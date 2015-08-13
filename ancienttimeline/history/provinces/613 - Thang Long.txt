@@ -1,7 +1,7 @@
 #613 - Thang Long
 
-owner = HND
-controller = HND
+owner = VNL
+controller = VNL
 culture = vietnamese
 religion = mahayana
 capital = "Hai Phong"
@@ -11,8 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 citysize = 3392
-add_core = HND
-add_core = DAI
+add_core = VNL
 discovered_by = chinese
 discovered_by = muslim
 
@@ -23,3 +22,6 @@ discovered_by = muslim
 	}
 }
 
+4743.1.1 = { owner = ALC controller = ALC add_core = ALC remove_core = VNL }
+4793.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ALC }
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }

@@ -1,7 +1,7 @@
 #667 - Guangzhou
 
-owner = HND
-controller = HND
+owner = MNY
+controller = MNY
 culture = chimin
 religion = confucianism
 capital = "Chaozhou"
@@ -11,9 +11,9 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 citysize = 8367
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = MNY
 discovered_by = chinese
 discovered_by = nomad_group
 
+4796.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = MNY }
+4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }

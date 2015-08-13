@@ -1,7 +1,7 @@
 #671 - Changsha
 
-owner = HND
-controller = HND
+owner = GAN
+controller = GAN
 culture = miao
 religion = animism
 capital = "Hengyang"
@@ -11,9 +11,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 8635
-add_core = HND
-add_core = WUU
-fort1 = yes
+add_core = GAN
 discovered_by = chinese
 discovered_by = nomad_group
 
+4786.1.1 = { owner = QIN controller = QIN add_core = QIN }
+4796.1.1 = { owner = GAN controller = GAN add_core = GAN remove_core = QIN }
+4820.1.1 = { owner = HND controller = HND add_core = HND remove_core = GAN }

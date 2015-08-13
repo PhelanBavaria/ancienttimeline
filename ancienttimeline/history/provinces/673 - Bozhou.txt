@@ -1,5 +1,9 @@
 #673 - Bozhou
 
+owner = SHU
+controller = SHU
+add_core = SHU
+citysize = 1000
 culture = yi
 religion = animism
 capital = "Bozhou"
@@ -11,5 +15,5 @@ base_manpower = 2
 discovered_by = chinese
 discovered_by = nomad_group
 
-4780.1.1 = { owner = QIN controller = QIN add_core = QIN citysize = 8239 }
+4684.1.1 = { owner = QIN controller = QIN add_core = QIN remove_core = SHU }
 4794.1.1 = { owner = HND controller = HND add_core = HND remove_core = QIN }
