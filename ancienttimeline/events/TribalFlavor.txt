@@ -42,3 +42,24 @@ country_event = {
         add_manpower = -0.1
     }
 }
+
+province_event = {
+    id = chief_conquest.1
+    title = "chief_conquest.1t"
+    desc = "chief_conquest.1d"
+    picture = LIBERUM_VETO_eventPicture
+
+    trigger = {
+        owner = ROOT
+        NOT = { is_core = ROOT }
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "chief_conquest.1a"
+        owner = PREV
+    }
+}
