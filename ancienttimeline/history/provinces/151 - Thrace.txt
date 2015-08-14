@@ -35,3 +35,4 @@ discovered_by = ottoman
 }
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = MCD }
 4665.6.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA culture = attic_greek }
+4694.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }

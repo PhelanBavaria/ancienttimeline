@@ -23,3 +23,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 4666.6.5 = { owner = MCD controller = MCD add_core = MCD }
+4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
