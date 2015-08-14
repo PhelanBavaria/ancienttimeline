@@ -1,0 +1,22 @@
+country_decisions = {
+
+	dummy_alexander_invasion = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			add_country_flag = { alexander_the_great }
+			add_country_modifier = {
+				name = "alexander_invasion"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}

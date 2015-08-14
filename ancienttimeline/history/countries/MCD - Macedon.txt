@@ -491,6 +491,8 @@ capital = 2007
 	}
 }
 
+4664.10.1 = { decision = dummy_alexander_invasion }
+
 4664.10.1 = {
 	monarch = {
 		name = "Alexander III"
