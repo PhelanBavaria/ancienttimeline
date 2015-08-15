@@ -1,17 +1,14 @@
 #716 - Tannu Tuva
 
-owner = XIO
-controller = XIO
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Tannu Tuva"
-trade_goods = fur
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-citysize = 1660
-add_core = XIO
 discovered_by = chinese
 discovered_by = nomad_group
 
+4900.1.1 = { owner = XIO controller = XIO add_core = XIO citysize = 1542 trade_goods = fur }
