@@ -5,3 +5,7 @@ alexander_invasion = {
 	cavalry_power = 0.2
 	infantry_power = 0.2
 }
+
+recent_brawl = {
+    land_morale = 2.0
+}

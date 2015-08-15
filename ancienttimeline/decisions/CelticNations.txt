@@ -138,33 +138,60 @@ country_decisions = {
         }
     }
 
+    become_king = {
+        major = yes
+        potential = {
+            government = tribal_kingdom
+            government_rank = 1
+            NOT = { government_rank = 2 }
+        }
+        allow = {
+            is_subject = no
+            is_at_war = no
+            calc_true_if = { all_owned_province = { is_core = ROOT } amount = 3 }
+
+        }
+        effect = {
+            set_government_rank = 2
+            every_owned_province = {
+                add_unrest = 10
+            }
+        }
+    }
+
     brawl = {
         potential = {
             government = tribal_kingdom
         }
         allow = {
             is_at_war = no
+            NOT = { has_country_modifier = recent_brawl }
+            government_rank = 1
+            NOT = { government_rank = 2 }
             any_owned_province = {
                 any_neighbor_province = {
                     owner = {
                         is_rival = ROOT
                         government = tribal_kingdom
+                        government_rank = 1
+                        NOT = { government_rank = 2 }
+                        NOT = { has_country_modifier = recent_brawl }
                     }
                 }
             }
-            government = tribal_kingdom
         }
         effect = {
             add_country_modifier = {
-                name = "morale_boost"
-                duration = 30
+                name = "recent_brawl"
+                duration = 365
             }
-            add_manpower = -1
+            add_manpower = -0.1
+            add_prestige = 10
             any_neigbor_province = {
                 owner = {
                     add_country_modifier = {
-                        name = "morale_boost"
-                        duration = 10
+                        name = "recent_brawl"
+                        duration = 365
                     }
                     add_manpower = -0.1
                     add_prestige = 10
@@ -172,7 +199,11 @@ country_decisions = {
             }
         }
         ai_will_do = {
-            NOT = { manpower_percentage = 0.8 }
+            factor = 1
+            modifier = {
+                factor = 0
+                NOT = { manpower_percentage = 0.8 }
+            }
         }
     }
 }

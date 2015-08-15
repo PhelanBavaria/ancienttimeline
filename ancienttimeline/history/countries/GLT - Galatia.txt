@@ -1,4 +1,4 @@
-government = tribal_kingdom
+government = tribal_federatian
 mercantilism = 0.1
 primary_culture = galatian
 religion = druidism

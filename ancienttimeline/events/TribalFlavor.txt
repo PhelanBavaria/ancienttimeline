@@ -8,9 +8,7 @@ country_event = {
 
     trigger = {
         is_at_war = no
-        OR = {
-            government = tribal_federation
-        }
+        government = tribal_federation
     }
 
     mean_time_to_happen = {
@@ -36,22 +34,26 @@ country_event = {
     option = {
         name = "brawl.1a"
         add_country_modifier = {
-            name = "morale_boost"
+            name = "recent_brawl"
             duration = 10
         }
-        add_manpower = -0.1
+        add_manpower = -0.01
     }
 }
 
-province_event = {
+country_event = {
     id = chief_conquest.1
     title = "chief_conquest.1t"
     desc = "chief_conquest.1d"
     picture = LIBERUM_VETO_eventPicture
 
     trigger = {
-        owner = ROOT
-        NOT = { is_core = ROOT }
+        government = tribal_kingdom
+        government_rank = 1
+        NOT = { government_rank =  2 }
+        any_owned_province = {
+            NOT = { is_core = ROOT }
+        }
     }
 
     mean_time_to_happen = {
@@ -60,6 +62,24 @@ province_event = {
 
     option = {
         name = "chief_conquest.1a"
-        owner = PREV
+        every_owned_province = {
+            limit = { NOT = { is_core = ROOT } }
+            random_core_country = {
+                PREV = {
+                    cede_province = PREV
+                }
+            }
+        }
+    }
+    option = {
+        name = "chief_conquest.1b"
+        every_owned_province = {
+            limit = { NOT = { is_core = ROOT } }
+            add_unrest = 15
+            add_core = ROOT
+        }
+        capital_scope = {
+            add_unrest = 20
+        }
     }
 }
