@@ -1,7 +1,7 @@
 #730 - Haixi
 
-owner = HND
-controller = HND
+owner = DNG
+controller = DNG
 culture = manchu
 religion = shamanism
 capital = "Yehe"
@@ -11,9 +11,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 3585
-add_core = HND
-add_core = WEI
-fort1 = yes
+add_core = DNG
 discovered_by = chinese
 discovered_by = nomad_group
 
+4792.1.1 = { owner = XIB controller = XIB add_core = XIB remove_core = DNG }
+4892.1.1 = { owner = HND controller = HND add_core = HND }

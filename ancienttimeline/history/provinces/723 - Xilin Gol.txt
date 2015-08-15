@@ -1,7 +1,7 @@
 #723 - Xilin Gol
 
-owner = XIO
-controller = XIO
+owner = DNG
+controller = DNG
 culture = mongol
 religion = tengri_pagan_reformed
 capital = "Xilin Gol"
@@ -11,9 +11,10 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1547
-add_core = XIO
-add_core = XIB
+add_core = DNG
 discovered_by = chinese
 discovered_by = nomad_group
 
+4792.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = DNG }
 5046.1.1 = { owner = XIB controller = XIB remove_core = XIO }
+

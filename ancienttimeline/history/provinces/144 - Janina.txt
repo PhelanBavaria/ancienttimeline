@@ -23,3 +23,5 @@ discovered_by = barbarian
 discovered_by = celtiberians
 
 4665.9.12 = { owner = MCD controller = MCD }
+4712.1.1 = { owner = THR controller = THR }
+4719.1.1 = { owner = MCD controller = MCD }

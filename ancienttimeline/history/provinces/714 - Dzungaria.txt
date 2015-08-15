@@ -1,8 +1,8 @@
 #714 - Dzungaria
 
-owner = XIO
-controller = XIO
-add_core = XIO
+owner = YZH
+controller = YZH
+add_core = YZH
 citysize = 1000
 culture = turkish
 religion = tengri_pagan_reformed
@@ -15,3 +15,5 @@ base_manpower = 3
 discovered_by = chinese
 discovered_by = nomad_group
 
+4868.1.1 = { owner = WUS controller = WUS add_core = WUS remove_core = YZH }
+4920.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = WUS }
