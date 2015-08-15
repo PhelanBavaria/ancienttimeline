@@ -40,4 +40,35 @@ country_event = {
 		add_stability = -3
 	}
 }
-		
+
+province_event = {
+
+	id = alex.3
+	hidden = yes
+
+	trigger = {
+		owned_by = ACA
+		controlled_by = MCD
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = MCD
+}
+
+province_event = {
+
+	id = alex.4
+	hidden = yes
+
+	trigger = {
+		owned_by = MCD
+		controlled_by = ACA
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = ACA
+}		

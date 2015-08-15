@@ -23,3 +23,4 @@ discovered_by = muslim
 discovered_by = ottoman
 
 4665.9.12 = { owner = MCD controller = MCD }
+4677.6.11 = { owner = RHD controller = RHD add_core = RHD remove_core = MCD }

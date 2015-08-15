@@ -22,3 +22,5 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 4600.1.1 = { culture = attic_greek }
+4712.1.1 = { owner = THR controller = THR }
+4719.1.1 = { owner = MCD controller = MCD }
