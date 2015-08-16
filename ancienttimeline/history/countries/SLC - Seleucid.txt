@@ -4,3 +4,503 @@ primary_culture = attic_greek
 religion = hellenism
 technology_group = mediterranean
 capital = 410
+
+4688.1.1 = {
+	monarch = {
+		name = "Seleucus I"
+		dynasty = "Seleucid"
+		birth_date = 4642.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4688.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus I"
+		dynasty = "Seleucid"
+		birth_date = 4677.1.1
+		death_date = 4739.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4719.1.1 = {
+	monarch = {
+		name = "Antiochus I"
+		dynasty = "Seleucid"
+		birth_date = 4677.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4719.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus II"
+		dynasty = "Seleucid"
+		birth_date = 4714.1.1
+		death_date = 4754.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+4739.1.1 = {
+	monarch = {
+		name = "Antiochus II"
+		dynasty = "Seleucid"
+		birth_date = 4714.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+4739.1.1 = {
+	heir = {
+		name = "Seleucus"
+		monarch_name = "Seleucus II"
+		dynasty = "Seleucid"
+		birth_date = 4724.1.1
+		death_date = 4775.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+4754.1.1 = {
+	monarch = {
+		name = "Seleucus II"
+		dynasty = "Seleucid"
+		birth_date = 4724.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+4757.1.1 = {
+	heir = {
+		name = "Seleucus"
+		monarch_name = "Seleucus III"
+		dynasty = "Seleucid"
+		birth_date = 4757.1.1
+		death_date = 4777.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4775.1.1 = {
+	monarch = {
+		name = "Seleucus III"
+		dynasty = "Seleucid"
+		birth_date = 4757.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4775.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus III"
+		dynasty = "Seleucid"
+		birth_date = 4759.1.1
+		death_date = 4813.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+
+4777.1.1 = {
+	monarch = {
+		name = "Antiochus III"
+		dynasty = "Seleucid"
+		birth_date = 4759.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+
+4782.1.1 = {
+	heir = {
+		name = "Seleucus"
+		monarch_name = "Seleucus IV"
+		dynasty = "Seleucid"
+		birth_date = 4782.1.1
+		death_date = 4825.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4813.1.1 = {
+	monarch = {
+		name = "Seleucus IV"
+		dynasty = "Seleucid"
+		birth_date = 4782.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4813.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus IV"
+		dynasty = "Seleucid"
+		birth_date = 4785.1.1
+		death_date = 4837.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4825.1.1 = {
+	monarch = {
+		name = "Antiochus IV"
+		dynasty = "Seleucid"
+		birth_date = 4785.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4828.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus V"
+		dynasty = "Seleucid"
+		birth_date = 4828.1.1
+		death_date = 4839.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4837.1.1 = {
+	monarch = {
+		name = "Antiochus V"
+		dynasty = "Seleucid"
+		birth_date = 4828.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4837.1.1 = {
+	heir = {
+		name = "Demetrius"
+		monarch_name = "Demetrius I"
+		dynasty = "Seleucid"
+		birth_date = 4815.1.1
+		death_date = 4850.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4839.1.1 = {
+	monarch = {
+		name = "Demetrius I"
+		dynasty = "Seleucid"
+		birth_date = 4815.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4839.1.1 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander I"
+		dynasty = "Seleucid"
+		birth_date = 4820.1.1
+		death_date = 4855.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Seleucid"
+		birth_date = 4820.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4850.1.1 = {
+	heir = {
+		name = "Demetrius"
+		monarch_name = "Demetrius II"
+		dynasty = "Seleucid"
+		birth_date = 4825.1.1
+		death_date = 4875.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4855.1.1 = {
+	monarch = {
+		name = "Demetrius II"
+		dynasty = "Seleucid"
+		birth_date = 4825.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4855.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus VII"
+		dynasty = "Seleucid"
+		birth_date = 4832.1.1
+		death_date = 4871.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4862.1.1 = {
+	monarch = {
+		name = "Antiochus VII"
+		dynasty = "Seleucid"
+		birth_date = 4832.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4871.1.1 = {
+	monarch = {
+		name = "Demetrius II"
+		dynasty = "Seleucid"
+		birth_date = 4825.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4871.1.1 = {
+	heir = {
+		name = "Cleopatra Thea"
+		monarch_name = "Cleopatra Thea"
+		dynasty = "Seleucid"
+		birth_date = 4836.1.1
+		death_date = 4879.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+4875.1.1 = {
+	monarch = {
+		name = "Cleopatra Thea"
+		dynasty = "Seleucid"
+		birth_date = 4836.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+4875.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus VIII"
+		dynasty = "Seleucid"
+		birth_date = 4860.1.1
+		death_date = 4904.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4879.1.1 = {
+	monarch = {
+		name = "Antiochus VIII"
+		dynasty = "Seleucid"
+		birth_date = 4860.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4879.1.1 = {
+	heir = {
+		name = "Seleucus"
+		monarch_name = "Seleucus VI"
+		dynasty = "Seleucid"
+		birth_date = 4874.1.1
+		death_date = 4905.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4904.1.1 = {
+	monarch = {
+		name = "Seleucus VI"
+		dynasty = "Seleucid"
+		birth_date = 4874.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4904.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus X"
+		dynasty = "Seleucid"
+		birth_date = 4875.1.1
+		death_date = 4917.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4905.1.1 = {
+	monarch = {
+		name = "Antiochus X"
+		dynasty = "Seleucid"
+		birth_date = 4875.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4905.1.1 = {
+	heir = {
+		name = "Seleucus"
+		monarch_name = "Seleucus VII"
+		dynasty = "Seleucid"
+		birth_date = 4887.1.1
+		death_date = 4931.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+4917.1.1 = {
+	monarch = {
+		name = "Seleucus VII"
+		dynasty = "Seleucid"
+		birth_date = 4887.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+4917.1.1 = {
+	heir = {
+		name = "Antiochus"
+		monarch_name = "Antiochus XIII"
+		dynasty = "Seleucid"
+		birth_date = 4901.1.1
+		death_date = 4936.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+4931.1.1 = {
+	monarch = {
+		name = "Antiochus XIII"
+		dynasty = "Seleucid"
+		birth_date = 4901.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+4931.1.1 = {
+	heir = {
+		name = "Philip"
+		monarch_name = "Philip II"
+		dynasty = "Seleucid"
+		birth_date = 4916.1.1
+		death_date = 4944.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+4936.1.1 = {
+	monarch = {
+		name = "Philip II"
+		dynasty = "Seleucid"
+		birth_date = 4916.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+

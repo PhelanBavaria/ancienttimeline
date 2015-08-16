@@ -529,7 +529,32 @@ capital = 2007
 	}
 }
 
+4677.8.1 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander IV"
+		dynasty = "Argead"
+		birth_date = 4677.8.1
+		death_date = 4691.8.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
 4683.12.25 = {
+	monarch = {
+		name = "Alexander IV"
+		dynasty = "Argead"
+		birth_date = 4677.8.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+4689.8.1 = {
 	monarch = {
 		name = "Cassander I"
 		dynasty = "Antipatrid"
@@ -540,7 +565,7 @@ capital = 2007
 	}
 }
 
-4683.12.25 = {
+4689.8.1 = {
 	heir = {
 		name = "Philip"
 		monarch_name = "Philip IV"
