@@ -5,4 +5,420 @@ religion = punic_religion
 technology_group = mediterranean
 capital = 341	# Tunis
 
-4520.1.1 = { government = elder_council }
+4186.1.1 = {
+	monarch = {
+		name = "Dido I"
+		dynasty = "Didonian"
+		birth_date = 4170.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+4260.1.1 = {
+	monarch = {
+		name = "(unknown ruler)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+4420.1.1 = {
+	monarch = {
+		name = "Hanno I"
+		dynasty = "Didonian"
+		birth_date = 4390.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+4420.1.1 = {
+	heir = {
+		name = "Malchus"
+		monarch_name = "Malchus I"
+		dynasty = "Didonian"
+		birth_date = 4420.1.1
+		death_date = 4450.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+4444.1.1 = {
+	monarch = {
+		name = "Malchus I"
+		dynasty = "Didonian"
+		birth_date = 4420.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+4450.1.1 = {
+	monarch = {
+		name = "Mago I"
+		dynasty = "Magonid"
+		birth_date = 4420.1.1
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+4450.1.1 = {
+	heir = {
+		name = "Hasdrubal"
+		monarch_name = "Hasdrubal I"
+		dynasty = "Magonid"
+		birth_date = 4440.1.1
+		death_date = 4490.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+}
+
+4470.1.1 = {
+	monarch = {
+		name = "Hasdrubal I"
+		dynasty = "Magonid"
+		birth_date = 4440.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+}
+
+4470.1.1 = {
+	heir = {
+		name = "Hamilcar"
+		monarch_name = "Hamilcar I"
+		dynasty = "Magonid"
+		birth_date = 4460.1.1
+		death_date = 4520.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+4490.1.1 = {
+	monarch = {
+		name = "Hamilcar I"
+		dynasty = "Magonid"
+		birth_date = 4460.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+4490.1.1 = {
+	heir = {
+		name = "Hanno"
+		monarch_name = "Hanno II"
+		dynasty = "Magonid"
+		birth_date = 4490.1.1
+		death_date = 4560.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4520.1.1 = {
+	monarch = {
+		name = "Hanno II"
+		dynasty = "Magonid"
+		birth_date = 4490.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4530.1.1 = {
+	heir = {
+		name = "Hannibal"
+		monarch_name = "Hannibal I"
+		dynasty = "Magonid"
+		birth_date = 4530.1.1
+		death_date = 4594.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4560.1.1 = {
+	monarch = {
+		name = "Hannibal I"
+		dynasty = "Magonid"
+		birth_date = 4530.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4564.1.1 = {
+	heir = {
+		name = "Himilco"
+		monarch_name = "Himilco II"
+		dynasty = "Magonid"
+		birth_date = 4564.1.1
+		death_date = 4604.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4594.1.1 = {
+	monarch = {
+		name = "Himilco II"
+		dynasty = "Magonid"
+		birth_date = 4564.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4594.1.1 = {
+	heir = {
+		name = "Mago"
+		monarch_name = "Mago II"
+		dynasty = "Magonid"
+		birth_date = 4574.1.1
+		death_date = 4625.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4604.1.1 = {
+	monarch = {
+		name = "Mago II"
+		dynasty = "Magonid"
+		birth_date = 4574.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4604.1.1 = {
+	heir = {
+		name = "Mago"
+		monarch_name = "Mago III"
+		dynasty = "Magonid"
+		birth_date = 4595.1.1
+		death_date = 4656.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+4625.1.1 = {
+	monarch = {
+		name = "Mago III"
+		dynasty = "Magonid"
+		birth_date = 4595.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+4630.1.1 = {
+	heir = {
+		name = "Hanno"
+		monarch_name = "Hanno III"
+		dynasty = "Magonid"
+		birth_date = 4630.1.1
+		death_date = 4660.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+4656.1.1 = {
+	monarch = {
+		name = "Hanno III"
+		dynasty = "Magonid"
+		birth_date = 4630.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+4660.1.1 = {
+	monarch = {
+		name = "Hanno IV"
+		dynasty = "Hannonian"
+		birth_date = 4630.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+4660.1.1 = {
+	heir = {
+		name = "Gisco"
+		monarch_name = "Gisco I"
+		dynasty = "Hannonian"
+		birth_date = 4633.1.1
+		death_date = 4670.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+4663.1.1 = {
+	monarch = {
+		name = "Gisco I"
+		dynasty = "Hannonian"
+		birth_date = 4633.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+4663.1.1 = {
+	heir = {
+		name = "Hamilcar"
+		monarch_name = "Hamilcar II"
+		dynasty = "Hannonian"
+		birth_date = 4640.1.1
+		death_date = 4691.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	monarch = {
+		name = "Hamilcar II"
+		dynasty = "Hannonian"
+		birth_date = 4640.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	heir = {
+		name = "Bomilcar"
+		monarch_name = "Bomilcar I"
+		dynasty = "Hannonian"
+		birth_date = 4660.1.1
+		death_date = 4692.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4691.1.1 = {
+	monarch = {
+		name = "Bomilcar I"
+		dynasty = "Hannonian"
+		birth_date = 4660.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4692.1.1 = { government = oligarchic_republic }
+
+4692.1.1 = {
+	monarch = {
+		name = "Council of Elders"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+4740.1.1 = {
+	monarch = {
+		name = "Hanno II"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+4753.1.1 = { leader = {	name = "Hamilcar Barca"	type = general	rank = 1	fire = 3	shock = 5	manuever = 4	siege = 2	death_date = 4772.1.1 } }
+
+4760.1.1 = {
+	monarch = {
+		name = "Hanno III"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4772.1.1 = { leader = {	name = "Hasdrubal the Fair"	type = general	rank = 1	fire = 2	shock = 4	manuever = 2	siege = 1	death_date = 4779.1.1 } }
+
+4779.1.1 = { leader = {	name = "Hannibal Barca"	type = general	rank = 1	fire = 3	shock = 6	manuever = 5	siege = 3	death_date = 4819.1.1 } }
+
+4780.1.1 = {
+	monarch = {
+		name = "Bomilcar"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Hannibal Barca"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+}
+
+4804.1.1 = {
+	monarch = {
+		name = "Council of Elders"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
