@@ -23,3 +23,4 @@ discovered_by = ottoman
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4667.4.15 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
