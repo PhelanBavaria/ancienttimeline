@@ -28,3 +28,4 @@ discovered_by = indian
 3500.1.1 = { owner = MIT controller = MIT add_core = MIT remove_core = BAB }
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4669.7.23 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }

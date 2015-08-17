@@ -23,3 +23,4 @@ discovered_by = chinese
 4500.1.1 = { religion = hinduism }
 4670.7.17 = { owner = STG controller = STG add_core = STG remove_core = ACA }
 4671.4.26 = { owner = MCD controller = MCD add_core = MCD }
+4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }

@@ -28,3 +28,4 @@ discovered_by = celtiberians
 2950.1.1 = { owner = ASY controller = ASY add_core = ASY remove_core = SUM }
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA remove_core = ASY }
 4669.9.12 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }

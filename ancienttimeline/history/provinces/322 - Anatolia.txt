@@ -24,4 +24,4 @@ discovered_by = nomad_group
 
 4667.1.19 = { owner = MCD controller = MCD add_core = MCD }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
-4723.1.1 = { owner = GLT controller = GLT add_core = GLT remove_core = MCD }
+4723.1.1 = { owner = GLT controller = GLT add_core = GLT remove_core = THR }

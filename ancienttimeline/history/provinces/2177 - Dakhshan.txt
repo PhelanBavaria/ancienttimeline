@@ -21,3 +21,4 @@ discovered_by = nomad_group
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4670.7.17 = { owner = ARC controller = ARC add_core = ARC remove_core = ACA }
 4671.2.2 = { owner = MCD controller = MCD add_core = MCD }
+4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
