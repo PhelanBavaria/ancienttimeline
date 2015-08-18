@@ -38,7 +38,7 @@ country_event = {
 	}
 
 	option = {
-		name = "alex.EVTOPTA2"
+		name = alex.EVTOPTA2
 		add_stability = -3
 		remove_country_modifier = { alexander_invasion }
 		add_country_modifier = {
