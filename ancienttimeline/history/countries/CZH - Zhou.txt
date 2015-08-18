@@ -1,0 +1,7 @@
+government = celestial_empire
+mercantilism = 0.1
+technology_group = chinese
+religion = confucianism
+primary_culture = jin
+capital = 2492	# Luoyang
+
