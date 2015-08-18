@@ -766,5 +766,5 @@ cb_forceful_vassalization = {
 		is_neighbor_of = FROM
 	}
 
-	war_goal = forceful_vassalization
+	war_goal = take_capital_vassalize
 }
