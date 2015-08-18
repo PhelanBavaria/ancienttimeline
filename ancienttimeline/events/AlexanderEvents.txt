@@ -24,8 +24,8 @@ country_event = {
 country_event = {
 
 	id = alex.2
-	title = "alex.EVTNAME2"
-	desc = "alex.EVTDESC2"
+	title = alex.EVTNAME2
+	desc = alex.EVTDESC2
 	picture = DEATH_OF_HEIR_eventPicture
 
 	trigger = {
@@ -202,23 +202,23 @@ country_event = {
 		days = 1
 	}
 
-	any_owned_province = {
+	random_owned_province = {
 		cede_province = CSD
 		add_core = CSD
 	}
-	any_owned_province = {
+	random_owned_province = {
 		cede_province = EGP
 		add_core = EGP
 	}
-	any_owned_province = {
+	random_owned_province = {
 		cede_province = LYS
 		add_core = LYS
 	}
-	any_owned_province = {
+	random_owned_province = {
 		cede_province = NTG
 		add_core = NTG
 	}
-	any_owned_province = {
+	random_owned_province = {
 		cede_province = SLC
 		add_core = SLC
 	}
