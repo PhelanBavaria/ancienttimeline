@@ -747,3 +747,24 @@ cb_chinese_unification = {
 	
 	war_goal = superiority_chinese_unification
 }
+
+
+
+############################
+### - Ancient Timeline - ###
+############################
+
+
+# Forceful Vassalization
+cb_forceful_vassalization = {
+	prerequisites = {
+		culture_group = gaelic
+		NOT = { is_subject_of = FROM }
+		FROM = {
+			NOT = { is_subject_of = ROOT }
+		}
+		is_neighbor_of = FROM
+	}
+
+	war_goal = forceful_vassalization
+}

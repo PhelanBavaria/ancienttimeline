@@ -1,4 +1,4 @@
-government = tribal_kingdom
+government = tribal_federation
 government_rank = 1
 mercantilism = 0.1
 primary_culture = belgae
