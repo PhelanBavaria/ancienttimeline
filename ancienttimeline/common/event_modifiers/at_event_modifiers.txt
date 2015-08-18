@@ -6,6 +6,10 @@ alexander_invasion = {
 	infantry_power = 0.4
 }
 
+alexander_dead = {
+	global_unrest = 5
+}
+
 recent_brawl = {
 	land_morale = 2.0
 }
