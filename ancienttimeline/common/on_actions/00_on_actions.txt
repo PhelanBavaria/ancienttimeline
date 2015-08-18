@@ -112,6 +112,8 @@ on_abandon_colony = {
 # country 
 on_new_monarch = {
 	events = {
+	alex.1
+	alex.2
 	}
 	random_events = { 
 	}

@@ -1,49 +1,51 @@
 namespace = alex
 
 country_event = {
-
 	id = alex.1
-	hidden = yes
+	title = alex.EVTNAME1
+	desc = alex.EVTDESC1
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	is_triggered_only = yes
+	fire_only_once = yes
 
 	trigger = {
 		tag = MCD
 		has_ruler = "Alexander III"
-		NOT = { has_country_flag = { alexander_the_great } }
-	}
-	mean_time_to_happen = {
-		months = 1
+		NOT = { has_country_flag = alexander_the_great }
 	}
 
-	add_country_flag = { alexander_the_great }
-	add_country_modifier = {
-		name = "alexander_invasion"
-		duration = -1
+	option = {
+		name = alex.EVTOPTA1
+		set_country_flag = alexander_the_great
+		add_ruler_modifier = {
+			name = "alexander_invasion"
+			duration = -1
+		}
 	}
 }
 
 country_event = {
-
 	id = alex.2
 	title = alex.EVTNAME2
 	desc = alex.EVTDESC2
 	picture = DEATH_OF_HEIR_eventPicture
 
+	is_triggered_only = yes
+	fire_only_once = yes
+
 	trigger = {
 		NOT = { has_ruler = "Alexander III" }
-		has_country_flag = { alexander_the_great }
-		NOT = { has_country_flag = { alexander_dead } }
-	}
-	mean_time_to_happen = {
-		months = 1
+		has_country_flag = alexander_the_great
 	}
 
 	option = {
 		name = alex.EVTOPTA2
 		add_stability = -3
-		remove_country_modifier = { alexander_invasion }
+		clr_country_flag = alexander_the_great
 		add_country_modifier = {
-			name = "alexander_dead"
-			duration = 1200
+			name = "death_of_alexander"
+			duration = 7300
 		}
 	}
 }
@@ -197,7 +199,7 @@ country_event = {
 	fire_only_once = yes
 
 	trigger = {
-		has_country_modifier = { alexander_dead }
+		has_country_modifier = death_of_alexander
 		tag = MCD
 	}
 	mean_time_to_happen = {

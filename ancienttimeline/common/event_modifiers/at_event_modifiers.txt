@@ -6,7 +6,7 @@ alexander_invasion = {
 	infantry_power = 0.4
 }
 
-alexander_dead = {
+death_of_alexander = {
 	global_unrest = 5
 }
 
