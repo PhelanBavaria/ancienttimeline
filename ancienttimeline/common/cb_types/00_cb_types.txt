@@ -759,6 +759,10 @@ cb_chinese_unification = {
 cb_forceful_vassalization = {
 	prerequisites = {
 		culture_group = gaelic
+		OR = {
+			government = tribal_federation
+			government = tribal_kingdom
+		}
 		NOT = { is_subject_of = FROM }
 		FROM = {
 			NOT = { is_subject_of = ROOT }

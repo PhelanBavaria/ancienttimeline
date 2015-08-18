@@ -5,3 +5,26 @@ primary_culture = noric
 religion = druidism
 technology_group = east_celtic
 capital = 132  # Steiermark
+
+4828.5.6 = {
+    monarch = {
+        name = "Cincibilos"
+        dynasty = "Ambidravi"
+        birth_date = 4801.3.8
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+
+4967.7.2 = {
+    monarch = {
+        name = "Voccio"
+        dynasty = "Norici"
+        birth_date = 4957.4.3
+        death_date = 4984.3.4
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}

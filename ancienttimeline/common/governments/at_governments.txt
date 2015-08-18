@@ -84,16 +84,19 @@ tribal_federation = {
             land_forcelimit_modifier = -0.5
             global_manpower_modifier = -0.5
             land_morale = 0.05
+            ae_impact = 1.5
         }
         2 = {
             land_forcelimit_modifier = -0.2
             global_manpower_modifier = -0.2
             land_morale = 0.05
+            ae_impact = 1
         }
         3 = {
             land_forcelimit_modifier = -0.1
             global_manpower_modifier = -0.1
             land_morale = 0.05
+            ae_impact = 0.5
         }
     }
 }
