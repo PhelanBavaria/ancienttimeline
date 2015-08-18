@@ -1,9 +1,9 @@
 #334 - Tangiers
 
-owner = CTH
-controller = CTH 
-culture = punic
-religion = carthaginian
+owner = MOO
+controller = MOO 
+culture = berber
+religion = african
 capital = "Tingis"
 trade_goods = cloth
 hre = no

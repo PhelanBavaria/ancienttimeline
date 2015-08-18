@@ -1,9 +1,9 @@
 #354 - Tripolitania
 
-owner = CTH
-controller = CTH
-culture = punic
-religion = punic_religion
+owner = MOO
+controller = MOO
+culture = berber
+religion = african
 capital = "Sabrata"
 trade_goods = fish
 hre = no
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 1
 citysize = 3503
 fort1 = yes
-add_core = CTH
+add_core = MOO
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

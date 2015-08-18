@@ -1,9 +1,9 @@
 #339 - Kabylia
 
-owner = CTH
-controller = CTH
+owner = MOO
+controller = MOO
 culture = berber
-religion = punic_religion
+religion = african
 capital = "Saldae"
 trade_goods = iron
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 citysize = 1217
-add_core = CTH
+add_core = MOO
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

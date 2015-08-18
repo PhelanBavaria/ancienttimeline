@@ -1,9 +1,9 @@
 #356 - Cyrenaica
 
-owner = CTH
-controller = CTH
+owner = MOO
+controller = MOO
 culture = tuareg
-religion = punic_religion
+religion = african
 capital = "Cyrene"
 trade_goods = wool
 hre = no
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 2135
-add_core = CTH
+add_core = MOO
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
