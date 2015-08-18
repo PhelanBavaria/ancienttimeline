@@ -1,0 +1,6 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = chinese
+religion = shamanism
+primary_culture = manchu
+capital = 730

@@ -8,5 +8,3 @@ hre = no
 base_tax = 8
 base_production = 8
 base_manpower = 4
-discovered_by = chinese
-discovered_by = indian

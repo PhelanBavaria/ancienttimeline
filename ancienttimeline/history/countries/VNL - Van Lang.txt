@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = chinese
+religion = animism
+primary_culture = vietnamese
+capital = 616
