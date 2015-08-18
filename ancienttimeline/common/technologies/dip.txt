@@ -15,6 +15,8 @@ technology = {
 	# Tech 1
 	year = 1825
 	trade_range				=	25
+	enable = galley
+	enable = freighter
 }
 
 technology = {

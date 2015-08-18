@@ -501,6 +501,15 @@ capital = 2007
 		adm = 6
 		dip = 6
 		mil = 6
+		leader = {
+			name = "Alexander"
+			type = general
+			rank = 0
+			fire = 6
+			shock = 6
+			manuever = 6
+			siege = 2
+		}
 	}
 }
 
