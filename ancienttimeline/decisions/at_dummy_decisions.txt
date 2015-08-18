@@ -18,5 +18,20 @@ country_decisions = {
 			factor = 0
 		}
 	}
+	dummy_alexander_dead = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			remove_country_modifier = { alexander_invasion }
+			add_country_flag = { alexander_dead }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
 
 }

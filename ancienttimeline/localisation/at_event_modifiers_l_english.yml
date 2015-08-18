@@ -1,3 +1,5 @@
 l_english:
  alexander_invasion: "Alexander's Invasion"
  desc_alexander_invasion: "Our nation is led by the genius general Alexander the Great. Under his leadership we shall conquer all of our enemies."
+ alexander_dead: "Alexander is dead"
+ desc_alexander_dead: "Alexander has died, and his generals now fight over who will control his empire."

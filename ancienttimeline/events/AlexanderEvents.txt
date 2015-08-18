@@ -6,6 +6,7 @@ country_event = {
 	hidden = yes
 
 	trigger = {
+		tag = MCD
 		has_ruler = "Alexander III"
 		NOT = { has_country_flag = { alexander_the_great } }
 	}
@@ -30,6 +31,7 @@ country_event = {
 	trigger = {
 		NOT = { has_ruler = "Alexander III" }
 		has_country_flag = { alexander_the_great }
+		NOT = { has_country_flag = { alexander_dead } }
 	}
 	mean_time_to_happen = {
 		months = 1
@@ -40,6 +42,7 @@ country_event = {
 		global_unrest = 5
 		add_stability = -3
 		remove_country_modifier = { alexander_invasion }
+		add_country_flag = { alexander_dead }
 	}
 }
 
@@ -73,4 +76,150 @@ province_event = {
 	}
 
 	cede_province = ACA
-}		
+}
+
+province_event = {
+
+	id = alex.5
+	hidden = yes
+
+	trigger = {
+		OR = {
+			owned_by = EGP
+			owned_by = LYS
+			owned_by = NTG
+			owned_by = SLC
+		}
+		controlled_by = CSD
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = CSD
+	add_core = CSD
+}
+
+province_event = {
+
+	id = alex.6
+	hidden = yes
+
+	trigger = {
+		OR = {
+			owned_by = CSD
+			owned_by = LYS
+			owned_by = NTG
+			owned_by = SLC
+		}
+		controlled_by = EGP
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = EGP
+	add_core = EGP
+}
+
+province_event = {
+
+	id = alex.7
+	hidden = yes
+
+	trigger = {
+		OR = {
+			owned_by = CSD
+			owned_by = EGP
+			owned_by = NTG
+			owned_by = SLC
+		}
+		controlled_by = LYS
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = LYS
+	add_core = LYS
+}
+
+province_event = {
+
+	id = alex.8
+	hidden = yes
+
+	trigger = {
+		OR = {
+			owned_by = CSD
+			owned_by = EGP
+			owned_by = LYS
+			owned_by = SLC
+		}
+		controlled_by = NTG
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = NTG
+	add_core = NTG
+}
+
+province_event = {
+
+	id = alex.9
+	hidden = yes
+
+	trigger = {
+		OR = {
+			owned_by = CSD
+			owned_by = EGP
+			owned_by = LYS
+			owned_by = NTG
+		}
+		controlled_by = SLC
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	cede_province = SLC
+	add_core = SLC
+}
+
+country_event = {
+
+	id = alex.10
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		has_country_flag = { alexander_dead }
+		tag = MCD
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	any_owned_province = {
+		cede_province = CSD
+		add_core = CSD
+	}
+	any_owned_province = {
+		cede_province = EGP
+		add_core = EGP
+	}
+	any_owned_province = {
+		cede_province = LYS
+		add_core = LYS
+	}
+	any_owned_province = {
+		cede_province = NTG
+		add_core = NTG
+	}
+	any_owned_province = {
+		cede_province = SLC
+		add_core = SLC
+	}
+}

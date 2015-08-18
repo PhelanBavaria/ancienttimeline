@@ -1,11 +1,11 @@
 ﻿
 alexander_invasion = {
-	land_morale = 1.0
-	discipline = 0.1
-	cavalry_power = 0.2
-	infantry_power = 0.2
+	land_morale = 2.0
+	discipline = 0.3
+	cavalry_power = 0.3
+	infantry_power = 0.4
 }
 
 recent_brawl = {
-    land_morale = 2.0
+	land_morale = 2.0
 }

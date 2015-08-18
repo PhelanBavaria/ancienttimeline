@@ -518,6 +518,8 @@ capital = 2007
 	}
 }
 
+4677.6.11 = { decision = dummy_alexander_dead }
+
 4677.6.11 = {
 	monarch = {
 		name = "Philip III"
