@@ -4,4 +4,4 @@ mercantilism = 0.1
 primary_culture = vindelican
 religion = druidism
 technology_group = east_celtic
-capital = 3102  # Ingolstadt
+capital = 69  # Konstanz

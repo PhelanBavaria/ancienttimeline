@@ -1,4 +1,5 @@
 #Please keep tags sorted on alphabetical use when you add/remove country tags
+# Tags that can't be used: TRI, AND
 
 # Special countries..
 REB	= "countries/Rebels.txt"
@@ -69,12 +70,20 @@ BLG = "countries/Belgica.txt"
 AMC = "countries/Ambilici.txt"
 AMV = "countries/Ambidravi.txt"
 ANI = "countries/Alauni.txt"
+BGT = "countries/Brigantii.txt"
 BII = "countries/Boii.txt"
 CNI = "countries/Carni.txt"
+COT = "countries/Consuanetes.txt"
+CTN = "countries/Catenates.txt"
+ETO = "countries/Estiones.txt"
 HEL = "countries/Helvetii.txt"
+LCT = "countries/Licates.txt"
+LIZ = "countries/Leuni.txt"
 NOI = "countries/Noricum.txt"
+RUC = "countries/Rucinates.txt"
 SVC = "countries/Sevaces.txt"
 TRS = "countries/Taurisci.txt"
+TUI = "countries/Tulingi.txt"
 VCE = "countries/Volcae.txt"
 VIN = "countries/Vindelici.txt"
 
