@@ -46,6 +46,30 @@ country_event = {
 			name = "death_of_alexander"
 			duration = 7300
 		}
+		random_owned_province = {
+			cede_province = CSD
+			add_core = CSD
+		}
+		random_owned_province = {
+			cede_province = EGP
+			add_core = EGP
+		}
+		random_owned_province = {
+			cede_province = LYS
+			add_core = LYS
+		}
+		random_owned_province = {
+			cede_province = NTG
+			add_core = NTG
+		}
+		random_owned_province = {
+			cede_province = SLC
+			add_core = SLC
+		}
+		country_event = {
+			id = alex.11
+			days = 1
+		}
 	}
 }
 
@@ -193,54 +217,15 @@ province_event = {
 
 country_event = {
 
-	id = alex.10
-	hidden = yes
-	fire_only_once = yes
-
-	trigger = {
-		has_country_modifier = death_of_alexander
-		tag = MCD
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-
-	random_owned_province = {
-		cede_province = CSD
-		add_core = CSD
-	}
-	random_owned_province = {
-		cede_province = EGP
-		add_core = EGP
-	}
-	random_owned_province = {
-		cede_province = LYS
-		add_core = LYS
-	}
-	random_owned_province = {
-		cede_province = NTG
-		add_core = NTG
-	}
-	random_owned_province = {
-		cede_province = SLC
-		add_core = SLC
-	}
-	set_country_flag = start_of_diadochi
-}
-
-country_event = {
-
 	id = alex.11
 	title = alex.EVTNAME11
 	desc = alex.EVTDESC11
-	picture = OVEREXTENSION_eventPicture
+	picture = CIVIL_WAR_eventPicture
+
+	is_triggered_only = yes
 
 	trigger = {
-		tag = MCD
-		has_country_flag = start_of_diadochi
-	}
-	mean_time_to_happen = {
-		days = 1
+		always = yes
 	}
 
 	option = {
