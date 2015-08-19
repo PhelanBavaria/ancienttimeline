@@ -19,7 +19,8 @@ country_event = {
 		name = alex.EVTOPTA1
 		set_country_flag = alexander_the_great
 		add_ruler_modifier = {
-			name = "alexander_invasion"
+			name = "alexander_modifier"
+			duration = -1
 		}
 	}
 }

@@ -10,7 +10,8 @@ country_decisions = {
 		effect = {
 			set_country_flag = alexander_the_great
 			add_ruler_modifier = {
-				name = "alexander_invasion"
+				name = "alexander_modifier"
+				duration = -1
 			}
 		}
 		ai_will_do = {
@@ -25,9 +26,9 @@ country_decisions = {
 			always = no
 		}
 		effect = {
-			remove_country_modifier = alexander_invasion
+			clr_country_flag = alexander_the_great
 			add_country_modifier = {
-				name = "alexander_dead"
+				name = "death_of_alexander"
 				duration = 1200
 			}
 		}
