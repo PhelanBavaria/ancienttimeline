@@ -1,0 +1,39 @@
+namespace = at
+
+
+province_event = {
+
+	id = at.1
+	title = at.EVTNAME1
+	desc = at.EVTDESC1
+	picture = FAMINE_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		ai = yes
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	option = {
+		name = at.EVTOPTA1
+		every_country = {
+			limit = {
+				OR = {
+					government = chiefdom
+					government = tribal_federation
+					government = tribal_democracy
+					government = tribal_despotism
+					government = tribal_kingdom
+				}	
+			}
+			add_country_modifier = {
+				name = "low_centralization"
+				duration = -1
+			}
+		}
+	}
+}

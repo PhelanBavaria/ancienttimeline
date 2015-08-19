@@ -13,3 +13,41 @@ death_of_alexander = {
 recent_brawl = {
 	land_morale = 2.0
 }
+
+minimum_centralization = {
+	global_unrest = -2
+	global_manpower_modifier = -0.4
+	global_tax_modifier = -0.4
+	technology_cost = 0.5
+}
+
+low_centralization = {
+	global_unrest = -1
+	global_manpower_modifier = -0.2
+	global_tax_modifier = -0.2
+	technology_cost = 0.25
+}
+
+high_centralization = {
+	global_unrest = 1
+	global_manpower_modifier = 0.1
+	global_tax_modifier = 0.1
+	technology_cost = -0.1
+}
+
+maximum_centralization = {
+	global_unrest = 2
+	global_manpower_modifier = 0.2
+	global_tax_modifier = 0.2
+	technology_cost = -0.2
+}
+
+increased_centralization = {
+	global_unrest = 2
+	stability_cost_modifier = 0.25
+}
+
+decreased_centralization = {
+	global_unrest = -2
+	stability_cost_modifier = -0.20
+}

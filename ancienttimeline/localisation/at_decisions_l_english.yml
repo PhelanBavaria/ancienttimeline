@@ -9,3 +9,7 @@ l_english:
  become_king_desc: "You have prooven your strength to lead your people to greatness. You have shown them that the old generation has to make way for the new in order to survive new threats to come."
  brawl_title: "Let's brawl!"
  brawl_desc: "It's customary to come together into a brawl if two parties have a dispute over some land, or sometimes just for fun."
+ increase_centralization_title: "Increase Centralization"
+ increase_centralization_desc: "Increasing the centralization of our government would give us better control over the provinces of our country, but it would greatly upset the local governments."
+ decrease_centralization_title: "Decrease Centralization"
+ decrease_centralization_desc: "Decreasing the centralization of our government would please the local governments, but it would also weaken our control over the provinces of our country."

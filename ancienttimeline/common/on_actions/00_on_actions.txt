@@ -1,5 +1,6 @@
 # country
 on_startup = {
+	at.1
 }
 
 # country
