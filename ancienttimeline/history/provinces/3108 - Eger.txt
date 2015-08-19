@@ -1,8 +1,8 @@
 #267 - Plsen
 
 capital = "Eger"
-culture = boian
-religion = druidism
+culture = hessian
+religion = germanic
 trade_goods = unknown #Joachimstal mines
 hre = no
 base_tax = 4
@@ -13,5 +13,3 @@ native_ferocity = 6
 native_hostileness = 6
 
 discovered_by = east_celtic
-
-4500.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = gold }

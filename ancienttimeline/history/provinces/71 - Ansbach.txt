@@ -1,6 +1,6 @@
 # 71 - Leiningen
 
-culture = volcaean
+culture = boian
 religion = druidism
 trade_goods = unknown
 capital = "Hall"
@@ -14,4 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4300.1.1 = { owner = VCE controller = VCE add_core = VCE citysize = 1000 trade_goods = salt }
+4500.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = salt }
+4600.1.1 = { owner = VCE controller = VCE add_core = VCE culture = volcaean }
