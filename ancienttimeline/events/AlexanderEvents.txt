@@ -77,6 +77,10 @@ country_event = {
 province_event = {
 
 	id = alex.3
+	title = alex.EVTNAME2
+	desc = alex.EVTDESC2
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -87,7 +91,13 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = MCD
+	immediate = {
+		cede_province = MCD
+	}
+
+	option = {
+		name = alex.EVTOPTA2
+	}
 }
 
 province_event = {
