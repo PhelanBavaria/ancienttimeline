@@ -77,8 +77,8 @@ country_event = {
 province_event = {
 
 	id = alex.3
-	title = alex.EVTNAME2
-	desc = alex.EVTDESC2
+	title = alex.EVTNAME3
+	desc = alex.EVTDESC3
 	picture = DEATH_OF_HEIR_eventPicture
 
 	hidden = yes
@@ -96,13 +96,17 @@ province_event = {
 	}
 
 	option = {
-		name = alex.EVTOPTA2
+		name = alex.EVTOPTA3
 	}
 }
 
 province_event = {
 
 	id = alex.4
+	title = alex.EVTNAME4
+	desc = alex.EVTDESC4
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -113,12 +117,22 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = ACA
+	immediate = {
+		cede_province = ACA
+	}
+
+	option = {
+		name = alex.EVTOPTA4
+	}
 }
 
 province_event = {
 
 	id = alex.5
+	title = alex.EVTNAME5
+	desc = alex.EVTDESC5
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -134,13 +148,23 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = CSD
-	add_core = CSD
+	immediate = {
+		cede_province = CSD
+		add_core = CSD
+	}
+
+	option = {
+		name = alex.EVTOPTA5
+	}
 }
 
 province_event = {
 
 	id = alex.6
+	title = alex.EVTNAME6
+	desc = alex.EVTDESC6
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -156,13 +180,23 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = EGP
-	add_core = EGP
+	immediate = {
+		cede_province = EGP
+		add_core = EGP
+	}
+
+	option = {
+		name = alex.EVTOPTA6
+	}
 }
 
 province_event = {
 
 	id = alex.7
+	title = alex.EVTNAME7
+	desc = alex.EVTDESC7
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -178,13 +212,23 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = LYS
-	add_core = LYS
+	immediate = {
+		cede_province = LYS
+		add_core = LYS
+	}
+
+	option = {
+		name = alex.EVTOPTA7
+	}
 }
 
 province_event = {
 
 	id = alex.8
+	title = alex.EVTNAME8
+	desc = alex.EVTDESC8
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -200,13 +244,23 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = NTG
-	add_core = NTG
+	immediate = {
+		cede_province = NTG
+		add_core = NTG
+	}
+
+	option = {
+		name = alex.EVTOPTA8
+	}
 }
 
 province_event = {
 
 	id = alex.9
+	title = alex.EVTNAME9
+	desc = alex.EVTDESC9
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -222,8 +276,14 @@ province_event = {
 		months = 1
 	}
 
-	cede_province = SLC
-	add_core = SLC
+	immediate = {
+		cede_province = SLC
+		add_core = SLC
+	}
+
+	option = {
+		name = alex.EVTOPTA9
+	}
 }
 
 country_event = {
@@ -241,27 +301,27 @@ country_event = {
 
 	option = {
 		name = alex.EVTOPTA11
-		change_tag = CSD
+		switch_tag = CSD
 		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTB11
-		change_tag = EGP
+		switch_tag = EGP
 		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTC11
-		change_tag = LYS
+		switch_tag = LYS
 		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTD11
-		change_tag = NTG
+		switch_tag = NTG
 		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTE11
-		change_tag = SLC
+		switch_tag = SLC
 		set_country_flag = diadochi_change
 	}
 }
@@ -269,6 +329,10 @@ country_event = {
 country_event = {
 
 	id = alex.12
+	title = alex.EVTNAME12
+	desc = alex.EVTDESC12
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -279,15 +343,25 @@ country_event = {
 		days = 1
 	}
 
-	random_owned_province = {
-		cede_province = CSD
-		add_core = CSD
+	immediate = {
+		random_owned_province = {
+			cede_province = CSD
+			add_core = CSD
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA12
 	}
 }
 
 country_event = {
 
 	id = alex.13
+	title = alex.EVTNAME13
+	desc = alex.EVTDESC13
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -298,15 +372,25 @@ country_event = {
 		days = 1
 	}
 
-	random_owned_province = {
-		cede_province = EGP
-		add_core = EGP
+	immediate = {
+		random_owned_province = {
+			cede_province = EGP
+			add_core = EGP
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA13
 	}
 }
 
 country_event = {
 
 	id = alex.14
+	title = alex.EVTNAME14
+	desc = alex.EVTDESC14
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -317,15 +401,25 @@ country_event = {
 		days = 1
 	}
 
-	random_owned_province = {
-		cede_province = LYS
-		add_core = LYS
+	immediate = {
+		random_owned_province = {
+			cede_province = LYS
+			add_core = LYS
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA14
 	}
 }
 
 country_event = {
 
 	id = alex.15
+	title = alex.EVTNAME15
+	desc = alex.EVTDESC15
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -336,15 +430,25 @@ country_event = {
 		days = 1
 	}
 
-	random_owned_province = {
-		cede_province = NTG
-		add_core = NTG
+	immediate = {
+		random_owned_province = {
+			cede_province = NTG
+			add_core = NTG
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA15
 	}
 }
 
 country_event = {
 
 	id = alex.16
+	title = alex.EVTNAME16
+	desc = alex.EVTDESC16
+	picture = DEATH_OF_HEIR_eventPicture
+
 	hidden = yes
 
 	trigger = {
@@ -355,8 +459,14 @@ country_event = {
 		days = 1
 	}
 
-	random_owned_province = {
-		cede_province = SLC
-		add_core = SLC
+	immediate = {
+		random_owned_province = {
+			cede_province = SLC
+			add_core = SLC
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA16
 	}
 }
