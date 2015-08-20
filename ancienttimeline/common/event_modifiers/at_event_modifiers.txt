@@ -4,7 +4,6 @@ alexander_invasion = {
 	discipline = 0.3
 	cavalry_power = 0.3
 	infantry_power = 0.4
-	land_morale = 0.1
 }
 
 death_of_alexander = {
@@ -54,5 +53,5 @@ decreased_centralization = {
 }
 
 alexander_modifier = {
-	land_morale = 0.1
+	land_morale = 0.3
 }

@@ -1,8 +1,8 @@
 l_english:
- alexander_invasion: "Alexander's Invasion"
- desc_alexander_invasion: "Our nation is led by the genius general Alexander the Great. Under his leadership we shall conquer all of our enemies."
- alexander_dead: "Alexander is dead"
- desc_alexander_dead: "Alexander has died, and his generals now fight over who will control his empire."
+ alexander_modifier: "Alexander's Invasion"
+ desc_alexander_modifier: "Our nation is led by the genius general Alexander the Great. Under his leadership we shall conquer all of our enemies."
+ death_of_alexander: "Alexander is dead"
+ desc_death_of_alexander: "Alexander has died, and his generals now fight over who will control his empire."
  maximum_centralization: "Maximum Centralization"
  desc_maximum_centralization: "Our realm has reached the maximum level of centralization. Our rulers have firm control over even the most remote corners of the country."
  high_centralization: "High Centralization"
