@@ -1,7 +1,5 @@
 #344 - Marrakech
 
-owner = MOO
-controller = MOO
 culture = berber
 religion = african
 capital = "Aghmat"
@@ -11,9 +9,9 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 citysize = 1303
-add_core = MOO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = ROM
 discovered_by = ROW
 
+4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }

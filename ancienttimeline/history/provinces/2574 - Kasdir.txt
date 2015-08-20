@@ -1,8 +1,5 @@
 #349 - Atlas
 
-owner = MZB
-controller = MZB
-add_core = MZB
 culture = berber
 religion = african
 capital = "Kasdir"
@@ -17,3 +14,4 @@ discovered_by = ottoman
 discovered_by = ROM
 discovered_by = ROW
 
+4600.1.1 = { owner = MSA controller = MSA add_core = MSA citysize = 1000 }

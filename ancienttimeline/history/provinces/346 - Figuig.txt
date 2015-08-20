@@ -1,7 +1,5 @@
 #346 - Figuig
 
-owner = TFL
-controller = TFL
 culture = berber
 religion = african
 capital = "Sijilmasa"
@@ -11,7 +9,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 citysize = 1059
-add_core = TFL
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = ROM
@@ -24,3 +21,4 @@ discovered_by = ROW
 	}
 }
 
+4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }

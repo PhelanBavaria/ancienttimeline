@@ -1,8 +1,5 @@
 #349 - Atlas
 
-owner = TFL
-controller = TFL
-add_core = TFL
 culture = berber
 religion = african
 capital = "Figuig"
@@ -17,3 +14,4 @@ discovered_by = ottoman
 discovered_by = ROM
 discovered_by = ROW
 
+4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }
