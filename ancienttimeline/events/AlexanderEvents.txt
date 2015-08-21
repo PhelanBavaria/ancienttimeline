@@ -300,30 +300,29 @@ country_event = {
 		always = yes
 	}
 
+	immediate = {
+		set_country_flag = diadochi_change
+	}
+
 	option = {
 		name = alex.EVTOPTA11
 		switch_tag = CSD
-		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTB11
 		switch_tag = EGP
-		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTC11
 		switch_tag = LYS
-		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTD11
 		switch_tag = NTG
-		set_country_flag = diadochi_change
 	}
 	option = {
 		name = alex.EVTOPTE11
 		switch_tag = SLC
-		set_country_flag = diadochi_change
 	}
 }
 
@@ -469,5 +468,115 @@ country_event = {
 
 	option = {
 		name = alex.EVTOPTA16
+	}
+}
+
+country_event = {
+
+	id = alex.17
+	title = alex.EVTNAME17
+	desc = alex.EVTDESC17
+	picture = CIVIL_WAR_eventPicture
+
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		NOT = {
+			exists = MCD
+		}
+		tag = CSD
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = alex.EVTOPTA17
+		declare_war = EGP
+		declare_war = LYS
+		declare_war = NTG
+		declare_war = SLC
+	}
+}
+
+country_event = {
+
+	id = alex.18
+	title = alex.EVTNAME18
+	desc = alex.EVTDESC18
+	picture = CIVIL_WAR_eventPicture
+
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		NOT = {
+			exists = MCD
+		}
+		tag = EGP
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = alex.EVTOPTA18
+		declare_war = LYS
+		declare_war = NTG
+		declare_war = SLC
+	}
+}
+
+country_event = {
+
+	id = alex.19
+	title = alex.EVTNAME19
+	desc = alex.EVTDESC19
+	picture = CIVIL_WAR_eventPicture
+
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		NOT = {
+			exists = MCD
+		}
+		tag = LYS
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = alex.EVTOPTA19
+		declare_war = NTG
+		declare_war = SLC
+	}
+}
+
+country_event = {
+
+	id = alex.20
+	title = alex.EVTNAME20
+	desc = alex.EVTDESC20
+	picture = CIVIL_WAR_eventPicture
+
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		NOT = {
+			exists = MCD
+		}
+		tag = NTG
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = alex.EVTOPTA20
+		declare_war = SLC
 	}
 }

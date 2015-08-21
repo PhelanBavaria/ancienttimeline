@@ -53,8 +53,8 @@ decreased_centralization = {
 }
 
 alexander_modifier = {
-	land_morale = 0.3
+	land_morale = 0.4
 	discipline = 0.3
-	cavalry_power = 0.3
-	infantry_power = 0.4
+	cavalry_power = 0.5
+	infantry_power = 0.45
 }
