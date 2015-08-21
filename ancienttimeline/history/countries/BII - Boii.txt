@@ -1,4 +1,4 @@
-government = tribal_federation
+government = tribal_kingdom
 mercantilism = 0.1
 primary_culture = boian
 religion = druidism

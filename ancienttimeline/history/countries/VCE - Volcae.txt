@@ -1,4 +1,4 @@
-government = tribal_federation
+government = tribal_kingdom
 government_rank = 2
 mercantilism = 0.1
 primary_culture = volcaean
