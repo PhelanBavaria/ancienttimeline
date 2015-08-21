@@ -15,3 +15,7 @@ l_english:
  desc_increased_centralization: "We have recently increased the centralization of our country. This has greatly upset the various local governments."
  decreased_centralization: "Decreased Centralization"
  desc_decreased_centralization: "We have recently decreased the centralization of our country, which has pleased the various local governments of our country."
+ large_empire: "Large Empire"
+ desc_large_empire: "Our empire has grown too large to administrate efficiently."
+ huge_empire: "Huge Empire"
+ desc_huge_empire: "Our empire has grown way too large to administrate efficiently."

@@ -1,0 +1,33 @@
+
+large_empire = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		num_of_cities = 80
+		NOT = { num_of_cities = 160 }
+	}
+
+	land_forcelimit_modifier = -0.2
+	global_manpower_modifier = -0.2
+	global_tax_modifier = -0.1
+	global_unrest = 1
+	stability_cost_modifier = 0.20
+}
+
+huge_empire = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		num_of_cities = 160
+	}
+
+	land_forcelimit_modifier = -0.4
+	global_manpower_modifier = -0.4
+	global_tax_modifier = -0.2
+	global_unrest = 2
+	stability_cost_modifier = 0.40
+}
