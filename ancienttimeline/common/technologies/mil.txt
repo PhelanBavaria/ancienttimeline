@@ -686,6 +686,8 @@ technology = {
 	# Tech 112
 	year = 4600
 	cavalry_shock  		= 	0.05
+
+	enable = companion_cavalry
 }
 
 technology = {

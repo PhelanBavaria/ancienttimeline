@@ -1,0 +1,14 @@
+# Companion Cavalry (stats will be tweaked later)
+
+type = cavalry
+trigger = {
+	tag = MCD
+}
+
+maneuver = 2
+offensive_morale = 2
+defensive_morale = 1
+offensive_fire = 0
+defensive_fire = 1
+offensive_shock = 3
+defensive_shock = 0

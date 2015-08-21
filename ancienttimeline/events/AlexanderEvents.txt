@@ -93,6 +93,7 @@ province_event = {
 
 	immediate = {
 		cede_province = MCD
+		remove_core = ACA
 	}
 
 	option = {
