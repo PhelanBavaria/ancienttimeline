@@ -31,7 +31,7 @@ province_event = {
 				}	
 			}
 			add_country_modifier = {
-				name = "low_centralization"
+				name = "minimum_centralization"
 				duration = -1
 			}
 		}

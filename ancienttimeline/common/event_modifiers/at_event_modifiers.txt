@@ -16,6 +16,8 @@ recent_brawl = {
 
 minimum_centralization = {
 	global_unrest = -2
+	stability_cost_modifier = -0.20
+	diplomatic_reputation = 2
 	global_manpower_modifier = -0.4
 	global_tax_modifier = -0.4
 	technology_cost = 0.5
@@ -23,6 +25,8 @@ minimum_centralization = {
 
 low_centralization = {
 	global_unrest = -1
+	stability_cost_modifier = -0.10
+	diplomatic_reputation = 1
 	global_manpower_modifier = -0.2
 	global_tax_modifier = -0.2
 	technology_cost = 0.25
@@ -30,6 +34,7 @@ low_centralization = {
 
 high_centralization = {
 	global_unrest = 1
+	stability_cost_modifier = 0.10
 	global_manpower_modifier = 0.1
 	global_tax_modifier = 0.1
 	technology_cost = -0.1
@@ -37,6 +42,8 @@ high_centralization = {
 
 maximum_centralization = {
 	global_unrest = 2
+	stability_cost_modifier = 0.20
+	diplomatic_reputation = -1
 	global_manpower_modifier = 0.2
 	global_tax_modifier = 0.2
 	technology_cost = -0.2

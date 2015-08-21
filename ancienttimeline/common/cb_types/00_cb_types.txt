@@ -189,6 +189,14 @@ cb_conquest = {
 	prerequisites = {
 		claim = FROM
 		is_revolution_target = no
+		OR = {
+			AND = {
+				has_country_modifier = low_centralization
+				NOT = { culture_group = gaelic }
+			}
+			has_country_modifier = high_centralization
+			has_country_modifier = maximum_centralization
+		}
 	}
 	
 	war_goal = take_claim
@@ -759,6 +767,15 @@ cb_chinese_unification = {
 cb_forceful_vassalization = {
 	prerequisites = {
 		culture_group = gaelic
+		OR = {
+			personality = ai_militarist
+			personality = human
+		}
+		OR = {  # Can't do "NOT = {has_country_modifier = minimum_centralization}" because then players could use it right at the start
+			has_country_modifier = low_centralization
+			has_country_modifier = high_centralization
+			has_country_modifier = maximum_centralization
+		}
 		OR = {
 			government = tribal_federation
 			government = tribal_kingdom
