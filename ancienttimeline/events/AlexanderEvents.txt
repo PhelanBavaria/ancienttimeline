@@ -67,7 +67,6 @@ country_event = {
 			cede_province = SLC
 			add_core = SLC
 		}
-		set_country_flag = diadochi_change
 		country_event = {
 			id = alex.11
 			days = 1
@@ -298,28 +297,53 @@ country_event = {
 	is_triggered_only = yes
 
 	trigger = {
-		ai = no
+		always = yes
+	}
+
+	immediate = {
+		set_country_flag = diadochi_change
 	}
 
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = alex.EVTOPTA11
 		switch_tag = CSD
 	}
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = alex.EVTOPTB11
 		switch_tag = EGP
 	}
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = alex.EVTOPTC11
 		switch_tag = LYS
 	}
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = alex.EVTOPTD11
 		switch_tag = NTG
 	}
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = alex.EVTOPTE11
 		switch_tag = SLC
+	}
+	option = {
+		trigger = {
+			ai = yes
+		}
+		name = alex.EVTOPTF11
 	}
 }
 
@@ -342,11 +366,71 @@ country_event = {
 
 	immediate = {
 		random_owned_province = {
-			cede_province = CSD
-			add_core = CSD
-			random = {
-				chance = 40
-				infantry = CSD
+			if = {
+				limit = {
+					range = CSD
+				}
+				random_list = {
+					40 = {
+						cede_province = CSD
+						add_core = CSD
+						CSD = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = EGP
+						add_core = EGP
+						EGP = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = LYS
+						add_core = LYS
+						LYS = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = NTG
+						add_core = NTG
+						NTG = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = SLC
+						add_core = SLC
+						SLC = { add_manpower = 1 }
+					}
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						range = CSD
+					}
+				}
+				random_list = {
+					20 = {
+						cede_province = CSD
+						add_core = CSD
+						CSD = { add_manpower = 1 }
+					}
+					20 = {
+						cede_province = EGP
+						add_core = EGP
+						EGP = { add_manpower = 1 }
+					}
+					20 = {
+						cede_province = LYS
+						add_core = LYS
+						LYS = { add_manpower = 1 }
+					}
+					20 = {
+						cede_province = NTG
+						add_core = NTG
+						NTG = { add_manpower = 1 }
+					}
+					20 = {
+						cede_province = SLC
+						add_core = SLC
+						SLC = { add_manpower = 1 }
+					}
+				}
 			}
 		}
 	}
@@ -375,11 +459,69 @@ country_event = {
 
 	immediate = {
 		random_owned_province = {
-			cede_province = EGP
-			add_core = EGP
-			random = {
-				chance = 40
-				infantry = EGP
+			if = {
+				limit = {
+					range = EGP
+				}
+				random_list = {
+					40 = {
+						cede_province = EGP
+						add_core = EGP
+						EGP = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = LYS
+						add_core = LYS
+						LYS = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = NTG
+						add_core = NTG
+						NTG = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = SLC
+						add_core = SLC
+						SLC = { add_manpower = 1 }
+					}
+					15 = {
+						cede_province = CSD
+						add_core = CSD
+						CSD = { add_manpower = 1 }
+					}
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						range = EGP
+					}
+				}
+				20 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
 			}
 		}
 	}
@@ -408,11 +550,67 @@ country_event = {
 
 	immediate = {
 		random_owned_province = {
-			cede_province = LYS
-			add_core = LYS
-			random = {
-				chance = 40
-				infantry = LYS
+			if = {
+				limit = {
+					range = LYS
+				}
+				40 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						range = LYS
+					}
+				}
+				20 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
 			}
 		}
 	}
@@ -441,11 +639,67 @@ country_event = {
 
 	immediate = {
 		random_owned_province = {
-			cede_province = NTG
-			add_core = NTG
-			random = {
-				chance = 40
-				infantry = NTG
+			if = {
+				limit = {
+					range = NTG
+				}
+				40 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						range = NTG
+					}
+				}
+				20 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
 			}
 		}
 	}
@@ -474,11 +728,67 @@ country_event = {
 
 	immediate = {
 		random_owned_province = {
-			cede_province = SLC
-			add_core = SLC
-			random = {
-				chance = 40
-				infantry = SLC
+			if = {
+				limit = {
+					range = SLC
+				}
+				40 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				15 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						range = SLC
+					}
+				}
+				20 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = EGP
+					add_core = EGP
+					EGP = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				20 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
 			}
 		}
 	}
