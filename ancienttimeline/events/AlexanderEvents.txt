@@ -47,26 +47,138 @@ country_event = {
 			name = "death_of_alexander"
 			duration = 7300
 		}
-		random_owned_province = {
-			cede_province = CSD
-			add_core = CSD
+		if = {
+			limit = {
+				2007 = { NOT = { owned_by = MCD } }
+			}
+			random_owned_province = {
+				limit = {
+					region = greece_region
+				}
+				cede_province = CSD
+				add_core = CSD
+			}
 		}
-		random_owned_province = {
-			cede_province = EGP
-			add_core = EGP
+		if = {
+			limit = {
+				2007 = { owned_by = MCD }
+			}
+			2007 = {
+				cede_province = CSD
+				add_core = CSD
+			}
 		}
-		random_owned_province = {
-			cede_province = LYS
-			add_core = LYS
+		if = {
+			limit = {
+				358 = { NOT = { owned_by = MCD } }
+			}
+			random_owned_province = {
+				limit = {
+					region = egypt_region
+				}
+				cede_province = EGP
+				add_core = EGP
+			}
 		}
-		random_owned_province = {
-			cede_province = NTG
-			add_core = NTG
+		if = {
+			limit = {
+				358 = { owned_by = MCD }
+			}
+			358 = {
+				cede_province = EGP
+				add_core = EGP
+			}
 		}
-		random_owned_province = {
-			cede_province = SLC
-			add_core = SLC
+		if = {
+			limit = {
+				149 = { NOT = { owned_by = MCD } }
+			}
+			random_owned_province = {
+				limit = {
+					region = eastern_balkans
+				}
+				cede_province = LYS
+				add_core = LYS
+			}
 		}
+		if = {
+			limit = {
+				149 = { owned_by = MCD }
+			}
+			149 = {
+				cede_province = LYS
+				add_core = LYS
+			}
+		}
+		if = {
+			limit = {
+				2367 = { NOT = { owned_by = MCD } }
+			}
+			random_owned_province = {
+				limit = {
+					OR = {
+						region = asia_minor
+						region = syrian_region
+					}
+				}
+				cede_province = NTG
+				add_core = NTG
+			}
+		}
+		if = {
+			limit = {
+				2367 = { owned_by = MCD }
+			}
+			2367 = {
+				cede_province = NTG
+				add_core = NTG
+			}
+		}
+		if = {
+			limit = {
+				409 = { NOT = { owned_by = MCD } }
+			}
+			random_owned_province = {
+				limit = {
+					OR = {
+						region = mesopotamian_region
+						region = persian_region
+						region = syrian_region
+					}
+				}
+				cede_province = SLC
+				add_core = SLC
+			}
+		}
+		if = {
+			limit = {
+				409 = { owned_by = MCD }
+			}
+			409 = {
+				cede_province = SLC
+				add_core = SLC
+			}
+		}
+		#random_owned_province = {
+		#	cede_province = CSD
+		#	add_core = CSD
+		#}
+		#random_owned_province = {
+		#	cede_province = EGP
+		#	add_core = EGP
+		#}
+		#random_owned_province = {
+		#	cede_province = LYS
+		#	add_core = LYS
+		#}
+		#random_owned_province = {
+		#	cede_province = NTG
+		#	add_core = NTG
+		#}
+		#random_owned_province = {
+		#	cede_province = SLC
+		#	add_core = SLC
+		#}
 		country_event = {
 			id = alex.11
 			days = 1
