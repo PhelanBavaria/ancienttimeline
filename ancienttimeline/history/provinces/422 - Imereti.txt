@@ -23,4 +23,4 @@ discovered_by = celtiberians
 discovered_by = nomad_group
 
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA }
-4665.4.15 = { owner = CLC controller = CLC add_core = CLC remove_core = ACA }
+4650.4.15 = { owner = CLC controller = CLC add_core = CLC remove_core = ACA }

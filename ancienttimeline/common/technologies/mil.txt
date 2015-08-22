@@ -590,6 +590,8 @@ technology = {
 	# Tech 96
 	year = 4200
 	land_morale 		= 	0.1
+
+	enable = phalanx
 }
 
 technology = {
@@ -668,6 +670,8 @@ technology = {
 	# Tech 109
 	year = 4525
 	maneuver_value 		= 	0.10
+
+	enable = peltast
 }
 
 technology = {

@@ -221,6 +221,7 @@ VCC	= "countries/Vaccaei.txt"
 VTT	= "countries/Vettones.txt"
 
 #East Europe
+BSP	= "countries/Bosporus.txt"
 PRS	= "countries/Prussians.txt"
 VNE	= "countries/Venedi.txt"
 

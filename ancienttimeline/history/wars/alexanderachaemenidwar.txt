@@ -5,7 +5,7 @@ war_goal = {
 	casus_belli = cb_insult
 }
 
-4664.10.1 = {
+4666.5.1 = {
 	add_attacker = MCD
 	add_defender = ACA
 }
