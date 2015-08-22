@@ -1,21 +1,14 @@
 #126 - Malta
 
-owner = CTH
-controller = CTH
-culture = punic
-religion = carthaginian 
+culture = libyan
+religion = african
 hre = no 
 base_tax = 3
 base_production = 3
-trade_goods = fish
+trade_goods = unknown
 base_manpower = 2
 capital = "Melita" 
 citysize = 1000
-add_core = CTH
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = eastern
 discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+
+4668.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }

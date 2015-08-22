@@ -1,11 +1,9 @@
 #339 - Kabylia
 
-#owner = NMD
-#controller = NMD
 culture = berber
 religion = african
 capital = "Sitiflis"
-trade_goods = salt
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -13,3 +11,5 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+4798.1.1 = { owner = NMD controller = NMD add_core = NMD citysize = 1000 religion = african culture = berber }

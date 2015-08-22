@@ -1,22 +1,16 @@
 #355 - Sirt
 
-owner = MOO
-controller = MOO
 culture = berber
 religion = african
 capital = "Arae Philaenorum"
-trade_goods = fish
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-citysize = 1000
-add_core = MOO
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 discovered_by = mediterranean
+native_size = 5
+native_ferocity = 6
+native_hostileness = 6
 
+4690.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }

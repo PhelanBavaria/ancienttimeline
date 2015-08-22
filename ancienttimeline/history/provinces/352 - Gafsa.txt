@@ -1,11 +1,9 @@
 #352 - Gafsa
 
-#owner = NMD
-#controller = NMD 
 culture = tunisian
 religion = african
 capital = "Capsa"
-trade_goods = salt
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -13,3 +11,5 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+4798.1.1 = { owner = NMD controller = NMD add_core = NMD citysize = 1000 religion = african culture = berber }
