@@ -67,6 +67,7 @@ country_event = {
 			cede_province = SLC
 			add_core = SLC
 		}
+		set_country_flag = diadochi_change
 		country_event = {
 			id = alex.11
 			days = 1
@@ -297,11 +298,7 @@ country_event = {
 	is_triggered_only = yes
 
 	trigger = {
-		always = yes
-	}
-
-	immediate = {
-		set_country_flag = diadochi_change
+		ai = no
 	}
 
 	option = {
@@ -347,6 +344,10 @@ country_event = {
 		random_owned_province = {
 			cede_province = CSD
 			add_core = CSD
+			random = {
+				chance = 40
+				infantry = CSD
+			}
 		}
 	}
 
@@ -376,6 +377,10 @@ country_event = {
 		random_owned_province = {
 			cede_province = EGP
 			add_core = EGP
+			random = {
+				chance = 40
+				infantry = EGP
+			}
 		}
 	}
 
@@ -405,6 +410,10 @@ country_event = {
 		random_owned_province = {
 			cede_province = LYS
 			add_core = LYS
+			random = {
+				chance = 40
+				infantry = LYS
+			}
 		}
 	}
 
@@ -434,6 +443,10 @@ country_event = {
 		random_owned_province = {
 			cede_province = NTG
 			add_core = NTG
+			random = {
+				chance = 40
+				infantry = NTG
+			}
 		}
 	}
 
@@ -463,6 +476,10 @@ country_event = {
 		random_owned_province = {
 			cede_province = SLC
 			add_core = SLC
+			random = {
+				chance = 40
+				infantry = SLC
+			}
 		}
 	}
 
