@@ -244,7 +244,7 @@ pagan = {
 
 hellenic = {
 	hellenism = {
-		color = { 0.3 0.2 0.2 }
+		color = { 0.4 0 0.3 }
 		icon = 19
 		province = {
 			local_missionary_strength = 0.04
@@ -260,7 +260,7 @@ hellenic = {
 	}
 
 	etruscan_poly = {
-		color = { 0.4 0 0.3 }
+		color = { 0.3 0.2 0.2 }
 		icon = 19
 		province = {
 			local_missionary_strength = 0.04
@@ -569,7 +569,21 @@ african_pagan = {
 
 		personal_deity = yes
 		
-		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+		heretic = { ATENISM }
+	}
+
+	serapis = {
+		color = { 0.9 0.8 0.8 }
+		icon = 39 #Temp
+		province = {
+			local_missionary_strength = 0.05
+		}
+		country = {
+			tolerance_heretic = 1
+			tolerance_own = 1
+		}
+
+		heretic = { ATENISM }
 	}
 
 	african = {
