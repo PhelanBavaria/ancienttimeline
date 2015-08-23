@@ -3,7 +3,7 @@
 culture = sidamo
 religion = african
 capital = "Illubador"
-base_manpower = 1
+base_manpower = 2
 trade_goods = unknown
 native_size = 30
 native_ferocity = 4.5

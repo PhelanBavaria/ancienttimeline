@@ -3,10 +3,10 @@
 culture = old_prussian
 religion = romuva
 hre = no
-base_tax = 4
-base_production = 3
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Goldingen"
 native_hostileness = 1
 native_size = 10

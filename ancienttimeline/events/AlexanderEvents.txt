@@ -58,13 +58,6 @@ country_event = {
 			limit = {
 				development = 12
 			}
-			cede_province = EGP
-			add_core = EGP
-		}
-		random_owned_province = {
-			limit = {
-				development = 12
-			}
 			cede_province = LYS
 			add_core = LYS
 		}
@@ -74,6 +67,13 @@ country_event = {
 			}
 			cede_province = NTG
 			add_core = NTG
+		}
+		random_owned_province = {
+			limit = {
+				development = 12
+			}
+			cede_province = PTL
+			add_core = PTL
 		}
 		random_owned_province = {
 			limit = {
@@ -153,9 +153,9 @@ province_event = {
 
 	trigger = {
 		OR = {
-			owned_by = EGP
 			owned_by = LYS
 			owned_by = NTG
+			owned_by = PTL
 			owned_by = SLC
 		}
 		controlled_by = CSD
@@ -190,15 +190,15 @@ province_event = {
 			owned_by = NTG
 			owned_by = SLC
 		}
-		controlled_by = EGP
+		controlled_by = PTL
 	}
 	mean_time_to_happen = {
 		months = 1
 	}
 
 	immediate = {
-		cede_province = EGP
-		add_core = EGP
+		cede_province = PTL
+		add_core = PTL
 	}
 
 	option = {
@@ -218,7 +218,7 @@ province_event = {
 	trigger = {
 		OR = {
 			owned_by = CSD
-			owned_by = EGP
+			owned_by = PTL
 			owned_by = NTG
 			owned_by = SLC
 		}
@@ -250,7 +250,7 @@ province_event = {
 	trigger = {
 		OR = {
 			owned_by = CSD
-			owned_by = EGP
+			owned_by = PTL
 			owned_by = LYS
 			owned_by = SLC
 		}
@@ -282,7 +282,7 @@ province_event = {
 	trigger = {
 		OR = {
 			owned_by = CSD
-			owned_by = EGP
+			owned_by = PTL
 			owned_by = LYS
 			owned_by = NTG
 		}
@@ -331,7 +331,7 @@ country_event = {
 			ai = no
 		}
 		name = alex.EVTOPTB11
-		switch_tag = EGP
+		switch_tag = PTL
 	}
 	option = {
 		trigger = {
@@ -388,9 +388,9 @@ country_event = {
 					CSD = { add_manpower = 1 }
 				}
 				20 = {
-					cede_province = EGP
-					add_core = EGP
-					EGP = { add_manpower = 1 }
+					cede_province = PTL
+					add_core = PTL
+					PTL = { add_manpower = 1 }
 				}
 				20 = {
 					cede_province = LYS
@@ -432,7 +432,7 @@ province_event = {
 		}
 		OR = {
 			owned_by = CSD
-			owned_by = EGP
+			owned_by = PTL
 			owned_by = LYS
 			owned_by = NTG
 			owned_by = SLC
@@ -505,9 +505,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				15 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #			}
 #			if = {
@@ -537,9 +537,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				20 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #			}
 #		}
@@ -589,9 +589,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				15 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #				15 = {
 #					cede_province = LYS
@@ -621,9 +621,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				20 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #				20 = {
 #					cede_province = LYS
@@ -673,9 +673,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				15 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #				15 = {
 #					cede_province = LYS
@@ -705,9 +705,9 @@ province_event = {
 #					CSD = { add_manpower = 1 }
 #				}
 #				20 = {
-#					cede_province = EGP
-#					add_core = EGP
-#					EGP = { add_manpower = 1 }
+#					cede_province = PTL
+#					add_core = PTL
+#					PTL = { add_manpower = 1 }
 #				}
 #				20 = {
 #					cede_province = LYS
@@ -750,7 +750,7 @@ country_event = {
 
 	option = {
 		name = alex.EVTOPTA17
-		declare_war = EGP
+		declare_war = PTL
 		declare_war = LYS
 		declare_war = NTG
 		declare_war = SLC
@@ -771,7 +771,7 @@ country_event = {
 		NOT = {
 			exists = MCD
 		}
-		tag = EGP
+		tag = PTL
 	}
 	mean_time_to_happen = {
 		days = 1

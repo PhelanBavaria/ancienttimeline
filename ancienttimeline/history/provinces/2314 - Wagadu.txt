@@ -1,7 +1,7 @@
 #1120 - Bambuk
 
 culture = soninke 
-base_manpower = 1
+base_manpower = 2
 religion = african
 capital = "Dia"
 trade_goods = unknown

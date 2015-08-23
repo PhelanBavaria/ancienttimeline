@@ -3,10 +3,10 @@
 culture = latvian
 religion = romuva
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Riga"
 native_hostileness = 4
 native_size = 10

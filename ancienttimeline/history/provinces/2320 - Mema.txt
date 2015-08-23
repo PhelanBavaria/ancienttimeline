@@ -1,7 +1,7 @@
 #1132 - Timbuktu
 
 culture = bambara 
-base_manpower = 1
+base_manpower = 2
 religion = african
 capital = "Tendirma"
 trade_goods = unknown

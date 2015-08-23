@@ -1,7 +1,7 @@
 #1116 - Wolof
 
 culture = senegambian
-base_manpower = 1
+base_manpower = 2
 religion = african
 capital = "Mbissel"
 trade_goods = unknown

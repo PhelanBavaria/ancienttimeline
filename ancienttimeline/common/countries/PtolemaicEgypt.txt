@@ -39,10 +39,10 @@ historical_units = {
 }
 
 monarch_names = {
-	"Antonio #0" = 40
-	"Francesco #0" = 40
+	"Antonio #0" = 10
+	"Francesco #0" = 0
 	"Nero #1" = 20
-	"Francesca #1" = -10
+	"Francesca #1" = -1
 	"Bartolomeo #0" = 10
 	"Agapios #0" = 0
 	"Akakios #0" = 0
@@ -57,6 +57,7 @@ monarch_names = {
 	"Athanasios #0" = 0
 	"Charalampos #0" = 0
 	"Chrysanthos #0" = 0
+	"Cleopatra #0" = -50
 	"Demetrios #0" = 0
 	"Dimosthenes #0" = 0
 	"Dionysios #0" = 0

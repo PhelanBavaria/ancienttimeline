@@ -34,5 +34,5 @@ discovered_by = MLI
 discovered_by = SFA
 
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
-4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = hellenism }
+4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }
 4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }

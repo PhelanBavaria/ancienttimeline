@@ -7,8 +7,8 @@ religion = egyptian
 capital = "Crocodilopolis"
 trade_goods = grain
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 2
+base_production = 2
 base_manpower = 2
 citysize = 1768
 fort1 = yes
@@ -34,5 +34,5 @@ discovered_by = MLI
 discovered_by = SFA
 
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
-4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = hellenism }
+4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }
 4695.6.2 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }
