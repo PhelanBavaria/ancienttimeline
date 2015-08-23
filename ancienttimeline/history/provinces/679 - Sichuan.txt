@@ -9,9 +9,9 @@ religion = animism
 capital = "Chengdu"
 trade_goods = silk
 hre = no
-base_tax = 10
-base_production = 10
-base_manpower = 3
+base_tax = 2
+base_production = 2
+base_manpower = 2
 discovered_by = chinese
 discovered_by = nomad_group
 

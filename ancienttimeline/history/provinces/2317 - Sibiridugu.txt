@@ -1,7 +1,7 @@
 #1121 - Bure
 
 culture = mali
-base_manpower = 1
+base_manpower = 2
 religion = african
 capital = "Bougouni"
 trade_goods = unknown

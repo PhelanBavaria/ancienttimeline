@@ -2,10 +2,10 @@
 
 culture = boian
 religion = druidism
-base_tax = 7
-base_production = 7
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 4
+base_manpower = 2
 capital = "Ulm"
 hre = no
 native_size = 5

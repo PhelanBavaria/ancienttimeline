@@ -3,10 +3,10 @@
 culture = etruscan
 religion = etruscan_poly
 hre = no
-base_tax = 6
-base_production = 6
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 3
+base_manpower = 2
 capital = "Fufluna" 
 citysize = 2600
 native_size = 5

@@ -3,7 +3,7 @@
 culture = amhara
 religion = african
 capital = "Badeqe"
-base_manpower = 3
+base_manpower = 2
 trade_goods = unknown
 hre = no
 base_tax = 2

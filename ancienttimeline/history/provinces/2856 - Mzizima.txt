@@ -3,7 +3,7 @@
 culture = eastern_bantu
 religion = african
 capital = "Mzizma"
-base_manpower = 1
+base_manpower = 2
 trade_goods = unknown
 hre = no
 base_tax = 2
