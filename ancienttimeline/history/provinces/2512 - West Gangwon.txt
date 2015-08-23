@@ -3,7 +3,7 @@
 owner = DON
 controller = DON
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Wonju"
 trade_goods = fish
 hre = no

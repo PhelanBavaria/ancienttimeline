@@ -2,8 +2,8 @@
 
 owner = XIR
 controller = XIR
-culture = chihan
-religion = confucianism
+culture = sichuanese
+religion = animism
 capital = "Yinchuan"
 trade_goods = grain
 hre = no
@@ -17,3 +17,4 @@ discovered_by = nomad_group
 
 4680.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = XIR }
 4879.1.1 = { owner = HND controller = HND add_core = HND remove_core = XIO }
+4880.1.1 = { religion = confucianism }

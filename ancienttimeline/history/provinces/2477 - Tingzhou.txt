@@ -2,8 +2,8 @@
 
 owner = MNY
 controller = MNY
-culture = hakka
-religion = confucianism
+culture = yue_culture
+religion = animism
 capital = "Tingzhou"
 trade_goods = chinaware
 hre = no
@@ -16,3 +16,4 @@ discovered_by = chinese
 discovered_by = nomad_group
 
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = MNY }
+4950.1.1 = { religion = confucianism }

@@ -2,8 +2,8 @@
 
 owner = GAN
 controller = GAN
-culture = hakka
-religion = confucianism
+culture = gan
+religion = animism
 capital = "Ganzhou"
 trade_goods = grain
 hre = no

@@ -2,8 +2,8 @@
 
 owner = VNL
 controller = VNL
-culture = cantonese
-religion = confucianism
+culture = zhuang
+religion = animism
 capital = "Namning"
 trade_goods = grain
 hre = no

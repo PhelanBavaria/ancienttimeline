@@ -2,7 +2,7 @@
 
 owner = DNG
 controller = DNG
-culture = chahar
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Jirem"
 trade_goods = wool

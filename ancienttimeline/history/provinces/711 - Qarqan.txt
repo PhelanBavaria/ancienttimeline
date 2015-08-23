@@ -2,8 +2,8 @@
 
 owner = YZH
 controller = YZH
-culture = uyghur
-religion = mahayana
+culture = tocharian
+religion = tengri_pagan_reformed
 capital = "Qarqan"
 trade_goods = wool
 hre = no

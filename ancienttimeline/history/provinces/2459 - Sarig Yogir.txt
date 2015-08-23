@@ -1,6 +1,6 @@
 #706 - Amdo
 
-culture = oirats
+culture = qiang
 religion = tibetan_bon
 capital = "Tsaidam"
 trade_goods = unknown

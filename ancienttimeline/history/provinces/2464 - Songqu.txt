@@ -3,8 +3,8 @@
 owner = SHU
 controller = SHU
 add_core = SHU
-culture = tibetan
-religion = mahayana
+culture = qiang
+religion = animism
 capital = "Songqu"
 trade_goods = wool
 hre = no

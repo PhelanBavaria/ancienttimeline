@@ -2,8 +2,8 @@
 
 owner = YZH
 controller = YZH
-culture = chihan
-religion = confucianism
+culture = qiang
+religion = animism
 capital = "Zhangye"
 trade_goods = wool
 hre = no
@@ -17,3 +17,5 @@ discovered_by = nomad_group
 
 4824.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = YZH }
 4879.1.1 = { owner = HND controller = HND add_core = HND remove_core = XIO }
+4890.1.1 = { religion = confucianism }
+4920.1.1 = { culture = chihan }

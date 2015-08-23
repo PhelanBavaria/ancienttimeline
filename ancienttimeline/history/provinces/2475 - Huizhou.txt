@@ -3,7 +3,7 @@
 owner = MNY
 controller = MNY
 culture = hakka
-religion = confucianism
+religion = animism
 capital = "Huizhou"
 trade_goods = grain
 hre = no
@@ -18,3 +18,4 @@ discovered_by = indian
 
 4796.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = MNY }
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }
+4920.1.1 = { religion = confucianism }

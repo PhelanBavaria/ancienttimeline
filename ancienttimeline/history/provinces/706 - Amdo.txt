@@ -1,6 +1,6 @@
 #706 - Amdo
 
-culture = tibetan
+culture = qiang
 religion = tibetan_bon
 capital = "Rebgong"
 trade_goods = unknown

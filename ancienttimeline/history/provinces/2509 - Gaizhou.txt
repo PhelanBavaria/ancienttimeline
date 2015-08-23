@@ -1,6 +1,6 @@
 #726 - Liaodong
 
-culture = manchu
+culture = korean
 religion = confucianism
 capital = "Gaizhou"
 trade_goods = fish

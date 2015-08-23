@@ -2,8 +2,8 @@
 
 owner = ZHN
 controller = ZHN
-culture = chimin
-religion = confucianism
+culture = zhuang
+religion = animism
 capital = "Zhanjiang"
 trade_goods = sugar
 hre = no
@@ -18,3 +18,4 @@ discovered_by = indian
 
 4796.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ZHN }
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }
+4940.1.1 = { religion = confucianism }

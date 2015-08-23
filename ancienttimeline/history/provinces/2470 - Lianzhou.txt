@@ -2,7 +2,7 @@
 
 owner = VNL
 controller = VNL
-culture = cantonese
+culture = zhuang
 religion = confucianism
 capital = "Limchow"
 trade_goods = fish

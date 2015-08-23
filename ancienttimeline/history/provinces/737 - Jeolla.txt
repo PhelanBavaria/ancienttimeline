@@ -3,7 +3,7 @@
 owner = JIN
 controller = JIN
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Jeonju"
 trade_goods = chinaware
 hre = no

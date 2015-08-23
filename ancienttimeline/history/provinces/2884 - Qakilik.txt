@@ -2,8 +2,8 @@
 
 owner = YZH
 controller = YZH
-culture = oirats
-religion = mahayana
+culture = tocharian
+religion = tengri_pagan_reformed
 capital = "Qakilik"
 trade_goods = wool
 hre = no

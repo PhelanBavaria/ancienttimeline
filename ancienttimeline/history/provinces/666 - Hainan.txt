@@ -1,7 +1,7 @@
 #666 - Hainan
 
-culture = chimin
-religion = confucianism
+culture = zhuang
+religion = animism
 capital = "Qiongshan"
 trade_goods = tropical_wood
 hre = no

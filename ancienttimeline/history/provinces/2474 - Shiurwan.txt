@@ -3,7 +3,7 @@
 owner = GAN
 controller = GAN
 culture = hakka
-religion = confucianism
+religion = animism
 capital = "Shaoguan"
 trade_goods = iron
 hre = no

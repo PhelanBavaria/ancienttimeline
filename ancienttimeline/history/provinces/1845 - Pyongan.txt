@@ -3,7 +3,7 @@
 owner = GOJ
 controller = GOJ
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Pyongyang"
 trade_goods = grain
 hre = no

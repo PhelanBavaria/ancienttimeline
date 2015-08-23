@@ -1,6 +1,6 @@
 #666 - Hainan
 
-culture = chimin
+culture = zhuang
 religion = confucianism
 capital = "Yazhou"
 trade_goods = tropical_wood
