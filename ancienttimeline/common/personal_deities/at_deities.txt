@@ -619,7 +619,34 @@ jupiter =
         land_morale = 0.1
         global_unrest = -1
 
-        allow = { religion = hellenism }
+        allow = { 
+		religion = hellenism
+		culture = roman
+	}
+        sprite = 43
+
+        ai_will_do = {
+                factor = 1
+                modifier = {
+                        factor = 2
+                        personality = ai_militarist
+                }
+                modifier = {
+                        factor = 0.5
+                        personality = ai_capitalist
+                }
+        }
+}
+
+zeus =
+{
+        land_morale = 0.1
+        global_unrest = -1
+
+        allow = { 
+		religion = hellenism
+		NOT = { culture = roman }
+	}
         sprite = 43
 
         ai_will_do = {
@@ -640,7 +667,38 @@ juno =
         defensiveness = 0.2
         core_creation = -0.10
 
-        allow = { religion = hellenism }
+        allow = { 
+		religion = hellenism
+		culture = roman
+	}
+        sprite = 44
+
+        ai_will_do = {
+                factor = 1
+                modifier = {
+                        factor = 2
+                        personality = ai_capitalist
+                }
+                modifier = {
+                        factor = 2
+                        personality = ai_militarist
+                }
+                modifier = {
+                        factor = 2
+                        personality = ai_diplomat
+                }
+        }
+}
+
+athena =
+{
+        defensiveness = 0.2
+        core_creation = -0.10
+
+        allow = { 
+		religion = hellenism
+		NOT = { culture = roman }
+	}
         sprite = 44
 
         ai_will_do = {
@@ -665,7 +723,34 @@ neptune =
         naval_morale = 0.20
         global_trade_goods_size = 0.20
 
-        allow = { religion = hellenism }
+        allow = { 
+		religion = hellenism
+		culture = roman
+	}
+        sprite = 45
+
+        ai_will_do = {
+                factor = 1
+                modifier = {
+                        factor = 2
+                        personality = ai_militarist
+                }
+                modifier = {
+                        factor = 0.5
+                        personality = ai_diplomat
+                }
+        }
+}
+
+poseidon =
+{
+        naval_morale = 0.20
+        global_trade_goods_size = 0.20
+
+        allow = { 
+		religion = hellenism
+		NOT = { culture = roman }
+	}
         sprite = 45
 
         ai_will_do = {
@@ -703,7 +788,34 @@ mars =
         land_morale = 0.1
         discipline = 0.10
 
-        allow = { religion = hellenism }
+        allow = { 
+		religion = hellenism
+		culture = roman
+	}
+        sprite = 47
+
+        ai_will_do = {
+                  factor = 1
+                  modifier = {
+                          factor = 3
+                          personality = ai_militarist
+                  }
+                  modifier = {
+                          factor = 0.5
+                          personality = ai_capitalist
+                  }
+        }
+}
+
+ares =
+{
+        land_morale = 0.1
+        discipline = 0.10
+
+        allow = { 
+		religion = hellenism
+		NOT = { culture = roman }
+	}
         sprite = 47
 
         ai_will_do = {
@@ -724,7 +836,34 @@ venus =
         heir_chance = 0.50
         manpower_recovery_speed = 0.25
 
-        allow = { religion = hellenism }
+        allow = { 
+		religion = hellenism
+		culture = roman
+	}
+        sprite = 48
+
+        ai_will_do = {
+                  factor = 1
+                  modifier = {
+                          factor = 3
+                          personality = ai_diplomat
+                  }
+                  modifier = {
+                          factor = 0.5
+                          personality = ai_militarist
+                  }
+        }
+}
+
+aphrodite =
+{
+        heir_chance = 0.50
+        manpower_recovery_speed = 0.25
+
+        allow = { 
+		religion = hellenism
+		NOT = { culture = roman }
+	}
         sprite = 48
 
         ai_will_do = {
