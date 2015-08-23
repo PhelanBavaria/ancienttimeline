@@ -1,18 +1,10 @@
 #1248 - Maldives
 
-owner = MLD
-controller = MLD
 culture = malayalam
-religion = mahayana
+religion = animism
 capital = "Malé"
-trade_goods = fish
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-citysize = 1000
-add_core = MLD
-discovered_by = indian
-discovered_by = muslim
-discovered_by = ottoman
-
