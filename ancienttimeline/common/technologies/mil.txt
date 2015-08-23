@@ -14,6 +14,7 @@ technology = {
 
 	enable = stone_age_spearmen
 	enable = stone_age_clubmen
+	enable = freemen
 }
 
 technology = {

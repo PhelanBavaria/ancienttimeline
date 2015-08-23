@@ -1,0 +1,21 @@
+
+type = infantry
+trigger = {
+    OR = {
+        technology_group = gauls
+        technology_group = hispanian
+        technology_group = british
+        technology_group = east_celtic
+        technology_group = barbarian
+        technology_group = balkan_group
+    }
+}
+
+maneuver = 1
+offensive_morale = 1
+defensive_morale = 2
+offensive_fire = 0
+defensive_fire = 0
+offensive_shock = 1
+defensive_shock = 1
+
