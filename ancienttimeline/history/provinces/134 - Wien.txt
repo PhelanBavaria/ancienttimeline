@@ -2,10 +2,10 @@
 
 culture = noric
 religion = druidism
-base_tax = 7
-base_production = 7
+base_tax = 2
+base_production = 2
 trade_goods = unknown 
-base_manpower = 7
+base_manpower = 2
 capital = "Vindobona" 
 citysize = 3500
 hre = no

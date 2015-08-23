@@ -48,22 +48,37 @@ country_event = {
 			duration = 7300
 		}
 		random_owned_province = {
+			limit = {
+				development = 12
+			}
 			cede_province = CSD
 			add_core = CSD
 		}
 		random_owned_province = {
+			limit = {
+				development = 12
+			}
 			cede_province = LYS
 			add_core = LYS
 		}
 		random_owned_province = {
+			limit = {
+				development = 12
+			}
 			cede_province = NTG
 			add_core = NTG
 		}
 		random_owned_province = {
+			limit = {
+				development = 12
+			}
 			cede_province = PTL
 			add_core = PTL
 		}
 		random_owned_province = {
+			limit = {
+				development = 12
+			}
 			cede_province = SLC
 			add_core = SLC
 		}

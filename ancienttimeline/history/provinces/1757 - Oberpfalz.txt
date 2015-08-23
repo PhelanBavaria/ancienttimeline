@@ -2,10 +2,10 @@
 
 culture = hessian
 religion = germanic
-base_tax = 4
-base_production = 4
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 4
+base_manpower = 2
 capital	= "Amberg" 
 hre = no
 native_size = 5
