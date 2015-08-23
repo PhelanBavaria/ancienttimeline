@@ -13,8 +13,6 @@ base_manpower = 2
 citysize = 6333
 add_core = VNL
 discovered_by = chinese
-discovered_by = nomad_group
-discovered_by = indian
 
 4743.1.1 = { owner = ALC controller = ALC add_core = ALC remove_core = VNL }
 4793.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ALC }

@@ -74,4 +74,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 748;2818;sea;1529;2050;847;2046;850;Belem-Marajo
 353;3140;sea;1305;2973;1205;2975;1209;Gabes-Djerba
 431;3141;sea;1334;3684;1094;3682;1091;Mogostan-Hormuz
+235;87;sea;1271;-1;-1;-1;-1;Kent-Calais
+1751;226;sea;1293;-1;-1;-1;-1;Ceuta-Gibraltar
 -1;-1;;-1;-1;-1;-1;-1;-1
