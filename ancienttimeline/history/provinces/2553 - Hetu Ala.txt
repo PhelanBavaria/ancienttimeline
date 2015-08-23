@@ -3,7 +3,7 @@
 owner = SUS
 controller = SUS
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Gungnae"
 trade_goods = iron
 hre = no

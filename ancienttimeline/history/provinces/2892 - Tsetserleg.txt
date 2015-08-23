@@ -1,6 +1,6 @@
 #719 - Sayin Noyan
 
-culture = mongol
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Tsetserleg"
 trade_goods = unknown

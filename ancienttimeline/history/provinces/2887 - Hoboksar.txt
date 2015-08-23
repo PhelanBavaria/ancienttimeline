@@ -2,7 +2,7 @@
 
 owner = WUS
 controller = WUS
-culture = oirats
+culture = tocharian
 religion = tengri_pagan_reformed
 capital = "Hoboksar"
 trade_goods = wool

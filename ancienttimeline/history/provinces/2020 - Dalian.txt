@@ -1,6 +1,6 @@
 #2020 - Dalian
 
-culture = manchu
+culture = korean
 religion = confucianism
 capital = "Sanshan"
 trade_goods = grain

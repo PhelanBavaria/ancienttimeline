@@ -2,7 +2,7 @@
 
 owner = YZH
 controller = YZH
-culture = uyghur
+culture = tocharian
 religion = tengri_pagan_reformed
 capital = "Kuqa"
 trade_goods = gold

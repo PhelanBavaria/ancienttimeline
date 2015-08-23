@@ -1,6 +1,6 @@
 #721 - Dornod
 
-culture = mongol
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Setsen"
 trade_goods = unknown

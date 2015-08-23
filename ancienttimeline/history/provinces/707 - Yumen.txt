@@ -3,7 +3,7 @@
 owner = YZH
 controller = YZH
 culture = oirats
-religion = mahayana
+religion = tengri_pagan_reformed
 capital = "Yumen"
 trade_goods = wool
 hre = no

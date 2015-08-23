@@ -2,7 +2,7 @@
 
 owner = DNG
 controller = DNG
-culture = mongol
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Xilin Gol"
 trade_goods = wool

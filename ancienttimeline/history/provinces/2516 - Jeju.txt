@@ -1,7 +1,7 @@
 #737 - Jeolla
 
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Jeju"
 trade_goods = chinaware
 hre = no

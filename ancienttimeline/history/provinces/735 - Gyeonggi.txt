@@ -3,7 +3,7 @@
 owner = JIN
 controller = JIN
 culture = korean
-religion = shamanism
+religion = muism
 capital = "Hanseong"
 trade_goods = grain
 hre = no

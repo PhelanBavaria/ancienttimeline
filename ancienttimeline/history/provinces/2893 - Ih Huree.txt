@@ -1,6 +1,6 @@
 #717 - Hovd
 
-culture = mongol
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Ih Huree"
 trade_goods = unknown

@@ -2,7 +2,7 @@
 
 owner = HND
 controller = HND
-culture = manchu
+culture = chihan
 religion = confucianism
 capital = "Shenyang"
 trade_goods = grain

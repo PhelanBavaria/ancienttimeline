@@ -2,7 +2,7 @@
 
 owner = HND
 controller = HND
-culture = chihan
+culture = sichuanese
 religion = confucianism
 capital = "Hanzhong"
 trade_goods = iron
