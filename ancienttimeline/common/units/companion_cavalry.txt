@@ -1,6 +1,7 @@
 # Companion Cavalry (stats will be tweaked later)
 
 type = cavalry
+unit_type = mediterranean
 trigger = {
 	tag = MCD
 }

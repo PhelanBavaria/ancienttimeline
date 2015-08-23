@@ -1,5 +1,6 @@
 
 type = infantry
+unit_type = mediterranean
 trigger = {
 	culture_group = byzantine
 }
