@@ -423,7 +423,6 @@ technology = {
 technology = {
 	# Tech 76
 	year = 3700
-	allowed_idea_groups = 8
 }
 
 technology = {
@@ -466,7 +465,6 @@ technology = {
 technology = {
 	# Tech 84
 	year = 3900
-	allowed_idea_groups = 9
 }
 
 technology = {
@@ -509,7 +507,6 @@ technology = {
 technology = {
 	# Tech 92
 	year = 4100
-	allowed_idea_groups = 10
 }
 
 technology = {
@@ -552,7 +549,6 @@ technology = {
 technology = {
 	# Tech 100
 	year = 4300
-	allowed_idea_groups = 11
 }
 
 technology = {
@@ -596,7 +592,6 @@ technology = {
 technology = {
 	# Tech 108
 	year = 4500
-	allowed_idea_groups = 12
 }
 
 technology = {
@@ -639,7 +634,6 @@ technology = {
 technology = {
 	# Tech 116
 	year = 4700
-	allowed_idea_groups = 13
 }
 
 technology = {
@@ -682,7 +676,6 @@ technology = {
 technology = {
 	# Tech 124
 	year = 4900
-	allowed_idea_groups = 14
 }
 
 technology = {
@@ -693,6 +686,7 @@ technology = {
 technology = {
 	# Tech 126
 	year = 4950
+	allowed_idea_groups = 8
 	production_efficiency	 =	0.01
 }
 

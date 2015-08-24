@@ -7,6 +7,40 @@
 # ROOT = country picking the idea
 # groups set to colonial=yes will be higher prioritized by the AI when spending power
 
+ambush_ideas = {
+	category = MIL
+
+	bonus = {
+		hostile_attrition = 1.0
+	}
+
+	raiding_parties = {
+		land_attrition = -0.5
+	}
+	traps = {
+		hostile_attrition = 1.0
+	}
+	wrecking_supply_trains = {
+		defensiveness = 0.2
+	}
+	brothers_in_arms = {
+		army_tradition = 1
+	}
+	knowing_the_terrain = {
+		leader_land_manuever = 2
+	}
+	element_of_surprise = {
+		land_morale = 0.10
+	}
+	scorched_earth = {
+		hostile_attrition = 1.0
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
 early_adm_ideas = {
 	category = ADM
 
