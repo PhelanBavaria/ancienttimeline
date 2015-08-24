@@ -1,7 +1,7 @@
 #105 - Parma
 
 culture = etruscan
-religion = druidism
+religion = etruscan_poly
 hre = no
 base_tax = 2
 base_production = 2
@@ -12,4 +12,16 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4400.1.1 = { owner = IBI controller = IBI add_core = IBI citysize = 1000 trade_goods = wine  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
+discovered_by = mediterranean
+discovered_by = east_celtic
+discovered_by = gauls
+
+4609.1.1 = {
+    owner = IBI
+    controller = IBI
+    add_core = IBI
+    culture = boian
+    religion = druidism
+    citysize = 1000
+    trade_goods = wine
+}
