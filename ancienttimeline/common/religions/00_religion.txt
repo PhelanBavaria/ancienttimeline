@@ -573,7 +573,7 @@ african_pagan = {
 	}
 
 	serapis = {
-		color = { 0.9 0.8 0.8 }
+		color = { 0.8 0.6 0 }
 		icon = 39 #Temp
 		province = {
 			local_missionary_strength = 0.05

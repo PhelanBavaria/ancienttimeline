@@ -18,3 +18,6 @@ l_english:
  chief_conquest.1b: "These are different times now!"
  brawls.1t: "A brawl has happened"
  brawls.1d: "It's customary to come together into a brawl if two parties have a dispute over some land, or sometimes just for fun.\nIt seems that two of our tribes just did that."
+ prab.EVTNAME1: "$PROVINCENAME$ is abandoned"
+ prab.EVTDESC1: "There are now too few people in $PROVINCENAME$ for it to be considered part of our land. Its surviving inhabitants flee to us, and we have lost control of the province."
+ prab.EVTOPTA1: "We shall recover it in time"

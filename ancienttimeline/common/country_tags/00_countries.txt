@@ -5,6 +5,7 @@
 REB	= "countries/Rebels.txt"
 PIR	= "countries/Pirates.txt"
 NAT	= "countries/Natives.txt"
+#ZZZ	= Empty Province for province abandonment
 
 #Gaul
 ABR	= "countries/Allobroges.txt"
