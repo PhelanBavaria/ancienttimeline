@@ -373,6 +373,7 @@ country_event = {
 
 	trigger = {
 		has_country_flag = diadochi_change
+		NOT = { has_country_flag = reformed_macedon }
 		tag = MCD
 	}
 	mean_time_to_happen = {
@@ -429,6 +430,7 @@ province_event = {
 		exists = MCD
 		MCD = {
 			has_country_flag = diadochi_change
+			NOT = { has_country_flag = reformed_macedon }
 		}
 		OR = {
 			owned_by = CSD
@@ -472,6 +474,7 @@ province_event = {
 #
 #	trigger = {
 #		has_country_flag = diadochi_change
+#		NOT = { has_country_flag = reformed_macedon }
 #		tag = MCD
 #	}
 #	mean_time_to_happen = {
@@ -561,6 +564,7 @@ province_event = {
 #
 #	trigger = {
 #		has_country_flag = diadochi_change
+#		NOT = { has_country_flag = reformed_macedon }
 #		tag = MCD
 #	}
 #	mean_time_to_happen = {
@@ -650,6 +654,7 @@ province_event = {
 #
 #	trigger = {
 #		has_country_flag = diadochi_change
+#		NOT = { has_country_flag = reformed_macedon }
 #		tag = MCD
 #	}
 #	mean_time_to_happen = {
