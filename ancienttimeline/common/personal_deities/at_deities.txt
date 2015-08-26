@@ -488,7 +488,10 @@ toutatis =
 	land_morale = 0.1
 	defensiveness = 0.2
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 37
 	
 	ai_will_do = {
@@ -509,7 +512,10 @@ taranis =
 	discipline = 0.05
 	leader_land_shock = 1
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 38
 	
 	ai_will_do = {
@@ -530,7 +536,10 @@ lugus =
 	global_tax_modifier = 0.1
 	global_trade_income_modifier = 0.1
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 39
 	
 	ai_will_do = {
@@ -547,7 +556,10 @@ dagda =
 	infantry_power = 0.10
 	leader_land_manuever = 1
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 40
 	
 	ai_will_do = {
@@ -568,7 +580,10 @@ sulis =
 	naval_morale = 0.20
 	diplomatic_upkeep = 3
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 41
 	
 	ai_will_do = {
@@ -585,7 +600,10 @@ brigid =
 	manpower_recovery_speed = 0.20
 	relations_decay_of_me = 0.20
 	
-	allow = { religion = druidism }
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
 	sprite = 42
 	
 	ai_will_do = {
@@ -599,18 +617,138 @@ brigid =
 
 epona =
 {
-    cavalry_power = 0.20
+	cavalry_power = 0.20
 
-    allow = { religion = druidism }
-    sprite = 42
+	allow = {
+		religion = druidism
+		NOT = { primary_culture = irish }
+	}
+	sprite = 42
 
-    ai_will_do = {
-        factor = 1
-        modifier = {
-            factor = 2
-            personality = ai_militarist
-        }
-    }
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}
+
+morrighan =
+{
+	infantry_power = 0.3
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 43
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}
+
+eriu =
+{
+	manpower_recovery_speed = 0.20
+	heir_chance = 0.50
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 44
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+	}
+}
+
+aodh =
+{
+	land_morale = 0.2
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 45
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}
+
+ealadha =
+{
+	defensiveness = 0.2
+        core_creation = -0.10
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 46
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+neit =
+{
+        discipline = 0.2
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 47
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+	}
+}
+
+tuireann =
+{
+	discipline = 0.05
+	infantry_power = 0.20
+
+	allow = {
+		religion = druidism
+		primary_culture = irish
+	}
+	sprite = 48
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
 }
 
 #Hellenism
@@ -621,9 +759,9 @@ jupiter =
 
         allow = { 
 		religion = hellenism
-		culture = roman
+		primary_culture = roman
 	}
-        sprite = 43
+        sprite = 49
 
         ai_will_do = {
                 factor = 1
@@ -645,9 +783,9 @@ zeus =
 
         allow = { 
 		religion = hellenism
-		NOT = { culture = roman }
+		NOT = { primary_culture = roman }
 	}
-        sprite = 43
+        sprite = 50
 
         ai_will_do = {
                 factor = 1
@@ -669,9 +807,9 @@ juno =
 
         allow = { 
 		religion = hellenism
-		culture = roman
+		primary_culture = roman
 	}
-        sprite = 44
+        sprite = 51
 
         ai_will_do = {
                 factor = 1
@@ -697,9 +835,9 @@ athena =
 
         allow = { 
 		religion = hellenism
-		NOT = { culture = roman }
+		NOT = { primary_culture = roman }
 	}
-        sprite = 44
+        sprite = 52
 
         ai_will_do = {
                 factor = 1
@@ -725,9 +863,9 @@ neptune =
 
         allow = { 
 		religion = hellenism
-		culture = roman
+		primary_culture = roman
 	}
-        sprite = 45
+        sprite = 53
 
         ai_will_do = {
                 factor = 1
@@ -749,9 +887,9 @@ poseidon =
 
         allow = { 
 		religion = hellenism
-		NOT = { culture = roman }
+		NOT = { primary_culture = roman }
 	}
-        sprite = 45
+        sprite = 54
 
         ai_will_do = {
                 factor = 1
@@ -772,7 +910,7 @@ apollo =
         global_tax_modifier = 0.1
 
         allow = { religion = hellenism }
-        sprite = 46
+        sprite = 55
 
         ai_will_do = {
                   factor = 1
@@ -790,9 +928,9 @@ mars =
 
         allow = { 
 		religion = hellenism
-		culture = roman
+		primary_culture = roman
 	}
-        sprite = 47
+        sprite = 56
 
         ai_will_do = {
                   factor = 1
@@ -814,9 +952,9 @@ ares =
 
         allow = { 
 		religion = hellenism
-		NOT = { culture = roman }
+		NOT = { primary_culture = roman }
 	}
-        sprite = 47
+        sprite = 57
 
         ai_will_do = {
                   factor = 1
@@ -838,9 +976,9 @@ venus =
 
         allow = { 
 		religion = hellenism
-		culture = roman
+		primary_culture = roman
 	}
-        sprite = 48
+        sprite = 58
 
         ai_will_do = {
                   factor = 1
@@ -862,9 +1000,9 @@ aphrodite =
 
         allow = { 
 		religion = hellenism
-		NOT = { culture = roman }
+		NOT = { primary_culture = roman }
 	}
-        sprite = 48
+        sprite = 59
 
         ai_will_do = {
                   factor = 1
@@ -885,7 +1023,7 @@ asshur =
         tolerance_heretic = 2
 
         allow = { religion = ashurism }
-        sprite = 49
+        sprite = 60
 
         ai_will_do = {
                   factor = 1
@@ -906,7 +1044,7 @@ anu =
         relations_decay_of_me = 0.20
 
         allow = { religion = ashurism }
-        sprite = 50
+        sprite = 61
 
         ai_will_do = {
                   factor = 1
@@ -924,7 +1062,7 @@ bel =
         stability_cost_modifier = -0.10
 
         allow = { religion = ashurism }
-        sprite = 51
+        sprite = 62
 
         ai_will_do = {
                   factor = 1
@@ -941,7 +1079,7 @@ ea =
         land_attrition = -0.10
         
         allow = { religion = ashurism }
-        sprite = 52
+        sprite = 63
 
         ai_will_do = {
                   factor = 1
@@ -962,7 +1100,7 @@ shamash =
         global_unrest = -1
 
         allow = { religion = ashurism }
-        sprite = 53
+        sprite = 64
 
         ai_will_do = {
                   factor = 1
@@ -983,7 +1121,7 @@ ramman =
         siege_ability = 1
 
         allow = { religion = ashurism }
-        sprite = 54
+        sprite = 65
 
         ai_will_do = {
                   factor = 1
@@ -1000,7 +1138,7 @@ dushares =
         core_creation = -0.10
 
         allow = { religion = nabataean }
-        sprite = 55
+        sprite = 66
 
         ai_will_do = {
                   factor = 1
@@ -1017,7 +1155,7 @@ al_qaum =
          global_trade_goods_size = 0.20
 
          allow = { religion = nabataean }
-         sprite = 56
+         sprite = 67
 
          ai_will_do = {
                    factor = 1
@@ -1038,7 +1176,7 @@ al_kutbay =
         leader_land_fire = 1
 
         allow = { religion = nabataean }
-        sprite = 57
+        sprite = 68
 
         ai_will_do = {
                   factor = 1
@@ -1059,7 +1197,7 @@ allat =
         discipline = 0.10
 
         allow = { religion = nabataean }
-        sprite = 58
+        sprite = 69
 
         ai_will_do = {
                   factor = 1
@@ -1080,7 +1218,7 @@ manawat =
         manpower_recovery_speed = 0.25
 
         allow = { religion = nabataean }
-        sprite = 59
+        sprite = 70
 
         ai_will_do = {
                   factor = 1
@@ -1097,7 +1235,7 @@ al_uzza =
         leader_land_shock = 1
 
         allow = { religion = nabataean }
-        sprite = 60
+        sprite = 71
 
         ai_will_do = {
                   factor = 1
@@ -1120,7 +1258,7 @@ amm =
          army_tradition = 1
 
          allow = { religion = south_arabian }
-         sprite = 61
+         sprite = 72
 
          ai_will_do = {
                    factor = 1
@@ -1141,7 +1279,7 @@ shams =
         manpower_recovery_speed = 0.20
 
         allow = { religion = south_arabian }
-        sprite = 62
+        sprite = 73
 
         ai_will_do = {
                   factor = 1
@@ -1166,7 +1304,7 @@ athtar =
         global_unrest = -1
 
         allow = { religion = south_arabian }
-        sprite = 63
+        sprite = 74
 
         ai_will_do = {
                   factor = 1
@@ -1187,7 +1325,7 @@ almaqah =
         leader_land_fire = 1
 
         allow = { religion = south_arabian }
-        sprite = 64
+        sprite = 75
 
         ai_will_do = {
                   factor = 1
@@ -1204,7 +1342,7 @@ talab =
         production_efficiency = 0.1
 
         allow = { religion = south_arabian }
-        sprite = 65
+        sprite = 76
 
         ai_will_do = {
                   factor = 1
@@ -1225,7 +1363,7 @@ wadd =
         diplomats = 1
 
         allow = { religion = south_arabian }
-        sprite = 66
+        sprite = 77
 
         ai_will_do = {
                   factor = 1
@@ -1242,7 +1380,7 @@ amun =
          navy_tradition = 1
 
          allow = { religion = egyptian }
-         sprite = 67
+         sprite = 78
 
          ai_will_do = {
                    factor = 1
@@ -1263,7 +1401,7 @@ maat =
         global_unrest = -1
 
         allow = { religion = egyptian }
-        sprite = 68
+        sprite = 79
 
         ai_will_do = {
                   factor = 1
@@ -1284,7 +1422,7 @@ ra =
         recover_army_morale_speed = 0.05
 
         allow = { religion = egyptian }
-        sprite = 69
+        sprite = 80
 
         ai_will_do = {
                   factor = 1
@@ -1305,7 +1443,7 @@ seth =
          land_morale = 0.1
 
          allow = { religion = egyptian }
-         sprite = 70
+         sprite = 81
 
          ai_will_do = {
                    factor = 1
@@ -1326,7 +1464,7 @@ isis =
         manpower_recovery_speed = 0.25
 
         allow = { religion = egyptian }
-        sprite = 71
+        sprite = 82
 
         ai_will_do = {
                   factor = 1
@@ -1347,7 +1485,7 @@ anubis =
         discipline = 0.10
 
         allow = { religion = egyptian }
-        sprite = 72
+        sprite = 83
 
         ai_will_do = {
                   factor = 1
@@ -1368,7 +1506,7 @@ aas =
         land_attrition = -0.10
 
 	allow = { religion = hittite_religion }
-	sprite = 73
+	sprite = 84
 
 	ai_will_do = {
 		factor = 1
@@ -1389,7 +1527,7 @@ alalu =
 	recover_army_morale_speed = 0.05
 
 	allow = { religion = hittite_religion }
-	sprite = 74
+	sprite = 85
 
 	ai_will_do = {
 		factor = 1
@@ -1410,7 +1548,7 @@ aruna =
         global_trade_goods_size = 0.20
 
 	allow = { religion = hittite_religion }
-	sprite = 75
+	sprite = 86
 
 	ai_will_do = {
 		factor = 1
@@ -1431,7 +1569,7 @@ hannahannah =
 	global_tax_modifier = 0.1
 
 	allow = { religion = hittite_religion }
-	sprite = 76
+	sprite = 87
 
 	ai_will_do = {
 		factor = 1
@@ -1452,7 +1590,7 @@ hapantali =
 	infantry_power = 0.3
 
 	allow = { religion = hittite_religion }
-	sprite = 77
+	sprite = 88
 
 	ai_will_do = {
 		factor = 1
@@ -1473,7 +1611,7 @@ wurrukatte =
 	land_morale = 1
 
 	allow = { religion = hittite_religion }
-	sprite = 78
+	sprite = 89
 
 	ai_will_do = {
 		factor = 1
@@ -1494,7 +1632,7 @@ indra =
 	siege_ability = 1
 
 	allow = { religion = vedism }
-	sprite = 79
+	sprite = 90
 
 	ai_will_do = {
 		factor = 1
@@ -1515,7 +1653,7 @@ agni =
 	global_missionary_strength = 0.02
 
 	allow = { religion = vedism }
-	sprite = 80
+	sprite = 91
 
 	ai_will_do = {
 		factor = 1
@@ -1536,7 +1674,7 @@ soma =
 	global_unrest = -1
 
 	allow = { religion = vedism }
-	sprite = 81
+	sprite = 92
 
 	ai_will_do = {
 		factor = 1
@@ -1557,7 +1695,7 @@ mitra =
 	legitimacy = 1
 
 	allow = { religion = vedism }
-	sprite = 82
+	sprite = 93
 
 	ai_will_do = {
 		factor = 1
@@ -1578,7 +1716,7 @@ varuna =
         global_trade_goods_size = 0.20
 
 	allow = { religion = vedism }
-	sprite = 83
+	sprite = 94
 
 	ai_will_do = {
 		factor = 1
@@ -1599,7 +1737,7 @@ ushas =
 	manpower_recovery_speed = 0.2
 
 	allow = { religion = vedism }
-	sprite = 84
+	sprite = 95
 
 	ai_will_do = {
 		factor = 1

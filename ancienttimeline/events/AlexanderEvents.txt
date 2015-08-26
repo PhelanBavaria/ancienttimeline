@@ -4,7 +4,7 @@ country_event = {
 	id = alex.1
 	title = alex.EVTNAME1
 	desc = alex.EVTDESC1
-	picture = GOOD_WITH_MONARCH_eventPicture
+	picture = ALEXANDER_EMPIRE_eventPicture
 	
 	is_triggered_only = yes
 	fire_only_once = yes
@@ -307,7 +307,7 @@ country_event = {
 	id = alex.11
 	title = alex.EVTNAME11
 	desc = alex.EVTDESC11
-	picture = CIVIL_WAR_eventPicture
+	picture = GREEK_BATTLE_eventPicture
 
 	is_triggered_only = yes
 
