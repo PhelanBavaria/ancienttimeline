@@ -11,6 +11,7 @@ country_decisions = {
 				tag = SLC
 			}
 			NOT = { has_country_flag = reformed_macedon }
+			NOT = { exists = MCD }
 		}
 		allow = {
 			is_subject = no
@@ -42,6 +43,10 @@ country_decisions = {
 				tag = NTG
 				tag = PTL
 				tag = SLC
+			}
+			OR = {
+				NOT = { exists = MCD }
+				MCD = { has_country_flag = reformed_macedon }
 			}
 		}
 		allow = {
