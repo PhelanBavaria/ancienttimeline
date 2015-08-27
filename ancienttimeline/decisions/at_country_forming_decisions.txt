@@ -64,34 +64,4 @@ country_decisions = {
 		ai_importance = 200
 	}
 
-	form_pegypt = {
-		major = yes
-		potential = {
-			tag = PTL
-		}
-		allow = {
-			is_subject = no
-			is_at_war = no
-			owns_core_province = 358
-			owns_core_province = 359
-			owns_core_province = 362
-			owns_core_province = 2526
-			owns_core_province = 361
-			owns_core_province = 2524
-			owns_core_province = 2523
-			owns_core_province = 360
-		}
-		effect = {
-			change_tag = EGP
-			add_prestige = 25
-			EGP = {
-				set_capital = 358
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-		ai_importance = 350
-	}
-
 }

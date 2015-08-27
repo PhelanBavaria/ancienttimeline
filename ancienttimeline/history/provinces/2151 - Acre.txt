@@ -35,5 +35,5 @@ discovered_by = SFA
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4668.8.5 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
-4698.1.1 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }
+4698.1.1 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
 5006.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -22,5 +22,5 @@ discovered_by = muslim
 discovered_by = ottoman
 
 4667.1.2 = { owner = MCD controller = MCD add_core = MCD }
-4698.1.1 = { owner = EGP controller = EGP add_core = EGP remove_core = MCD }
+4698.1.1 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
 5018.1.1 = { owner = ROM controller = ROM add_core = ROM }
