@@ -49,35 +49,35 @@ country_event = {
 		}
 		random_owned_province = {
 			limit = {
-				development = 12
+				development = 8
 			}
 			cede_province = CSD
 			add_core = CSD
 		}
 		random_owned_province = {
 			limit = {
-				development = 12
+				development = 8
 			}
 			cede_province = LYS
 			add_core = LYS
 		}
 		random_owned_province = {
 			limit = {
-				development = 12
+				development = 8
 			}
 			cede_province = NTG
 			add_core = NTG
 		}
 		random_owned_province = {
 			limit = {
-				development = 12
+				development = 8
 			}
 			cede_province = PTL
 			add_core = PTL
 		}
 		random_owned_province = {
 			limit = {
-				development = 12
+				development = 8
 			}
 			cede_province = SLC
 			add_core = SLC
