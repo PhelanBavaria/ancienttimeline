@@ -47,7 +47,7 @@ categories =  {
 		nation_designer_cost_multiplier = 1.1
 
 		sound_type = plains
-		color = { 103 167 214  }
+		color = { 179 255 64 }
 		
 		terrain_override = {
 104 109 108 1744 1865
@@ -101,7 +101,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		sound_type = forest
-		color = { 91 123 45 }
+		color = { 31 116 16 }
 		
 		terrain_override = {
 2 4 8 9 11 18 315 # Sweden
@@ -127,7 +127,7 @@ categories =  {
 		supply_limit = 5
 
 		sound_type = mountain
-		color = { 109 115 141 }
+		color = { 113 176 151 }
 
 		
 		terrain_override = {
@@ -157,7 +157,7 @@ categories =  {
 		supply_limit = 6
 		
 		sound_type = forest
-		color = { 165 205 108 }
+		color = { 41 155 22 }
 
 		terrain_override = {
 206 1746 1851 # Spain
@@ -211,7 +211,7 @@ categories =  {
 		supply_limit = 4
 		sound_type = mountain
 
-		color = { 117 108 119 }
+		color = { 105 24 4 }
 		
 		terrain_override = {
 210	226 # Spain
@@ -252,7 +252,7 @@ categories =  {
 		nation_designer_cost_multiplier = 1
 
 		sound_type = plains
-		color = { 211 201 184 }
+		color = { 171 255 92 }
 		
 		terrain_override = {
 2938 # North America
@@ -303,7 +303,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.8
 		supply_limit = 5
 		sound_type = jungle
-		color = { 40 180 149 }
+		color = { 98 163 18 }
 
 		terrain_override = {
 2249
@@ -335,7 +335,7 @@ categories =  {
 		supply_limit = 5
 
 		sound_type = forest
-		color = { 76 112 105 }
+		color = { 13 189 130 }
 		
 		terrain_override = {
 1860 #England
@@ -359,7 +359,7 @@ categories =  {
 		local_development_cost = 0.35
 		nation_designer_cost_multiplier = 0.8
 		
-		color = { 220 210 0 }
+		color = { 242 242 111 }
 		
 		terrain_override = {
 503 2182 2188 #India
@@ -380,7 +380,7 @@ categories =  {
 	coastal_desert = {
 		movement_cost = 1.0
 		
-		color = { 200 128 0 }
+		color = { 255 211 110 }
 		
 		local_development_cost = 0.25
 		nation_designer_cost_multiplier = 0.9	
@@ -407,7 +407,7 @@ categories =  {
 		supply_limit = 6
 		sound_type = sea
 
-		color = { 200 128 0 }
+		color = { 49 175 191 }
 		
 		terrain_override = {
 213  # Spain
@@ -447,7 +447,7 @@ categories =  {
 		supply_limit = 7
 		allowed_num_of_buildings = 1
 		sound_type = plains
-		color = { 208 158 108  }
+		color = { 232 172 102 }	
 			
 		terrain_override = {
 1749 224
@@ -489,7 +489,7 @@ categories =  {
 		supply_limit = 6
 		sound_type = mountain
 
-		color = { 135 70 0 }
+		color = { 176 129 21 }
 
 		
 		terrain_override = {
@@ -530,7 +530,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.95	
 		supply_limit = 6
 		sound_type = plains
-		color = { 201 214 148  }
+		color = { 248 199 23  }
 			
 		terrain_override = {
 768 2777 2829 2833 833 2715 2771 2776 2779 770 2780 
@@ -563,7 +563,7 @@ categories =  {
 		
 		supply_limit = 6
 		sound_type = plains
-		color = { 185 106 210  }
+		color = { 147 200 83  }
 		
 		terrain_override = {
 2124 2260 2261 463 2617 466 2437 470 472 2440 2451 2442 476 2448 479 2449 1966 2840

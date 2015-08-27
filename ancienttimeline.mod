@@ -21,4 +21,4 @@ tags={
 	"Missions And Decisions"
 }
 picture="extended_timeline.jpg"
-supported_version="1.12"
+supported_version="1.13"

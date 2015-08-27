@@ -6,6 +6,9 @@ abrahamic = {
 	defender_of_faith = yes
 	can_form_personal_unions = yes
 
+	flags_with_emblem_percentage = 33 # default == 0
+	flag_emblem_index_range = { 1 18 }
+
 	christian = {
 		color = { 0.75 0.65 0 }
 		icon = 38
@@ -35,6 +38,9 @@ abrahamic = {
 }
 
 dharmic = {
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 25 31 }
 
 	buddhism = { #Theravada
 		color = { 0.8 0.3 0 }
@@ -147,6 +153,10 @@ dharmic = {
 }
 
 eastern = {
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 25 31 }
+
 	confucianism = {
 		color = { 0.84 0.9 0.55 }
 		icon = 15
@@ -207,6 +217,9 @@ eastern = {
 
 pagan = {
 
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	animism = {
 		color = { 0.5 0.0 0.0 }
 		icon = 17
@@ -243,6 +256,10 @@ pagan = {
 }
 
 hellenic = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	hellenism = {
 		color = { 0.4 0 0.3 }
 		icon = 19
@@ -323,6 +340,10 @@ hellenic = {
 }
 
 iranian = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	zoroastrian = {
 		icon = 21
 		color = { 0.5 0.7 0.2 }
@@ -341,6 +362,9 @@ iranian = {
 }
 
 american_pagan = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
 
 	totemism = {
 		color = { 0.6 0.4 0.0 }
@@ -432,6 +456,9 @@ american_pagan = {
 
 celtic = {
 
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	druidism = {
 		color = { 0.4 0.9 0.1 }
 		icon = 27
@@ -466,6 +493,9 @@ celtic = {
 	
 }
 european_pagan = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
 
 	romuva = {
 		color = { 0.6 0.4 0.3 }
@@ -537,6 +567,9 @@ european_pagan = {
 
 tengri_group = {
 
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	tengri_pagan_reformed = {
 		color = { 0.1 0.3 0.85 }
 		icon = 33
@@ -555,6 +588,9 @@ tengri_group = {
 }
 
 african_pagan = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
 
 	egyptian = {
 		color = { 0.9 0.9 0.3 }
@@ -633,6 +669,9 @@ african_pagan = {
 
 mesopotamian = {
 
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	ashurism = {
 		color = { 0.9 0.9 0.9 }
 		icon = 37
@@ -691,6 +730,10 @@ mesopotamian = {
 }
 
 caucasian_group = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 17 18 }
+
 	georgian_religion = {
 		color = { 0 0.4 0.4 }
 		icon = 30
