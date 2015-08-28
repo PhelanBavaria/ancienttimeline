@@ -65,3 +65,9 @@ alexander_modifier = {
 	cavalry_power = 0.5
 	infantry_power = 0.45
 }
+
+independence_fighter = {
+	land_forcelimit_modifier = 2.0
+	global_manpower_modifier = 2.0
+	land_maintenance_modifier = -0.5
+}

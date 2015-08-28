@@ -119,6 +119,8 @@ on_new_monarch = {
 		alex.2
 	}
 	random_events = { 
+		1000 = 0
+		700 = gen.2
 	}
 }
 
@@ -126,6 +128,10 @@ on_new_monarch = {
 on_regent = {
 	events = {
 	}
+	random_events = { 
+		1000 = 0
+		600 = gen.2
+	}7
 }
 
 # country 
