@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = khorasani
+culture = parthian
 religion = zoroastrian
 capital = "Bojnord"
 trade_goods = wool

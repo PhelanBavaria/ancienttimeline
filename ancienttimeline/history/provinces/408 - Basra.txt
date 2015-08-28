@@ -2,7 +2,7 @@
 
 owner = SUM
 controller = SUM
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = zoroastrian
 capital = "Lagash"
 trade_goods = salt

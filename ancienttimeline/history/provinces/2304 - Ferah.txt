@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = khorasani
+culture = parthian
 religion = zunism
 capital = "Ferah"
 trade_goods = wool

@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = saka
+culture = parthian
 religion = zoroastrian
 capital = "Konjikala"
 trade_goods = copper

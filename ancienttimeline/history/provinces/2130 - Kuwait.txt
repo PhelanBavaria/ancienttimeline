@@ -2,7 +2,7 @@
 
 owner = SUM
 controller = SUM
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = ashurism
 capital = "Ur"
 trade_goods = fish
