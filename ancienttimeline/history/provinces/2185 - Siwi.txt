@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = baluchi
+culture = sattagydian
 religion = vedism
 capital = "Siwi"
 trade_goods = wool
