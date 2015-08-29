@@ -3841,3 +3841,40 @@ egyptian_group = {
 		}
 	}
 }
+
+hittite_group = {
+	graphical_culture = muslimgfx
+	hittite = {
+		primary = HIT
+		dynasty_names = {
+			""
+		}
+		male_names = {
+			Labarna Hattusili Mursili Hantili Zidanta Ammuna Huzziya Telipinus Alluwamna Tahurwaili Muwatalli Tudhaliya Arnuwanda Suppiluliuma Kurunta 
+		}
+		female_names = {
+			Pudukhepa Puduhepa
+		}
+	}
+	hurrian = {
+		dynasty_names = {
+			""
+		}
+		male_names = {
+			Labarna Hattusili Mursili Hantili Zidanta Ammuna Huzziya Telipinus Alluwamna Tahurwaili Muwatalli Tudhaliya Arnuwanda Suppiluliuma Kurunta
+		}
+		female_names = {
+			Pudukhepa Puduhepa
+		}
+	}
+	luwian = {
+		dynasty_names = {
+			""
+		}
+		male_names = {
+			Labarna Hattusili Mursili Hantili Zidanta Ammuna Huzziya Telipinus Alluwamna Tahurwaili Muwatalli Tudhaliya Arnuwanda Suppiluliuma Kurunta
+		}
+		female_names = {
+			Pudukhepa Puduhepa
+		}
+	}

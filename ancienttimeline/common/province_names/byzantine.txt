@@ -1,3 +1,7 @@
 145 = "Lakedaimon"
 146 = "Athenai"
 163 = "Krete"
+318 = "Smyrna"
+2007 = "Pella"
+2365 = "Pamphylia"
+2604 = "Seuthopolis"

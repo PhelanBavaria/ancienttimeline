@@ -4,12 +4,12 @@ owner = ACA
 controller = ACA
 culture = ionic_greek
 religion = hellenism
-capital = "Isparta"
+capital = "Diospolis"
 trade_goods = grain
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 4
+base_manpower = 4
 citysize = 1815
 fort1 = yes
 add_core = ACA
@@ -23,3 +23,4 @@ discovered_by = ottoman
 
 4667.1.19 = { owner = MCD controller = MCD add_core = MCD }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
+4739.1.1 = { capital = "Laodicea" }
