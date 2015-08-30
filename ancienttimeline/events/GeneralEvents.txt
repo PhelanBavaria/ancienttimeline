@@ -22,7 +22,7 @@ country_event = {
     id = gen.2
     title = gen.EVTNAME2
     desc = gen.EVTDESC2
-    picture = ALEXANDER_EMPIRE_eventPicture
+    picture = ANGRY_MOB_eventPicture
 
     is_triggered_only = yes
 
@@ -53,9 +53,15 @@ country_event = {
                     random = {
                         chance = 10
                         cede_province = PREV
-                        add_country_modifier = {
-                            name = "independence_fighter"
-                            duration = -1
+                        PREV = {
+                            add_country_modifier = {
+                                name = "independence_fighter"
+                                duration = -1
+                            }
+                            declare_war_with_cb = {
+                                who = ROOT
+                                casus_belli = cb_independence_war
+                            }
                         }
                         infantry = PREV
                         infantry = PREV

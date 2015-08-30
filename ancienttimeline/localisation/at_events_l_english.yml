@@ -21,3 +21,6 @@ l_english:
  prab.EVTNAME1: "$PROVINCENAME$ is abandoned"
  prab.EVTDESC1: "There are now too few people in $PROVINCENAME$ for it to be considered part of our land. Its surviving inhabitants flee to us, and we have lost control of the province."
  prab.EVTOPTA1: "We shall recover it in time"
+ gen.EVTNAME2: "Powerful rulers rise"
+ gen.EVTDESC2: "Some rulers of your country don't see you fit for the throne and seek independence, how shall we react?"
+ gen.EVTOPTA2: "Show them who is the ruler of these lands!"
