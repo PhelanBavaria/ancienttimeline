@@ -551,30 +551,6 @@ lugus =
 	}	
 }
 
-dagda = 
-{
-	infantry_power = 0.10
-	leader_land_manuever = 1
-	
-	allow = {
-		religion = druidism
-		NOT = { primary_culture = irish }
-	}
-	sprite = 40
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 3
-			personality = ai_militarist
-		}	
-		modifier = {
-			factor = 0.5
-			personality = ai_diplomat
-		}			
-	}	
-}
-
 sulis = 
 {
 	naval_morale = 0.20
