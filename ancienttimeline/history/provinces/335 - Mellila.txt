@@ -1,11 +1,9 @@
 #335 - Melilla
 
-#owner = MRN
-#controller = MRN
 religion = african
 culture = berber
 capital = "Rusadir"
-trade_goods = fish
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -13,3 +11,5 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+4700.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
