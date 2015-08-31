@@ -4,3 +4,985 @@ technology_group = chinese
 religion = confucianism
 primary_culture = wu
 capital = 2499
+
+3954.1.1 = {
+	monarch = {
+		name = "Tai"
+		dynasty = "Jiang"
+		birth_date = 3924.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+3970.1.1 = {
+	heir = {
+		name = "Ding"
+		monarch_name = "Ding"
+		dynasty = "Jiang"
+		birth_date = 3970.1.1
+		death_date = 4030.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4000.1.1 = {
+	monarch = {
+		name = "Ding"
+		dynasty = "Jiang"
+		birth_date = 3970.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4000.1.1 = {
+	heir = {
+		name = "Yi"
+		monarch_name = "Yi"
+		dynasty = "Jiang"
+		birth_date = 4000.1.1
+		death_date = 4070.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+4030.1.1 = {
+	monarch = {
+		name = "Yi"
+		dynasty = "Jiang"
+		birth_date = 4000.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+4040.1.1 = {
+	heir = {
+		name = "Gui"
+		monarch_name = "Gui"
+		dynasty = "Jiang"
+		birth_date = 4040.1.1
+		death_date = 4100.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+4070.1.1 = {
+	monarch = {
+		name = "Gui"
+		dynasty = "Jiang"
+		birth_date = 4040.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+4070.1.1 = {
+	heir = {
+		name = "Ai"
+		monarch_name = "Ai"
+		dynasty = "Jiang"
+		birth_date = 4070.1.1
+		death_date = 4120.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+4100.1.1 = {
+	monarch = {
+		name = "Ai"
+		dynasty = "Jiang"
+		birth_date = 4070.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+4100.1.1 = {
+	heir = {
+		name = "Hu"
+		monarch_name = "Hu"
+		dynasty = "Jiang"
+		birth_date = 4090.1.1
+		death_date = 4141.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4120.1.1 = {
+	monarch = {
+		name = "Hu"
+		dynasty = "Jiang"
+		birth_date = 4090.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4120.1.1 = {
+	heir = {
+		name = "Xian"
+		monarch_name = "Xian"
+		dynasty = "Jiang"
+		birth_date = 4111.1.1
+		death_date = 4150.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4141.1.1 = {
+	monarch = {
+		name = "Xian"
+		dynasty = "Jiang"
+		birth_date = 4111.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4141.1.1 = {
+	heir = {
+		name = "Wu"
+		monarch_name = "Wu"
+		dynasty = "Jiang"
+		birth_date = 4120.1.1
+		death_date = 4176.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4150.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Jiang"
+		birth_date = 4120.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4150.1.1 = {
+	heir = {
+		name = "Li"
+		monarch_name = "Li"
+		dynasty = "Jiang"
+		birth_date = 4146.1.1
+		death_date = 4185.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+4176.1.1 = {
+	monarch = {
+		name = "Li"
+		dynasty = "Jiang"
+		birth_date = 4146.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+4176.1.1 = {
+	heir = {
+		name = "Wen"
+		monarch_name = "Wen"
+		dynasty = "Jiang"
+		birth_date = 4155.1.1
+		death_date = 4197.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4185.1.1 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Jiang"
+		birth_date = 4155.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4185.1.1 = {
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Jiang"
+		birth_date = 4167.1.1
+		death_date = 4206.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4197.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Jiang"
+		birth_date = 4167.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4197.1.1 = {
+	heir = {
+		name = "Zhuang"
+		monarch_name = "Zhuang"
+		dynasty = "Jiang"
+		birth_date = 4176.1.1
+		death_date = 4270.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4206.1.1 = {
+	monarch = {
+		name = "Zhuang"
+		dynasty = "Jiang"
+		birth_date = 4176.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4240.1.1 = {
+	heir = {
+		name = "Xi"
+		monarch_name = "Xi"
+		dynasty = "Jiang"
+		birth_date = 4240.1.1
+		death_date = 4303.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+}
+
+4270.1.1 = {
+	monarch = {
+		name = "Xi"
+		dynasty = "Jiang"
+		birth_date = 4240.1.1
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+}
+
+4273.1.1 = {
+	heir = {
+		name = "Xiang"
+		monarch_name = "Xiang"
+		dynasty = "Jiang"
+		birth_date = 4273.1.1
+		death_date = 4314.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4303.1.1 = {
+	monarch = {
+		name = "Xiang"
+		dynasty = "Jiang"
+		birth_date = 4273.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4303.1.1 = {
+	heir = {
+		name = "Wuzhi"
+		monarch_name = "Wuzhi"
+		dynasty = "Jiang"
+		birth_date = 4284.1.1
+		death_date = 4315.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+4314.1.1 = {
+	monarch = {
+		name = "Wuzhi"
+		dynasty = "Jiang"
+		birth_date = 4284.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+4314.1.1 = {
+	heir = {
+		name = "Huan"
+		monarch_name = "Huan"
+		dynasty = "Jiang"
+		birth_date = 4285.1.1
+		death_date = 4357.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4315.1.1 = {
+	monarch = {
+		name = "Huan"
+		dynasty = "Jiang"
+		birth_date = 4285.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4327.1.1 = {
+	heir = {
+		name = "Wukui"
+		monarch_name = "Wukui"
+		dynasty = "Jiang"
+		birth_date = 4327.1.1
+		death_date = 4358.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4357.1.1 = {
+	monarch = {
+		name = "Wukui"
+		dynasty = "Jiang"
+		birth_date = 4327.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4357.1.1 = {
+	heir = {
+		name = "Xiao"
+		monarch_name = "Xiao"
+		dynasty = "Jiang"
+		birth_date = 4328.1.1
+		death_date = 4368.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+4358.1.1 = {
+	monarch = {
+		name = "Xiao"
+		dynasty = "Jiang"
+		birth_date = 4328.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+4358.1.1 = {
+	heir = {
+		name = "Zhao"
+		monarch_name = "Zhao"
+		dynasty = "Jiang"
+		birth_date = 4338.1.1
+		death_date = 4387.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+}
+
+4368.1.1 = {
+	monarch = {
+		name = "Zhao"
+		dynasty = "Jiang"
+		birth_date = 4338.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+}
+
+4368.1.1 = {
+	heir = {
+		name = "She"
+		monarch_name = "She"
+		dynasty = "Jiang"
+		birth_date = 4357.1.1
+		death_date = 4388.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4387.1.1 = {
+	monarch = {
+		name = "She"
+		dynasty = "Jiang"
+		birth_date = 4357.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4387.1.1 = {
+	heir = {
+		name = "Yi"
+		monarch_name = "Yi"
+		dynasty = "Jiang"
+		birth_date = 4358.1.1
+		death_date = 4392.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+4388.1.1 = {
+	monarch = {
+		name = "Yi"
+		dynasty = "Jiang"
+		birth_date = 4358.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+4388.1.1 = {
+	heir = {
+		name = "Hui"
+		monarch_name = "Hui"
+		dynasty = "Jiang"
+		birth_date = 4362.1.1
+		death_date = 4402.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4392.1.1 = {
+	monarch = {
+		name = "Hui"
+		dynasty = "Jiang"
+		birth_date = 4362.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4392.1.1 = {
+	heir = {
+		name = "Qing"
+		monarch_name = "Qing"
+		dynasty = "Jiang"
+		birth_date = 4372.1.1
+		death_date = 4419.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+4402.1.1 = {
+	monarch = {
+		name = "Qing"
+		dynasty = "Jiang"
+		birth_date = 4372.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+4402.1.1 = {
+	heir = {
+		name = "Ling"
+		monarch_name = "Ling"
+		dynasty = "Jiang"
+		birth_date = 4389.1.1
+		death_date = 4447.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+4419.1.1 = {
+	monarch = {
+		name = "Ling"
+		dynasty = "Jiang"
+		birth_date = 4389.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+4419.1.1 = {
+	heir = {
+		name = "Zhuang"
+		monarch_name = "Zhuang"
+		dynasty = "Jiang"
+		birth_date = 4417.1.1
+		death_date = 4453.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+4447.1.1 = {
+	monarch = {
+		name = "Zhuang"
+		dynasty = "Jiang"
+		birth_date = 4417.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+4447.1.1 = {
+	heir = {
+		name = "Jing"
+		monarch_name = "Jing"
+		dynasty = "Jiang"
+		birth_date = 4423.1.1
+		death_date = 4511.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+4453.1.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Jiang"
+		birth_date = 4423.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+4481.1.1 = {
+	heir = {
+		name = "An Ruzi"
+		monarch_name = "An Ruzi"
+		dynasty = "Jiang"
+		birth_date = 4481.1.1
+		death_date = 4512.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+4511.1.1 = {
+	monarch = {
+		name = "An Ruzi"
+		dynasty = "Jiang"
+		birth_date = 4481.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+4511.1.1 = {
+	heir = {
+		name = "Dao"
+		monarch_name = "Dao"
+		dynasty = "Jiang"
+		birth_date = 4482.1.1
+		death_date = 4516.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+4512.1.1 = {
+	monarch = {
+		name = "Dao"
+		dynasty = "Jiang"
+		birth_date = 4482.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+4512.1.1 = {
+	heir = {
+		name = "Jian"
+		monarch_name = "Jian"
+		dynasty = "Jiang"
+		birth_date = 4486.1.1
+		death_date = 4520.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4516.1.1 = {
+	monarch = {
+		name = "Jian"
+		dynasty = "Jiang"
+		birth_date = 4486.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4516.1.1 = {
+	heir = {
+		name = "Ping"
+		monarch_name = "Ping"
+		dynasty = "Jiang"
+		birth_date = 4490.1.1
+		death_date = 4545.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4520.1.1 = {
+	monarch = {
+		name = "Ping"
+		dynasty = "Jiang"
+		birth_date = 4490.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4520.1.1 = {
+	heir = {
+		name = "Xuan"
+		monarch_name = "Xuan"
+		dynasty = "Jiang"
+		birth_date = 4515.1.1
+		death_date = 4596.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4545.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Jiang"
+		birth_date = 4515.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4570.1.1 = {
+	heir = {
+		name = "Kang"
+		monarch_name = "Kang"
+		dynasty = "Jiang"
+		birth_date = 4570.1.1
+		death_date = 4621.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4596.1.1 = {
+	monarch = {
+		name = "Kang"
+		dynasty = "Jiang"
+		birth_date = 4570.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4614.1.1 = {
+	monarch = {
+		name = "Tai"
+		dynasty = "Tian"
+		birth_date = 4584.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+4614.1.1 = {
+	heir = {
+		name = "Yan"
+		monarch_name = "Yan"
+		dynasty = "Tian"
+		birth_date = 4587.1.1
+		death_date = 4626.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4617.1.1 = {
+	monarch = {
+		name = "Yan"
+		dynasty = "Tian"
+		birth_date = 4587.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4617.1.1 = {
+	heir = {
+		name = "Huan"
+		monarch_name = "Huan"
+		dynasty = "Tian"
+		birth_date = 4596.1.1
+		death_date = 4644.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+4626.1.1 = {
+	monarch = {
+		name = "Huan"
+		dynasty = "Tian"
+		birth_date = 4596.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+4626.1.1 = {
+	heir = {
+		name = "Wei"
+		monarch_name = "Wei"
+		dynasty = "Tian"
+		birth_date = 4614.1.1
+		death_date = 4681.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+}
+
+4644.1.1 = {
+	monarch = {
+		name = "Wei"
+		dynasty = "Tian"
+		birth_date = 4614.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+}
+
+4651.1.1 = {
+	heir = {
+		name = "Xuan"
+		monarch_name = "Xuan"
+		dynasty = "Tian"
+		birth_date = 4651.1.1
+		death_date = 4700.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4681.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Tian"
+		birth_date = 4651.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4681.1.1 = {
+	heir = {
+		name = "Min"
+		monarch_name = "Min"
+		dynasty = "Tian"
+		birth_date = 4670.1.1
+		death_date = 4717.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4700.1.1 = {
+	monarch = {
+		name = "Min"
+		dynasty = "Tian"
+		birth_date = 4670.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4700.1.1 = {
+	heir = {
+		name = "Xiang"
+		monarch_name = "Xiang"
+		dynasty = "Tian"
+		birth_date = 4687.1.1
+		death_date = 4736.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+4717.1.1 = {
+	monarch = {
+		name = "Xiang"
+		dynasty = "Tian"
+		birth_date = 4687.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+4717.1.1 = {
+	heir = {
+		name = "Jian"
+		monarch_name = "Jian"
+		dynasty = "Tian"
+		birth_date = 4710.1.1
+		death_date = 4779.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4736.1.1 = {
+	monarch = {
+		name = "Jian"
+		dynasty = "Tian"
+		birth_date = 4710.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4794.1.1 = {
+	monarch = {
+		name = "Du"
+		dynasty = "Tian"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

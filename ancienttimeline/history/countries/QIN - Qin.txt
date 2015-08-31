@@ -2,5 +2,929 @@ government = despotic_monarchy
 mercantilism = 0.1
 technology_group = chinese
 religion = confucianism
-primary_culture = qin
-capital = 700
+primary_culture = sichuanese
+capital = 700 #Xianyang
+
+4120.1.1 = {
+	monarch = {
+		name = "Feizi"
+		dynasty = "Qin"
+		birth_date = 4090.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}
+
+4120.1.1 = {
+	heir = {
+		name = "Marquis"
+		monarch_name = "Marquis"
+		dynasty = "Qin"
+		birth_date = 4113.1.1
+		death_date = 4153.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4143.1.1 = {
+	monarch = {
+		name = "Marquis"
+		dynasty = "Qin"
+		birth_date = 4113.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4143.1.1 = {
+	heir = {
+		name = "Gongbo"
+		monarch_name = "Gongbo"
+		dynasty = "Qin"
+		birth_date = 4123.1.1
+		death_date = 4156.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4153.1.1 = {
+	monarch = {
+		name = "Gongbo"
+		dynasty = "Qin"
+		birth_date = 4123.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4153.1.1 = {
+	heir = {
+		name = "Zhong"
+		monarch_name = "Zhong"
+		dynasty = "Qin"
+		birth_date = 4126.1.1
+		death_date = 4179.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+4156.1.1 = {
+	monarch = {
+		name = "Zhong"
+		dynasty = "Qin"
+		birth_date = 4126.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+4156.1.1 = {
+	heir = {
+		name = "Zhuang"
+		monarch_name = "Zhuang"
+		dynasty = "Qin"
+		birth_date = 4149.1.1
+		death_date = 4223.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+4179.1.1 = {
+	monarch = {
+		name = "Zhuang"
+		dynasty = "Qin"
+		birth_date = 4149.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+4193.1.1 = {
+	heir = {
+		name = "Xiang"
+		monarch_name = "Xiang"
+		dynasty = "Qin"
+		birth_date = 4193.1.1
+		death_date = 4235.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+}
+
+4223.1.1 = {
+	monarch = {
+		name = "Xiang"
+		dynasty = "Qin"
+		birth_date = 4193.1.1
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+}
+
+4223.1.1 = {
+	heir = {
+		name = "Wen"
+		monarch_name = "Wen"
+		dynasty = "Qin"
+		birth_date = 4205.1.1
+		death_date = 4285.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4235.1.1 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Qin"
+		birth_date = 4205.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4255.1.1 = {
+	heir = {
+		name = "Xian"
+		monarch_name = "Xian I"
+		dynasty = "Qin"
+		birth_date = 4255.1.1
+		death_date = 4297.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4285.1.1 = {
+	monarch = {
+		name = "Xian I"
+		dynasty = "Qin"
+		birth_date = 4255.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4285.1.1 = {
+	heir = {
+		name = "Chuzi"
+		monarch_name = "Chuzi I"
+		dynasty = "Qin"
+		birth_date = 4267.1.1
+		death_date = 4303.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4297.1.1 = {
+	monarch = {
+		name = "Chuzi I"
+		dynasty = "Qin"
+		birth_date = 4267.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+4297.1.1 = {
+	heir = {
+		name = "Wu"
+		monarch_name = "Wu I"
+		dynasty = "Qin"
+		birth_date = 4273.1.1
+		death_date = 4323.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+4303.1.1 = {
+	monarch = {
+		name = "Wu I"
+		dynasty = "Qin"
+		birth_date = 4273.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+4303.1.1 = {
+	heir = {
+		name = "De"
+		monarch_name = "De"
+		dynasty = "Qin"
+		birth_date = 4293.1.1
+		death_date = 4325.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4323.1.1 = {
+	monarch = {
+		name = "De"
+		dynasty = "Qin"
+		birth_date = 4293.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4323.1.1 = {
+	heir = {
+		name = "Xuan"
+		monarch_name = "Xuan"
+		dynasty = "Qin"
+		birth_date = 4295.1.1
+		death_date = 4337.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4325.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Qin"
+		birth_date = 4295.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4325.1.1 = {
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Qin"
+		birth_date = 4307.1.1
+		death_date = 4341.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+4337.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Qin"
+		birth_date = 4307.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+4337.1.1 = {
+	heir = {
+		name = "Mu"
+		monarch_name = "Mu"
+		dynasty = "Qin"
+		birth_date = 4311.1.1
+		death_date = 4380.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+4341.1.1 = {
+	monarch = {
+		name = "Mu"
+		dynasty = "Qin"
+		birth_date = 4311.1.1
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+4350.1.1 = {
+	heir = {
+		name = "Kang"
+		monarch_name = "Kang"
+		dynasty = "Qin"
+		birth_date = 4350.1.1
+		death_date = 4392.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+4380.1.1 = {
+	monarch = {
+		name = "Kang"
+		dynasty = "Qin"
+		birth_date = 4350.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+4380.1.1 = {
+	heir = {
+		name = "Gong"
+		monarch_name = "Gong"
+		dynasty = "Qin"
+		birth_date = 4362.1.1
+		death_date = 4397.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+4392.1.1 = {
+	monarch = {
+		name = "Gong"
+		dynasty = "Qin"
+		birth_date = 4362.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+4392.1.1 = {
+	heir = {
+		name = "Huan"
+		monarch_name = "Huan"
+		dynasty = "Qin"
+		birth_date = 4367.1.1
+		death_date = 4424.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+}
+
+4397.1.1 = {
+	monarch = {
+		name = "Huan"
+		dynasty = "Qin"
+		birth_date = 4367.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+}
+
+4397.1.1 = {
+	heir = {
+		name = "Jing"
+		monarch_name = "Jing"
+		dynasty = "Qin"
+		birth_date = 4394.1.1
+		death_date = 4464.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4424.1.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Qin"
+		birth_date = 4394.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4434.1.1 = {
+	heir = {
+		name = "Ai"
+		monarch_name = "Ai"
+		dynasty = "Qin"
+		birth_date = 4434.1.1
+		death_date = 4500.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4464.1.1 = {
+	monarch = {
+		name = "Ai"
+		dynasty = "Qin"
+		birth_date = 4434.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4470.1.1 = {
+	heir = {
+		name = "Hui"
+		monarch_name = "Hui I"
+		dynasty = "Qin"
+		birth_date = 4470.1.1
+		death_date = 4509.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+4500.1.1 = {
+	monarch = {
+		name = "Hui I"
+		dynasty = "Qin"
+		birth_date = 4470.1.1
+		adm = 0
+		dip = 4
+		mil = 5
+	}
+}
+
+4500.1.1 = {
+	heir = {
+		name = "Dao"
+		monarch_name = "Dao"
+		dynasty = "Qin"
+		birth_date = 4479.1.1
+		death_date = 4524.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+4509.1.1 = {
+	monarch = {
+		name = "Dao"
+		dynasty = "Qin"
+		birth_date = 4479.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+4509.1.1 = {
+	heir = {
+		name = "Ligong"
+		monarch_name = "Ligong"
+		dynasty = "Qin"
+		birth_date = 4494.1.1
+		death_date = 4558.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4524.1.1 = {
+	monarch = {
+		name = "Ligong"
+		dynasty = "Qin"
+		birth_date = 4494.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+4528.1.1 = {
+	heir = {
+		name = "Zao"
+		monarch_name = "Zao"
+		dynasty = "Qin"
+		birth_date = 4528.1.1
+		death_date = 4572.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4558.1.1 = {
+	monarch = {
+		name = "Zao"
+		dynasty = "Qin"
+		birth_date = 4528.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4558.1.1 = {
+	heir = {
+		name = "Huai"
+		monarch_name = "Huai"
+		dynasty = "Qin"
+		birth_date = 4542.1.1
+		death_date = 4576.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4572.1.1 = {
+	monarch = {
+		name = "Huai"
+		dynasty = "Qin"
+		birth_date = 4542.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4572.1.1 = {
+	heir = {
+		name = "Ling"
+		monarch_name = "Ling"
+		dynasty = "Qin"
+		birth_date = 4546.1.1
+		death_date = 4586.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+4576.1.1 = {
+	monarch = {
+		name = "Ling"
+		dynasty = "Qin"
+		birth_date = 4546.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+4576.1.1 = {
+	heir = {
+		name = "Jian"
+		monarch_name = "Jian"
+		dynasty = "Qin"
+		birth_date = 4556.1.1
+		death_date = 4601.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+4586.1.1 = {
+	monarch = {
+		name = "Jian"
+		dynasty = "Qin"
+		birth_date = 4556.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+4586.1.1 = {
+	heir = {
+		name = "Hui"
+		monarch_name = "Hui II"
+		dynasty = "Qin"
+		birth_date = 4571.1.1
+		death_date = 4614.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+4601.1.1 = {
+	monarch = {
+		name = "Hui II"
+		dynasty = "Qin"
+		birth_date = 4571.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+4601.1.1 = {
+	heir = {
+		name = "Chuzi"
+		monarch_name = "Chuzi II"
+		dynasty = "Qin"
+		birth_date = 4584.1.1
+		death_date = 4616.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+4614.1.1 = {
+	monarch = {
+		name = "Chuzi II"
+		dynasty = "Qin"
+		birth_date = 4584.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+4614.1.1 = {
+	heir = {
+		name = "Xian"
+		monarch_name = "Xian II"
+		dynasty = "Qin"
+		birth_date = 4576.1.1
+		death_date = 4639.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+4616.1.1 = {
+	monarch = {
+		name = "Xian II"
+		dynasty = "Qin"
+		birth_date = 4576.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+4619.1.1 = {
+	heir = {
+		name = "Xiao"
+		monarch_name = "Xiao"
+		dynasty = "Qin"
+		birth_date = 4619.1.1
+		death_date = 4663.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+4639.1.1 = {
+	monarch = {
+		name = "Xiao"
+		dynasty = "Qin"
+		birth_date = 4619.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+4643.1.1 = {
+	heir = {
+		name = "Huiwen"
+		monarch_name = "Huiwen"
+		dynasty = "Qin"
+		birth_date = 4643.1.1
+		death_date = 4690.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+4663.1.1 = {
+	monarch = {
+		name = "Huiwen"
+		dynasty = "Qin"
+		birth_date = 4643.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	heir = {
+		name = "Wu"
+		monarch_name = "Wu II"
+		dynasty = "Qin"
+		birth_date = 4670.1.1
+		death_date = 4694.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+4690.1.1 = {
+	monarch = {
+		name = "Wu II"
+		dynasty = "Qin"
+		birth_date = 4670.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+4690.1.1 = {
+	heir = {
+		name = "Zhaoxiang"
+		monarch_name = "Zhaoxiang"
+		dynasty = "Qin"
+		birth_date = 4675.1.1
+		death_date = 4750.9.13
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4694.1.1 = {
+	monarch = {
+		name = "Zhaoxiang"
+		dynasty = "Qin"
+		birth_date = 4675.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4698.1.1 = {
+	heir = {
+		name = "Xiaowen"
+		monarch_name = "Xiaowen"
+		dynasty = "Qin"
+		birth_date = 4698.1.1
+		death_date = 4750.9.15
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+4750.9.13 = {
+	monarch = {
+		name = "Xiaowen"
+		dynasty = "Qin"
+		birth_date = 4698.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+4750.9.13 = {
+	heir = {
+		name = "Zhuangxiang"
+		monarch_name = "Zhuangxiang"
+		dynasty = "Qin"
+		birth_date = 4719.1.1
+		death_date = 4753.5.7
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+}
+
+4750.9.15 = {
+	monarch = {
+		name = "Zhuangxiang"
+		dynasty = "Qin"
+		birth_date = 4719.1.1
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+}
+
+4750.9.15 = {
+	heir = {
+		name = "Qin Shi Huangdi"
+		monarch_name = "Qin Shi Huangdi"
+		dynasty = "Qin"
+		birth_date = 4740.2.7
+		death_date = 4790.8.10
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+4753.5.7 = {
+	monarch = {
+		name = "Qin Shi Huangdi"
+		dynasty = "Qin"
+		birth_date = 4740.2.7
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+4771.1.1 = { government = celestial_empire government_rank = 3 }
+
+4771.1.1 = {
+	heir = {
+		name = "Qin Er Shi"
+		monarch_name = "Qin Er Shi"
+		dynasty = "Qin"
+		birth_date = 4771.1.1
+		death_date = 4793.10.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+4790.8.10 = {
+	monarch = {
+		name = "Qin Er Shi"
+		dynasty = "Qin"
+		birth_date = 4771.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+4794.8.10 = {
+	government = despotic_monarchy government_rank = 2
+	monarch = {
+		name = "Zhang Han"
+		dynasty = "Yong"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

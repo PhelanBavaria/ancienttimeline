@@ -5,3 +5,198 @@ religion = confucianism
 primary_culture = jin
 capital = 688	# Kaifeng
 
+4597.1.1 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Wei"
+		birth_date = 4567.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+4597.1.1 = {
+	heir = {
+		name = "Wu"
+		monarch_name = "Wu"
+		dynasty = "Wei"
+		birth_date = 4574.1.1
+		death_date = 4630.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+4604.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Wei"
+		birth_date = 4574.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+4604.1.1 = {
+	heir = {
+		name = "Hui"
+		monarch_name = "Hui"
+		dynasty = "Wei"
+		birth_date = 4600.1.1
+		death_date = 4681.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4630.1.1 = {
+	monarch = {
+		name = "Hui"
+		dynasty = "Wei"
+		birth_date = 4600.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4651.1.1 = {
+	heir = {
+		name = "Xiang"
+		monarch_name = "Xiang"
+		dynasty = "Wei"
+		birth_date = 4651.1.1
+		death_date = 4704.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4681.1.1 = {
+	monarch = {
+		name = "Xiang"
+		dynasty = "Wei"
+		birth_date = 4651.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4681.1.1 = {
+	heir = {
+		name = "Zhao"
+		monarch_name = "Zhao"
+		dynasty = "Wei"
+		birth_date = 4674.1.1
+		death_date = 4723.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4704.1.1 = {
+	monarch = {
+		name = "Zhao"
+		dynasty = "Wei"
+		birth_date = 4674.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4704.1.1 = {
+	heir = {
+		name = "Anxi"
+		monarch_name = "Anxi"
+		dynasty = "Wei"
+		birth_date = 4693.1.1
+		death_date = 4757.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4723.1.1 = {
+	monarch = {
+		name = "Anxi"
+		dynasty = "Wei"
+		birth_date = 4693.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4727.1.1 = {
+	heir = {
+		name = "Jingmin"
+		monarch_name = "Jingmin"
+		dynasty = "Wei"
+		birth_date = 4727.1.1
+		death_date = 4772.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+4757.1.1 = {
+	monarch = {
+		name = "Jingmin"
+		dynasty = "Wei"
+		birth_date = 4727.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+4757.1.1 = {
+	heir = {
+		name = "Jia"
+		monarch_name = "Jia"
+		dynasty = "Wei"
+		birth_date = 4740.1.1
+		death_date = 4775.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4772.1.1 = {
+	monarch = {
+		name = "Jia"
+		dynasty = "Wei"
+		birth_date = 4740.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4794.1.1 = {
+	monarch = {
+		name = "Bao"
+		dynasty = "Wei"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

@@ -4,3 +4,274 @@ technology_group = chinese
 religion = confucianism
 primary_culture = jin
 capital = 1836
+
+4597.1.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Han"
+		birth_date = 4567.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+4597.1.1 = {
+	heir = {
+		name = "Lie"
+		monarch_name = "Lie"
+		dynasty = "Han"
+		birth_date = 4571.1.1
+		death_date = 4614.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+4601.1.1 = {
+	monarch = {
+		name = "Lie"
+		dynasty = "Han"
+		birth_date = 4571.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+4601.1.1 = {
+	heir = {
+		name = "Wen"
+		monarch_name = "Wen"
+		dynasty = "Han"
+		birth_date = 4584.1.1
+		death_date = 4624.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4614.1.1 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Han"
+		birth_date = 4584.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4614.1.1 = {
+	heir = {
+		name = "Ai"
+		monarch_name = "Ai"
+		dynasty = "Han"
+		birth_date = 4594.1.1
+		death_date = 4626.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+4624.1.1 = {
+	monarch = {
+		name = "Ai"
+		dynasty = "Han"
+		birth_date = 4594.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+4624.1.1 = {
+	heir = {
+		name = "Gong"
+		monarch_name = "Gong"
+		dynasty = "Han"
+		birth_date = 4596.1.1
+		death_date = 4638.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4626.1.1 = {
+	monarch = {
+		name = "Gong"
+		dynasty = "Han"
+		birth_date = 4596.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4626.1.1 = {
+	heir = {
+		name = "Xi"
+		monarch_name = "Xi"
+		dynasty = "Han"
+		birth_date = 4608.1.1
+		death_date = 4668.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4638.1.1 = {
+	monarch = {
+		name = "Xi"
+		dynasty = "Han"
+		birth_date = 4608.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+4638.1.1 = {
+	heir = {
+		name = "Xuanhui"
+		monarch_name = "Xuanhui"
+		dynasty = "Han"
+		birth_date = 4638.1.1
+		death_date = 4689.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+4668.1.1 = {
+	monarch = {
+		name = "Xuanhui"
+		dynasty = "Han"
+		birth_date = 4638.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+4668.1.1 = {
+	heir = {
+		name = "Xiang"
+		monarch_name = "Xiang"
+		dynasty = "Han"
+		birth_date = 4659.1.1
+		death_date = 4705.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+4689.1.1 = {
+	monarch = {
+		name = "Xiang"
+		dynasty = "Han"
+		birth_date = 4659.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+4689.1.1 = {
+	heir = {
+		name = "Xi"
+		monarch_name = "Xi"
+		dynasty = "Han"
+		birth_date = 4675.1.1
+		death_date = 4728.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+4705.1.1 = {
+	monarch = {
+		name = "Xi"
+		dynasty = "Han"
+		birth_date = 4675.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+4705.1.1 = {
+	heir = {
+		name = "Huanhui"
+		monarch_name = "Huanhui"
+		dynasty = "Han"
+		birth_date = 4698.1.1
+		death_date = 4762.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4728.1.1 = {
+	monarch = {
+		name = "Huanhui"
+		dynasty = "Han"
+		birth_date = 4698.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4740.1.1 = {
+	heir = {
+		name = "An"
+		monarch_name = "An"
+		dynasty = "Han"
+		birth_date = 4740.1.1
+		death_date = 4770.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+4762.1.1 = {
+	monarch = {
+		name = "An"
+		dynasty = "Han"
+		birth_date = 4740.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+4794.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Han"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
