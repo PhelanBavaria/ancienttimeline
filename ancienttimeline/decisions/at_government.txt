@@ -1,0 +1,18 @@
+country_decisions = {
+    
+    form_feudal_from_tribal = {
+        potential = {
+            government = tribal_monarchy
+        }
+        allow = {
+            stability = 1
+            NOT = { has_country_modifier = minimum_centralization }
+            NOT = { has_country_modifier = low_centralization }
+        }
+        effect = {
+            add_stability = -5
+            add_unrest = 40
+            change_government = feudal_monarchy
+        }
+    }
+}

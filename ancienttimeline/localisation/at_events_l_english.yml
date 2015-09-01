@@ -24,3 +24,5 @@ l_english:
  gen.EVTNAME2: "Powerful rulers rise"
  gen.EVTDESC2: "Some rulers of your country don't see you fit for the throne and seek independence, how shall we react?"
  gen.EVTOPTA2: "Show them who is the ruler of these lands!"
+ tribal_flavor.EVTNAME2: "Our rule is accepted"
+ tribal_flavor.EVTDESC2: "The people finally see that they are better off under our protection, they shouldn't cause too much trouble in the future."

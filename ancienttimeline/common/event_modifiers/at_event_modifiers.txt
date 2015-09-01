@@ -71,3 +71,7 @@ independence_fighter = {
 	global_manpower_modifier = 2.0
 	land_maintenance_modifier = -0.5
 }
+
+unruly_people = {
+	local_unrest = 40
+}

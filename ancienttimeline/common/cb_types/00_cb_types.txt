@@ -187,9 +187,13 @@ cb_humiliate = {
 cb_conquest = {
 	
 	prerequisites = {
-		cb_on_conquest = yes
 		claim = FROM
 		is_revolution_target = no
+		NOT = {
+            government = tribal_democracy
+            government = tribal_federation
+            government = tribal_kingdom
+        }
 	}
 	
 	war_goal = take_claim

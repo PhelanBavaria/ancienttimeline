@@ -1,1 +1,52 @@
 namespace = tribal_flavor
+
+# Recently conquered provinces don't like to be ruled
+province_event = {
+    id = tribal_flavor.1
+
+    hidden = yes
+
+    trigger = {
+        NOT = { is_core = owner }
+        owner = {
+            OR = {
+                government = tribal_democracy
+                government = tribal_federation
+                government = tribal_kingdom
+            }
+        }
+    }
+
+    option = {
+        add_province_modifier = {
+            name = "unruly_people"
+            duration = -1
+        }
+    }
+}
+
+
+# Local rulers finally accept our rule
+province_event = {
+    id = tribal_flavor.2
+    title = tribal_flavor.EVTNAME2
+    desc = tribal_flavor.EVTDESC2
+    picture = COURT_eventPicture
+
+    trigger = {
+        has_province_modifier = unruly_people
+    }
+
+    mean_time_to_happen = {
+        months = 240
+
+        modifier = {
+            factor = 1.5
+            NOT = { owner = { legitimacy = 70 }}
+        }
+    }
+
+    option = {
+        remove_province_modifier = unruly_people
+    }
+}
