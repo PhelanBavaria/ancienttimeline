@@ -1,0 +1,64 @@
+#Increased Centralization
+
+increased_centralization = {
+    potential = {
+        has_country_modifier = increased_centralization
+    }
+    can_start = {
+        has_country_modifier = increased_centralization
+    }
+    can_stop = {
+        NOT = { has_country_modifier = increased_centralization }
+    }
+    progress = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 1
+            NOT = { legitimacy = 90 }
+        }
+        modifier = {
+            factor = 1
+            has_heir = no
+        }
+        modifier = {
+            factor = 1
+            NOT = { months_of_ruling = 12 }
+        }
+        modifier = {
+            factor = -3
+            stability = 3
+        }
+        modifier = {
+            factor = -2
+            stability = 2
+            NOT = { stability = 3 }
+        }
+        modifier = {
+            factor = -1
+            stability = 1
+            NOT = { stability = 2 }
+        }
+        modifier = {
+            factor = 1
+            stability = -1
+            NOT = { stability = 0 }
+        }
+        modifier = {
+            factor = 2
+            stability = -2
+            NOT = { stability = -1 }
+        }
+        modifier = {
+            factor = 3
+            stability = -3
+            NOT = { stability = -2 }
+        }
+    }
+    can_end = {
+        NOT = { has_country_modifier = increased_centralization }
+        NOT = { num_of_rebel_controlled_provinces = 1 }
+    }
+    on_end = rebellions.100
+}
