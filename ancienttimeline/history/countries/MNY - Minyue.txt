@@ -4,3 +4,65 @@ technology_group = chinese
 religion = animism
 primary_culture = yue_culture
 capital = 1829
+
+4798.1.1 = {
+	monarch = {
+		name = "Wuzhu"
+		dynasty = "Minyue"
+		birth_date = 4768.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+4800.1.1 = {
+	heir = {
+		name = "Ying"
+		monarch_name = "Ying"
+		dynasty = "Minyue"
+		birth_date = 4800.1.1
+		death_date = 4865.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4830.1.1 = {
+	monarch = {
+		name = "Ying"
+		dynasty = "Minyue"
+		birth_date = 4800.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+4830.1.1 = {
+	heir = {
+		name = "Yushan"
+		monarch_name = "Yushan"
+		dynasty = "Minyue"
+		birth_date = 4830.1.1
+		death_date = 4889.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+4865.1.1 = {
+	monarch = {
+		name = "Yushan"
+		dynasty = "Minyue"
+		birth_date = 4830.1.1
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
