@@ -4,3 +4,515 @@ technology_group = nomad_group
 religion = tengri_pagan_reformed
 primary_culture = xiongnu
 capital = 702
+
+4760.1.1 = {
+	monarch = {
+		name = "Touman"
+		dynasty = "Xiongnu"
+		birth_date = 4730.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+4761.1.1 = {
+	heir = {
+		name = "Modu"
+		monarch_name = "Modu"
+		dynasty = "Xiongnu"
+		birth_date = 4761.1.1
+		death_date = 4826.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+
+4791.1.1 = {
+	monarch = {
+		name = "Modu"
+		dynasty = "Xiongnu"
+		birth_date = 4761.1.1
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+
+4796.1.1 = {
+	heir = {
+		name = "Laoshang"
+		monarch_name = "Laoshang"
+		dynasty = "Xiongnu"
+		birth_date = 4796.1.1
+		death_date = 4839.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+4826.1.1 = {
+	monarch = {
+		name = "Laoshang"
+		dynasty = "Xiongnu"
+		birth_date = 4796.1.1
+		adm = 4
+		dip = 3
+		mil = 0
+	}
+}
+
+4826.1.1 = {
+	heir = {
+		name = "Gunchen"
+		monarch_name = "Gunchen"
+		dynasty = "Xiongnu"
+		birth_date = 4809.1.1
+		death_date = 4874.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+4839.1.1 = {
+	monarch = {
+		name = "Gunchen"
+		dynasty = "Xiongnu"
+		birth_date = 4809.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+4844.1.1 = {
+	heir = {
+		name = "Ichise"
+		monarch_name = "Ichise"
+		dynasty = "Xiongnu"
+		birth_date = 4844.1.1
+		death_date = 4886.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+4874.1.1 = {
+	monarch = {
+		name = "Ichise"
+		dynasty = "Xiongnu"
+		birth_date = 4844.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+4874.1.1 = {
+	heir = {
+		name = "Uwei"
+		monarch_name = "Uwei"
+		dynasty = "Xiongnu"
+		birth_date = 4856.1.1
+		death_date = 4895.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+4886.1.1 = {
+	monarch = {
+		name = "Uwei"
+		dynasty = "Xiongnu"
+		birth_date = 4856.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+4886.1.1 = {
+	heir = {
+		name = "Ushylu"
+		monarch_name = "Ushylu"
+		dynasty = "Xiongnu"
+		birth_date = 4865.1.1
+		death_date = 4899.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+4895.1.1 = {
+	monarch = {
+		name = "Ushylu"
+		dynasty = "Xiongnu"
+		birth_date = 4865.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+4895.1.1 = {
+	heir = {
+		name = "Guilihu"
+		monarch_name = "Guilihu"
+		dynasty = "Xiongnu"
+		birth_date = 4869.1.1
+		death_date = 4900.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+4899.1.1 = {
+	monarch = {
+		name = "Guilihu"
+		dynasty = "Xiongnu"
+		birth_date = 4869.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+4899.1.1 = {
+	heir = {
+		name = "Chedi"
+		monarch_name = "Chedi"
+		dynasty = "Xiongnu"
+		birth_date = 4870.1.1
+		death_date = 4904.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+4900.1.1 = {
+	monarch = {
+		name = "Chedi"
+		dynasty = "Xiongnu"
+		birth_date = 4870.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+4900.1.1 = {
+	heir = {
+		name = "Hulugu"
+		monarch_name = "Hulugu"
+		dynasty = "Xiongnu"
+		birth_date = 4874.1.1
+		death_date = 4915.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4904.1.1 = {
+	monarch = {
+		name = "Hulugu"
+		dynasty = "Xiongnu"
+		birth_date = 4874.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+4904.1.1 = {
+	heir = {
+		name = "Huandi"
+		monarch_name = "Huandi"
+		dynasty = "Xiongnu"
+		birth_date = 4885.1.1
+		death_date = 4932.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+4915.1.1 = {
+	monarch = {
+		name = "Huandi"
+		dynasty = "Xiongnu"
+		birth_date = 4885.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+4915.1.1 = {
+	heir = {
+		name = "Hyuilui-Juankui"
+		monarch_name = "Hyuilui-Juankui"
+		dynasty = "Xiongnu"
+		birth_date = 4902.1.1
+		death_date = 4940.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4932.1.1 = {
+	monarch = {
+		name = "Hyuilui-Juankui"
+		dynasty = "Xiongnu"
+		birth_date = 4902.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+4932.1.1 = {
+	heir = {
+		name = "Uyan-Guidi"
+		monarch_name = "Uyan-Guidi"
+		dynasty = "Xiongnu"
+		birth_date = 4910.1.1
+		death_date = 4942.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4940.1.1 = {
+	monarch = {
+		name = "Uyan-Guidi"
+		dynasty = "Xiongnu"
+		birth_date = 4910.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+4940.1.1 = {
+	heir = {
+		name = "Huhanye"
+		monarch_name = "Huhanye"
+		dynasty = "Xiongnu"
+		birth_date = 4912.1.1
+		death_date = 4969.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4942.1.1 = {
+	monarch = {
+		name = "Huhanye"
+		dynasty = "Xiongnu"
+		birth_date = 4912.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4942.1.1 = {
+	heir = {
+		name = "Fujulei"
+		monarch_name = "Fujulei"
+		dynasty = "Xiongnu"
+		birth_date = 4939.1.1
+		death_date = 4980.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4969.1.1 = {
+	monarch = {
+		name = "Fujulei"
+		dynasty = "Xiongnu"
+		birth_date = 4939.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+4969.1.1 = {
+	heir = {
+		name = "Seuxie"
+		monarch_name = "Seuxie"
+		dynasty = "Xiongnu"
+		birth_date = 4950.1.1
+		death_date = 4988.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+4980.1.1 = {
+	monarch = {
+		name = "Seuxie"
+		dynasty = "Xiongnu"
+		birth_date = 4950.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+4980.1.1 = {
+	heir = {
+		name = "Guia"
+		monarch_name = "Guia"
+		dynasty = "Xiongnu"
+		birth_date = 4958.1.1
+		death_date = 4992.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+4988.1.1 = {
+	monarch = {
+		name = "Guia"
+		dynasty = "Xiongnu"
+		birth_date = 4958.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+4988.1.1 = {
+	heir = {
+		name = "Uchjulu"
+		monarch_name = "Uchjulu"
+		dynasty = "Xiongnu"
+		birth_date = 4962.1.1
+		death_date = 5013.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4992.1.1 = {
+	monarch = {
+		name = "Uchjulu"
+		dynasty = "Xiongnu"
+		birth_date = 4962.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4992.1.1 = {
+	heir = {
+		name = "Ulei Hyan"
+		monarch_name = "Ulei Hyan"
+		dynasty = "Xiongnu"
+		birth_date = 4983.1.1
+		death_date = 5018.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+5013.1.1 = {
+	monarch = {
+		name = "Ulei Hyan"
+		dynasty = "Xiongnu"
+		birth_date = 4983.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+5013.1.1 = {
+	heir = {
+		name = "Yui"
+		monarch_name = "Yui"
+		dynasty = "Xiongnu"
+		birth_date = 4988.1.1
+		death_date = 5046.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+5018.1.1 = {
+	monarch = {
+		name = "Yui"
+		dynasty = "Xiongnu"
+		birth_date = 4988.1.1
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+5020.1.1 = {
+	heir = {
+		name = "Punu"
+		monarch_name = "Punu"
+		dynasty = "Xiongnu"
+		birth_date = 5020.1.1
+		death_date = 5087.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+5046.1.1 = {
+	monarch = {
+		name = "Punu"
+		dynasty = "Xiongnu"
+		birth_date = 5020.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+

@@ -4,3 +4,415 @@ technology_group = chinese
 religion = animism
 primary_culture = vietnamese
 capital = 616
+
+3720.1.1 = {
+	monarch = {
+		name = "Hien"
+		dynasty = "Van Lang"
+		birth_date = 3690.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+3750.1.1 = {
+	heir = {
+		name = "Lan"
+		monarch_name = "Lan"
+		dynasty = "Van Lang"
+		birth_date = 3750.1.1
+		death_date = 3840.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+3780.1.1 = {
+	monarch = {
+		name = "Lan"
+		dynasty = "Van Lang"
+		birth_date = 3750.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+3810.1.1 = {
+	heir = {
+		name = "Viep"
+		monarch_name = "Viep"
+		dynasty = "Van Lang"
+		birth_date = 3810.1.1
+		death_date = 3900.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+3840.1.1 = {
+	monarch = {
+		name = "Viep"
+		dynasty = "Van Lang"
+		birth_date = 3810.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+3870.1.1 = {
+	heir = {
+		name = "Hy"
+		monarch_name = "Hy"
+		dynasty = "Van Lang"
+		birth_date = 3870.1.1
+		death_date = 3960.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+3900.1.1 = {
+	monarch = {
+		name = "Hy"
+		dynasty = "Van Lang"
+		birth_date = 3870.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+3930.1.1 = {
+	heir = {
+		name = "Huy"
+		monarch_name = "Huy"
+		dynasty = "Van Lang"
+		birth_date = 3930.1.1
+		death_date = 4020.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+3960.1.1 = {
+	monarch = {
+		name = "Huy"
+		dynasty = "Van Lang"
+		birth_date = 3930.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+3990.1.1 = {
+	heir = {
+		name = "Chieu"
+		monarch_name = "Chieu"
+		dynasty = "Van Lang"
+		birth_date = 3990.1.1
+		death_date = 4080.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4020.1.1 = {
+	monarch = {
+		name = "Chieu"
+		dynasty = "Van Lang"
+		birth_date = 3990.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4050.1.1 = {
+	heir = {
+		name = "Vy"
+		monarch_name = "Vy"
+		dynasty = "Van Lang"
+		birth_date = 4050.1.1
+		death_date = 4140.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4080.1.1 = {
+	monarch = {
+		name = "Vy"
+		dynasty = "Van Lang"
+		birth_date = 4050.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4110.1.1 = {
+	heir = {
+		name = "Dinh"
+		monarch_name = "Dinh"
+		dynasty = "Van Lang"
+		birth_date = 4110.1.1
+		death_date = 4200.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4140.1.1 = {
+	monarch = {
+		name = "Dinh"
+		dynasty = "Van Lang"
+		birth_date = 4110.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4170.1.1 = {
+	heir = {
+		name = "Hy"
+		monarch_name = "Hy"
+		dynasty = "Van Lang"
+		birth_date = 4170.1.1
+		death_date = 4260.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4200.1.1 = {
+	monarch = {
+		name = "Hy"
+		dynasty = "Van Lang"
+		birth_date = 4170.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+4230.1.1 = {
+	heir = {
+		name = "Trinh"
+		monarch_name = "Trinh"
+		dynasty = "Van Lang"
+		birth_date = 4230.1.1
+		death_date = 4320.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4260.1.1 = {
+	monarch = {
+		name = "Trinh"
+		dynasty = "Van Lang"
+		birth_date = 4230.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+4290.1.1 = {
+	heir = {
+		name = "Vo"
+		monarch_name = "Vo"
+		dynasty = "Van Lang"
+		birth_date = 4290.1.1
+		death_date = 4380.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+4320.1.1 = {
+	monarch = {
+		name = "Vo"
+		dynasty = "Van Lang"
+		birth_date = 4290.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+4350.1.1 = {
+	heir = {
+		name = "Viet"
+		monarch_name = "Viet"
+		dynasty = "Van Lang"
+		birth_date = 4350.1.1
+		death_date = 4440.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4380.1.1 = {
+	monarch = {
+		name = "Viet"
+		dynasty = "Van Lang"
+		birth_date = 4350.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4410.1.1 = {
+	heir = {
+		name = "Anh"
+		monarch_name = "Anh"
+		dynasty = "Van Lang"
+		birth_date = 4410.1.1
+		death_date = 4500.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4440.1.1 = {
+	monarch = {
+		name = "Anh"
+		dynasty = "Van Lang"
+		birth_date = 4410.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4470.1.1 = {
+	heir = {
+		name = "Trieu"
+		monarch_name = "Trieu"
+		dynasty = "Van Lang"
+		birth_date = 4470.1.1
+		death_date = 4560.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+4500.1.1 = {
+	monarch = {
+		name = "Trieu"
+		dynasty = "Van Lang"
+		birth_date = 4470.1.1
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+4530.1.1 = {
+	heir = {
+		name = "Tao"
+		monarch_name = "Tao"
+		dynasty = "Van Lang"
+		birth_date = 4530.1.1
+		death_date = 4620.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4560.1.1 = {
+	monarch = {
+		name = "Tao"
+		dynasty = "Van Lang"
+		birth_date = 4530.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+4590.1.1 = {
+	heir = {
+		name = "Nghi"
+		monarch_name = "Nghi"
+		dynasty = "Van Lang"
+		birth_date = 4590.1.1
+		death_date = 4680.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4620.1.1 = {
+	monarch = {
+		name = "Nghi"
+		dynasty = "Van Lang"
+		birth_date = 4590.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+4660.1.1 = {
+	heir = {
+		name = "Due"
+		monarch_name = "Due"
+		dynasty = "Van Lang"
+		birth_date = 4660.1.1
+		death_date = 4742.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+4680.1.1 = {
+	monarch = {
+		name = "Due"
+		dynasty = "Van Lang"
+		birth_date = 4660.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+

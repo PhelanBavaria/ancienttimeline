@@ -4,3 +4,13 @@ technology_group = chinese
 religion = animism
 primary_culture = vietnamese
 capital = 616
+
+4743.1.1 = {
+	monarch = {
+		name = "Phan"
+		dynasty = "Thuc"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

@@ -4,3 +4,265 @@ technology_group = chinese
 religion = confucianism
 primary_culture = yue_culture
 capital = 1824
+
+4435.1.1 = {
+	monarch = {
+		name = "Futan"
+		dynasty = "Yue"
+		birth_date = 4405.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4435.1.1 = {
+	heir = {
+		name = "Yunchang"
+		monarch_name = "Yunchang"
+		dynasty = "Yue"
+		birth_date = 4432.1.1
+		death_date = 4504.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+4462.1.1 = {
+	monarch = {
+		name = "Yunchang"
+		dynasty = "Yue"
+		birth_date = 4432.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+4474.1.1 = {
+	heir = {
+		name = "Goujian"
+		monarch_name = "Goujian"
+		dynasty = "Yue"
+		birth_date = 4474.1.1
+		death_date = 4535.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+4504.1.1 = {
+	monarch = {
+		name = "Goujian"
+		dynasty = "Yue"
+		birth_date = 4474.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+4505.1.1 = {
+	heir = {
+		name = "Luying"
+		monarch_name = "Luying"
+		dynasty = "Yue"
+		birth_date = 4505.1.1
+		death_date = 4541.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+4535.1.1 = {
+	monarch = {
+		name = "Luying"
+		dynasty = "Yue"
+		birth_date = 4505.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+4535.1.1 = {
+	heir = {
+		name = "Bushou"
+		monarch_name = "Bushou"
+		dynasty = "Yue"
+		birth_date = 4511.1.1
+		death_date = 4551.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4541.1.1 = {
+	monarch = {
+		name = "Bushou"
+		dynasty = "Yue"
+		birth_date = 4511.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4541.1.1 = {
+	heir = {
+		name = "Weng"
+		monarch_name = "Weng"
+		dynasty = "Yue"
+		birth_date = 4521.1.1
+		death_date = 4588.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+4551.1.1 = {
+	monarch = {
+		name = "Weng"
+		dynasty = "Yue"
+		birth_date = 4521.1.1
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+4558.1.1 = {
+	heir = {
+		name = "Yi"
+		monarch_name = "Yi"
+		dynasty = "Yue"
+		birth_date = 4558.1.1
+		death_date = 4624.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4588.1.1 = {
+	monarch = {
+		name = "Yi"
+		dynasty = "Yue"
+		birth_date = 4558.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4594.1.1 = {
+	heir = {
+		name = "Zhihou"
+		monarch_name = "Zhihou"
+		dynasty = "Yue"
+		birth_date = 4594.1.1
+		death_date = 4625.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+4624.1.1 = {
+	monarch = {
+		name = "Zhihou"
+		dynasty = "Yue"
+		birth_date = 4594.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+4624.1.1 = {
+	heir = {
+		name = "Chuwuyu"
+		monarch_name = "Chuwuyu"
+		dynasty = "Yue"
+		birth_date = 4595.1.1
+		death_date = 4635.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+4625.1.1 = {
+	monarch = {
+		name = "Chuwuyu"
+		dynasty = "Yue"
+		birth_date = 4595.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+4625.1.1 = {
+	heir = {
+		name = "Wuzhuan"
+		monarch_name = "Wuzhuan"
+		dynasty = "Yue"
+		birth_date = 4605.1.1
+		death_date = 4643.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4635.1.1 = {
+	monarch = {
+		name = "Wuzhuan"
+		dynasty = "Yue"
+		birth_date = 4605.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4635.1.1 = {
+	heir = {
+		name = "Wuqiang"
+		monarch_name = "Wuqiang"
+		dynasty = "Yue"
+		birth_date = 4620.1.1
+		death_date = 4667.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+4643.1.1 = {
+	monarch = {
+		name = "Wuqiang"
+		dynasty = "Yue"
+		birth_date = 4620.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+

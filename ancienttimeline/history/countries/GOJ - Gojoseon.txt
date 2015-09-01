@@ -4,3 +4,76 @@ primary_culture = korean
 religion = muism
 technology_group = chinese
 capital = 733
+
+4740.1.1 = {
+	monarch = {
+		name = "Kun"
+		dynasty = "Gija Joseon"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+
+4806.1.1 = {
+	monarch = {
+		name = "Wi Man"
+		dynasty = "Wiman Joseon"
+		birth_date = 4776.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+4810.1.1 = {
+	heir = {
+		name = "Wiman Ui Adeul"
+		monarch_name = "Wiman Ui Adeul"
+		dynasty = "Wiman Joseon"
+		birth_date = 4810.1.1
+		death_date = 4860.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+4840.1.1 = {
+	monarch = {
+		name = "Wiman Ui Adeul"
+		dynasty = "Wiman Joseon"
+		birth_date = 4810.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+4840.1.1 = {
+	heir = {
+		name = "Ugeo"
+		monarch_name = "Ugeo"
+		dynasty = "Wiman Joseon"
+		birth_date = 4840.1.1
+		death_date = 4892.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4860.1.1 = {
+	monarch = {
+		name = "Ugeo"
+		dynasty = "Wiman Joseon"
+		birth_date = 4840.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
