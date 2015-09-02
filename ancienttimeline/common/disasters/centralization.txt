@@ -60,5 +60,11 @@ increased_centralization = {
         NOT = { has_country_modifier = increased_centralization }
         NOT = { num_of_rebel_controlled_provinces = 1 }
     }
+
+    on_start = rebellions.1
     on_end = rebellions.100
+
+    on_monthly = {
+        rebellions.2
+    }
 }

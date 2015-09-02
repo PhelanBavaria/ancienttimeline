@@ -1,13 +1,66 @@
 namespace = rebellions
 
-# End of centralization efforts
 country_event = {
-    id = rebellions.100
+    id = rebellions.1
     title = "rebellions.EVTNAME1"
     desc = "rebellions.EVTDESC1"
     pictuer = CIVIL_WAR_eventPicture
 
-    major = yes
+    is_triggered_only = yes
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    immediate = {
+        random_owned_province = {
+            spawn_rebels = {
+                type = particularist_rebels
+                size = 2
+                win = yes
+                unrest = 15
+            }
+        }
+    }
+
+    option = {
+        name = "rebellions.EVTOPTA1"
+    }
+}
+
+# National decentralisation
+country_event = {
+    id = rebellions.2
+    title = "rebellions.EVTNAME2"
+    desc = "rebellions.EVTDESC2"
+    picture = CIVIL_WAR_eventPicture
+    
+    is_triggered_only = yes
+
+    trigger = {
+        has_country_modifier = increased_centralization
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "rebellions.EVTOPTA2"            # Crush the rebels
+        ai_chance = { factor = 55 }
+        random_owned_province = {
+            limit = { is_core = ROOT }
+            particularist_rebels = 3
+        }
+    }
+}
+
+# End of centralization efforts
+country_event = {
+    id = rebellions.100
+    title = "rebellions.EVTNAME100"
+    desc = "rebellions.EVTDESC100"
+    pictuer = CIVIL_WAR_eventPicture
 
     is_triggered_only = yes
 
@@ -17,36 +70,5 @@ country_event = {
 
     option = {
         name = "rebellions.EVTOPTA100"
-        if = {
-            limit = { has_country_modifier = high_centralization }
-            remove_country_modifier = high_centralization
-            add_country_modifier = {
-                name = "maximum_centralization"
-                duration = -1
-            }
-        }
-        if = {
-            limit = { 
-                NOT = { has_country_modifier = minimum_centralization } 
-                NOT = { has_country_modifier = low_centralization }
-                NOT = { has_country_modifier = high_centralization }
-            }
-            add_country_modifier = {
-                name = "high_centralization"
-                duration = -1
-            }
-        }
-        if = {
-            limit = { has_country_modifier = low_centralization }
-            remove_country_modifier = low_centralization
-        }
-        if = {
-            limit = { has_country_modifier = minimum_centralization }
-            remove_country_modifier = minimum_centralization
-            add_country_modifier = {
-                name = "low_centralization"
-                duration = -1
-            }
-        }
     }
 }

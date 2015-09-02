@@ -21,6 +21,37 @@ country_decisions = {
 				name = "increased_centralization"
 				duration = 1825
 			}
+		if = {
+            limit = { has_country_modifier = high_centralization }
+            remove_country_modifier = high_centralization
+            add_country_modifier = {
+                name = "maximum_centralization"
+                duration = -1
+            }
+        }
+        if = {
+            limit = { 
+                NOT = { has_country_modifier = minimum_centralization } 
+                NOT = { has_country_modifier = low_centralization }
+                NOT = { has_country_modifier = high_centralization }
+            }
+            add_country_modifier = {
+                name = "high_centralization"
+                duration = -1
+            }
+        }
+        if = {
+            limit = { has_country_modifier = low_centralization }
+            remove_country_modifier = low_centralization
+        }
+        if = {
+            limit = { has_country_modifier = minimum_centralization }
+            remove_country_modifier = minimum_centralization
+            add_country_modifier = {
+                name = "low_centralization"
+                duration = -1
+            }
+        }
 		}
 		ai_will_do = {
 			factor = 1
