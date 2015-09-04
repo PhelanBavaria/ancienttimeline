@@ -131,7 +131,7 @@ on_regent = {
 	random_events = { 
 		1000 = 0
 		600 = gen.2
-	}7
+	}
 }
 
 # country 
