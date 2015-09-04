@@ -1,7 +1,7 @@
 #120 - Abbruzzi
 
 culture = umbrian
-religion = animism
+religion = hellenism
 hre = no 
 base_tax = 2
 base_production = 2

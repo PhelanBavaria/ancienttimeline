@@ -1,7 +1,7 @@
 government = tribal_federation
 government_rank = 2
 mercantilism = 0.1
-primary_culture = umbrian
-religion = animism
+primary_culture = oscan
+religion = hellenism
 technology_group = gauls
 capital = 117	# Siena
