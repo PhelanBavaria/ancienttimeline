@@ -18,3 +18,4 @@ discovered_by = muslim
 discovered_by = ottoman
 
 4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }
+4710.1.1 = { owner = MRU controller = MRU add_core = MRU citysize = 1000 }
