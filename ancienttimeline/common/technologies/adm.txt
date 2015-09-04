@@ -528,6 +528,7 @@ technology = {
 technology = {
 	# Tech 96
 	year = 4200
+	administrative_efficiency = 0.2
 }
 
 technology = {
@@ -592,6 +593,7 @@ technology = {
 technology = {
 	# Tech 108
 	year = 4500
+	administrative_efficiency = 0.2
 }
 
 technology = {
@@ -634,6 +636,7 @@ technology = {
 technology = {
 	# Tech 116
 	year = 4700
+	administrative_efficiency = 0.2
 }
 
 technology = {
@@ -655,6 +658,7 @@ technology = {
 technology = {
 	# Tech 120
 	year = 4800
+	development_efficiency = 0.05
 }
 
 technology = {
@@ -676,11 +680,13 @@ technology = {
 technology = {
 	# Tech 124
 	year = 4900
+	administrative_efficiency = 0.2
 }
 
 technology = {
 	# Tech 125
 	year = 4925
+	development_efficiency = 0.05
 }
 
 technology = {
@@ -703,6 +709,7 @@ technology = {
 technology = {
 	# Tech 129
 	year = 5025
+	development_efficiency = 0.05
 }
 
 technology = {
@@ -714,6 +721,7 @@ technology = {
 technology = {
 	# Tech 131
 	year = 5075
+	development_efficiency = 0.05
 }
 
 technology = {
