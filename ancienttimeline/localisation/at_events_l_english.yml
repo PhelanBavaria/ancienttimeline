@@ -5,6 +5,7 @@ l_english:
  alex.EVTNAME2: "Death of Alexander the Great"
  alex.EVTDESC2: "Alexander the Great has died, and the Empire is certain to fall into chaos as his generals fight over his Empire."
  alex.EVTOPTA2: "A great man has died."
+ alex.EVTNAME10: "Dividing the Empire"
  alex.EVTNAME11: "Diadochi wars"
  alex.EVTDESC11: "With the death of Alexander, his generals now fight over the spoils of the empire. We should choose which one to support"
  alex.EVTOPTA11: "We shall support Cassander"

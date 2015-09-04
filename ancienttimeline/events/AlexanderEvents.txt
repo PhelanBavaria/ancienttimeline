@@ -47,43 +47,8 @@ country_event = {
 			name = "death_of_alexander"
 			duration = 7300
 		}
-		random_owned_province = {
-			limit = {
-				development = 8
-			}
-			cede_province = CSD
-			add_core = CSD
-		}
-		random_owned_province = {
-			limit = {
-				development = 8
-			}
-			cede_province = LYS
-			add_core = LYS
-		}
-		random_owned_province = {
-			limit = {
-				development = 8
-			}
-			cede_province = NTG
-			add_core = NTG
-		}
-		random_owned_province = {
-			limit = {
-				development = 8
-			}
-			cede_province = PTL
-			add_core = PTL
-		}
-		random_owned_province = {
-			limit = {
-				development = 8
-			}
-			cede_province = SLC
-			add_core = SLC
-		}
 		country_event = {
-			id = alex.11
+			id = alex.10
 			days = 1
 		}
 	}
@@ -304,6 +269,175 @@ province_event = {
 
 country_event = {
 
+	id = alex.10
+	title = alex.EVTNAME10
+	desc = alex.EVTDESC10
+	picture = DEATH_OF_HEIR_eventPicture
+
+	hidden = yes
+	is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				NOT = { num_of_cities = 15 }
+			}
+			set_country_flag = diadochi_changeone
+		}
+		if = {
+			limit = {
+				num_of_cities = 15
+				NOT = { num_of_cities = 50 }
+			}
+			set_country_flag = diadochi_changetwo
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = CSD
+				add_core = CSD
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = NTG
+				add_core = NTG
+			}
+			country_event = {
+				id = alex.11
+				days = 1
+			}
+		}
+		if = {
+			limit = {
+				num_of_cities = 50
+				NOT = { num_of_cities = 100 }
+			}
+			set_country_flag = diadochi_changethree
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = CSD
+				add_core = CSD
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = NTG
+				add_core = NTG
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = SLC
+				add_core = SLC
+			}
+			country_event = {
+				id = alex.11
+				days = 1
+			}
+		}
+		if = {
+			limit = {
+				num_of_cities = 100
+				NOT = { num_of_cities = 150 }
+			}
+			set_country_flag = diadochi_changefour
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = CSD
+				add_core = CSD
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = LYS
+				add_core = LYS
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = NTG
+				add_core = NTG
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = SLC
+				add_core = SLC
+			}
+			country_event = {
+				id = alex.11
+				days = 1
+			}
+		}
+		if = {
+			limit = {
+				num_of_cities = 150
+			}
+			set_country_flag = diadochi_changefive
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = CSD
+				add_core = CSD
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = LYS
+				add_core = LYS
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = NTG
+				add_core = NTG
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = PTL
+				add_core = PTL
+			}
+			random_owned_province = {
+				limit = {
+					development = 8
+				}
+				cede_province = SLC
+				add_core = SLC
+			}
+			country_event = {
+				id = alex.11
+				days = 1
+			}
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA10
+	}
+}
+
+country_event = {
+
 	id = alex.11
 	title = alex.EVTNAME11
 	desc = alex.EVTDESC11
@@ -315,13 +449,10 @@ country_event = {
 		always = yes
 	}
 
-	immediate = {
-		set_country_flag = diadochi_change
-	}
-
 	option = {
 		trigger = {
 			ai = no
+			exists = CSD
 		}
 		name = alex.EVTOPTA11
 		switch_tag = CSD
@@ -329,6 +460,7 @@ country_event = {
 	option = {
 		trigger = {
 			ai = no
+			exists = PTL
 		}
 		name = alex.EVTOPTB11
 		switch_tag = PTL
@@ -336,6 +468,7 @@ country_event = {
 	option = {
 		trigger = {
 			ai = no
+			exists = LYS
 		}
 		name = alex.EVTOPTC11
 		switch_tag = LYS
@@ -343,6 +476,7 @@ country_event = {
 	option = {
 		trigger = {
 			ai = no
+			exists = NTG
 		}
 		name = alex.EVTOPTD11
 		switch_tag = NTG
@@ -350,6 +484,7 @@ country_event = {
 	option = {
 		trigger = {
 			ai = no
+			exists = SLC
 		}
 		name = alex.EVTOPTE11
 		switch_tag = SLC
@@ -364,7 +499,7 @@ country_event = {
 
 country_event = {
 
-	id = alex.12
+	id = alex.122
 	title = alex.EVTNAME12
 	desc = alex.EVTDESC12
 	picture = DEATH_OF_HEIR_eventPicture
@@ -372,7 +507,142 @@ country_event = {
 	hidden = yes
 
 	trigger = {
-		has_country_flag = diadochi_change
+		has_country_flag = diadochi_changetwo
+		NOT = { has_country_flag = reformed_macedon }
+		tag = MCD
+	}
+	mean_time_to_happen = {
+		days = 2
+	}
+
+	immediate = {
+		random_owned_province = {
+			random_list = {
+				50 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				50 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+			}
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA12
+	}
+}
+
+country_event = {
+
+	id = alex.123
+	title = alex.EVTNAME12
+	desc = alex.EVTDESC12
+	picture = DEATH_OF_HEIR_eventPicture
+
+	hidden = yes
+
+	trigger = {
+		has_country_flag = diadochi_changethree
+		NOT = { has_country_flag = reformed_macedon }
+		tag = MCD
+	}
+	mean_time_to_happen = {
+		days = 2
+	}
+
+	immediate = {
+		random_owned_province = {
+			random_list = {
+				33 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				34 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				33 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+			}
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA12
+	}
+}
+
+country_event = {
+
+	id = alex.124
+	title = alex.EVTNAME12
+	desc = alex.EVTDESC12
+	picture = DEATH_OF_HEIR_eventPicture
+
+	hidden = yes
+
+	trigger = {
+		has_country_flag = diadochi_changefour
+		NOT = { has_country_flag = reformed_macedon }
+		tag = MCD
+	}
+	mean_time_to_happen = {
+		days = 2
+	}
+
+	immediate = {
+		random_owned_province = {
+			random_list = {
+				25 = {
+					cede_province = CSD
+					add_core = CSD
+					CSD = { add_manpower = 1 }
+				}
+				25 = {
+					cede_province = LYS
+					add_core = LYS
+					LYS = { add_manpower = 1 }
+				}
+				25 = {
+					cede_province = NTG
+					add_core = NTG
+					NTG = { add_manpower = 1 }
+				}
+				25 = {
+					cede_province = SLC
+					add_core = SLC
+					SLC = { add_manpower = 1 }
+				}
+			}
+		}
+	}
+
+	option = {
+		name = alex.EVTOPTA12
+	}
+}
+
+country_event = {
+
+	id = alex.125
+	title = alex.EVTNAME12
+	desc = alex.EVTDESC12
+	picture = DEATH_OF_HEIR_eventPicture
+
+	hidden = yes
+
+	trigger = {
+		has_country_flag = diadochi_changefive
 		NOT = { has_country_flag = reformed_macedon }
 		tag = MCD
 	}
@@ -429,7 +699,12 @@ province_event = {
 	trigger = {
 		exists = MCD
 		MCD = {
-			has_country_flag = diadochi_change
+			OR = {
+				has_country_flag = diadochi_changetwo
+				has_country_flag = diadochi_changethree
+				has_country_flag = diadochi_changefour
+				has_country_flag = diadochi_changefive
+			}
 			NOT = { has_country_flag = reformed_macedon }
 		}
 		OR = {
@@ -753,12 +1028,35 @@ country_event = {
 		days = 1
 	}
 
+	immediate = {
+		if = {
+			limit = {
+				exists = PTL
+			}
+			declare_war = PTL
+		}
+		if = {
+			limit = {
+				exists = LYS
+			}
+			declare_war = LYS
+		}
+		if = {
+			limit = {
+				exists = NTG
+			}
+			declare_war = NTG
+		}
+		if = {
+			limit = {
+				exists = SLC
+			}
+			declare_war = SLC
+		}
+	}
+
 	option = {
 		name = alex.EVTOPTA17
-		declare_war = PTL
-		declare_war = LYS
-		declare_war = NTG
-		declare_war = SLC
 	}
 }
 
@@ -776,17 +1074,35 @@ country_event = {
 		NOT = {
 			exists = MCD
 		}
-		tag = PTL
+		tag = NTG
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 
+	immediate = {
+		if = {
+			limit = {
+				exists = LYS
+			}
+			declare_war = LYS
+		}
+		if = {
+			limit = {
+				exists = PTL
+			}
+			declare_war = PTL
+		}
+		if = {
+			limit = {
+				exists = SLC
+			}
+			declare_war = SLC
+		}
+	}
+
 	option = {
 		name = alex.EVTOPTA18
-		declare_war = LYS
-		declare_war = NTG
-		declare_war = SLC
 	}
 }
 
@@ -804,16 +1120,29 @@ country_event = {
 		NOT = {
 			exists = MCD
 		}
-		tag = LYS
+		tag = SLC
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 
+	immediate = {
+		if = {
+			limit = {
+				exists = PTL
+			}
+			declare_war = PTL
+		}
+		if = {
+			limit = {
+				exists = LYS
+			}
+			declare_war = LYS
+		}
+	}
+
 	option = {
 		name = alex.EVTOPTA19
-		declare_war = NTG
-		declare_war = SLC
 	}
 }
 
@@ -831,14 +1160,22 @@ country_event = {
 		NOT = {
 			exists = MCD
 		}
-		tag = NTG
+		tag = LYS
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 
+	immediate = {
+		if = {
+			limit = {
+				exists = PTL
+			}
+			declare_war = PTL
+		}
+	}
+
 	option = {
 		name = alex.EVTOPTA20
-		declare_war = SLC
 	}
 }
