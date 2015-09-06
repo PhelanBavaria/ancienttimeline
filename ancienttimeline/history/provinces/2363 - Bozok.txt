@@ -1,18 +1,18 @@
 #2363 - Bozok
 
-owner = ROM
-controller = ROM
+owner = ROW
+controller = ROW
 culture = cappadocian
 religion = hellenism
-capital = "Tavium"
+capital = "Tavia"
 trade_goods = grain
 hre = no
 base_tax = 2
-base_production = 2
+base_production = 3
 base_manpower = 2
 citysize = 1266
 fort1 = yes
-add_core = ROM
+add_core = ROW
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
@@ -26,3 +26,4 @@ discovered_by = nomad_group
 4667.3.12 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
 4723.1.1 = { owner = GLT controller = GLT add_core = GLT remove_core = SLC }
+4975.1.1 = { owner = ROM controller = ROM add_core = ROM }

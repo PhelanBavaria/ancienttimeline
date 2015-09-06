@@ -1,7 +1,7 @@
 #316 - Bithynia
 
-owner = ROM
-controller = ROM
+owner = ROW
+controller = ROW
 culture = ionic_greek
 religion = hellenism
 capital = "Astacus"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 citysize = 4425
 fort1 = yes
-add_core = ROM
+add_core = ROW
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
