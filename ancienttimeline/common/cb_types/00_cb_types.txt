@@ -189,11 +189,6 @@ cb_conquest = {
 	prerequisites = {
 		claim = FROM
 		is_revolution_target = no
-		NOT = {
-            government = tribal_democracy
-            government = tribal_federation
-            government = tribal_kingdom
-        }
 	}
 	
 	war_goal = take_claim

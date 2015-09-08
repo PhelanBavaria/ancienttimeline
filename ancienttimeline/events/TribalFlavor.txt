@@ -35,6 +35,7 @@ province_event = {
 
     trigger = {
         has_province_modifier = unruly_people
+        is_core = owner
     }
 
     mean_time_to_happen = {
