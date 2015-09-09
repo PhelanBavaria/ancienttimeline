@@ -3,7 +3,7 @@ mercantilism = 0.1
 technology_group = chinese
 religion = confucianism
 primary_culture = xiang
-capital = 682	#Wuchang
+capital = 681	#Ying
 
 4260.1.1 = {
 	monarch = {
@@ -529,6 +529,8 @@ capital = 682	#Wuchang
 		mil = 2
 	}
 }
+
+4722.1.1 = { capital = 1838 } #Shouchun
 
 4738.1.1 = {
 	monarch = {

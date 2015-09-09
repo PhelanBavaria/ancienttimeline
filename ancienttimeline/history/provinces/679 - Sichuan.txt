@@ -6,11 +6,11 @@ add_core = SHU
 citysize = 1000
 culture = yi
 religion = animism
-capital = "Chengdu"
+capital = "Cheng Du"
 trade_goods = silk
 hre = no
-base_tax = 2
-base_production = 2
+base_tax = 3
+base_production = 3
 base_manpower = 2
 discovered_by = chinese
 
@@ -22,5 +22,5 @@ discovered_by = chinese
 }
 
 4684.1.1 = { owner = QIN controller = QIN add_core = QIN remove_core = SHU }
-4690.1.1 = { culture = sichuanese religion = confucianism }
+4690.1.1 = { culture = sichuanese religion = confucianism base_tax = 4 base_production = 4 }
 4794.1.1 = { owner = HND controller = HND add_core = HND remove_core = QIN }
