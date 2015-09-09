@@ -75,3 +75,21 @@ independence_fighter = {
 unruly_people = {
 	local_unrest = 40
 }
+
+et_plague = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}
+
+et_famine = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}
+
+et_drought = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}

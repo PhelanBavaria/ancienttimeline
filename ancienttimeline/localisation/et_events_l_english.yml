@@ -1,0 +1,10 @@
+﻿l_english:
+ et.EVTNAME69: "Plague"
+ et.EVTDESC69: "The population of $PROVINCENAME$ has increased significantly, which has led to a large number of people living close together in unsanitary conditions. This has allowed a plague to spread accross the population killing a significant portion of the province's population."
+ et.EVTOPTA69: "Oh no!"
+ et.EVTNAME70: "Famine"
+ et.EVTDESC70: "The previous harvests have been bad in $PROVINCENAME$ and now the food storages have run out. There's not enough food for the entire population and many citizens have already perished to hunger."
+ et.EVTOPTA70: "Oh no!"
+ et.EVTNAME71: "Drought"
+ et.EVTDESC71: "The rainfall in $PROVINCENAME$ has been below average this year. This has caused crops to fail and there's not enough food and water to sustain the population. Large number of citizens have already died due to food or water shortage."
+ et.EVTOPTA71: "Oh no!"
