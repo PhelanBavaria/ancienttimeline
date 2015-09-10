@@ -653,3 +653,45 @@ CTH_ideas = {
 		religious_unity = 0.15
 	}
 }
+
+ETR_ideas = {
+    start = {
+		enemy_core_creation = 0.25
+	}
+	
+	bonus = {
+	    ae_impact = -0.15
+    }
+	
+	trigger = {
+	    OR = {
+		    tag = ETR
+			primary_culture = etruscan
+		}
+	}
+	free = yes
+	
+	prisoners'_sacrifice = {
+	    army_tradition = 0.5
+	}
+	family_warding = {
+	    heir_chance = 0.25
+		religious_unity = 0.1
+	}
+	greek-roman_conduit = {
+        accepted_culture_threshold = -0.15
+	}
+	hill_and_tower_people = {
+	   defensiveness = 0.15
+	   land_attrition = -0.1
+	}
+	maritime_power_in_italia = {
+	    naval_morale = 0.15
+	}
+	tinia's_chimera = {
+	    prestige = 1
+	}
+	mixed_government = {
+	    global_unrest = -1
+	}
+}

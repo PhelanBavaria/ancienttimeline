@@ -1,4 +1,4 @@
-government = despotic_monarchy
+government = absolute_monarchy
 government_rank = 2
 #aristocracy_plutocracy = -3
 #centralization_decentralization = 2
