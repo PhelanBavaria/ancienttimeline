@@ -1,6 +1,6 @@
 #3130 - Foggia
 
-culture = umbrian
+culture = oscan
 religion = hellenism
 hre = no 
 base_tax = 2
