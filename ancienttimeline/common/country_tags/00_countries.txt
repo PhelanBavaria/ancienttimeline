@@ -375,6 +375,7 @@ PYU	= "countries/Pyu.txt"
 VNL	= "countries/VanLang.txt"
 
 #China
+BAX	= "countries/Ba.txt"
 CEN	= "countries/Chen.txt"
 CGS 	= "countries/Changsheng.txt"
 CHC	= "countries/Chu.txt"
