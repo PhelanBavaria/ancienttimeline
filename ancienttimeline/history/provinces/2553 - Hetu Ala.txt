@@ -17,3 +17,4 @@ discovered_by = nomad_group
 
 4850.1.1 = { owner = BUY controller = BUY add_core = BUY remove_core = SUS }
 4963.1.1 = { owner = GOG controller = GOG add_core = GOG remove_core = BUY }
+4980.1.1 = { base_tax = 4 base_production = 4 }
