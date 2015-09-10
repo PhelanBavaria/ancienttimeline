@@ -671,10 +671,10 @@ ETR_ideas = {
 	}
 	free = yes
 	
-	prisoners'_sacrifice = {
+	prisoners_sacrifice = {
 	    army_tradition = 0.5
 	}
-	family_warding = {
+	topless_warding = {
 	    heir_chance = 0.25
 		religious_unity = 0.1
 	}
@@ -688,7 +688,7 @@ ETR_ideas = {
 	maritime_power_in_italia = {
 	    naval_morale = 0.15
 	}
-	tinia's_chimera = {
+	tinias_chimera = {
 	    prestige = 1
 	}
 	mixed_government = {

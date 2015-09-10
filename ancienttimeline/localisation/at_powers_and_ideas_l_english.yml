@@ -390,7 +390,7 @@ l_english:
  prisoners_sacrifice: "Prisoners Sacrifice"
  prisoners_sacrifice_desc: "Our prisoners of war are sacrificed near the tombs of our heroes to guarantee their blessing for future wars"
  topless_warding: "Topless Warding"
- topless_warding: "Our women don't cover their breasts as the sight of them can ward of evil spirits"
+ topless_warding_desc: "Our women don't cover their breasts as the sight of them can ward of evil spirits"
  greek-roman_conduit: "Greek-Roman Conduit"
  greek-roman_conduit_desc: "Rome absorbed Greek culture through our integration to their society more efficently than their exchanges with Magna Graecia"
  hill_and_tower_people: "Hill and Tower People"
