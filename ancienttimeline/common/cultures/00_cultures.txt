@@ -283,6 +283,9 @@ latin = {
 	sicilian = {
 		primary = SIC
 	}
+	messapic = {
+	    primary = MSS
+	}
 	roman = {
 		primary = ROM
 		dynasty_names = {

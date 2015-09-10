@@ -1,0 +1,27 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 113  166  125 }
+
+historical_idea_groups = {
+    early_adm_ideas
+    early_mil_ideas	
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+}
+
+histrorical_units = {
+
+
+
+
+
+
+
+
+
+
+}
