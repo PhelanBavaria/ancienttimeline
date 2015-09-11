@@ -6,6 +6,7 @@
 323 = "Ikonion"
 324 = "Tarsus"
 419 = "Artimed"
+1856 = "Dioscurias"
 2007 = "Pella"
 2152 = "Naxouana"
 2268 = "Acilisene"
