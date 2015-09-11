@@ -1,8 +1,5 @@
 #1226 - Taka
 
-owner = AKS
-controller = AKS
-add_core = AKS
 citysize = 1000
 culture = tigray 
 religion = south_arabian

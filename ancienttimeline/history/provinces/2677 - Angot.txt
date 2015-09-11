@@ -1,8 +1,5 @@
 #1214 - Awsa
 
-owner = AKS
-controller = AKS
-add_core = AKS
 citysize = 1142
 culture = somali # afar 
 religion = south_arabian

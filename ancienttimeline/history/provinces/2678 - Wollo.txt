@@ -1,8 +1,5 @@
 #1224 - Gonder
 
-owner = AKS
-controller = AKS
-add_core = AKS
 culture = amhara
 religion = african
 capital = "Hayq"

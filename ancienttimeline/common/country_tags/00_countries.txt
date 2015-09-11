@@ -299,7 +299,6 @@ PON	= "countries/Pontus.txt"
 GLT	= "countries/Galatia.txt"
 	
 #Africa
-AKS	= "countries/Aksum.txt"
 BLE	= "countries/Blemmyes.txt"
 CTH = "countries/Carthage.txt"
 DMT	= "countries/Dmt.txt"

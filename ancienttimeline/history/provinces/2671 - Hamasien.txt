@@ -1,8 +1,5 @@
 #1230 - Massawa
 
-owner = AKS
-controller = AKS
-add_core = AKS
 culture = tigray
 religion = south_arabian
 capital = "Debarwa"

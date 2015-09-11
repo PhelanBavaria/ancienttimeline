@@ -1,8 +1,5 @@
 #1227 - Tigre
 
-owner = AKS
-controller = AKS
-add_core = AKS
 culture = tigray 
 religion = south_arabian
 capital = "Antalo"

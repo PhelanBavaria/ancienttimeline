@@ -1,8 +1,5 @@
 #1215 - Tajura
 
-owner = AKS
-controller = AKS
-add_core = AKS
 culture = somali #afar
 religion = south_arabian
 capital = "Assab"
