@@ -1,14 +1,10 @@
 #1234 - Nubia
 
-owner = MEO
-controller = MEO
-add_core = MEO
 culture = nubian
 religion = egyptian
 capital = "Faras"
-citysize = 3321
 base_manpower = 2
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -29,3 +25,4 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+3930.1.1 = { owner = MEO controller = MEO add_core = MEO citysize = 1000 }

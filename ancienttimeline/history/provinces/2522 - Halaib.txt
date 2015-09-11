@@ -1,14 +1,10 @@
 #2522 - Halaib
 
-owner = BLE
-controller = BLE
-add_core = BLE
 culture = nubian #beja
 religion = egyptian
 capital = "Halaib"
-citysize = 1000
 base_manpower = 2
-trade_goods = slaves
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -21,3 +17,4 @@ discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = nomad_group
 
+4400.1.1 = { owner = BLE controller = BLE add_core = BLE citysize = 1000 }

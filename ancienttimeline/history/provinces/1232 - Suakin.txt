@@ -1,14 +1,10 @@
 #1232 - Suakin
 
-owner = BLE
-controller = BLE
-add_core = BLE
 culture = nubian #beja
 religion = egyptian
 capital = "Suakin"
-citysize = 1021
 base_manpower = 2
-trade_goods = slaves
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -32,3 +28,4 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+4400.1.1 = { owner = BLE controller = BLE add_core = BLE citysize = 1000 }
