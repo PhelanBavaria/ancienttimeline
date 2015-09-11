@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4400.1.1 = { owner = ANI controller = ANI add_core = ANI citysize = 1000 trade_goods = salt }
+4300.1.1 = { owner = ANI controller = ANI add_core = ANI citysize = 1000 trade_goods = salt }
 4800.1.1 = { owner = NOI controller = NOI add_core = NOI }
