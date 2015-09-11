@@ -12,4 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = AED controller = AED add_core = AED citysize = 1000 trade_goods = grain  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
+discovered_by = gauls
+
+4400.1.1 = { owner = AED controller = AED add_core = AED citysize = 1000 trade_goods = grain }
