@@ -1,7 +1,7 @@
 #Bratslav/East Podolia
 
-owner = SRM
-controller = SRM
+owner = SCY
+controller = SCY
 culture = sarmatian
 religion = tengri_pagan_reformed
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Bratslav"
 citysize = 1000
-add_core = SRM
+add_core = SCY
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

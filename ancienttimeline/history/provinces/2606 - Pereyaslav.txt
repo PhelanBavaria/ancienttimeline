@@ -1,8 +1,8 @@
 #290 - Poltava
 
-owner = SRM
-controller = SRM
-add_core = SRM
+owner = SCY
+controller = SCY
+add_core = SCY
 citysize = 1000
 culture = sarmatian
 religion = tengri_pagan_reformed
