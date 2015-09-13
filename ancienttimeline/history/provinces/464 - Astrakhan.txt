@@ -1,7 +1,7 @@
 #464 - Astrakhan
 
-culture = alan
-religion = tengri_pagan_reformed
+culture = sarmatian
+religion = scythian_religion
 trade_goods = wool
 hre = no
 base_tax = 2

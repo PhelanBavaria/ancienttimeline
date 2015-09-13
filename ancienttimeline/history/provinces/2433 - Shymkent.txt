@@ -1,7 +1,7 @@
 #2433 - Shymkent
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Shymkent"
 trade_goods = tea
 base_tax = 2

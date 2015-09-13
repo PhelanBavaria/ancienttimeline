@@ -1,0 +1,7 @@
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+primary_culture = sarmatian
+religion = scythian_religion
+technology_group = nomad_group
+capital = 2616

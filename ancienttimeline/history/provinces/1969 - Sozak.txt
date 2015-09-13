@@ -1,7 +1,7 @@
 #1969 - Sozak
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Isfijab"
 trade_goods = salt
 base_tax = 2

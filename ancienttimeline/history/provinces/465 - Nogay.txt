@@ -1,7 +1,7 @@
 #465 - Bersh
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Saraychik"
 trade_goods = unknown
 hre = no

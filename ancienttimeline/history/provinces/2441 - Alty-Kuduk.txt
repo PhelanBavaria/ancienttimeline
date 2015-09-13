@@ -1,7 +1,7 @@
 #2441 - Alty-Kuduk
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Alty-Kuduk"
 trade_goods = unknown
 hre = no
@@ -10,4 +10,4 @@ base_production = 2
 base_manpower = 2
 discovered_by = nomad_group
 
-4400.1.1 = { owner = THY controller = THY add_core = THY is_city = yes }
+4400.1.1 = { owner = ISS controller = ISS add_core = ISS is_city = yes }

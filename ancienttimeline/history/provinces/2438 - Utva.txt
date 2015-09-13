@@ -1,7 +1,7 @@
 #470 - Baybaktu
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Utva"
 trade_goods = unknown
 hre = no

@@ -1,7 +1,7 @@
 #455 - Kyrzyl-Kum
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Kyzyl Kum"
 trade_goods = wool
 hre = no

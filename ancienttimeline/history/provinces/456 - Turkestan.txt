@@ -1,7 +1,7 @@
 #456 - Turkestan
 
 culture = saka
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Yasi"
 trade_goods = grain
 base_tax = 2

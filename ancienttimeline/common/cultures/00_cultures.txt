@@ -1481,6 +1481,18 @@ iranian	= {
 			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
 		}
 	}
+	scythian = {
+		male_names = {
+			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
+			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
+			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
+			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
+			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
+		}
+		female_names = {
+			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
+		}
+	}
 	median = {
 		male_names = { 
 			Abbas Abolhassan Afshar Afshar Ahmad Ahmad Akbar Akbar Allahyar Amin Anushirvan Anushirvan 

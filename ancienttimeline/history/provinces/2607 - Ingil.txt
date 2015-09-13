@@ -1,11 +1,11 @@
 #283 - Zaporozhia
 
-owner = SCY
-controller = SCY
-add_core = SCY
+owner = OLB
+controller = OLB
+add_core = OLB
 citysize = 1000
-culture = sarmatian
-religion = tengri_pagan_reformed
+culture = greek
+religion = hellenism
 hre = no
 base_tax = 2
 base_production = 2

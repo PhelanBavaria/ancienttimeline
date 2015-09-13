@@ -1,7 +1,7 @@
 #2432 - Atakent
 
 culture = sogdian
-religion = tengri_pagan_reformed
+religion = scythian_religion
 capital = "Atakent"
 trade_goods = wool
 hre = no
