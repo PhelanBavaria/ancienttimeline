@@ -4,7 +4,7 @@ owner = MLS
 controller = MLS
 culture = doric_greek
 religion = hellenism
-capital = "Dodona"
+capital = "Passaron"
 trade_goods = wool
 hre = no
 base_tax = 2
@@ -13,7 +13,6 @@ base_manpower = 3
 citysize = 1000
 fort1 = yes
 add_core = MLS
-add_core = MCD
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -22,6 +21,4 @@ discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
 
-4665.9.12 = { owner = MCD controller = MCD }
-4712.1.1 = { owner = THR controller = THR }
-4719.1.1 = { owner = MCD controller = MCD }
+

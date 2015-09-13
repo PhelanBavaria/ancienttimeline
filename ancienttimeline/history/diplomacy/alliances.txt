@@ -1,0 +1,6 @@
+alliance = {
+	first = MCD
+	second = MLS
+	start_date = 4630.1.1
+	end_date = 4670.1.1
+}
