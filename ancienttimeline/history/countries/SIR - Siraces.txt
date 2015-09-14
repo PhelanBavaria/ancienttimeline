@@ -5,3 +5,61 @@ primary_culture = sarmatian
 religion = scythian_religion
 technology_group = nomad_group
 capital = 2616
+
+4660.1.1 = {
+	monarch = {
+		name = "Aripharnes"
+		dynasty = "Sirace"
+		birth_date = 4644.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+4740.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+4920.1.1 = {
+	monarch = {
+		name = "Abeacus"
+		dynasty = "Sirace"
+		birth_date = 4904.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+4960.1.1 = {
+	heir = {
+		name = "Zorsines"
+		monarch_name = "Zorsines"
+		dynasty = "Sirace"
+		birth_date = 4960.1.1
+		death_date = 5058.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4980.1.1 = {
+	monarch = {
+		name = "Zorsines"
+		dynasty = "Sirace"
+		birth_date = 4940.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+

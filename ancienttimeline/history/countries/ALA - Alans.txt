@@ -4,3 +4,40 @@ primary_culture = alan
 religion = scythian_religion
 technology_group = nomad_group
 capital = 469
+
+4920.1.1 = {
+	monarch = {
+		name = "Spadines"
+		dynasty = "Aorsi"
+		birth_date = 4904.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+4970.1.1 = {
+	heir = {
+		name = "Eunones"
+		monarch_name = "Eunones"
+		dynasty = "Aorsi"
+		birth_date = 4970.1.1
+		death_date = 5058.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+5000.1.1 = {
+	monarch = {
+		name = "Eunones"
+		dynasty = "Aorsi"
+		birth_date = 4970.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
