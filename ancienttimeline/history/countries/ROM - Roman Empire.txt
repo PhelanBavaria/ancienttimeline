@@ -74,7 +74,7 @@ capital = 118	# Rome
 	}
 }
 
-4491.1.1 = [republic switch]
+4491.1.1 = { government = oligarchic_republic government_rank = 2 }
 
 4650.1.1 = {
 	monarch = {
