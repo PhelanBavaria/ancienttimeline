@@ -12,6 +12,7 @@ country_decisions = {
 			}
 			NOT = { has_country_flag = reformed_macedon }
 			NOT = { exists = MCD }
+			has_country_flag = slow_down_mcd
 		}
 		allow = {
 			is_subject = no
