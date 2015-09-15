@@ -3,7 +3,7 @@
 owner = JUD
 controller = JUD
 culture = israeli
-religion = chalcedonism
+religion = jewish
 capital = "Akko"
 trade_goods = sugar
 hre = no
