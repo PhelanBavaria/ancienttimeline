@@ -23,3 +23,4 @@ discovered_by = celtiberians
 
 4665.9.12 = { owner = MCD controller = MCD }
 4677.6.11 = { owner = SPR controller = SPR }
+4900.1.1 = { owner = ROM controller = ROM add_core ROM }

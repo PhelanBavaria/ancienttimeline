@@ -20,3 +20,4 @@ discovered_by = ottoman
 
 4200.1.1 = { owner = CTH controller = CTH add_core = CTH }
 4603.1.1 = { capital = "Lilybaeum" }
+4759.1.1 = { owner = ROM controller = ROM add_core = ROM }

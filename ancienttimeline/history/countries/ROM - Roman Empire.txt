@@ -18,7 +18,12 @@ capital = 118	# Rome
 	}
 }
 
-[interragnum space]
+4284.1.1 = {
+    monarch = {
+	    name = (interragnum)
+		regent = yes
+	}
+}
 
 4285.1.1 = {
     monarch = {

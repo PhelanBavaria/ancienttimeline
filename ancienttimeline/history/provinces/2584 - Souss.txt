@@ -16,3 +16,4 @@ native_hostileness = 6
 
 
 3900.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic_religion}
+4900.1.1 = { owner = ROM controller = ROM add_core ROM }

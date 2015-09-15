@@ -25,3 +25,4 @@ discovered_by = ottoman
 4667.1.19 = { owner = MCD controller = MCD add_core = MCD }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
 4739.1.1 = { capital = "Laodicea" }
+4900.1.1 = { owner = ROM controller = ROM add_core ROM }

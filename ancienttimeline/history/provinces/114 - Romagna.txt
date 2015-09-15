@@ -18,3 +18,4 @@ discovered_by = gauls
 
 4250.1.1 = { owner = ETR controller = ETR add_core = ETR citysize = 1000 trade_goods = salt}
 4609.1.1 = { owner = IBI controller = IBI add_core = IBI culture = boian religion = druidism capital = "Bononia"}
+4710.1.1 = { owner = ROM controller = ROM add_core = ROM }
