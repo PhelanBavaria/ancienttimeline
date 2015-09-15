@@ -29,5 +29,5 @@ discovered_by = nomad_group
 }
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = BSP }
 4562.1.1 = { owner = BSP controller = BSP add_core = BSP remove_core = ACA }
-4893.1.1 = { owner = PON controller = PON add_core = PON }
-4937.1.1 = { owner = BSP controller = BSP add_core = BSP remove_core = PON }
+4892.1.1 = { owner = PON controller = PON add_core = PON }
+4953.1.1 = { owner = BSP controller = BSP add_core = BSP remove_core = PON }

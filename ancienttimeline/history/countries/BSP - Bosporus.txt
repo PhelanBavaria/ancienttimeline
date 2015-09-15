@@ -2,6 +2,367 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = pontic_greek
 religion = hellenism
-technology_group = barbarian
-capital = 285	# Kaffa
+technology_group = mediterranean
+capital = 2614
+
+4562.1.1 = {
+	monarch = {
+		name = "Spartocus I"
+		dynasty = "Spartocid"
+		birth_date = 4532.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+4562.1.1 = {
+	heir = {
+		name = "Satyrus"
+		monarch_name = "Satyrus I"
+		dynasty = "Spartocid"
+		birth_date = 4537.1.1
+		death_date = 4611.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4567.1.1 = {
+	monarch = {
+		name = "Satyrus I"
+		dynasty = "Spartocid"
+		birth_date = 4537.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+4581.1.1 = {
+	heir = {
+		name = "Leucon"
+		monarch_name = "Leucon I"
+		dynasty = "Spartocid"
+		birth_date = 4581.1.1
+		death_date = 4651.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4611.1.1 = {
+	monarch = {
+		name = "Leucon I"
+		dynasty = "Spartocid"
+		birth_date = 4581.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4621.1.1 = {
+	heir = {
+		name = "Pairisades"
+		monarch_name = "Pairisades I"
+		dynasty = "Spartocid"
+		birth_date = 4621.1.1
+		death_date = 4689.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4651.1.1 = {
+	monarch = {
+		name = "Pairisades I"
+		dynasty = "Spartocid"
+		birth_date = 4621.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+4659.1.1 = {
+	heir = {
+		name = "Satyrus"
+		monarch_name = "Satyrus II"
+		dynasty = "Spartocid"
+		birth_date = 4659.1.1
+		death_date = 4690.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4689.1.1 = {
+	monarch = {
+		name = "Satyrus II"
+		dynasty = "Spartocid"
+		birth_date = 4659.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+4689.1.1 = {
+	heir = {
+		name = "Eumelos"
+		monarch_name = "Eumelos I"
+		dynasty = "Spartocid"
+		birth_date = 4660.1.1
+		death_date = 4696.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+4690.1.1 = {
+	monarch = {
+		name = "Eumelos I"
+		dynasty = "Spartocid"
+		birth_date = 4660.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+4690.1.1 = {
+	heir = {
+		name = "Spartacus"
+		monarch_name = "Spartacus III"
+		dynasty = "Spartocid"
+		birth_date = 4666.1.1
+		death_date = 4716.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4696.1.1 = {
+	monarch = {
+		name = "Spartacus III"
+		dynasty = "Spartocid"
+		birth_date = 4666.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4696.1.1 = {
+	heir = {
+		name = "Pairisades"
+		monarch_name = "Pairisades II"
+		dynasty = "Spartocid"
+		birth_date = 4686.1.1
+		death_date = 4755.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+}
+
+4716.1.1 = {
+	monarch = {
+		name = "Pairisades II"
+		dynasty = "Spartocid"
+		birth_date = 4686.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+}
+
+4725.1.1 = {
+	heir = {
+		name = "Spartacus"
+		monarch_name = "Spartacus IV"
+		dynasty = "Spartocid"
+		birth_date = 4725.1.1
+		death_date = 4760.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+4755.1.1 = {
+	monarch = {
+		name = "Spartacus IV"
+		dynasty = "Spartocid"
+		birth_date = 4725.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+4755.1.1 = {
+	heir = {
+		name = "Leucon"
+		monarch_name = "Leucon II"
+		dynasty = "Spartocid"
+		birth_date = 4730.1.1
+		death_date = 4780.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+4760.1.1 = {
+	monarch = {
+		name = "Leucon II"
+		dynasty = "Spartocid"
+		birth_date = 4730.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+4760.1.1 = {
+	heir = {
+		name = "Hygiainon"
+		monarch_name = "Hygiainon I"
+		dynasty = "Spartocid"
+		birth_date = 4750.1.1
+		death_date = 4800.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4780.1.1 = {
+	monarch = {
+		name = "Hygiainon I"
+		dynasty = "Spartocid"
+		birth_date = 4750.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+4780.1.1 = {
+	heir = {
+		name = "Spartacus"
+		monarch_name = "Spartacus V"
+		dynasty = "Spartocid"
+		birth_date = 4770.1.1
+		death_date = 4820.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Spartacus V"
+		dynasty = "Spartocid"
+		birth_date = 4770.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+4800.1.1 = {
+	heir = {
+		name = "Pairisades"
+		monarch_name = "Pairisades III"
+		dynasty = "Spartocid"
+		birth_date = 4790.1.1
+		death_date = 4850.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4820.1.1 = {
+	monarch = {
+		name = "Pairisades III"
+		dynasty = "Spartocid"
+		birth_date = 4790.1.1
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+4820.1.1 = {
+	heir = {
+		name = "Pairisades"
+		monarch_name = "Pairisades IV"
+		dynasty = "Spartocid"
+		birth_date = 4820.1.1
+		death_date = 4875.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Pairisades IV"
+		dynasty = "Spartocid"
+		birth_date = 4820.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+4850.1.1 = {
+	heir = {
+		name = "Pairisades"
+		monarch_name = "Pairisades V"
+		dynasty = "Spartocid"
+		birth_date = 4850.1.1
+		death_date = 4892.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+4875.1.1 = {
+	monarch = {
+		name = "Pairisades V"
+		dynasty = "Spartocid"
+		birth_date = 4850.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
 

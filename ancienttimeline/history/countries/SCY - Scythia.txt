@@ -5,3 +5,121 @@ primary_culture = scythian
 religion = scythian_religion
 technology_group = nomad_group
 capital = 2608
+
+4480.1.1 = {
+	monarch = {
+		name = "Scylas"
+		dynasty = "Scythian"
+		birth_date = 4450.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4500.1.1 = {
+	heir = {
+		name = "Ariapifa"
+		monarch_name = "Ariapifa"
+		dynasty = "Scythian"
+		birth_date = 4500.1.1
+		death_date = 4540.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4530.1.1 = {
+	monarch = {
+		name = "Ariapifa"
+		dynasty = "Scythian"
+		birth_date = 4500.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4530.1.1 = {
+	heir = {
+		name = "Octamasadas"
+		monarch_name = "Octamasadas"
+		dynasty = "Scythian"
+		birth_date = 4520.1.1
+		death_date = 4571.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4540.1.1 = {
+	monarch = {
+		name = "Octamasadas"
+		dynasty = "Scythian"
+		birth_date = 4520.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+4590.1.1 = {
+	monarch = {
+		name = "Ateas"
+		dynasty = "Scythian"
+		birth_date = 4571.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4661.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Skilurus"
+		dynasty = "Scythian"
+		birth_date = 4820.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+4870.1.1 = {
+	heir = {
+		name = "Palacus"
+		monarch_name = "Palacus"
+		dynasty = "Scythian"
+		birth_date = 4870.1.1
+		death_date = 4892.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+4890.1.1 = {
+	monarch = {
+		name = "Palacus"
+		dynasty = "Scythian"
+		birth_date = 4870.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}

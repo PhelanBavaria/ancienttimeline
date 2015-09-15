@@ -311,11 +311,13 @@ MSA = "countries/Masaesyli.txt"
 NMD	= "countries/Numidia.txt"
 		
 #Steppes
+ALA	= "countries/Alans.txt"
 HOT	= "countries/Hotan.txt"
 ISS	= "countries/Issedones.txt"
 KGJ	= "countries/Kangju.txt"
 KHW	= "countries/Khwarezmid.txt"
 KUS	= "countries/Kushan.txt"
+LEG	= "countries/Legae.txt"
 MAE	= "countries/Maeotians.txt"
 OLB	= "countries/Olbia.txt"
 SXI	= "countries/SouthernXiongnu.txt"
