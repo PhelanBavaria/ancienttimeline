@@ -16,3 +16,6 @@ discovered_by = mediterranean
 
 4484.1.1 = { owner = ACA controller = ACA add_core = ACA city_size = 1000 trade_goods = copper}
 4530.1.1 = { owner = ODR controller = ODR add_core = ODR }
+4658.1.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4698.1.1 = { owner = THR controller = THR add_core = THR }
+4719.1.1 = { owner = MCD controller = MCD }
