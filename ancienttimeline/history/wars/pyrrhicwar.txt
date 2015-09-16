@@ -1,0 +1,26 @@
+name = "Pyrrhic War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4720.1.1 = {
+	add_attacker = ROM
+	add_attacker = CTH
+	add_defender = MLS
+	add_defender = KRN
+	add_defender = KLP
+	add_defender = RHG
+	add_defender = SYC
+}
+
+4728.1.1 = {
+	rem_attacker = ROM
+	rem_attacker = CTH
+	rem_defender = MLS
+	rem_defender = KRN
+	rem_defender = KLP
+	rem_defender = RHG
+	rem_defender = SYC
+}

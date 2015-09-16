@@ -1053,6 +1053,9 @@ country_event = {
 			}
 			declare_war = SLC
 		}
+		CSD = {
+			set_country_flag = slow_down_mcd
+		}
 	}
 
 	option = {
@@ -1099,6 +1102,9 @@ country_event = {
 			}
 			declare_war = SLC
 		}
+		NTG = {
+			set_country_flag = slow_down_mcd
+		}
 	}
 
 	option = {
@@ -1139,6 +1145,9 @@ country_event = {
 			}
 			declare_war = LYS
 		}
+		SLC = {
+			set_country_flag = slow_down_mcd
+		}
 	}
 
 	option = {
@@ -1172,6 +1181,12 @@ country_event = {
 				exists = PTL
 			}
 			declare_war = PTL
+		}
+		LYS = {
+			set_country_flag = slow_down_mcd
+		}
+		PTL = {
+			set_country_flag = slow_down_mcd
 		}
 	}
 
