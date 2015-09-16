@@ -12,3 +12,4 @@ citysize = 1000
 discovered_by = mediterranean
 
 4668.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
+4782.1.1 = { owner = ROM controller = ROM add_core = ROM  }

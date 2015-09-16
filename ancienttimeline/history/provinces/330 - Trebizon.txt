@@ -1,7 +1,6 @@
 #330 - Trebizon
 
-owner = ROM
-controller = ROM
+
 culture = pontic_greek
 religion = hellenism
 capital = "Trapezous"
@@ -12,7 +11,6 @@ base_production = 3
 base_manpower = 2
 citysize = 4250
 fort1 = yes
-add_core = ROM
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

@@ -17,3 +17,4 @@ discovered_by = east_celtic
 discovered_by = gauls
 
 4609.1.1 = { owner = CEM controller = CEM add_core = CEM citysize = 1000 trade_goods = cloth }
+4806.1.1 = { owner = ROM controller= ROM add_core ROM }

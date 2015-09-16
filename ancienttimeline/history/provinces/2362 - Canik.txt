@@ -1,7 +1,6 @@
 #2362 - Canik
 
-owner = ROM
-controller = ROM
+
 culture = pontic_greek
 religion = hellenism
 capital = "Side"
@@ -12,7 +11,6 @@ base_production = 3
 base_manpower = 2
 citysize = 1115
 fort1 = yes
-add_core = ROM
 discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians

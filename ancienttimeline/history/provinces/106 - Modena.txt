@@ -25,3 +25,5 @@ discovered_by = gauls
     citysize = 1000
     trade_goods = wine
 }
+
+4817.1.1 = { owner = ROM controller = ROM add_core ROM }
