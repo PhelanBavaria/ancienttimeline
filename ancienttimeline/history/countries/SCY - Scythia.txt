@@ -6,14 +6,452 @@ religion = scythian_religion
 technology_group = nomad_group
 capital = 2608
 
-4480.1.1 = {
+4180.1.1 = {
 	monarch = {
-		name = "Scylas"
-		dynasty = "Scythian"
-		birth_date = 4450.1.1
+		name = "Sagillus"
+		dynasty = "Skhilti"
+		birth_date = 4150.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4180.1.1 = {
+	heir = {
+		name = "Targitaios"
+		monarch_name = "Targitaios"
+		dynasty = "Skhilti"
+		birth_date = 4170.1.1
+		death_date = 4220.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4200.1.1 = {
+	monarch = {
+		name = "Targitaios"
+		dynasty = "Skhilti"
+		birth_date = 4170.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4200.1.1 = {
+	heir = {
+		name = "Lipoxaios"
+		monarch_name = "Lipoxaios"
+		dynasty = "Skhilti"
+		birth_date = 4190.1.1
+		death_date = 4240.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+4220.1.1 = {
+	monarch = {
+		name = "Lipoxaios"
+		dynasty = "Skhilti"
+		birth_date = 4190.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+4220.1.1 = {
+	heir = {
+		name = "Arpaxaios"
+		monarch_name = "Arpaxaios"
+		dynasty = "Skhilti"
+		birth_date = 4210.1.1
+		death_date = 4260.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+4240.1.1 = {
+	monarch = {
+		name = "Arpaxaios"
+		dynasty = "Skhilti"
+		birth_date = 4210.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+4240.1.1 = {
+	heir = {
+		name = "Kolaxaios"
+		monarch_name = "Kolaxaios"
+		dynasty = "Skhilti"
+		birth_date = 4230.1.1
+		death_date = 4270.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+4260.1.1 = {
+	monarch = {
+		name = "Kolaxaios"
+		dynasty = "Skhilti"
+		birth_date = 4230.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+4260.1.1 = {
+	heir = {
+		name = "Auchatae"
+		monarch_name = "Auchatae"
+		dynasty = "Skhilti"
+		birth_date = 4240.1.1
+		death_date = 4280.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4270.1.1 = {
+	monarch = {
+		name = "Auchatae"
+		dynasty = "Skhilti"
+		birth_date = 4240.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4270.1.1 = {
+	heir = {
+		name = "Phoeniusa Farsa"
+		monarch_name = "Phoeniusa Farsa"
+		dynasty = "Skhilti"
+		birth_date = 4250.1.1
+		death_date = 4290.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+4280.1.1 = {
+	monarch = {
+		name = "Phoeniusa Farsa"
+		dynasty = "Skhilti"
+		birth_date = 4250.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+4280.1.1 = {
+	heir = {
+		name = "Catiar"
+		monarch_name = "Catiar"
+		dynasty = "Skhilti"
+		birth_date = 4260.1.1
+		death_date = 4300.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4290.1.1 = {
+	monarch = {
+		name = "Catiar"
+		dynasty = "Skhilti"
+		birth_date = 4260.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+4290.1.1 = {
+	heir = {
+		name = "Dardanus"
+		monarch_name = "Dardanus"
+		dynasty = "Skhilti"
+		birth_date = 4270.1.1
+		death_date = 4310.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+4300.1.1 = {
+	monarch = {
+		name = "Dardanus"
+		dynasty = "Skhilti"
+		birth_date = 4270.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+4300.1.1 = {
+	heir = {
+		name = "Ininphimales"
+		monarch_name = "Ininphimales"
+		dynasty = "Skhilti"
+		birth_date = 4280.1.1
+		death_date = 4320.1.1
+		claim = 95
 		adm = 3
 		dip = 2
-		mil = 2
+		mil = 5
+	}
+}
+
+4310.1.1 = {
+	monarch = {
+		name = "Ininphimales"
+		dynasty = "Skhilti"
+		birth_date = 4280.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+4310.1.1 = {
+	heir = {
+		name = "Dynamis"
+		monarch_name = "Dynamis"
+		dynasty = "Skhilti"
+		birth_date = 4300.1.1
+		death_date = 4326.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+4320.1.1 = {
+	monarch = {
+		name = "Dynamis"
+		dynasty = "Skhilti"
+		birth_date = 4300.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+4326.1.1 = {
+	monarch = {
+		name = "Partatua"
+		dynasty = "Paralat"
+		birth_date = 4296.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+4326.1.1 = {
+	heir = {
+		name = "Arianthes"
+		monarch_name = "Arianthes"
+		dynasty = "Paralat"
+		birth_date = 4310.1.1
+		death_date = 4347.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+4340.1.1 = {
+	monarch = {
+		name = "Arianthes"
+		dynasty = "Paralat"
+		birth_date = 4310.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+4340.1.1 = {
+	heir = {
+		name = "Madya"
+		monarch_name = "Madya"
+		dynasty = "Paralat"
+		birth_date = 4317.1.1
+		death_date = 4370.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+4347.1.1 = {
+	monarch = {
+		name = "Madya"
+		dynasty = "Paralat"
+		birth_date = 4317.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+4347.1.1 = {
+	heir = {
+		name = "Spargapithes"
+		monarch_name = "Spargapithes"
+		dynasty = "Paralat"
+		birth_date = 4340.1.1
+		death_date = 4400.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4370.1.1 = {
+	monarch = {
+		name = "Spargapithes"
+		dynasty = "Paralat"
+		birth_date = 4340.1.1
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+4370.1.1 = {
+	heir = {
+		name = "Lycus"
+		monarch_name = "Lycus"
+		dynasty = "Paralat"
+		birth_date = 4370.1.1
+		death_date = 4430.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+4400.1.1 = {
+	monarch = {
+		name = "Lycus"
+		dynasty = "Paralat"
+		birth_date = 4370.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+4400.1.1 = {
+	heir = {
+		name = "Gnurus"
+		monarch_name = "Gnurus"
+		dynasty = "Paralat"
+		birth_date = 4400.1.1
+		death_date = 4460.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+4430.1.1 = {
+	monarch = {
+		name = "Gnurus"
+		dynasty = "Paralat"
+		birth_date = 4400.1.1
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+4430.1.1 = {
+	heir = {
+		name = "Saulius"
+		monarch_name = "Saulius"
+		dynasty = "Paralat"
+		birth_date = 4430.1.1
+		death_date = 4480.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4460.1.1 = {
+	monarch = {
+		name = "Saulius"
+		dynasty = "Paralat"
+		birth_date = 4430.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+4460.1.1 = {
+	heir = {
+		name = "Idanthyrsus"
+		monarch_name = "Idanthyrsus"
+		dynasty = "Paralat"
+		birth_date = 4450.1.1
+		death_date = 4530.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+4480.1.1 = {
+	monarch = {
+		name = "Idanthyrsus"
+		dynasty = "Paralat"
+		birth_date = 4450.1.1
+		adm = 0
+		dip = 4
+		mil = 4
 	}
 }
 
@@ -21,57 +459,109 @@ capital = 2608
 	heir = {
 		name = "Ariapifa"
 		monarch_name = "Ariapifa"
-		dynasty = "Scythian"
+		dynasty = "Paralat"
 		birth_date = 4500.1.1
-		death_date = 4540.1.1
+		death_date = 4550.1.1
 		claim = 95
 		adm = 2
-		dip = 4
-		mil = 2
+		dip = 3
+		mil = 1
 	}
 }
 
 4530.1.1 = {
 	monarch = {
 		name = "Ariapifa"
-		dynasty = "Scythian"
+		dynasty = "Paralat"
 		birth_date = 4500.1.1
 		adm = 2
-		dip = 4
-		mil = 2
+		dip = 3
+		mil = 1
 	}
 }
 
 4530.1.1 = {
 	heir = {
+		name = "Skyl"
+		monarch_name = "Skyl"
+		dynasty = "Paralat"
+		birth_date = 4520.1.1
+		death_date = 4570.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+4550.1.1 = {
+	monarch = {
+		name = "Skyl"
+		dynasty = "Paralat"
+		birth_date = 4520.1.1
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+4550.1.1 = {
+	heir = {
 		name = "Octamasadas"
 		monarch_name = "Octamasadas"
-		dynasty = "Scythian"
-		birth_date = 4520.1.1
-		death_date = 4571.1.1
+		dynasty = "Paralat"
+		birth_date = 4540.1.1
+		death_date = 4600.1.1
 		claim = 95
-		adm = 1
-		dip = 3
-		mil = 2
+		adm = 3
+		dip = 0
+		mil = 3
 	}
 }
 
-4540.1.1 = {
+4570.1.1 = {
 	monarch = {
 		name = "Octamasadas"
-		dynasty = "Scythian"
-		birth_date = 4520.1.1
-		adm = 1
-		dip = 3
-		mil = 2
+		dynasty = "Paralat"
+		birth_date = 4540.1.1
+		adm = 3
+		dip = 0
+		mil = 3
 	}
 }
 
-4590.1.1 = {
+4580.1.1 = {
+	heir = {
+		name = "Opoin"
+		monarch_name = "Opoin"
+		dynasty = "Paralat"
+		birth_date = 4580.1.1
+		death_date = 4670.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+4600.1.1 = {
+	monarch = {
+		name = "Opoin"
+		dynasty = "Paralat"
+		birth_date = 4580.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+4620.1.1 = {
 	monarch = {
 		name = "Ateas"
 		dynasty = "Scythian"
-		birth_date = 4571.1.1
+		birth_date = 4601.1.1
 		adm = 4
 		dip = 3
 		mil = 4
@@ -85,6 +575,52 @@ capital = 2608
 		dip = 0
 		mil = 0
 		regent = yes
+	}
+}
+
+4690.1.1 = {
+	monarch = {
+		name = "Aripharnes"
+		dynasty = "Scythian"
+		birth_date = 4660.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+4740.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+4800.1.1 = {
+	monarch = {
+		name = "Saitapharnes"
+		dynasty = "Scythian"
+		birth_date = 4780.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+4820.1.1 = {
+	heir = {
+		name = "Skilurus"
+		monarch_name = "Skilurus"
+		dynasty = "Scythian"
+		birth_date = 4820.1.1
+		death_date = 4890.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 

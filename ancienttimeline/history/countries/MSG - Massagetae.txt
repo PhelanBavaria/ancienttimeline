@@ -5,3 +5,87 @@ primary_culture = saka
 religion = scythian_religion
 technology_group = nomad_group
 capital = 1969
+
+4320.1.1 = {
+	monarch = {
+		name = "Massa Getai"
+		dynasty = "Massagetan"
+		birth_date = 4290.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+4370.1.1 = {
+	heir = {
+		name = "Skuka"
+		monarch_name = "Skuka I"
+		dynasty = "Massagetan"
+		birth_date = 4370.1.1
+		death_date = 4470.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4400.1.1 = {
+	monarch = {
+		name = "Skuka I"
+		dynasty = "Massagetan"
+		birth_date = 4370.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4440.1.1 = {
+	heir = {
+		name = "Tomyris"
+		monarch_name = "Tomyris"
+		dynasty = "Massagetan"
+		birth_date = 4440.1.1
+		death_date = 4500.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+		female = yes
+	}
+}
+
+4470.1.1 = {
+	monarch = {
+		name = "Tomyris"
+		dynasty = "Massagetan"
+		birth_date = 4440.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+		female = yes
+	}
+}
+
+4500.1.1 = {
+	monarch = {
+		name = "Skuka II"
+		dynasty = "Massagetan"
+		birth_date = 4480.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+4580.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
