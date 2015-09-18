@@ -230,6 +230,7 @@ VNE	= "countries/Venedi.txt"
 
 #Middle East
 ACA	= "countries/Achaemenids.txt"
+ADX	= "countries/Ad.txt"
 AIA	= "countries/Aria.txt"
 AKK	= "countries/Akkad.txt"
 ALL	= "countries/Alalakh.txt"

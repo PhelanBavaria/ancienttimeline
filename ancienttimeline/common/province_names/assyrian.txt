@@ -406,7 +406,7 @@
 406 = "Badiyat Ash Sham"
 407 = "Tetol"
 408 = "Lagash"
-409 = "Babylon"
+409 = "Babili"
 410 = "Eshnunna"
 411 = "Nineveh"
 412 = "Khooheshtan"
