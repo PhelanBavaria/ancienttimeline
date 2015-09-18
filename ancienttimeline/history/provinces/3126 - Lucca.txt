@@ -17,3 +17,4 @@ discovered_by = east_celtic
 discovered_by = gauls
 
 4600.1.1 = { owner = APU controller = APU add_core = APU citysize = 1000 trade_goods = cloth }
+4797.1.1 = { owner = ROM controller = ROM add_core = ROM }
