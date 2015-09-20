@@ -11,5 +11,5 @@ base_manpower = 2
 fort1 = yes
 discovered_by = mediterranean
 
-4703.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
+4500.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
 4799.1.1 = { owner = ROM controller = ROM add_core = ROM }
