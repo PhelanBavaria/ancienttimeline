@@ -1,14 +1,10 @@
 #2004 - Al Qusayr
 
-owner = EGY
-controller = EGY
-add_core = EGY
 culture = nubian #beja
-religion = egyptian
+religion = african
 capital = "Quseir"
-citysize = 1000
 base_manpower = 2
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 2
 base_production = 2
@@ -21,6 +17,7 @@ discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = nomad_group
 
+2045.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian culture = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
