@@ -15,4 +15,28 @@ country_decisions = {
             change_government = feudal_monarchy
         }
     }
+	
+	establishment_of_a_dictatorate = {
+	    potential = {
+		    tag = ROM
+			government = imperial_roman_republic
+			is_at_war = yes
+			war_score = -25
+		}
+		allow = {
+		    stability = 0
+			adm_power = 100
+			mil_power = 100	
+		}
+        effect = {
+		add_war_exhaustion = -2 
+		add_mil_power = -100
+		add_adm_power = -100
+		change_government = republican_dictatorship
+		add_army_tradition = 10
+		}
+		ai_will_do = { 
+		    factor = 1
+	    }
+	}
 }
