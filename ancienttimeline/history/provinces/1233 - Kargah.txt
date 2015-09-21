@@ -3,11 +3,11 @@
 culture = nubian
 religion = african
 capital = "Kharga"
-base_manpower = 2
+base_manpower = 3
 trade_goods = unknown
 hre = no
 base_tax = 2
-base_production = 2
+base_production = 3
 discovered_by = MAM
 discovered_by = muslim
 discovered_by = ottoman
@@ -26,7 +26,7 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-2080.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian culture = egyptian }
+2080.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian culture = al_misr_arabic }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4670.7.17 = { owner = MEO controller = MEO add_core = MEO remove_core = MCD }

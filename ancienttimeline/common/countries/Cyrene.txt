@@ -1,0 +1,70 @@
+#Country Name: Please see filename
+
+graphical_culture = easterngfx
+
+color = { 82  187  222 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_trade_ideas
+	early_mil_ideas
+	early_adm_ideas
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Scorpion #0" = 40
+	"Double Falcon #0" = 40
+	"Iry-Hor #0" = 20
+	"Ka #1" = -10
+	"Narmer #0" = 10
+	"Hor-Aha #0" = 0
+	"Djer #0" = 0
+	"Djet #0" = 0
+	"Merneith #0" = 0
+}
+
+leader_names = { 
+	Aat
+	Amenhotep
+	Mene
+	Amenmose	
+}
+
+ship_names = {
+	Alexandria
+	Rosetta
+	Khor
+	Kush
+	Anubis
+	Horus
+	Aten
+	Ra
+	Osiris
+}

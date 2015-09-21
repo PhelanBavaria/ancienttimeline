@@ -1,10 +1,10 @@
-#283 - Zaporozhia
+#2607 - Ingil
 
 owner = OLB
 controller = OLB
 add_core = OLB
 citysize = 1000
-culture = greek
+culture = ionic_greek
 religion = hellenism
 hre = no
 base_tax = 3

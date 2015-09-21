@@ -1,6 +1,6 @@
 #121 - Napoli
 
-culture = greek
+culture = doric_greek
 religion = hellenism
 hre = no 
 base_tax = 2

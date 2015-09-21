@@ -13,4 +13,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
+4370.1.1 = { owner = CYR controller = CYR add_core = CYR base_tax = 3 base_production = 3 base_manpower = 3 }
 4696.1.1 = { owner = PTL controller = PTL add_core = PTL citysize = 1000 religion = serapis culture = al_misr_arabic }
