@@ -1,0 +1,7 @@
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = dacian
+religion = zalmoxism
+technology_group = balkan_group
+capital = 161  #Wallachia
