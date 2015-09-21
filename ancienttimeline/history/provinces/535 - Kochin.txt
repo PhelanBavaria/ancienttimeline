@@ -2,7 +2,7 @@
 
 owner = AYX
 controller = AYX
-culture = malayalam
+culture = tamil
 religion = vedism
 capital = "Muchiri"
 trade_goods = spices

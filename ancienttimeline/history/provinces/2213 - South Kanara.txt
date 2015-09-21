@@ -1,6 +1,6 @@
 owner = PUZ
 controller = PUZ
-culture = kannada
+culture = tamil
 religion = vedism
 capital = "Pazhi"
 trade_goods = tropical_wood

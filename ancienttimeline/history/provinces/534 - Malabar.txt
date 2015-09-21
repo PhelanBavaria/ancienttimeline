@@ -2,7 +2,7 @@
 
 owner = PUZ
 controller = PUZ
-culture = malayalam
+culture = tamil
 religion = vedism
 capital = "Tondi"
 trade_goods = spices
