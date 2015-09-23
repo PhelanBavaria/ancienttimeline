@@ -39,3 +39,4 @@ discovered_by = SFA
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }
 4669.4.7 = { capital = "Alexandria" base_tax = 4 base_production = 4 base_manpower = 4 }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
+4970.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = PTL }
