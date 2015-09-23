@@ -8,7 +8,9 @@ increased_centralization = {
         has_country_modifier = increased_centralization
     }
     can_stop = {
-        NOT = { has_country_modifier = increased_centralization }
+        OR = {
+            has_any_disaster = yes
+        }
     }
     progress = {
         modifier = {

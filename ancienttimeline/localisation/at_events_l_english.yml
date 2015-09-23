@@ -27,3 +27,7 @@ l_english:
  gen.EVTOPTA2: "Show them who is the ruler of these lands!"
  tribal_flavor.EVTNAME2: "Our rule is accepted"
  tribal_flavor.EVTDESC2: "The people finally see that they are better off under our protection, they shouldn't cause too much trouble in the future."
+ rebellions.EVTNAME1: "Centralization started"
+ rebellions.EVTDESC1: "Our centralization process has started"
+ rebellions.EVTNAME100: "Centralization ended"
+ rebellions.EVTDESC100: "The Centralization has ended"
