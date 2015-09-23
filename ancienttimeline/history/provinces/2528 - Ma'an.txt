@@ -2,12 +2,12 @@
 
 culture = bedouin_arabic
 religion = nabataean
-capital = "Petra"
+capital = "Pel"
 trade_goods = unknown
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 3
+base_manpower = 3
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -30,5 +30,5 @@ discovered_by = SFA
 
 3900.1.1 = { owner = EDO controller = EDO add_core = EDO citysize = 3000 trade_goods = wool }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA remove_core = EDO }
-4668.8.17 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
+4668.8.17 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA capital = "Petra" }
 4695.6.2 = { owner = NAB controller = NAB add_core = NAB remove_core = MCD }

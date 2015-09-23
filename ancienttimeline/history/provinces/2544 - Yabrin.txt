@@ -1,4 +1,4 @@
-#392 - Nejd
+#2544 - Yabrin
 
 culture = bedouin_arabic
 religion = south_arabian
@@ -7,4 +7,4 @@ trade_goods = grain
 hre = no
 base_tax = 2
 base_production = 2
-base_manpower = 2
+base_manpower = 3

@@ -1,4 +1,4 @@
-#392 - Nejd
+#2534 - Tamara
 
 culture = bedouin_arabic
 religion = south_arabian

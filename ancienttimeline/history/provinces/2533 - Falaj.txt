@@ -1,12 +1,12 @@
-#392 - Nejd
+#2533 - Falaj
 
 culture = bedouin_arabic
 religion = south_arabian
-capital = "Qaryah dhat Kahl"
+capital = "Qaryat al-Hamra"
 trade_goods = unknown
 hre = no
 base_tax = 2
-base_production = 2
-base_manpower = 2
+base_production = 3
+base_manpower = 3
 
-
+4850.1.1 = { owner = KIN controller = KIN add_core = KIN }

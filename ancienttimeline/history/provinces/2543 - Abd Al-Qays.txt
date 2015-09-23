@@ -1,4 +1,4 @@
-#397 - Beni Yas
+#2543 - Abd Al-Qays
 
 owner = DIL
 controller = DIL
@@ -8,8 +8,8 @@ capital = "Abu Dhabi"
 trade_goods = fish
 hre = no
 base_tax = 2
-base_production = 2
-base_manpower = 2
+base_production = 3
+base_manpower = 3
 citysize = 1000
 add_core = DIL
 discovered_by = muslim

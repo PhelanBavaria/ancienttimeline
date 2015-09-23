@@ -1,4 +1,4 @@
-#385 - Mecca
+#2535 - Truba
 
 culture = bedouin_arabic
 religion = south_arabian

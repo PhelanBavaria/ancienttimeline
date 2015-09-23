@@ -1,17 +1,13 @@
 #365 - Sinai
 
-owner = NAB
-controller = NAB
 culture = bedouin_arabic
 religion = nabataean
-capital = "At Tur"
+capital = "Mafkat"
 trade_goods = salt
 hre = no
 base_tax = 2
-base_production = 2
+base_production = 3
 base_manpower = 2
-citysize = 1000
-add_core = NAB
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
@@ -32,6 +28,7 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1950.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4695.6.2 = { owner = NAB controller = NAB add_core = NAB remove_core = MCD }
