@@ -32,3 +32,4 @@ discovered_by = SFA
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis capital = "Herakleopolis" }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
+4970.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = PTL }

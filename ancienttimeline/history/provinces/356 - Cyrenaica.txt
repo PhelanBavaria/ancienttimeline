@@ -15,3 +15,4 @@ native_hostileness = 6
 
 4370.1.1 = { owner = CYR controller = CYR add_core = CYR base_tax = 3 base_production = 3 base_manpower = 3 }
 4696.1.1 = { owner = PTL controller = PTL add_core = PTL citysize = 1000 religion = serapis culture = al_misr_arabic }
+4970.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = PTL }
