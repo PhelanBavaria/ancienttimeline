@@ -8,6 +8,7 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
+discovered_by = mediterranean
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA trade_goods = grain }
 4669.6.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
