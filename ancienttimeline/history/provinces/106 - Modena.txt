@@ -26,4 +26,4 @@ discovered_by = gauls
     trade_goods = wine
 }
 
-4797.1.1 = { owner = ROM controller = ROM add_core = ROM }
+4805.1.1 = { owner = ROM controller = ROM add_core ROM }
