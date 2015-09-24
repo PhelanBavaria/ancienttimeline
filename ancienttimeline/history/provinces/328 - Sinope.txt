@@ -15,6 +15,7 @@ discovered_by = western
 discovered_by = barbarian
 discovered_by = eastern
 discovered_by = mediterranean
+discovered_by = middle_eastern
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4665.4.15 = { owner = PON controller = PON add_core = PON remove_core = ACA }
