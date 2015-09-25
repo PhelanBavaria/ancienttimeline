@@ -1,4 +1,4 @@
-#400 - Muscat
+#2542 - Sharqiyah
 
 owner = MSQ
 controller = MSQ
@@ -9,7 +9,7 @@ trade_goods = copper
 hre = no
 base_tax = 2
 base_production = 2
-base_manpower = 2
+base_manpower = 3
 citysize = 1600
 add_core = MSQ
 discovered_by = muslim
