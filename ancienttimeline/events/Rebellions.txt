@@ -13,19 +13,20 @@ country_event = {
     }
 
     immediate = {
-        random_owned_province = {
-            spawn_rebels = {
-                type = particularist_rebels
-                size = 2
-                win = yes
-                unrest = 15
+        every_owned_province = {
+            limit = {
+                likely_rebels = nationalist_rebels
+            }
+            random = {
+                chance = 10
+                nationalist_rebels = 3
             }
         }
     }
 
-    option = {
-        name = "rebellions.EVTOPTA1"
-    }
+    #option = {
+    #    name = "rebellions.EVTOPTA1"
+    #}
 }
 
 # National decentralisation
@@ -48,13 +49,12 @@ country_event = {
     option = {
         name = "rebellions.EVTOPTA2"            # Crush the rebels
         ai_chance = { factor = 55 }
-        every_owned_province = {
-            limit = {
-                likely_rebels = nationalist_rebels
-            }
-            random = {
-                chance = 10
-                nationalist_rebels = 3
+        random_owned_province = {
+            spawn_rebels = {
+                type = particularist_rebels
+                size = 2
+                win = yes
+                unrest = 15
             }
         }
     }

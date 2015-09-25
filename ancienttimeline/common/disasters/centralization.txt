@@ -29,31 +29,28 @@ increased_centralization = {
             NOT = { months_of_ruling = 12 }
         }
         modifier = {
-            factor = -3
+            factor = -1
             stability = 3
         }
         modifier = {
-            factor = -2
+            factor = -1
             stability = 2
-            NOT = { stability = 3 }
         }
         modifier = {
             factor = -1
             stability = 1
-            NOT = { stability = 2 }
+        }
+        modifier = {
+            factor = 4
+            stability = -1
         }
         modifier = {
             factor = 1
-            stability = -1
-            NOT = { stability = 0 }
-        }
-        modifier = {
-            factor = 2
             stability = -2
             NOT = { stability = -1 }
         }
         modifier = {
-            factor = 3
+            factor = 1
             stability = -3
             NOT = { stability = -2 }
         }
@@ -63,10 +60,16 @@ increased_centralization = {
         NOT = { num_of_rebel_controlled_provinces = 1 }
     }
 
+    modifier = {
+        global_unrest = 10
+    }
+
     on_start = rebellions.1
     on_end = rebellions.100
 
     on_monthly = {
-        rebellions.2
+        events = {
+            rebellions.2
+        }
     }
 }
