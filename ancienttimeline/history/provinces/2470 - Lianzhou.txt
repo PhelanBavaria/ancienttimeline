@@ -3,7 +3,7 @@
 owner = VNL
 controller = VNL
 culture = zhuang
-religion = confucianism
+religion = animism
 capital = "Limchow"
 trade_goods = fish
 hre = no
