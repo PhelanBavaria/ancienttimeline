@@ -12,7 +12,8 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
-discovered_by = nomad_group
+discovered_by = middle_eastern
+discovered_by = scythian_group
 
 4800.1.1 = { owner = ALA controller = ALA add_core = ALA remove_core = SIR }
 4900.1.1 = { culture = alan }

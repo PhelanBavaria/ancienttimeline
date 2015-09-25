@@ -8,8 +8,3 @@ base_production = 2
 trade_goods = unknown  
 base_manpower = 2
 capital = "Etkara"
-discovered_by = SIB
-discovered_by = KAZ
-discovered_by = NOG
-discovered_by = GOL
-

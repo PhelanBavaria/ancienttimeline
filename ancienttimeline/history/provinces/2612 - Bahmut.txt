@@ -12,7 +12,7 @@ base_production = 2
 trade_goods = iron 
 base_manpower = 2
 capital = "Belgorod"
-discovered_by = nomad_group
+discovered_by = scythian_group
 
 4700.1.1 = { owner = SRM controller = SRM add_core = SRM remove_core = SCY }
 4800.1.1 = { culture = sarmatian }

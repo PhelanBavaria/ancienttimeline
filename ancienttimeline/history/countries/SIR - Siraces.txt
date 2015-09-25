@@ -3,7 +3,7 @@ government_rank = 2
 mercantilism = 0.1
 primary_culture = sarmatian
 religion = scythian_religion
-technology_group = nomad_group
+technology_group = scythian_group
 capital = 2616
 
 4660.1.1 = {
