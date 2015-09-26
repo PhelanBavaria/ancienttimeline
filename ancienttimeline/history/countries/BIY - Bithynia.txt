@@ -1,14 +1,217 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 3
-#innovative_narrowminded = 1
-#mercantilism_freetrade = -3
 mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -4
-#quality_quantity = 3
-#serfdom_freesubjects = 2
 primary_culture = ionic_greek
 religion = hellenism
 technology_group = mediterranean
 capital = 316
+
+4624.1.1 = {
+	monarch = {
+		name = "Bas I"
+		dynasty = "Doedalsid"
+		birth_date = 4603.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+4646.1.1 = {
+	heir = {
+		name = "Zipoetes"
+		monarch_name = "Zipoetes I"
+		dynasty = "Doedalsid"
+		birth_date = 4646.1.1
+		death_date = 4722.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4674.1.1 = {
+	monarch = {
+		name = "Zipoetes I"
+		dynasty = "Doedalsid"
+		birth_date = 4646.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4700.1.1 = {
+	heir = {
+		name = "Nicomedes"
+		monarch_name = "Nicomedes I"
+		dynasty = "Doedalsid"
+		birth_date = 4700.1.1
+		death_date = 4745.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+4722.1.1 = {
+	monarch = {
+		name = "Nicomedes I"
+		dynasty = "Doedalsid"
+		birth_date = 4700.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+4735.1.1 = {
+	heir = {
+		name = "Ziaelas"
+		monarch_name = "Ziaelas I"
+		dynasty = "Doedalsid"
+		birth_date = 4735.1.1
+		death_date = 4772.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4745.1.1 = {
+	monarch = {
+		name = "Ziaelas I"
+		dynasty = "Doedalsid"
+		birth_date = 4735.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4757.1.1 = {
+	heir = {
+		name = "Prusias"
+		monarch_name = "Prusias I"
+		dynasty = "Doedalsid"
+		birth_date = 4757.1.1
+		death_date = 4818.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+4772.1.1 = {
+	monarch = {
+		name = "Prusias I"
+		dynasty = "Doedalsid"
+		birth_date = 4757.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+4780.1.1 = {
+	heir = {
+		name = "Prusias"
+		monarch_name = "Prusias II"
+		dynasty = "Doedalsid"
+		birth_date = 4780.1.1
+		death_date = 4851.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+4818.1.1 = {
+	monarch = {
+		name = "Prusias II"
+		dynasty = "Doedalsid"
+		birth_date = 4780.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+4821.1.1 = {
+	heir = {
+		name = "Nicomedes"
+		monarch_name = "Nicomedes II"
+		dynasty = "Doedalsid"
+		birth_date = 4821.1.1
+		death_date = 4873.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+4851.1.1 = {
+	monarch = {
+		name = "Nicomedes II"
+		dynasty = "Doedalsid"
+		birth_date = 4821.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+4851.1.1 = {
+	heir = {
+		name = "Nicomedes"
+		monarch_name = "Nicomedes III"
+		dynasty = "Doedalsid"
+		birth_date = 4843.1.1
+		death_date = 4906.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4873.1.1 = {
+	monarch = {
+		name = "Nicomedes III"
+		dynasty = "Doedalsid"
+		birth_date = 4843.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4880.1.1 = {
+	heir = {
+		name = "Nicomedes"
+		monarch_name = "Nicomedes IV"
+		dynasty = "Doedalsid"
+		birth_date = 4880.1.1
+		death_date = 4926.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+4906.1.1 = {
+	monarch = {
+		name = "Nicomedes IV"
+		dynasty = "Doedalsid"
+		birth_date = 4880.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}

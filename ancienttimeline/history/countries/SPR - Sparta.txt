@@ -1,14 +1,822 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 3
-#innovative_narrowminded = 1
-#mercantilism_freetrade = -3
 mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -4
-#quality_quantity = 3
-#serfdom_freesubjects = 2
 primary_culture = doric_greek
 religion = hellenism
 technology_group = mediterranean
 capital = 145
+
+4000.1.1 = {
+	monarch = {
+		name = "Eurysthenes"
+		dynasty = "Agiad"
+		birth_date = 3970.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4040.1.1 = {
+	heir = {
+		name = "Agis"
+		monarch_name = "Agis I"
+		dynasty = "Agiad"
+		birth_date = 4040.1.1
+		death_date = 4100.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+4070.1.1 = {
+	monarch = {
+		name = "Agis I"
+		dynasty = "Agiad"
+		birth_date = 4040.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+4070.1.1 = {
+	heir = {
+		name = "Echestratus"
+		monarch_name = "Echestratus I"
+		dynasty = "Agiad"
+		birth_date = 4070.1.1
+		death_date = 4130.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+4100.1.1 = {
+	monarch = {
+		name = "Echestratus I"
+		dynasty = "Agiad"
+		birth_date = 4070.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+4100.1.1 = {
+	heir = {
+		name = "Labotas"
+		monarch_name = "Labotas I"
+		dynasty = "Agiad"
+		birth_date = 4100.1.1
+		death_date = 4160.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4130.1.1 = {
+	monarch = {
+		name = "Labotas I"
+		dynasty = "Agiad"
+		birth_date = 4100.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+4130.1.1 = {
+	heir = {
+		name = "Doryssus"
+		monarch_name = "Doryssus I"
+		dynasty = "Agiad"
+		birth_date = 4130.1.1
+		death_date = 4180.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+4160.1.1 = {
+	monarch = {
+		name = "Doryssus I"
+		dynasty = "Agiad"
+		birth_date = 4130.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+4160.1.1 = {
+	heir = {
+		name = "Agesilaus"
+		monarch_name = "Agesilaus I"
+		dynasty = "Agiad"
+		birth_date = 4150.1.1
+		death_date = 4210.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4180.1.1 = {
+	monarch = {
+		name = "Agesilaus I"
+		dynasty = "Agiad"
+		birth_date = 4150.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4180.1.1 = {
+	heir = {
+		name = "Archelaus"
+		monarch_name = "Archelaus I"
+		dynasty = "Agiad"
+		birth_date = 4180.1.1
+		death_date = 4240.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4210.1.1 = {
+	monarch = {
+		name = "Archelaus I"
+		dynasty = "Agiad"
+		birth_date = 4180.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+4210.1.1 = {
+	heir = {
+		name = "Teleclus"
+		monarch_name = "Teleclus I"
+		dynasty = "Agiad"
+		birth_date = 4210.1.1
+		death_date = 4242.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4240.1.1 = {
+	monarch = {
+		name = "Teleclus I"
+		dynasty = "Agiad"
+		birth_date = 4210.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+4240.1.1 = {
+	heir = {
+		name = "Alcamenes"
+		monarch_name = "Alcamenes I"
+		dynasty = "Agiad"
+		birth_date = 4212.1.1
+		death_date = 4259.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4242.1.1 = {
+	monarch = {
+		name = "Alcamenes I"
+		dynasty = "Agiad"
+		birth_date = 4212.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+4242.1.1 = {
+	heir = {
+		name = "Polydorus"
+		monarch_name = "Polydorus I"
+		dynasty = "Agiad"
+		birth_date = 4229.1.1
+		death_date = 4335.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4259.1.1 = {
+	monarch = {
+		name = "Polydorus I"
+		dynasty = "Agiad"
+		birth_date = 4229.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4305.1.1 = {
+	heir = {
+		name = "Eurycrates"
+		monarch_name = "Eurycrates I"
+		dynasty = "Agiad"
+		birth_date = 4305.1.1
+		death_date = 4360.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4335.1.1 = {
+	monarch = {
+		name = "Eurycrates I"
+		dynasty = "Agiad"
+		birth_date = 4305.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+4335.1.1 = {
+	heir = {
+		name = "Anaxander"
+		monarch_name = "Anaxander I"
+		dynasty = "Agiad"
+		birth_date = 4330.1.1
+		death_date = 4385.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+4360.1.1 = {
+	monarch = {
+		name = "Anaxander I"
+		dynasty = "Agiad"
+		birth_date = 4330.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+4360.1.1 = {
+	heir = {
+		name = "Eurycratides"
+		monarch_name = "Eurycratides I"
+		dynasty = "Agiad"
+		birth_date = 4355.1.1
+		death_date = 4410.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4385.1.1 = {
+	monarch = {
+		name = "Eurycratides I"
+		dynasty = "Agiad"
+		birth_date = 4355.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+4385.1.1 = {
+	heir = {
+		name = "Leon"
+		monarch_name = "Leon I"
+		dynasty = "Agiad"
+		birth_date = 4380.1.1
+		death_date = 4440.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4410.1.1 = {
+	monarch = {
+		name = "Leon I"
+		dynasty = "Agiad"
+		birth_date = 4380.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4410.1.1 = {
+	heir = {
+		name = "Anaxandrias"
+		monarch_name = "Anaxandrias II"
+		dynasty = "Agiad"
+		birth_date = 4410.1.1
+		death_date = 4480.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+4440.1.1 = {
+	monarch = {
+		name = "Anaxandrias II"
+		dynasty = "Agiad"
+		birth_date = 4410.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+4450.1.1 = {
+	heir = {
+		name = "Cleomenes"
+		monarch_name = "Cleomenes I"
+		dynasty = "Agiad"
+		birth_date = 4450.1.1
+		death_date = 4510.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+4480.1.1 = {
+	monarch = {
+		name = "Cleomenes I"
+		dynasty = "Agiad"
+		birth_date = 4450.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+4480.1.1 = {
+	heir = {
+		name = "Leonidas"
+		monarch_name = "Leonidas I"
+		dynasty = "Agiad"
+		birth_date = 4460.1.1
+		death_date = 4520.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+}
+
+4510.1.1 = {
+	monarch = {
+		name = "Leonidas I"
+		dynasty = "Agiad"
+		birth_date = 4460.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+}
+
+4510.1.1 = {
+	heir = {
+		name = "Pleistarchus"
+		monarch_name = "Pleistarchus I"
+		dynasty = "Agiad"
+		birth_date = 4490.1.1
+		death_date = 4541.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4520.1.1 = {
+	monarch = {
+		name = "Pleistarchus I"
+		dynasty = "Agiad"
+		birth_date = 4490.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+4520.1.1 = {
+	heir = {
+		name = "Pleistoanax"
+		monarch_name = "Pleistoanax I"
+		dynasty = "Agiad"
+		birth_date = 4511.1.1
+		death_date = 4591.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+4541.1.1 = {
+	monarch = {
+		name = "Pleistoanax I"
+		dynasty = "Agiad"
+		birth_date = 4511.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+4561.1.1 = {
+	heir = {
+		name = "Pausanias"
+		monarch_name = "Pausanias I"
+		dynasty = "Agiad"
+		birth_date = 4561.1.1
+		death_date = 4605.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4591.1.1 = {
+	monarch = {
+		name = "Pausanias I"
+		dynasty = "Agiad"
+		birth_date = 4561.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+4591.1.1 = {
+	heir = {
+		name = "Agesipolis"
+		monarch_name = "Agesipolis I"
+		dynasty = "Agiad"
+		birth_date = 4575.1.1
+		death_date = 4620.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+4605.1.1 = {
+	monarch = {
+		name = "Agesipolis I"
+		dynasty = "Agiad"
+		birth_date = 4575.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+4605.1.1 = {
+	heir = {
+		name = "Cleombrotus"
+		monarch_name = "Cleombrotus I"
+		dynasty = "Agiad"
+		birth_date = 4590.1.1
+		death_date = 4629.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4620.1.1 = {
+	monarch = {
+		name = "Cleombrotus I"
+		dynasty = "Agiad"
+		birth_date = 4590.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+4620.1.1 = {
+	heir = {
+		name = "Agesipolis"
+		monarch_name = "Agesipolis II"
+		dynasty = "Agiad"
+		birth_date = 4599.1.1
+		death_date = 4631.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4629.1.1 = {
+	monarch = {
+		name = "Agesipolis II"
+		dynasty = "Agiad"
+		birth_date = 4599.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+4629.1.1 = {
+	heir = {
+		name = "Cleomenes"
+		monarch_name = "Cleomenes II"
+		dynasty = "Agiad"
+		birth_date = 4601.1.1
+		death_date = 4691.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4631.1.1 = {
+	monarch = {
+		name = "Cleomenes II"
+		dynasty = "Agiad"
+		birth_date = 4601.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+4661.1.1 = {
+	heir = {
+		name = "Areus"
+		monarch_name = "Areus I"
+		dynasty = "Agiad"
+		birth_date = 4661.1.1
+		death_date = 4735.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4691.1.1 = {
+	monarch = {
+		name = "Areus I"
+		dynasty = "Agiad"
+		birth_date = 4661.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+4705.1.1 = {
+	heir = {
+		name = "Acrotatus"
+		monarch_name = "Acrotatus II"
+		dynasty = "Agiad"
+		birth_date = 4705.1.1
+		death_date = 4738.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4735.1.1 = {
+	monarch = {
+		name = "Acrotatus II"
+		dynasty = "Agiad"
+		birth_date = 4705.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4735.1.1 = {
+	heir = {
+		name = "Areus"
+		monarch_name = "Areus II"
+		dynasty = "Agiad"
+		birth_date = 4708.1.1
+		death_date = 4746.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4738.1.1 = {
+	monarch = {
+		name = "Areus II"
+		dynasty = "Agiad"
+		birth_date = 4708.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+4738.1.1 = {
+	heir = {
+		name = "Leonidas"
+		monarch_name = "Leonidas II"
+		dynasty = "Agiad"
+		birth_date = 4716.1.1
+		death_date = 4758.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+4746.1.1 = {
+	monarch = {
+		name = "Leonidas II"
+		dynasty = "Agiad"
+		birth_date = 4716.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+4746.1.1 = {
+	heir = {
+		name = "Cleombrotus"
+		monarch_name = "Cleombrotus II"
+		dynasty = "Agiad"
+		birth_date = 4740.1.1
+		death_date = 4759.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4758.1.1 = {
+	monarch = {
+		name = "Cleombrotus II"
+		dynasty = "Agiad"
+		birth_date = 4740.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+4759.1.1 = {
+	monarch = {
+		name = "Leonidas II"
+		dynasty = "Agiad"
+		birth_date = 4716.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+4759.1.1 = {
+	heir = {
+		name = "Cleomenes"
+		monarch_name = "Cleomenes III"
+		dynasty = "Agiad"
+		birth_date = 4740.1.1
+		death_date = 4781.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+4765.1.1 = {
+	monarch = {
+		name = "Cleomenes III"
+		dynasty = "Agiad"
+		birth_date = 4740.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+4779.1.1 = { 
+	government = oligarchic_republic 
+	monarch = {
+		name = "(interregnum)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+4781.1.1 = {
+	government = despotic_monarchy
+	monarch = {
+		name = "Agesipolis III"
+		dynasty = "Agiad"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4785.1.1 = {
+	monarch = {
+		name = "Lycurgus I"
+		dynasty = "Eurypontid"
+		birth_date = 4755.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+4785.1.1 = {
+	heir = {
+		name = "Pelops"
+		monarch_name = "Pelops I"
+		dynasty = "Eurypontid"
+		birth_date = 4770.1.1
+		death_date = 4794.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+4790.1.1 = {
+	monarch = {
+		name = "Pelops I"
+		dynasty = "Eurypontid"
+		birth_date = 4770.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+4794.1.1 = {
+	monarch = {
+		name = "Nabis I"
+		dynasty = "Eurypontid"
+		birth_date = 4770.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
