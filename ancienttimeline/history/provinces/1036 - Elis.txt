@@ -1,0 +1,28 @@
+#1036 - Elis
+
+owner = CRH
+controller = CRH
+culture = doric_greek
+religion = hellenism
+capital = "Elis"
+trade_goods = wine
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+citysize = 1000
+add_core = CRH
+add_core = MCD
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = mediterranean
+discovered_by = western
+discovered_by = barbarian
+discovered_by = celtiberians
+discovered_by = middle_eastern
+
+4665.9.12 = { owner = MCD controller = MCD }
+4712.1.1 = { owner = THR controller = THR }
+4719.1.1 = { owner = MCD controller = MCD }
+4900.1.1 = { owner = ROM controller = ROM add_core ROM }
