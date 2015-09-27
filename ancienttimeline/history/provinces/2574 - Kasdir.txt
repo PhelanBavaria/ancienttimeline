@@ -14,4 +14,4 @@ discovered_by = ottoman
 discovered_by = ROM
 discovered_by = ROW
 
-4600.1.1 = { owner = MSA controller = MSA add_core = MSA citysize = 1000 }
+4600.1.1 = { owner = MSY controller = MSY add_core = MSY citysize = 1000 }

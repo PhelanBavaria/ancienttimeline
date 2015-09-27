@@ -313,7 +313,7 @@ GAR = "countries/Garamantia.txt"
 MRU = "countries/Mauri.txt"
 MEO	= "countries/Meroe.txt"
 MRN	= "countries/Mauretania.txt"
-MSA = "countries/Masaesyli.txt"
+MSY = "countries/Massylii.txt"
 NMD	= "countries/Numidia.txt"
 		
 #Steppes
