@@ -4,11 +4,11 @@ owner = ACA
 controller = ACA
 culture = persian
 religion = zoroastrian
-capital = "Bushehr"
+capital = "Riv Ardasher"
 trade_goods = silk
 hre = no
-base_tax = 2
-base_production = 2
+base_tax = 3
+base_production = 3
 base_manpower = 2
 citysize = 2009
 add_core = ACA
@@ -19,4 +19,4 @@ discovered_by = nomad_group
 fort1 = yes
 
 4669.10.1 = { owner = MCD controller = MCD add_core = MCD }
-4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
+4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD capital = "Antiochia in Persis" }

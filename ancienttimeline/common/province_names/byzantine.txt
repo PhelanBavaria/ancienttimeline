@@ -11,6 +11,8 @@
 383 = "Tabawa"
 395 = "Catara"
 419 = "Artimed"
+429 = "Persepolis"
+435 = "Drangiana"
 1856 = "Dioscurias"
 2004 = "Leucus Limen"
 2007 = "Pella"
