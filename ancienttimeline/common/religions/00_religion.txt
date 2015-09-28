@@ -42,11 +42,35 @@ dharmic = {
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 25 31 }
 
+	mahayana = {
+		color = { 0.8 0.3 0.5 }
+		icon = 44
+		allowed_conversion = {
+			buddhism
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		on_convert = {
+			change_religion = mahayana
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { ZEN }
+
+		uses_karma = yes
+	}
+
 	buddhism = { #Theravada
 		color = { 0.8 0.3 0 }
 		icon = 45
 		allowed_conversion = {
-			vajrayana
 			mahayana
 		}
 		country = {
@@ -54,7 +78,7 @@ dharmic = {
 			advisor_cost = -0.1
 		}
 		on_convert = {
-			change_religion = theravada
+			change_religion = buddhism
 			add_prestige = -100
 			
 			add_country_modifier = {
