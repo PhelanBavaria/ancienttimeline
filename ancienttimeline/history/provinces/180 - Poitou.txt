@@ -15,3 +15,4 @@ native_hostileness = 6
 discovered_by = gauls
 
 4500.1.1 = { owner = PIT controller = PIT add_core = PIT citysize = 1000 trade_goods = fish }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM }

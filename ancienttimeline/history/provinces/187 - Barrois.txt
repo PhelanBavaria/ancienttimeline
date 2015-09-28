@@ -16,3 +16,4 @@ discovered_by = gauls
 discovered_by = east_celtic
 
 4300.1.1 = { owner = LGO controller = LGO add_core = LGO citysize = 1000 trade_goods = cloth }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM }

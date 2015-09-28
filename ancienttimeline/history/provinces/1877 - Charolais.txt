@@ -14,3 +14,4 @@ native_hostileness = 6
 discovered_by = gauls
 
 4500.1.1 = { owner = BRV controller = BRV add_core = BRV citysize = 1000 trade_goods = grain }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM }

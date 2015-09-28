@@ -15,3 +15,4 @@ native_hostileness = 6
 discovered_by = gauls
 
 4400.1.1 = { owner = AMI controller = AMI add_core = AMI citysize = 1000 trade_goods = grain }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM }
