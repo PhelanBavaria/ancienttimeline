@@ -1,4 +1,4 @@
-# 75 Elsass - Principal cities: Strasbourg
+#75 - Elsass
 
 capital = "Argentoratum"
 culture = belgae

@@ -1,4 +1,4 @@
-#1164 - Cameroon
+#1164 - Douala
 
 culture = northern_bantu
 religion = shamanism

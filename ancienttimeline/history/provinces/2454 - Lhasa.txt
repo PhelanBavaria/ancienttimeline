@@ -1,4 +1,4 @@
-#677 - Qamdo
+#2454 - Lhasa
 
 culture = tibetan
 religion = tibetan_bon

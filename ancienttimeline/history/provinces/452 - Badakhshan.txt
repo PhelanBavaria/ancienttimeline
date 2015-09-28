@@ -1,4 +1,4 @@
-#452 - Badakhshan
+#452 - Yashilkul
 
 owner = ROW
 controller = ROW

@@ -1,4 +1,4 @@
-#898 - Kansas
+#2944 - Kitkehaki
 
 culture = pawnee
 religion = totemism

@@ -1,4 +1,4 @@
-#814 - Huanuco
+#2723 - Moyobamba
 
 culture = chachapoyan
 religion = inti

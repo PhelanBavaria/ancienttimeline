@@ -1,4 +1,4 @@
-#1218 - Kefa
+#2683 - Welayta
 
 culture = sidamo 
 religion = african

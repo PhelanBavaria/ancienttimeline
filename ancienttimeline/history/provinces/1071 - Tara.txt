@@ -1,4 +1,4 @@
-#1071 - Tara
+#1071 - Irtesh
 
 culture = siberian
 religion = shamanism

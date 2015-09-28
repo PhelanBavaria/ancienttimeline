@@ -1,4 +1,4 @@
-#971 - Abnaki
+#3003 - Passamaquoddy
 
 culture = abenaki
 religion = totemism

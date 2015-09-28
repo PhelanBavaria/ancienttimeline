@@ -1,4 +1,4 @@
-#755 - Pernambuco
+#2810 - Pambu
 
 culture = ge
 religion = south_american

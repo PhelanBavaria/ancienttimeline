@@ -1,4 +1,4 @@
-#61 - Dresden
+#61 - Saxony
 
 culture = hessian
 religion = germanic

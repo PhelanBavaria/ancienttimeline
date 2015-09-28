@@ -1,2 +1,4 @@
+#Soya Strait
+
 discovered_by = chinese
 discovered_by = nomad_group

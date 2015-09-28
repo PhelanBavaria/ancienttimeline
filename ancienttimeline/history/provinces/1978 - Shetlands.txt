@@ -1,4 +1,4 @@
-#1978 - Shetlands
+#1978 - The Shetlands
 
 culture = norwegian
 religion = norse_pagan_reformed

@@ -1,4 +1,4 @@
-#511 - Sutlej
+#511 - Garhwal
 
 owner = PAU
 controller = PAU

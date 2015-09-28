@@ -1,4 +1,4 @@
-#732 - Hamgyeong
+#732 - North Dongye
 
 owner = GOJ
 controller = GOJ

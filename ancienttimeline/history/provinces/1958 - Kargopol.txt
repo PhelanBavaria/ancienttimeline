@@ -1,4 +1,4 @@
-#Kargopol
+#1958 - Kargopol
 
 culture = karelian
 religion = suomenusko

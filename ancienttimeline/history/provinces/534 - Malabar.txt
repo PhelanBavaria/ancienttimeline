@@ -1,4 +1,4 @@
-#534 - Malabar
+#534 - North Kerala
 
 owner = PUZ
 controller = PUZ

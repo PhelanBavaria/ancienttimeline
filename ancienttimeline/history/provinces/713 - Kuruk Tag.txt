@@ -1,4 +1,4 @@
-#713 - Kuruk Tag
+#713 - Bechbaliq
 
 owner = YZH
 controller = YZH

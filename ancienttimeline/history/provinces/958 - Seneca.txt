@@ -1,4 +1,4 @@
-#958 - Seneca (Area was Wenro until 1638)
+#958 - Seneca
 
 culture = huron
 religion = totemism

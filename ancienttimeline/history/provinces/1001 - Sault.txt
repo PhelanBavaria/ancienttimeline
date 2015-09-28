@@ -1,4 +1,4 @@
-#1001 - Sault
+#1001 - Soto
 
 culture = anishinabe
 religion = totemism

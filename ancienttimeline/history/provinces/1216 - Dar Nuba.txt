@@ -1,4 +1,4 @@
-#1216 - Dar Nuba
+#1216 - Tegali
 
 culture = nubian #Shilluk
 religion = african

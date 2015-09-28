@@ -1,4 +1,4 @@
-#1834 - Omi
+#1834 - Dorpat
 
 culture = latvian
 religion = suomenusko

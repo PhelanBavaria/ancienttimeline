@@ -1,4 +1,4 @@
-#530 - Konkan
+#530 - South Konkan
 
 owner = KNK
 controller = KNK

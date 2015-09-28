@@ -1,4 +1,4 @@
-#690 - Shandong Bandao
+#690 - Shandong
 
 owner = HND
 controller = HND

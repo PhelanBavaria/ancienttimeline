@@ -1,4 +1,4 @@
-#706 - Amdo
+#2459 - Tsaidam
 
 culture = qiang
 religion = tibetan_bon

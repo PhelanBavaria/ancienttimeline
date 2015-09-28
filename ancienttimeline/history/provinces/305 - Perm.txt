@@ -1,4 +1,4 @@
-#305 - Perm (formerly Simbirsk)
+#305 - Perm
       
 culture = uralic
 religion = suomenusko

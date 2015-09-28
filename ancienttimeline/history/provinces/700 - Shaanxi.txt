@@ -1,4 +1,4 @@
-#700 - Shaanxi
+#700 - Xianyang
 
 owner = HND
 controller = HND

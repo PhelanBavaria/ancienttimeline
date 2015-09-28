@@ -1,4 +1,4 @@
-#755 - Pernambuco
+#2809 - Sergipe
 
 culture = tupinamba
 religion = south_american

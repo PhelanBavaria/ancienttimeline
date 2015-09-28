@@ -1,4 +1,4 @@
-#476 - Kypshak
+#2443 - Dzhaman-Kuduk
 
 culture = turkish
 religion = tengri_pagan_reformed

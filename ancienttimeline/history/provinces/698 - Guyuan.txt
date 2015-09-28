@@ -1,4 +1,4 @@
-#698 - Guyuan
+#698 - Ningxia
 
 owner = XIR
 controller = XIR

@@ -1,4 +1,4 @@
-#349 - Atlas
+#349 - Figuig
 
 culture = berber
 religion = african

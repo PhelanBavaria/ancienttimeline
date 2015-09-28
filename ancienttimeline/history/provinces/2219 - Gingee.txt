@@ -1,4 +1,4 @@
-#2219 - Gingee
+#2219 - Kollimalai
 
 owner = CLS
 controller = CLS

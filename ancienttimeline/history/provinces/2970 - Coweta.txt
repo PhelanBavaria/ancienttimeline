@@ -1,4 +1,4 @@
-#931 - Chiaha
+#2970 - Coweta
 
 culture = creek
 religion = totemism

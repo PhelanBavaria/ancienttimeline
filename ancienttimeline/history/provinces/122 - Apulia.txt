@@ -1,4 +1,4 @@
-#122 - Apulia
+#122 - Salento
 
 culture = doric_greek
 religion = hellenism

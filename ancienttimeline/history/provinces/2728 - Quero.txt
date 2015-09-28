@@ -1,4 +1,4 @@
-#808 - Cuzco
+#2728 - Quero
 
 culture = inca
 religion = inti

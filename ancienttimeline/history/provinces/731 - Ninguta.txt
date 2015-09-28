@@ -1,4 +1,4 @@
-#731 - Ninguta
+#731 - East Sushen
 
 owner = SUS
 controller = SUS

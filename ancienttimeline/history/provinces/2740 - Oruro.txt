@@ -1,4 +1,4 @@
-#798 - Charcas
+#2740 - Oruro
 
 culture = aimara
 religion = inti

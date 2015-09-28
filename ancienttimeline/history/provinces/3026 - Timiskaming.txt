@@ -1,4 +1,4 @@
-#992 - Algonquin
+#3026 - Timiskaming
 
 culture = cree
 religion = totemism

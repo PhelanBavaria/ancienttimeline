@@ -1,4 +1,4 @@
-#1997 - Society Islands
+#1987 - Society Islands
 
 culture = polynesian
 religion = animism

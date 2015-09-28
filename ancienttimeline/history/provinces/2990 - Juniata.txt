@@ -1,4 +1,4 @@
-#955 - Susquehanna
+#2990 - Juniata
 
 culture = susquehannock
 religion = totemism

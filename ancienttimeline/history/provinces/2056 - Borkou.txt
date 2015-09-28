@@ -1,3 +1,5 @@
+#Borkou
+
 culture = tuareg
 religion = african
 capital = "Faya-Largeau"

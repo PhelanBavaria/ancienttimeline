@@ -1,4 +1,4 @@
-#543 - Golconda
+#543 - Kosta
 
 owner = CLS
 controller = CLS

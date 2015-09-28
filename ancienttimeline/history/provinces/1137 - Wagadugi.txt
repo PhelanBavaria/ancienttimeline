@@ -1,4 +1,4 @@
-#1137 - Wagadugi
+#1137 - Wagadugu
 
 #Senior of the Mossi Kingdoms centered here
 culture = mossi

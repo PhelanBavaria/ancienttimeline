@@ -1,4 +1,4 @@
-#1231 - Ibrim
+#1231 - Aswan
 
 culture = nubian
 religion = african

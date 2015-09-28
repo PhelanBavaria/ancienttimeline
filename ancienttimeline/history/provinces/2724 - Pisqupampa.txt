@@ -1,4 +1,4 @@
-#814 - Huanuco
+#2724 - Pisqupampa
 
 culture = inca
 religion = inti

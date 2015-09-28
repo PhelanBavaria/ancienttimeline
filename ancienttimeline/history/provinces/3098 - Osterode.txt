@@ -1,4 +1,4 @@
-#42 - Warmia
+#3098 - Osterode
 
 capital  = "Osterode"
 culture = gothic

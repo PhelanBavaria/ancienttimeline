@@ -1,4 +1,4 @@
-#1210 - Ifat
+#2687 - Dawaro
 
 culture = somali
 religion = african

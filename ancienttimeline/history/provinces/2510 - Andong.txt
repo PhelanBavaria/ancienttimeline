@@ -1,4 +1,4 @@
-#726 - Liaodong
+#2510 - Andong
 
 owner = GOJ
 controller = GOJ

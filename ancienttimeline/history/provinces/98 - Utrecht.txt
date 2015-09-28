@@ -1,4 +1,4 @@
-# 98 Utrecht - Principal cities: Utrecht
+#98 - Utrecht
 
 capital = "Dorestad"
 culture = belgic

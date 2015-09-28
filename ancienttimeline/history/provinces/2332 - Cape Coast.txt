@@ -1,4 +1,4 @@
-#1139 - Gold Coast
+#2332 - Cape Coast
 
 culture = aka
 religion = african

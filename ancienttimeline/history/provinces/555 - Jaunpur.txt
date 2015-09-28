@@ -1,4 +1,4 @@
-#555 - Oudh
+#555 - Ayodhya
 
 owner = MHJ
 controller = MHJ

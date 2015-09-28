@@ -1,4 +1,4 @@
-#952 - Powhatan
+#2979 - Moratok
 
 culture = powhatan
 religion = totemism

@@ -1,4 +1,4 @@
-#717 - Hovd
+#2893 - Ih Huree
 
 culture = xiongnu
 religion = tengri_pagan_reformed

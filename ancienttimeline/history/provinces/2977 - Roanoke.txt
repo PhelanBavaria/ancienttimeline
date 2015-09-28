@@ -1,4 +1,4 @@
-#938 - Pamlico
+#2977 - Roanoke
 
 culture = powhatan
 religion = totemism

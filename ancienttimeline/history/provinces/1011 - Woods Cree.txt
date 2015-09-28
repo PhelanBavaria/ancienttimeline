@@ -1,4 +1,4 @@
-#1011 - Woods Cree
+#1011 - Kinougeoulini
 
 culture = cree
 religion = totemism

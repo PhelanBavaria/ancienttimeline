@@ -1,4 +1,4 @@
-#Ajuuraan
+#2702 - Beledweyne
 
 culture = somali
 religion = african

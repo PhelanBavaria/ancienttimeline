@@ -1,4 +1,4 @@
-#1226 - Taka
+#2674 - Semien
 
 citysize = 1000
 culture = amhara 

@@ -1,3 +1,5 @@
+#Guapore
+
 culture = maipurean
 religion = south_american
 capital = "Guapore"

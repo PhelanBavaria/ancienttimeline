@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2695 - Hafun
 
 culture = somali
 religion = african

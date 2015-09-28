@@ -1,4 +1,4 @@
-#2010 - Connecticut
+#2996 - Quinnipiac
 
 culture = pequot
 religion = totemism

@@ -1,4 +1,4 @@
-#540 - Coromandel
+#540 - Kaveripattinam
 
 owner = CLS
 controller = CLS

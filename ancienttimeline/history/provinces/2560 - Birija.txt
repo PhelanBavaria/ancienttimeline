@@ -1,4 +1,4 @@
-#1049 - Saghalian Oula
+#2560 - Birija
 
 culture = manchu
 religion = shamanism

@@ -1,4 +1,4 @@
-#313 - Archangelsk
+#313 - Arkhangelsk
 
 culture = samoyed
 religion = suomenusko

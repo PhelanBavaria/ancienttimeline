@@ -1,3 +1,5 @@
+#Maniema
+
 culture = luba
 religion = african
 capital = "Maniema"

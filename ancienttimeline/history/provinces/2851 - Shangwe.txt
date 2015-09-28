@@ -1,4 +1,4 @@
-#1189 - Shangwe
+#2851 - Shangwe
 
 culture = tonga
 religion = african

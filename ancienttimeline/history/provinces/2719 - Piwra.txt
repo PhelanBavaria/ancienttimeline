@@ -1,4 +1,4 @@
-#816 - Tumbes
+#2719 - Piwra
 
 culture = chimuan
 religion = inti

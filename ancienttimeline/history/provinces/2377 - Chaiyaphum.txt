@@ -1,4 +1,4 @@
-#612 - Khorat
+#2377 - Chaiyaphum
 
 culture = khmer
 religion = mahayana

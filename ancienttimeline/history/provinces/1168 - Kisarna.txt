@@ -1,4 +1,4 @@
-#1168 - Benguela
+#1168 - Ovimbundu
 
 culture = ovimbundu
 religion = shamanism

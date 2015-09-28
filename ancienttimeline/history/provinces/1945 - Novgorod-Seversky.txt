@@ -1,4 +1,4 @@
-#Novgorod-Seversky
+#1945 - Severia
 
 culture = ruthenian
 religion = slavic

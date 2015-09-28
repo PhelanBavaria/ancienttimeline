@@ -1,4 +1,4 @@
-#952 - Powhatan
+#2980 - Doeg
 
 culture = powhatan
 religion = totemism

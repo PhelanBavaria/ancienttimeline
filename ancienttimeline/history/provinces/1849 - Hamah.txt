@@ -1,4 +1,4 @@
-#1849 - Hamah
+#1849 - Hama
 
 owner = EBL
 controller = EBL

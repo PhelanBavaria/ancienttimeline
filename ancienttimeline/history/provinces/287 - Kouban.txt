@@ -1,4 +1,4 @@
-#287 - Kouban
+#287 - Maeotian Swamp
  
 citysize = 1000
 culture = circassian

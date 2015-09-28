@@ -1,4 +1,4 @@
-#1046 - Butalsk
+#1046 - Maya
 
 culture = yakut
 religion = shamanism

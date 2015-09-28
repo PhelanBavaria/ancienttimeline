@@ -1,3 +1,5 @@
+#Kurtjar
+
 culture = aboriginal
 religion = animism
 capital = "Kurtjar"

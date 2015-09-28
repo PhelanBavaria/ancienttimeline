@@ -1,3 +1,5 @@
+#Sekani
+
 culture = athabascan
 religion = totemism
 capital = "Sekani"

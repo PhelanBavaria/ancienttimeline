@@ -1,4 +1,4 @@
-#302 - Tambow
+#302 - Tambov
       
 culture = hungarian
 religion = tengri_pagan_reformed

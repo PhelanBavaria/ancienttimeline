@@ -1,4 +1,4 @@
-#1214 - Awsa
+#2677 - Angot
 
 citysize = 1142
 culture = somali # afar 

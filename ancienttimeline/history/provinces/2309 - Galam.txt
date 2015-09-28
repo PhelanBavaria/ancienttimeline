@@ -1,4 +1,4 @@
-#1116 - Wolof
+#2309 - Galam
 
 culture = fulani 
 base_manpower = 2

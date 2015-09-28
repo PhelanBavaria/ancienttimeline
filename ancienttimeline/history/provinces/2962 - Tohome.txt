@@ -1,4 +1,4 @@
-#924 - Alabama
+#2962 - Tohome
 
 culture = choctaw
 religion = totemism

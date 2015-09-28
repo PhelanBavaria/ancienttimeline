@@ -1,4 +1,4 @@
-#865 - Cochimi
+#2920 - Nakipa
 
 culture = piman
 religion = totemism

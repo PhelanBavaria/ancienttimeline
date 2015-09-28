@@ -1,4 +1,4 @@
-#1053 - Jiagedaqi
+#1053 - Hinggan
 
 culture = manchu
 religion = shamanism

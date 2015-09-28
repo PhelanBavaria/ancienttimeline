@@ -1,3 +1,5 @@
+#Alaska
+
 culture = aleutian
 religion = shamanism
 capital = "Alaska"

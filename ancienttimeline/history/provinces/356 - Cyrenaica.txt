@@ -1,4 +1,4 @@
-#356 - Cyrenaica
+#356 - Benghazi
 
 culture = tuareg
 religion = african

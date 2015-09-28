@@ -1,3 +1,5 @@
+#Chari
+
 culture = kanuri
 religion = african
 capital = "Sarh"

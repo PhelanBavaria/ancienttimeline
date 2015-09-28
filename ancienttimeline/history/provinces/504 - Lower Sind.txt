@@ -1,4 +1,4 @@
-#504 - Lower Sind
+#504 - Thatta
 
 owner = ROW
 controller = ROW

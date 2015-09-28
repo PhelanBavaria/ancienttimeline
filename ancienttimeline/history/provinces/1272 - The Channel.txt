@@ -1,2 +1,4 @@
+#The Channel
+
 discovered_by = british
 discovered_by = gauls

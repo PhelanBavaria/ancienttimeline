@@ -1,4 +1,4 @@
-#926 - Seminole
+#2964 - Mayaimi
 
 culture = arawak
 religion = totemism

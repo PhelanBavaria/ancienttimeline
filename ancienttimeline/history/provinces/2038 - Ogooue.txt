@@ -1,3 +1,5 @@
+#Ogooue
+
 culture = fang
 religion = shamanism
 capital = "Ogooue"

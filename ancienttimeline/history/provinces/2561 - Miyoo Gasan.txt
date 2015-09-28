@@ -1,4 +1,4 @@
-#1050 - Deren
+#2561 - Miyoo Gasan
 
 culture = manchu
 religion = shamanism

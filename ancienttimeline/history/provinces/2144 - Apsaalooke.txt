@@ -1,4 +1,4 @@
-#2006 - Aps·alooke
+#2144 - Aps√°alooke
 
 add_core = COM
 owner = COM

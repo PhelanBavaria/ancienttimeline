@@ -1,4 +1,4 @@
-#2006 - Apsáalooke
+#3056 - Piegan
 
 culture = blackfoot
 religion = totemism

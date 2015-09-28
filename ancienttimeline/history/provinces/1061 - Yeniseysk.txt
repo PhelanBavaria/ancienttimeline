@@ -1,4 +1,4 @@
-#1061 - Yeniseysk
+#1061 - West Tunguska
 
 culture = tungus
 religion = shamanism

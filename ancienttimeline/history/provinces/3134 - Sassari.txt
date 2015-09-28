@@ -1,4 +1,4 @@
-#127 - Sardinia
+#3134 - Sassari
 
 culture = sardinian
 religion = hellenism

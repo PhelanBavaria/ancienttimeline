@@ -1,4 +1,4 @@
-#1826 - Hoki
+#1826 - Lika
 
 culture = illyrian
 religion = animism

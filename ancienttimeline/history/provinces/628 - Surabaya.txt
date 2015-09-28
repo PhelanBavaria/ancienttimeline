@@ -1,4 +1,4 @@
-#628 - Surabaya
+#628 - Demak
 
 culture = javanese
 religion = vedism

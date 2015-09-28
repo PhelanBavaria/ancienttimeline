@@ -1,4 +1,4 @@
-#407 - Dayr Az Zor
+#407 - Ar Raqqa
 
 owner = EBL
 controller = EBL

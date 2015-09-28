@@ -1,3 +1,5 @@
+#Uluru
+
 culture = aboriginal
 religion = animism
 capital = "Uluru"

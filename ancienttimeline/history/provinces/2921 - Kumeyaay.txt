@@ -1,4 +1,4 @@
-#868 - Chumash
+#2921 - Kumeyaay
 
 culture = piman 
 religion = totemism

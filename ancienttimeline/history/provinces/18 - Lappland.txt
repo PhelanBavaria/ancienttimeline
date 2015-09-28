@@ -1,4 +1,4 @@
-#Lapland, the far north wastelands.
+#18 - Norrbotten
 
 capital = "Kien Kasjarkka"
 culture = sapmi

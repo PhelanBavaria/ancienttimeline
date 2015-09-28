@@ -1,4 +1,4 @@
-#1217 - Fazughli
+#2680 - Asosa
 
 culture = amhara 
 religion = african

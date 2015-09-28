@@ -1,4 +1,4 @@
-#1071 - Tara
+#2894 - Yugan
 
 culture = ostyaki
 religion = shamanism

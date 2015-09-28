@@ -1,4 +1,4 @@
-#486 - Guantanamo		
+#2625 - Bayamo
 
 culture = arawak
 religion = animism

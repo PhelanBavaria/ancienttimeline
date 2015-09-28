@@ -1,4 +1,4 @@
-#920 - Choctaw
+#2958 - Natchez
 
 culture = chickasaw
 religion = totemism

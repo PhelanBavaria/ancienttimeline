@@ -1,4 +1,4 @@
-#Cherkasy
+#1944 - Central Boristhenis
 
 owner = SCY
 controller = SCY

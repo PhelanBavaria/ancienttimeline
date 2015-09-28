@@ -1,4 +1,4 @@
-#267 - Plsen
+#267 - Böhmerwald
 
 capital = "Plzen"
 culture = boian

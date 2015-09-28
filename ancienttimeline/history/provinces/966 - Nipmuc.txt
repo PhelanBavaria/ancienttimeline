@@ -1,4 +1,4 @@
-#966 - Nipmuc (Western Massachusetts)
+#966 - Nipmuc
 
 culture = pequot
 religion = totemism 

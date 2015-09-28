@@ -1,4 +1,4 @@
-#1078 - Middle Urals
+#2843 - Ostyaki
 
 capital = "Beloyarskiy"
 culture = ostyaki

@@ -1,4 +1,4 @@
-#1228 - Dongola
+#2520 - Wadi Halfa
 
 culture = nubian 
 religion = egyptian

@@ -1,3 +1,5 @@
+#Bannock
+
 culture = shoshone
 religion = totemism 
 capital = "Bannock"

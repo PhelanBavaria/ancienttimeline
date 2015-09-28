@@ -1,4 +1,4 @@
-#874 - Salish
+#2928 - Chehalis
 
 culture = salish
 religion = totemism

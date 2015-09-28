@@ -1,4 +1,4 @@
-#910 - Chippewa
+#910 - Makoua
 
 add_core = CHY
 owner = CHY

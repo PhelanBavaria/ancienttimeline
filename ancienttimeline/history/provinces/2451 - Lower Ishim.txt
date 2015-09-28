@@ -1,4 +1,4 @@
-#472 - Zheteru
+#2451 - Lower Ishim
 
 culture = turkish
 religion = tengri_pagan_reformed

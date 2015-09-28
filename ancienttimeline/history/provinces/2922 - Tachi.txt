@@ -1,4 +1,4 @@
-#870 - Yorkuts
+#2922 - Tachi
 
 culture = chinook
 religion = totemism

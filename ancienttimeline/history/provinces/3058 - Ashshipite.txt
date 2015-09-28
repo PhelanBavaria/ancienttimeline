@@ -1,4 +1,4 @@
-#2006 - Apsáalooke
+#3058 - Ashshipite
 
 culture = shoshone
 religion = totemism

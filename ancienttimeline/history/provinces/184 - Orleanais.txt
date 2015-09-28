@@ -1,4 +1,4 @@
-# 184 Orléannais - Principal cities: Orléans
+#184 - Orleanais
 
 capital = "Cenabum"
 culture = gallian

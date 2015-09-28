@@ -1,4 +1,4 @@
-#934 - Shawnee
+#934 - Yuchi
 
 culture = shawnee #yuchi
 religion = totemism

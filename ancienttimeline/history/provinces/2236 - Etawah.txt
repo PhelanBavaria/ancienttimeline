@@ -1,4 +1,4 @@
-#2236 - Etawah
+#2236 - Lower Doab
 
 owner = PNC
 controller = PNC

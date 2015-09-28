@@ -1,4 +1,4 @@
-# 96 Zeeland - Principal cities: Middelburg, Vlissingen & Zierikzee
+#96 - Zeeland
 
 capital = "Lugdunum Batavorum"
 culture = belgae

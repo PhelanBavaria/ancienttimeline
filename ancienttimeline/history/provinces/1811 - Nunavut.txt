@@ -1,3 +1,5 @@
+#Nunavut
+
 culture = inuit
 religion = shamanism
 capital = "Nunavut"

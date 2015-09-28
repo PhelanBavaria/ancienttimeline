@@ -1,4 +1,4 @@
-#995 - Atiamekw
+#995 - Tadoussac
 
 culture = cree
 religion = totemism

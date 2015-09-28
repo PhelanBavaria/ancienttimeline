@@ -1,4 +1,4 @@
-#619 - Minangkabau
+#2404 - Pariamay
 
 culture = sumatran
 religion = mahayana

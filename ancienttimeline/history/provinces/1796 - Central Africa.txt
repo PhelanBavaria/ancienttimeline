@@ -1,3 +1,5 @@
+#Central Africa
+
 culture = gbaya
 religion = african
 capital = "Central Africa"

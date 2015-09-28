@@ -1,4 +1,4 @@
-#344 - Marrakech
+#2570 - Tadla
 
 culture = berber
 religion = african

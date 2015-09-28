@@ -1,3 +1,5 @@
+#Nenets
+
 culture = samoyed
 religion = suomenusko
 capital = "Nenets"

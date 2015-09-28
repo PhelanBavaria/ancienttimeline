@@ -1,4 +1,4 @@
-#622 - Palembang
+#2407 - Jambi
 
 culture = sumatran
 religion = mahayana

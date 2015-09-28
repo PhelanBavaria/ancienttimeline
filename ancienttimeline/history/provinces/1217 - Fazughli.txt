@@ -1,4 +1,4 @@
-#1217 - Fazughli
+#1217 - Gambela
 
 culture = dinka
 religion = african

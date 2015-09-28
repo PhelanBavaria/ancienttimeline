@@ -1,4 +1,4 @@
-# 186 Champagne - Principal cities: Reims
+#186 - Champagne
 
 capital = "Durocortorum"
 culture = gallian

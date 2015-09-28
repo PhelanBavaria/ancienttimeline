@@ -1,4 +1,4 @@
-#156 - Banat
+#156 - Temes
 
 culture = dacian
 religion = zamolxism

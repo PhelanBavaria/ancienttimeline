@@ -1,4 +1,4 @@
-#727 - Heilongjiang
+#727 - Tuwan
 
 culture = manchu
 religion = shamanism

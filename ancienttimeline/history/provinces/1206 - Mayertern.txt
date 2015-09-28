@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#1206 - Gaalkacyo
 
 culture = somali
 religion = african

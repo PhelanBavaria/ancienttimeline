@@ -1,4 +1,4 @@
-#1246 - Aorangi
+#1246 - Waihopai
 
 culture = polynesian
 religion = animism

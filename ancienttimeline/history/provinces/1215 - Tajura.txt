@@ -1,4 +1,4 @@
-#1215 - Tajura
+#1215 - Assab
 
 culture = somali #afar
 religion = south_arabian

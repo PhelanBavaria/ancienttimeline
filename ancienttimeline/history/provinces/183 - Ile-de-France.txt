@@ -1,4 +1,4 @@
-# 183 Île-de-France - Principal cities: Paris
+#183 - Paris
 
 capital = "Lutetia"
 culture = gallian

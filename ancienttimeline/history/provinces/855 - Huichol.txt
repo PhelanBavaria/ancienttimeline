@@ -1,4 +1,4 @@
-#855 - Huichol
+#855 - Totorames
 
 culture = chichimecan 
 religion = nahuatl

@@ -1,4 +1,4 @@
-#801 - Caranga
+#801 - Cochabamba
 
 culture = guarani
 religion = south_american

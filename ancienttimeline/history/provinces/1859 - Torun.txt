@@ -1,4 +1,4 @@
-#1859 - Torun
+#1859 - Chelmno
 
 capital = "Torun"
 culture = gothic

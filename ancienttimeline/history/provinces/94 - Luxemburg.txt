@@ -1,4 +1,4 @@
-# 94 Luxembourg - Principal cities: Luxembourg
+#94 - Luxemburg
 
 capital = "Andetanna"
 culture = belgae

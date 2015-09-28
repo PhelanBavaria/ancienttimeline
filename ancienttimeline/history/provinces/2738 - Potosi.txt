@@ -1,4 +1,4 @@
-#797 - Caracara
+#2738 - Potosi
 
 culture = aimara
 religion = inti

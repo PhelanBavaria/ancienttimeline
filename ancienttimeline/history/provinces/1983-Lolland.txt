@@ -1,4 +1,4 @@
-#Lolland-Falster
+#1983 - Lolland
 
 culture = danish
 religion = norse_pagan_reformed

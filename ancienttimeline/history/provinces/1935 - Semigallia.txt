@@ -1,4 +1,4 @@
-#Semigallia, center at Mitau
+#1935 - Semigallia
 
 culture = old_prussian
 religion = romuva

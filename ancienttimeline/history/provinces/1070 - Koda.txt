@@ -1,4 +1,4 @@
-#1070 - Koda
+#1070 - Narim
 
 culture = samoyed
 religion = shamanism

@@ -1,4 +1,4 @@
-#532 - Raichur Doab
+#532 - Suvarnagiri
 
 owner = KSK
 controller = KSK

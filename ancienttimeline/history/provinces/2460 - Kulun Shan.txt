@@ -1,4 +1,4 @@
-#1787 - Himalaya
+#2460 - Kunlun Shan
 
 culture = tibetan
 religion = tibetan_bon

@@ -1,4 +1,4 @@
-# 195 Limousin - Principal cities: Limoges
+#195 - Limousin
 
 capital = "Augustoritum"
 culture = gallian

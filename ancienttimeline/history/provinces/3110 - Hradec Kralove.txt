@@ -1,4 +1,4 @@
-#266 - Bohemia
+#3110 - Hradecko
 
 capital = "Hradec Králové"
 culture = boian

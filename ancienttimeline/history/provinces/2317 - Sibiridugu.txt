@@ -1,4 +1,4 @@
-#1121 - Bure
+#2317 - Sibiridugu
 
 culture = mali
 base_manpower = 2

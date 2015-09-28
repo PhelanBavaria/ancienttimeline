@@ -1,4 +1,4 @@
-#Great Basin
+#2924 - Shasta
 
 culture = chinook
 religion = totemism

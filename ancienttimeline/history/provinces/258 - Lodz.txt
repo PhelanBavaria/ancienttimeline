@@ -1,4 +1,4 @@
-#258 - Lodz
+#258 - Sieradz
 
 capital = "Sieradz"
 culture = burgundione

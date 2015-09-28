@@ -1,4 +1,4 @@
-#79 - Würzburg
+#79 - WÃ¼rzburg
 
 culture = franconian
 religion = germanic

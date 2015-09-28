@@ -1,4 +1,4 @@
-#985 - Micmac
+#3008 - Madawaska
 
 culture = abenaki
 religion = totemism

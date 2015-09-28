@@ -1,4 +1,4 @@
-#1115 - Brakna
+#2306 - Termes
 
 culture = soninke 
 capital = "Kiffa"

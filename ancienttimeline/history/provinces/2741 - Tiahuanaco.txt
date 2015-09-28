@@ -1,4 +1,4 @@
-#802 - Chuquiabo
+#2741 - Tiahuanaco
 
 culture = aimara
 religion = inti

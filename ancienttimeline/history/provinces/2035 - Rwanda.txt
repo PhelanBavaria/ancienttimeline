@@ -1,3 +1,5 @@
+#Rwanda
+
 culture = eastern_bantu
 religion = african
 capital = "Nyanza"

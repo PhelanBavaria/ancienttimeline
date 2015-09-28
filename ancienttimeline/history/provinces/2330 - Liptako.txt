@@ -1,4 +1,4 @@
-#1134 - Jenne
+#2330 - Liptako
 
 culture = mossi
 base_manpower = 2

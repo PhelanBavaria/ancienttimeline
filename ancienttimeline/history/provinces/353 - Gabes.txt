@@ -1,4 +1,4 @@
-#353 - Gabes
+#353 - Tataouine
  
 culture = berber
 religion = african

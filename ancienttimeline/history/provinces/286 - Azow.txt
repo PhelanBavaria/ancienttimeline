@@ -1,4 +1,4 @@
-#286 - Azow
+#286 - Tanais
 
 culture = pontic_greek
 religion = hellenism

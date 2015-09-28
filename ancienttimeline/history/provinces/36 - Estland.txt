@@ -1,4 +1,4 @@
-#Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
+#36 - Reval
 
 culture = estonian
 religion = suomenusko

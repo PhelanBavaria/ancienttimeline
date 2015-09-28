@@ -1,4 +1,4 @@
-#1004 - Attawapiskat
+#3032 - Omushkego
 
 culture = cree
 religion = totemism

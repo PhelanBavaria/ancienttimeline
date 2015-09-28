@@ -1,4 +1,4 @@
-#611 - Thakhek
+#611 - Sikhottabong
 
 culture = lao
 religion = animism

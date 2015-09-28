@@ -1,4 +1,4 @@
-#635 - Timor
+#635 - East Timor
 
 culture = papuan
 religion = animism

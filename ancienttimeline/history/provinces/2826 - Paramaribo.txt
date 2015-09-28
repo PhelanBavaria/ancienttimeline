@@ -1,4 +1,4 @@
-#745 - Suriname
+#2826 - Paramaribo
 
 culture = guajiro
 religion = south_american

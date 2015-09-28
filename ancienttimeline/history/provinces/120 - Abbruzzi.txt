@@ -1,4 +1,4 @@
-#120 - Abbruzzi
+#120 - Abruzzi
 
 culture = oscan
 religion = hellenism

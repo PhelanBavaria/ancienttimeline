@@ -1,4 +1,4 @@
-#1815 - Hyuga
+#1815 - Ayeyarwady
 
 culture = mon
 religion = buddhism

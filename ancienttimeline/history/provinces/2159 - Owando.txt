@@ -1,3 +1,5 @@
+#Owando
+
 culture = kongolese
 religion = shamanism
 capital = "Owando"

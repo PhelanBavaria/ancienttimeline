@@ -1,4 +1,4 @@
-#592 - Ratchaburi
+#2393 - Phetchaburi
 
 culture = mon
 religion = mahayana

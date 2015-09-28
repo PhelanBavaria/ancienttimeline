@@ -1,4 +1,4 @@
-#780 - Tehuelmapu
+#2750 - Poya
 
 culture = patagonian
 religion = south_american

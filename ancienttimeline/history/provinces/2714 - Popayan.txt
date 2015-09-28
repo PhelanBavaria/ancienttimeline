@@ -1,4 +1,4 @@
-#823 - Cauca
+#2714 - Popayan
 
 culture = muisca
 religion = inti

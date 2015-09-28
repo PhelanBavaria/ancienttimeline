@@ -1,4 +1,4 @@
-#Leczyca
+#1939 - Leczyca
 
 capital = "Leczyca"
 culture = burgundione

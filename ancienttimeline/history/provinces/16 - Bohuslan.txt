@@ -1,4 +1,4 @@
-#Bohuslän, contains Marstrand, Uddevalla, Strömstad.
+#16 - BohuslÃ¤n
 
 culture = norwegian
 religion = norse_pagan_reformed

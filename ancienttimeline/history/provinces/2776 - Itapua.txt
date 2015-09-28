@@ -1,4 +1,4 @@
-#776 - Itenines
+#2776 - Itapua
 
 culture = guarani
 religion = south_american

@@ -1,4 +1,4 @@
-#470 - Baybaktu
+#2438 - Utva
 
 culture = saka
 religion = scythian_religion

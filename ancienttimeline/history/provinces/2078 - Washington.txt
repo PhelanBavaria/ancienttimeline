@@ -1,3 +1,5 @@
+#Nimiipu
+
 culture = chinook
 religion = totemism 
 capital = "Nimiipu" 

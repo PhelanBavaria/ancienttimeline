@@ -1,4 +1,4 @@
-#1125 - Worodugu
+#2326 - Kong
 
 culture = dyola
 religion = african

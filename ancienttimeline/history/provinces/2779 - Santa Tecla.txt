@@ -1,4 +1,4 @@
-#770 - Tape
+#2779 - Santa Tecla
 
 culture = guarani
 religion = south_american

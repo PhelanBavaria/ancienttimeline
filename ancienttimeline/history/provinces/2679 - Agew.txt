@@ -1,4 +1,4 @@
-#1223 - Gojjam
+#2679 - Agew
 
 culture = amhara 
 religion = african

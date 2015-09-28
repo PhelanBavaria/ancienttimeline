@@ -1,4 +1,4 @@
-#705 - Dangla
+#705 - Gyegu
 
 culture = tibetan
 religion = tibetan_bon

@@ -1,4 +1,4 @@
-#287 - Kouban
+#2615 - East Maeotia
  
 owner = MAE
 controller = MAE

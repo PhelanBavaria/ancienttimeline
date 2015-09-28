@@ -1,4 +1,4 @@
-#978 - Alaska
+#3048 - Eyak
 
 culture = haida
 religion = shamanism

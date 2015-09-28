@@ -1,4 +1,4 @@
-#977 - Yakutat
+#3047 - Sitka
 
 culture = haida
 religion = totemism

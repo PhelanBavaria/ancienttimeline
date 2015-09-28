@@ -1,4 +1,4 @@
-#846 - Yucatan
+#2637 - Mani
 
 culture = yucatec
 owner = ITZ

@@ -1,3 +1,5 @@
+#South Georgia
+
 capital = "South Georgia"
 culture = uninhabited
 trade_goods = unknown

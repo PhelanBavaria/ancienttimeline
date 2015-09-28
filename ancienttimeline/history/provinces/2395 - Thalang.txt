@@ -1,4 +1,4 @@
-#593 - Ligore
+#2395 - Thalang
 
 culture = malayan
 religion = mahayana

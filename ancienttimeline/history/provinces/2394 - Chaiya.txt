@@ -1,4 +1,4 @@
-#593 - Ligore
+#2394 - Chaiya
 
 culture = malayan
 religion = mahayana

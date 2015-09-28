@@ -1,4 +1,4 @@
-#Yos Sudarso
+#2870 - Yos Sudarso
 
 culture = papuan
 religion = animism

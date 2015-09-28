@@ -1,4 +1,4 @@
-#572 - Jaffna
+#2216 - Vanni
 
 culture = tamil
 religion = buddhism

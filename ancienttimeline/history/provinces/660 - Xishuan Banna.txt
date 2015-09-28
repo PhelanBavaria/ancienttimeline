@@ -1,4 +1,4 @@
-#660 - Xishuan Banna
+#660 - Sibsongbanna
 
 culture = shan
 religion = animism

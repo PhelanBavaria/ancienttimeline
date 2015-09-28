@@ -1,4 +1,4 @@
-#526 - Malwa
+#526 - Mandu
 
 owner = WSA
 controller = WSA

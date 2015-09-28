@@ -1,3 +1,5 @@
+#Goshute
+
 culture = shoshone
 religion = totemism
 capital = "Goshute"

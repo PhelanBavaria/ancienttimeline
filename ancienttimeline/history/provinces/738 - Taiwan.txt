@@ -1,4 +1,4 @@
-#738 - Taiwan
+#738 - Sakam
 
 culture = polynesian
 religion = animism

@@ -1,4 +1,4 @@
-#827 - Antioquía
+#827 - AntioquÃ­a
 
 culture = muisca
 religion = south_american

@@ -1,4 +1,4 @@
-#836 - Chorotega
+#2627 - Nicoya
 
 culture = muisca
 religion = animism

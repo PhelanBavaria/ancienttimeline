@@ -1,4 +1,4 @@
-# 93 Liège - Principal cities: Liège & Namur
+#93 - LiÃ¨ge
 
 capital = "Geminiacum"
 culture = belgae

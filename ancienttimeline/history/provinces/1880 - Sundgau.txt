@@ -1,4 +1,4 @@
-# 1880 - Sundgau
+#1880 - Sundgau
 
 capital = "Sequania"
 culture = gallian

@@ -1,4 +1,4 @@
-#803 - Moxos
+#2732 - Madre de Dios
 
 culture = maipurean
 religion = south_american

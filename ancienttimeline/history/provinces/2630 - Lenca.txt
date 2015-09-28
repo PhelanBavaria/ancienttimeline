@@ -1,4 +1,4 @@
-#840 - Honduras
+#2630 - Lenca
 
 culture = miskito
 religion = mesoamerican_religion

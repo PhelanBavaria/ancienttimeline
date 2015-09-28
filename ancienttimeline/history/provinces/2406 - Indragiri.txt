@@ -1,4 +1,4 @@
-#620 - Siak
+#2406 - Indragiri
 
 culture = sumatran
 religion = mahayana

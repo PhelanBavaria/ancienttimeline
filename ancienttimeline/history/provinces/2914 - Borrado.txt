@@ -1,4 +1,4 @@
-#858 - Tamaulipas
+#2914 - Borrado
 
 culture = chichimecan
 religion = nahuatl

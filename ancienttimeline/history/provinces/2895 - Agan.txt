@@ -1,4 +1,4 @@
-#1070 - Koda
+#2895 - Agan
 
 culture = ostyaki
 religion = shamanism

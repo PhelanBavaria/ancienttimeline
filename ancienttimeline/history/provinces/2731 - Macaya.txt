@@ -1,4 +1,4 @@
-#804 - Puno
+#2731 - Macaya
 
 culture = aimara
 religion = inti

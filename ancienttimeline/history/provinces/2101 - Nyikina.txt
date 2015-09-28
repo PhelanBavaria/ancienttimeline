@@ -1,3 +1,5 @@
+#Nyikina
+
 culture = aboriginal
 religion = animism
 capital = "Nyikina"

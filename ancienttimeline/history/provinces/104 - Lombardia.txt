@@ -1,4 +1,4 @@
-#104 - Lombardia
+#104 - Milan
 
 culture = gallian
 religion = druidism

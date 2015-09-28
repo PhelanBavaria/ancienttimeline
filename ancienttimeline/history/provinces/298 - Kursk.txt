@@ -1,4 +1,4 @@
-#298 - Kursk
+#298 - West Androphagi
 
 owner = SCY
 controller = SCY

@@ -1,4 +1,4 @@
-#Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+#13 - Slesvig
 
 culture = hannoverian
 religion = germanic

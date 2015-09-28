@@ -1,4 +1,4 @@
-#1117 - Futa Jallon
+#2312 - Kantor
 
 culture = fulani 
 base_manpower = 2

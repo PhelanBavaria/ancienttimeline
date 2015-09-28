@@ -1,4 +1,4 @@
-#138 - Docleatae
+#138 - Zeta
 culture = illyrian
 religion = animism
 capital = "Dulkja"

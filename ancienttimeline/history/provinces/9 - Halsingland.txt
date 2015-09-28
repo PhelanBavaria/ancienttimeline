@@ -1,4 +1,4 @@
-#Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
+#9 - HÃ¤lsingland
 
 culture = swedish
 religion = norse_pagan_reformed

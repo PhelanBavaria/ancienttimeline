@@ -1,4 +1,4 @@
-#776 - Itenines
+#776 - Asunción
 
 culture = guarani
 religion = south_american

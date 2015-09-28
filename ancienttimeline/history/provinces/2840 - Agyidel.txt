@@ -1,4 +1,4 @@
-#475 - Ufa
+#2840 - Agyidel
 
 culture = bashkir
 religion = tengri_pagan_reformed

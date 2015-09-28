@@ -1,4 +1,4 @@
-#1230 - Massawa
+#2671 - Hamasien
 
 culture = tigray
 religion = south_arabian

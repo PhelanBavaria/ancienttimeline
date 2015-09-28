@@ -1,4 +1,4 @@
-# 1743 Cambray
+#1743 - Cambray
 
 capital = "Bagacum"
 culture = belgae

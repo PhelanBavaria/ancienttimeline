@@ -1,4 +1,4 @@
-#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+#12 - SjÃ¦lland
 
 culture = danish
 religion = norse_pagan_reformed

@@ -1,4 +1,4 @@
-#629 - Demak
+#629 - Kendal
 
 culture = javanese
 religion = vedism

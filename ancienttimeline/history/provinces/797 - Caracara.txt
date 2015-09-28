@@ -1,4 +1,4 @@
-#797 - Caracara
+#797 - Choquechaca
 
 culture = aimara
 religion = inti

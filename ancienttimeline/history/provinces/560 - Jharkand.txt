@@ -1,4 +1,4 @@
-#560 - Jharkand
+#560 - Jharkhand
 
 owner = DAK
 controller = DAK

@@ -1,4 +1,4 @@
-#617 - Aceh
+#2399 - Pasai
 
 culture = sumatran
 religion = animism

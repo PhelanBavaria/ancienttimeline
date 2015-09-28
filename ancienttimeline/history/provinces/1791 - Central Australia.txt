@@ -1,3 +1,5 @@
+#Central Australia
+
 culture = aboriginal
 religion = animism
 capital = "Central Australia"

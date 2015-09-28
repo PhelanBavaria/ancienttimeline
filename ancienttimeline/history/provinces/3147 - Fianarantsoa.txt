@@ -1,4 +1,4 @@
-#1792 - Antananarivo
+#3147 - Fianarantsoa
 
 culture = madagascan
 religion = animism

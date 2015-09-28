@@ -1,4 +1,4 @@
-#267 - Plsen
+#3108 - Eger
 
 capital = "Eger"
 culture = hessian

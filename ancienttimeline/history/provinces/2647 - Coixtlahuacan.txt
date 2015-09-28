@@ -1,4 +1,4 @@
-#847 - Mixtec
+#2647 - Coixtlahuacan
 
 culture = mixtec
 owner = MIX

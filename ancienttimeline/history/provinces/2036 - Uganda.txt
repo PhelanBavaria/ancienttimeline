@@ -1,3 +1,5 @@
+#Buganda
+
 culture = eastern_bantu
 religion = african
 capital = "Kampala"

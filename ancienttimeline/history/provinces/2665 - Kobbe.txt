@@ -1,4 +1,4 @@
-#1216 - Dar Nuba
+#2665 - Kobbe
 
 culture = nubian #Shilluk
 religion = african

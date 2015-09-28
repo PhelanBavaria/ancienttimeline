@@ -1,4 +1,4 @@
-#214 - Aragón
+#214 - Zaragoza
 
 culture = celtiberian
 religion = druidism

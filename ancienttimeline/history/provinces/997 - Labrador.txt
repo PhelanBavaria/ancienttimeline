@@ -1,4 +1,4 @@
-#997 - Labrador
+#997 - Chisedec
 
 culture = inuit
 religion = shamanism

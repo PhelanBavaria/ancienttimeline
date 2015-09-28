@@ -1,4 +1,4 @@
-#901 - Pawnee
+#2947 - Skiri
 
 culture = pawnee
 religion = totemism

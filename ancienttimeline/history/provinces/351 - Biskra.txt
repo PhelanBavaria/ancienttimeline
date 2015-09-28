@@ -1,4 +1,4 @@
-#351 - Biskra
+#351 - Aures
 
 culture = berber
 religion = african

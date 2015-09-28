@@ -1,4 +1,4 @@
-#152 - Slavonia
+#152 - Varasd
 
 culture = illyrian
 religion = animism

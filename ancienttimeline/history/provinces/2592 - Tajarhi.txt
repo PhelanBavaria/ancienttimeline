@@ -1,3 +1,5 @@
+#Tajarhi
+
 culture = tuareg
 religion = african
 capital = "Tajarhi"

@@ -1,4 +1,4 @@
-#1130 - Tadimekket
+#1130 - Tadmekka
 
 culture = tuareg
 base_manpower = 2

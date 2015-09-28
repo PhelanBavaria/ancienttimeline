@@ -1,4 +1,4 @@
-#Västergötland, contains Göteborg, Skara, Skövde etc.
+#7 - VÃ¤stergÃ¶tland
 
 culture = swedish
 religion = norse_pagan_reformed

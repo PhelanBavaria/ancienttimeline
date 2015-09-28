@@ -1,4 +1,4 @@
-#268 - Bessarabia
+#268 - Lower Tura
 
 culture = dacian
 religion = zamolxism

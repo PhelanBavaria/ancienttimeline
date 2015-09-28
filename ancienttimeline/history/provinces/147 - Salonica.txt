@@ -1,4 +1,4 @@
-#147 - Salonica
+#147 - Thessaly
 
 owner = THS
 controller = THS

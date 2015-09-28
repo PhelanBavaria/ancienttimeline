@@ -1,4 +1,4 @@
-#882 - Mescalero
+#2938 - Tuintsunde
 
 culture = navajo
 religion = totemism

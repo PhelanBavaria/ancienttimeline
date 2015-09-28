@@ -1,4 +1,4 @@
-#1040 - Suntar Khayat
+#1040 - Suntar Khayata
 
 culture = yukagyr
 religion = shamanism

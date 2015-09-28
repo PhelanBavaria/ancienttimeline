@@ -1,4 +1,4 @@
-#991 - Ottawa
+#991 - Nipissing
 
 culture = anishinabe
 religion = totemism

@@ -1,4 +1,4 @@
-#889 - Arapaho
+#2945 - Hinonoeino
 
 culture = wichita
 religion = totemism

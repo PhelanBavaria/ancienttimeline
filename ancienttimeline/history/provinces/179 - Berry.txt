@@ -1,4 +1,4 @@
-# 179 Berry
+#179 - Berry
 
 capital = "Avaricum"
 culture = gallian

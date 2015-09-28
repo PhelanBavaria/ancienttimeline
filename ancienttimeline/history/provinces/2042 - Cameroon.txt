@@ -1,3 +1,5 @@
+#Ewondo
+
 culture = northern_bantu
 religion = shamanism
 capital = "Ewondo"

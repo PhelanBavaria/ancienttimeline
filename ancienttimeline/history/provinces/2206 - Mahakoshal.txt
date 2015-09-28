@@ -1,4 +1,4 @@
-#550 - Mandla
+#2206 - Tripuri
 
 owner = DAS
 controller = DAS

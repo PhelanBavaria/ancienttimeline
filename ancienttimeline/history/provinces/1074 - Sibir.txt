@@ -1,4 +1,4 @@
-#1074 - Tobolsk
+#1074 - Sibir
 
 culture = ostyaki
 religion = shamanism

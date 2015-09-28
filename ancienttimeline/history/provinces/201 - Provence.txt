@@ -1,4 +1,4 @@
-# 201 Provence - Principal cities: Aix-en-Provence, Marseille
+#201 - Provence
 
 capital = "Massilia"
 culture = ionic_greek

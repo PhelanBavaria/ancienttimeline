@@ -1,4 +1,4 @@
-#882 - Mescalero
+#2936 - Lipiyanes
 
 culture = navajo
 religion = totemism

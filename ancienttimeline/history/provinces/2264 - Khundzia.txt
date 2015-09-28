@@ -1,4 +1,4 @@
-#425 - Dagestan
+#2264 - South Legae
 
 culture = avar
 religion = scythian_religion

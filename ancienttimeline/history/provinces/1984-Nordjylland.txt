@@ -1,4 +1,4 @@
-#Nordjylland
+#1984 - Nordjylland
 
 culture = danish
 religion = norse_pagan_reformed

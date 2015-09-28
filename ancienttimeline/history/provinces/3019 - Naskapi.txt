@@ -1,4 +1,4 @@
-#997 - Labrador
+#3019 - Naskapi
 
 culture = cree
 religion = shamanism

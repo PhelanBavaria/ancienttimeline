@@ -1,4 +1,4 @@
-#Suzdal
+#1956 - Suzdal
 
 culture = volga_finnic
 religion = suomenusko

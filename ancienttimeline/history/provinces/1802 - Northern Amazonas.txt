@@ -1,3 +1,5 @@
+#Upper Amazon
+
 culture = tupinamba
 religion = south_american
 capital = "Western Amazonas"

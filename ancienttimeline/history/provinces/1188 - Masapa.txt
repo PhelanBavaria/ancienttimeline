@@ -1,4 +1,4 @@
-#1188 - Masapa
+#1188 - Manikya
 
 culture = shona
 religion = african

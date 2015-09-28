@@ -1,3 +1,5 @@
+#Tana
+
 culture = somali
 religion = african
 capital = "Tana"

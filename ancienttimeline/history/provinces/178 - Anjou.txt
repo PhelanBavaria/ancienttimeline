@@ -1,4 +1,4 @@
-# 178 Anjou - Principal cities: Angers
+#178 - Anjou
 
 capital = "Juliomagus"
 culture = gallian

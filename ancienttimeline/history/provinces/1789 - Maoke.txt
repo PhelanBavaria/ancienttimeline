@@ -1,3 +1,5 @@
+#Papua
+
 culture = papuan
 religion = animism
 capital = "Maoke"

@@ -1,4 +1,4 @@
-#1142 - Dendi
+#2350 - Dallol
 
 culture = songhai 
 base_manpower = 2

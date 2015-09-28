@@ -1,4 +1,4 @@
-#759 - Diamentina
+#2798 - Paratinga
 
 culture = ge
 religion = south_american

@@ -1,4 +1,4 @@
-#1220 - Dar Ja'al
+#2667 - Soba
 
 culture = nubian 
 religion = african

@@ -1,4 +1,4 @@
-#1207 - Ogaden
+#2684 - Afder
 
 culture = somali #oromo
 religion = african

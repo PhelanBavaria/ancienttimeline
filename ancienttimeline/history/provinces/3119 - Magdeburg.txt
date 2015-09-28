@@ -1,4 +1,4 @@
-#52 - Altmark
+#3119 - Magdeburg
 
 culture = langobardi
 religion = germanic

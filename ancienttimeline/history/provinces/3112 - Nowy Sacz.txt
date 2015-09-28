@@ -1,4 +1,4 @@
-#262 - Krakow
+#3112 - Nowy Sacz
 
 culture = gepid
 religion = germanic

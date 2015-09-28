@@ -1,4 +1,4 @@
-#451 - Kabulistan
+#451 - Kabul
 
 owner = ROW
 controller = ROW

@@ -1,4 +1,4 @@
-#874 - Salish
+#3050 - Yakima
 
 culture = salish
 religion = totemism

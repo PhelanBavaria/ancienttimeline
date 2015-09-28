@@ -1,4 +1,4 @@
-#986 - Kespek
+#3011 - Etchemins
 
 culture = huron
 religion = totemism

@@ -1,4 +1,4 @@
-#1971 - Tsaritsyn
+#1971 - Upper Rha
       
 culture = sarmatian
 religion = scythian_religion

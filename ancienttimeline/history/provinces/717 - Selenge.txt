@@ -1,4 +1,4 @@
-#717 - Hovd
+#717 - Kherlen
 
 culture = xiongnu
 religion = tengri_pagan_reformed

@@ -1,4 +1,4 @@
-#582 - Kachin
+#582 - Mong Yang
 
 culture = shan
 religion = mahayana

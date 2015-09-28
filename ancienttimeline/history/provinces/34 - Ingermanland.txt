@@ -1,4 +1,4 @@
-#Ingermanland, incl. Ivangorod, Jama, and Kopore.
+#34 - Ingermanland
 
 culture = ingrian
 religion = suomenusko

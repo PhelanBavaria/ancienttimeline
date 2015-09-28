@@ -1,4 +1,4 @@
-#2155 - Gdingen
+#2155 - Pomerelia
 
 capital = "Oxhöft"
 culture = pommeranian

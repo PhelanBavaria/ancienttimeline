@@ -1,4 +1,4 @@
-#765 - Minas Gerais
+#2794 - Sao Joao del Rel
 
 culture = tupinamba
 religion = south_american

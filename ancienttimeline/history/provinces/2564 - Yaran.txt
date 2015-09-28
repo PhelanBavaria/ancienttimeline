@@ -1,4 +1,4 @@
-#729 - Wusuli
+#2564 - Yaran
 
 culture = manchu
 religion = shamanism

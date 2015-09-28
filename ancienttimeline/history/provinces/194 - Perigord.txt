@@ -1,4 +1,4 @@
-# 194 Périgord - Principal cities: Bergerac
+#194 - PÃ©rigord
 
 capital = "Vesunna"
 culture = gallian

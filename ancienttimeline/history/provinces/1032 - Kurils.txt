@@ -1,4 +1,4 @@
-#1032 - Kurils
+#1032 - The Kurils
 
 culture = ainu
 religion = animism

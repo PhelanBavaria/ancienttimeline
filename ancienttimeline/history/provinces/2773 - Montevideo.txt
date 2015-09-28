@@ -1,4 +1,4 @@
-#773 - Banda Oriental
+#2773 - Montevideo
 
 culture = charruan
 religion = south_american

@@ -1,4 +1,4 @@
-#Akershus, incl. Oslo (Christiania), Sarpsborg, Tönsberg
+#17 - Akershus
  
 culture = norwegian
 religion = norse_pagan_reformed

@@ -1,4 +1,4 @@
-#Ösel and Dagö, incl. Sonnenburg and Arensburg.
+#35 - Ã–sel
 
 culture = estonian
 religion = suomenusko

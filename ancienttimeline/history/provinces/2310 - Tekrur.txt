@@ -1,4 +1,4 @@
-#1116 - Wolof
+#2310 - Tekrur
 
 culture = fulani
 base_manpower = 2

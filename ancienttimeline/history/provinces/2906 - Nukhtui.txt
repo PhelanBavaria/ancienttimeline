@@ -1,4 +1,4 @@
-#1051 - Uchurskoye
+#2906 - Nukhtui
 
 culture = yakut
 religion = shamanism

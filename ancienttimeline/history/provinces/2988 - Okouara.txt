@@ -1,4 +1,4 @@
-#945 - Michigan
+#2988 - Okouara
 
 culture = mesquakie
 religion = totemism

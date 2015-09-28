@@ -1,4 +1,4 @@
-#425 - Dagestan
+#2263 - West Legae
 
 culture = avar
 religion = scythian_religion

@@ -1,4 +1,4 @@
-# 181 Valenciennes - Principal cities: Valenciennes, Douai & Cambrai
+#181 - Rethel
 
 capital = "Verbinum"
 culture = belgae

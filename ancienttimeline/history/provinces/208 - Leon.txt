@@ -1,4 +1,4 @@
-#208 - León
+#208 - LeÃ³n
 
 culture = gallaic
 religion = animism

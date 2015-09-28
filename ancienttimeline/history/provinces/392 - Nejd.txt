@@ -1,4 +1,4 @@
-#392 - Nejd
+#392 - Al-Arid
 
 culture = bedouin_arabic
 religion = south_arabian

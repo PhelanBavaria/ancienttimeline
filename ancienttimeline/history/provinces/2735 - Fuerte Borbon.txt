@@ -1,4 +1,4 @@
-#800 - Chiquitos
+#2735 - Fuerte Borbon
 
 culture = chacoan
 religion = south_american

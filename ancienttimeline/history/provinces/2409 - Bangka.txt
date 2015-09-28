@@ -1,4 +1,4 @@
-#622 - Palembang
+#2409 - Bangka
 
 culture = sumatran
 religion = animism

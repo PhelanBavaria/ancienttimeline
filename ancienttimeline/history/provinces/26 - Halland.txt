@@ -1,4 +1,4 @@
-#Halland, contains Halmstad, Varberg.
+#26 - Halland
 
 culture = danish
 religion = norse_pagan_reformed

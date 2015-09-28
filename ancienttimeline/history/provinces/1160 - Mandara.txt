@@ -1,4 +1,4 @@
-#1160 - Mandara
+#1160 - Borno
 
 owner = KBO
 controller = KBO

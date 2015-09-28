@@ -1,4 +1,4 @@
-#1233 - Kargah
+#1233 - Kharga
 
 culture = nubian
 religion = african

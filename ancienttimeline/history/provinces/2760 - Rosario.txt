@@ -1,4 +1,4 @@
-#777 - Parana
+#2760 - Rosario
 
 culture = charruan
 religion = south_american

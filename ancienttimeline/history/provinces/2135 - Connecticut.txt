@@ -1,4 +1,4 @@
-#2010 - Connecticut
+#2135 - Connecticut
 
 culture = pequot
 religion = totemism

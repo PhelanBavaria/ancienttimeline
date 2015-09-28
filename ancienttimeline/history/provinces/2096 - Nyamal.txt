@@ -1,3 +1,5 @@
+#Nyamal
+
 culture = aboriginal
 religion = animism
 capital = "Nyamal"

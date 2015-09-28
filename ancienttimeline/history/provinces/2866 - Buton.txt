@@ -1,4 +1,4 @@
-#642 - Bone
+#2866 - Buton
 
 culture = sulawesi
 religion = animism

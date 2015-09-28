@@ -1,4 +1,4 @@
-#971 - Abnaki
+#971 - Penobscott
 
 add_core = ABE
 owner = ABE

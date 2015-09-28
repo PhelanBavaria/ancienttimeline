@@ -1,4 +1,4 @@
-#1979 - Färöarna
+#1979 - FÃ¤rÃ¶arna
 
 culture = uninhabited
 religion = norse_pagan_reformed

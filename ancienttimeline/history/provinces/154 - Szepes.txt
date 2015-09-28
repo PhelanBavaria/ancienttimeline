@@ -1,4 +1,4 @@
-#154 - Ersekujvar
+#154 - Érsekújvár
 
 culture = austrian
 religion = germanic

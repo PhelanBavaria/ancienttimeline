@@ -1,4 +1,4 @@
-#261 - Ruthenia
+#3114 - Lwow
 
 capital= "Lwow"
 culture = gepid

@@ -1,4 +1,4 @@
-#872 - Kalapuya
+#872 - Siuslaw
 
 culture = chinook
 religion = totemism

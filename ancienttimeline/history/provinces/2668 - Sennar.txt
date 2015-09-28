@@ -1,4 +1,4 @@
-#1222 - Gezira
+#2668 - Sennar
 
 culture = nubian
 religion = african

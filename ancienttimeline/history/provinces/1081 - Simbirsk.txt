@@ -1,4 +1,4 @@
-#1081 - Bolgar
+#1081 - Simbirsk
 
 capital = "Bolgar"
 culture = bulgarian

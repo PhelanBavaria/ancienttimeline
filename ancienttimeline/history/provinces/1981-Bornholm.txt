@@ -1,4 +1,4 @@
-#Bornholm
+#1981 - Bornholm
 
 culture = danish
 religion = norse_pagan_reformed

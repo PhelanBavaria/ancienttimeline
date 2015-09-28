@@ -1,4 +1,4 @@
-# 175 Armagnac - Principal cities: Auch
+#175 - Armagnac
 
 capital = "Elimberris"
 culture = aquitanian

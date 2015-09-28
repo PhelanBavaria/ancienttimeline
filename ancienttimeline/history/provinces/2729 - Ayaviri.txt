@@ -1,4 +1,4 @@
-#804 - Puno
+#2729 - Ayaviri
 
 culture = aimara
 religion = inti

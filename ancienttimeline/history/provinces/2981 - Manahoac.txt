@@ -1,4 +1,4 @@
-#951 - Kanawha
+#2981 - Manahoac
 
 culture = susquehannock
 religion = totemism

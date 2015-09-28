@@ -1,4 +1,4 @@
-#1081 - Bolgar
+#2621 - Alatyr
 
 capital = "Alatyr"
 culture = bulgarian

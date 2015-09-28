@@ -1,4 +1,4 @@
-#1227 - Tigre
+#1227 - Inderta
 
 culture = tigray 
 religion = south_arabian

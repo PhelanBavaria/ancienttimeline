@@ -1,4 +1,4 @@
-#1038 - Anadyrsk
+#1038 - Karalveyem
 
 culture = yukagyr
 religion = shamanism

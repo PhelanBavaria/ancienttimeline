@@ -1,4 +1,4 @@
-#678 - Kham
+#678 - Garze
 
 culture = tibetan
 religion = tibetan_bon

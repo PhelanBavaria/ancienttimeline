@@ -1,4 +1,4 @@
-#266 - Bohemia
+#3109 - Budejovice
 
 capital = "Budejovice"
 culture = boian

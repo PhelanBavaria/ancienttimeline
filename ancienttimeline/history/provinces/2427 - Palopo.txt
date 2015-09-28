@@ -1,4 +1,4 @@
-#641 - Makassar
+#2427 - Palopo
 
 culture = sulawesi
 religion = animism

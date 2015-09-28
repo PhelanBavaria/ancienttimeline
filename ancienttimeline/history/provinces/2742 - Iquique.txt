@@ -1,4 +1,4 @@
-#796 - Arica
+#2742 - Iquique
 
 culture = diaguita
 religion = inti

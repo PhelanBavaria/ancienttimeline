@@ -1,4 +1,4 @@
-#831 - Caracas
+#2834 - Coro
 
 culture = guajiro
 religion = south_american

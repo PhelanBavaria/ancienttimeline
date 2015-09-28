@@ -1,4 +1,4 @@
-#1804 - Greenland
+#1804 - East Greenland
 
 culture = inuit
 religion = shamanism

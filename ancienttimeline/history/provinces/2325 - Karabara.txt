@@ -1,4 +1,4 @@
-#1132 - Timbuktu
+#2325 - Karabara
 
 culture = songhai 
 base_manpower = 2

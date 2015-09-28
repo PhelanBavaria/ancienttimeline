@@ -1,4 +1,4 @@
-#964 - Mohawk
+#2998 - Adirondack
 
 culture = iroquois
 religion = totemism

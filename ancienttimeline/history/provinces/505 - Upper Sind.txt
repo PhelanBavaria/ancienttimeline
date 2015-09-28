@@ -1,4 +1,4 @@
-#505 - Upper Sind
+#505 - Bhakkar
 
 owner = ROW
 controller = ROW

@@ -1,4 +1,4 @@
-#437 - Atak
+#437 - Kopet Dag
 
 owner = ROW
 controller = ROW

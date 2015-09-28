@@ -1,4 +1,4 @@
-#686 - Anqing (can't change file name)
+#686 - Anqing
 
 owner = HND
 controller = HND

@@ -1,3 +1,5 @@
+#Bahr el Ghazal
+
 culture = dinka
 religion = african
 capital = "Rumbek"

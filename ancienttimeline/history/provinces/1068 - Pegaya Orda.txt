@@ -1,4 +1,4 @@
-#1068 - Pegaya Orda
+#1068 - Ket
 
 culture = ostyaki
 religion = shamanism

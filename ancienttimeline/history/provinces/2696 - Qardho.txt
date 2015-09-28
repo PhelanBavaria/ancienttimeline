@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2696 - Qardho
 
 culture = somali
 religion = african

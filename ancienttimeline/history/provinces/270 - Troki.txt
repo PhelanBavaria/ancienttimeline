@@ -1,4 +1,4 @@
-#270 Troki
+#270 - Trakai
 
 religion = romuva
 culture = lithuanian

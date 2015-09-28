@@ -1,3 +1,5 @@
+#Oregon
+
 culture = chinook
 religion = totemism
 capital = "Oregon"

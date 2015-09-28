@@ -1,3 +1,5 @@
+#Secwepemc
+
 culture = athabascan
 religion = totemism
 capital = "Secwepemc"

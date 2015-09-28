@@ -1,4 +1,4 @@
-#Värmland+Dal
+#5 - VÃ¤rmland
 
 culture = swedish
 religion = norse_pagan_reformed

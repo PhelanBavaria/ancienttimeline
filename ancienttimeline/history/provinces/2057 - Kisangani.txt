@@ -1,3 +1,5 @@
+#Kisangani
+
 culture = mongo
 religion = african
 capital = "Kisangani"

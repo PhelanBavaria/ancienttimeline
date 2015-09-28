@@ -1,4 +1,4 @@
-#1209 - Berbera
+#2693 - Las Khoray
 
 culture = somali
 religion = african

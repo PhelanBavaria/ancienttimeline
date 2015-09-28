@@ -1,4 +1,4 @@
-#985 - Micmac
+#3009 - Siknikt
 
 culture = mikmaq
 religion = totemism

@@ -1,4 +1,4 @@
-#619 - Minangkabau
+#3091 - Mentawai
 
 culture = sumatran
 religion = animism

@@ -1,4 +1,4 @@
-#737 - Jeolla
+#737 - South Mahan
 
 owner = JIN
 controller = JIN

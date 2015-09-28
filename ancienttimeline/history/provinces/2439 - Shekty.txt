@@ -1,4 +1,4 @@
-#471 - Alimuly
+#2439 - Shekty
 
 culture = saka
 religion = scythian_religion

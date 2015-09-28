@@ -1,4 +1,4 @@
-#542 - Telingana
+#542 - Warangal
 
 owner = ADH
 controller = ADH

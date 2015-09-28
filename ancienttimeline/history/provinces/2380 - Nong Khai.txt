@@ -1,4 +1,4 @@
-#612 - Khorat
+#2380 - Nong Khai
 
 culture = khmer
 religion = animism

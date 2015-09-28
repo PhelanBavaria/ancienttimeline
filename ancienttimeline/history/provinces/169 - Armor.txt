@@ -1,4 +1,4 @@
-# 169 Armor - Principal cities: Rennes
+#169 - Armor
 
 capital = "Condate Riedonum"
 culture = armorican

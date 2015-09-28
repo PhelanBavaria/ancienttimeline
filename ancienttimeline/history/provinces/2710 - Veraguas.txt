@@ -1,4 +1,4 @@
-#835 - Panama 
+#2710 - Veraguas
 
 culture = muisca
 religion = animism

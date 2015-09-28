@@ -1,4 +1,4 @@
-#272 Lithuania
+#272 - Vilna
 
 capital = "Vilna"
 culture = lithuanian

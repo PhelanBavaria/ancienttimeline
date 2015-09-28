@@ -1,4 +1,4 @@
-# - Griqualand
+#2847 - Griqualand
 
 culture = bantu
 religion = african

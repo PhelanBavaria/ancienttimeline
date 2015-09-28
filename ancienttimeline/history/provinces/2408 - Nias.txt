@@ -1,4 +1,4 @@
-#619 - Minangkabau
+#2408 - Nias
 
 culture = sumatran
 religion = animism

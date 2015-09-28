@@ -1,4 +1,4 @@
-#767 - Mato Grosso
+#767 - Ipora
 
 culture = ge
 religion = south_american

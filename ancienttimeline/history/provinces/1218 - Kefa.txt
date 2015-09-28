@@ -1,4 +1,4 @@
-#1218 - Kefa
+#1218 - Kaffa
 
 culture = sidamo
 religion = african

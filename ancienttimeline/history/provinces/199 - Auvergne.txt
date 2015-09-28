@@ -1,4 +1,4 @@
-# 199 Auvergne - Principal cities: Clermont-Ferrand
+#199 - Auvergne
 
 capital = "Gergovie"
 culture = gallian

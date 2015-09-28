@@ -1,4 +1,4 @@
-#929 - Muskogee
+#2967 - Mocama
 
 culture = creek
 religion = totemism

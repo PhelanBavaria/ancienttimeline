@@ -1,4 +1,4 @@
-#46 - Mecklenburg
+#46 - Schwerin
 
 culture = pommeranian
 religion = germanic

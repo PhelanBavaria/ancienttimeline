@@ -1,4 +1,4 @@
-# 196 Toulouse - Principal cities: Toulouse
+#196 - Toulouse
 
 capital = "Tolosa"
 culture = volcaean

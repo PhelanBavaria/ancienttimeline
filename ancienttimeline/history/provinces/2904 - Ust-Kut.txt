@@ -1,4 +1,4 @@
-#1062 - Kachinsk
+#2904 - Ust-Kut
 
 culture = buryat
 religion = tengri_pagan_reformed

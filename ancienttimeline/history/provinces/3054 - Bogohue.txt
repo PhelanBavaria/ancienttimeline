@@ -1,3 +1,5 @@
+#Bogohue
+
 culture = shoshone
 religion = totemism
 capital = "Bohogue"

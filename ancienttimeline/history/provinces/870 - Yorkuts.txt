@@ -1,4 +1,4 @@
-#870 - Yorkuts
+#870 - Yokuts
 
 culture = chinook 
 religion = totemism

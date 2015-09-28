@@ -1,4 +1,4 @@
-#Zhytomyr
+#1942 - Zhytomyr
  
 culture = ruthenian
 religion = slavic

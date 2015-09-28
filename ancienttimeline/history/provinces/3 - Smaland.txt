@@ -1,4 +1,4 @@
-#Småland, also contains Öland.  Kalmar, Jönköping etc..
+#3 - SmÃ¥land
 
 culture = swedish
 religion = norse_pagan_reformed

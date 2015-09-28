@@ -1,4 +1,4 @@
-#1164 - Cameroon
+#2128 - Bamenda
 
 culture = northern_bantu
 religion = shamanism

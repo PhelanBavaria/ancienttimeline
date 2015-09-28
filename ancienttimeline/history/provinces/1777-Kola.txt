@@ -1,4 +1,4 @@
-#Kola
+#1777 - Kola
 
 capital = "Kola"
 culture = sapmi

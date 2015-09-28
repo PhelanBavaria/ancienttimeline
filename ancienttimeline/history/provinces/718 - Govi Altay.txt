@@ -1,4 +1,4 @@
-#718 - Jasagdu
+#718 - Kobdo
 
 owner = WUS
 controller = WUS

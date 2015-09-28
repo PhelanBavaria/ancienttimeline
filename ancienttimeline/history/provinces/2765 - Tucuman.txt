@@ -1,4 +1,4 @@
-#791 - Catamarca
+#2765 - Tucuman
 
 culture = diaguita
 religion = south_american

@@ -1,4 +1,4 @@
-#Belz
+#1940 - Belz
 
 capital= "Belz"
 culture = polish

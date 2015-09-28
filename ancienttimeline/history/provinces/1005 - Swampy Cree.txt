@@ -1,4 +1,4 @@
-#1005 - Swampy Cree
+#1005 - Muskegon
 
 culture = cree
 religion = totemism

@@ -1,4 +1,4 @@
-#275 - Polotsk
+#2605 - Vitebsk
 
 culture = byelorussian
 religion = slavic

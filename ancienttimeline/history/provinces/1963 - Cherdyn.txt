@@ -1,4 +1,4 @@
-#Cherdyn
+#1963 - Cherdyn
 
 capital = "Cherdyn"
 culture = uralic

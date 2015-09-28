@@ -1,4 +1,4 @@
-#Wizna
+#1938 - Wizna
 
 capital = "Wizna"
 culture = gothic

@@ -1,4 +1,4 @@
-#1210 - Ifat
+#1210 - Hadiya
 
 culture = amhara 
 religion = african

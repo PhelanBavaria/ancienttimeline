@@ -1,4 +1,4 @@
-#837 - Nicaragua
+#2629 - Uluas
 
 culture = miskito
 religion = animism

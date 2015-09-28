@@ -1,4 +1,4 @@
-#735 - Chungcheong
+#735 - West Baekje
 
 owner = JIN
 controller = JIN

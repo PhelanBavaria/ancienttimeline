@@ -1,4 +1,4 @@
-#1176 - Roggeveld
+#2595 - Senqu
 
 culture = khoi
 religion = african

@@ -1,4 +1,4 @@
-#930 - Yamasee
+#2968 - Hitchiti
 
 culture = creek
 religion = totemism

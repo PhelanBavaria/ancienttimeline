@@ -1,4 +1,4 @@
-#385 - Mecca
+#385 - Bakkah
 
 culture = bedouin_arabic
 religion = south_arabian

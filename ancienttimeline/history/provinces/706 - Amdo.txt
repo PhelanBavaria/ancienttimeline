@@ -1,4 +1,4 @@
-#706 - Amdo
+#706 - Rebgong
 
 culture = qiang
 religion = tibetan_bon

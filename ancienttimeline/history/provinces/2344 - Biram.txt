@@ -1,4 +1,4 @@
-#1155 - Kano
+#2344 - Biram
 
 culture = hausa
 base_manpower = 2

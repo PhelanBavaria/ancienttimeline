@@ -1,4 +1,4 @@
-#872 - Kalapuya
+#2926 - Klamath
 
 culture = chinook
 religion = totemism

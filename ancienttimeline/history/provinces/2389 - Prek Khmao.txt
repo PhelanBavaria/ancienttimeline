@@ -1,4 +1,4 @@
-#2389 - Prek Khmao
+#2389 - Teuk Khmao
 
 culture = khmer
 religion = vedism

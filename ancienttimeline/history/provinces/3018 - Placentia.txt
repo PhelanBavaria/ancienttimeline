@@ -1,4 +1,4 @@
-#980 - Beothuk
+#3018 - Placentia
 
 culture = cree
 religion = shamanism

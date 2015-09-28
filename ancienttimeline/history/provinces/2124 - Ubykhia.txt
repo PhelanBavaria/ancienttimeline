@@ -1,4 +1,4 @@
-#2124 - Ubykhia
+#2124 - Pityus
 
 owner = CLC
 controller = CLC

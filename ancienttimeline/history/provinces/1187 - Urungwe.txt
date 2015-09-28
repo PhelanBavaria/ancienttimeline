@@ -1,4 +1,4 @@
-#1187 - Urungwe
+#1187 - Massapa
 
 culture = shona
 religion = african

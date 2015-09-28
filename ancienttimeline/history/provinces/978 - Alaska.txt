@@ -1,4 +1,4 @@
-#978 - Alaska
+#978 - Kenai
 
 culture = aleutian
 religion = shamanism

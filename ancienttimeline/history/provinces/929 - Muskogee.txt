@@ -1,4 +1,4 @@
-#929 - Muskogee
+#929 - Guale
 
 culture = creek
 religion = totemism

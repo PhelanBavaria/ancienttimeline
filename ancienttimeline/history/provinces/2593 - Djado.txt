@@ -1,4 +1,4 @@
-#1220 - Dar Ja'al
+#2593 - Shendy
 
 culture = nubian 
 religion = african

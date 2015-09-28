@@ -1,4 +1,4 @@
-#1828 - Bingo
+#1828 - Donji Kraji
 
 culture = illyrian
 religion = animism

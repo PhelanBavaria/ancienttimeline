@@ -1,4 +1,4 @@
-#153 - Pecs
+#153 - Pest
 
 culture = austrian
 religion = germanic

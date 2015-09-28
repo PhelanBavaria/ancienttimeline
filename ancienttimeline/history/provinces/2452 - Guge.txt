@@ -1,4 +1,4 @@
-#676 - U-Tsang
+#2452 - Ngari
 
 culture = tibetan
 religion = tibetan_bon

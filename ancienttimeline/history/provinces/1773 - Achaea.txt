@@ -1,4 +1,4 @@
-#1773 - Achaea
+#1773 - Corinth
 
 owner = CRH
 controller = CRH

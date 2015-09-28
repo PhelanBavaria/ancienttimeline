@@ -1,4 +1,4 @@
-#389 - Hadramut
+#389 - Hadramawt
 
 culture = yemeni_culture
 religion = south_arabian

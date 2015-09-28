@@ -1,3 +1,5 @@
+#Kenya
+
 culture = masai
 religion = african
 capital = "Kenya"

@@ -1,4 +1,4 @@
-#1209 - Berbera
+#2692 - Sanaag
 
 culture = somali
 religion = african

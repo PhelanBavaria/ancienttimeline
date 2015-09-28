@@ -1,4 +1,4 @@
-#278 - Polesia
+#278 - Pinsk
     
 culture = byelorussian
 religion = slavic

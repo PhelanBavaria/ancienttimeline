@@ -1,4 +1,4 @@
-#551 - Mandla
+#551 - Surguja
 
 owner = KAL
 controller = KAL

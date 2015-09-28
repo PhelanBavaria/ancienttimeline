@@ -1,4 +1,4 @@
-#1875 - Cuneo (can't change filename)
+#1875 - Cuneo
 
 culture = gallian
 religion = druidism

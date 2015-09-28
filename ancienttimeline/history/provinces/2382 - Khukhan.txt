@@ -1,4 +1,4 @@
-#612 - Khorat
+#2382 - Khukhan
 
 culture = khmer
 religion = mahayana

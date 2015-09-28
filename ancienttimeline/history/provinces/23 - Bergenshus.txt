@@ -1,4 +1,4 @@
-#Bergenshus, incl. Bergen, 
+#23 - Bergenshus
 
 culture = norwegian
 religion = norse_pagan_reformed

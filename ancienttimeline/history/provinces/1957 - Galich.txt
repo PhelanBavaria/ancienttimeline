@@ -1,4 +1,4 @@
-#Galich
+#1957 - Galich
 
 capital = "Galich"
 culture = volga_finnic

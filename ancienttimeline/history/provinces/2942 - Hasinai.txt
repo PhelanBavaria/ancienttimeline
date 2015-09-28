@@ -1,4 +1,4 @@
-#887 - Tonkawa
+#2942 - Hasinai
 
 culture = caddo
 religion = totemism

@@ -1,4 +1,4 @@
-#1208 - Haud
+#1208 - Werder
 
 culture = somali
 religion = african

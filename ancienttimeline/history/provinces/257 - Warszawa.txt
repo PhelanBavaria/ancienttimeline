@@ -1,4 +1,4 @@
-#257 - Mazovia
+#257 - Warszawa
 
 capital = "Warszawa"
 culture = gothic

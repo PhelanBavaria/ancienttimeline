@@ -1,4 +1,4 @@
-#1783 - Eastern Siberia
+#1783 - Northeastern Siberia
 
 culture = yakut
 religion = shamanism

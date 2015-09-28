@@ -1,4 +1,4 @@
-#1845 - Pyongan
+#1845 - Wanggeom
 
 owner = GOJ
 controller = GOJ

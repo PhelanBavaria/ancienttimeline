@@ -1,4 +1,4 @@
-# 1866 -- Namur
+#1866 - Namur
 
 capital = "Vodgoriacum"
 culture = belgae

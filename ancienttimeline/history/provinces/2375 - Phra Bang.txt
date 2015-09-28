@@ -1,4 +1,4 @@
-#601 - Sukthothai
+#2375 - Phra Bang
 
 culture = central_thai
 religion = mahayana

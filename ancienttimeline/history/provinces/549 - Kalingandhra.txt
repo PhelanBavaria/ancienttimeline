@@ -1,4 +1,4 @@
-#549 - Parlakimidi
+#549 - Kalingandhra
 
 owner = KAL
 controller = KAL

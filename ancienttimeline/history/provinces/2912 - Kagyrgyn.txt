@@ -1,4 +1,4 @@
-#1038 - Anadyrsk
+#2912 - Kagyrgyn
 
 culture = kamchatkan
 religion = shamanism

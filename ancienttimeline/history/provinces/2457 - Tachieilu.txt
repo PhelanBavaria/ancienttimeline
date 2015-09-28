@@ -1,4 +1,4 @@
-#678 - Kham
+#2457 - Tachieilu
 
 culture = tibetan
 religion = tibetan_bon

@@ -1,4 +1,4 @@
-#1108 - Wairoa
+#1108 - Tauranga
 
 culture = polynesian
 religion = animism

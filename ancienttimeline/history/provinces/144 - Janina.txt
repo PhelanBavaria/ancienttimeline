@@ -1,4 +1,4 @@
-#144 - Janina
+#144 - Epirus
 
 owner = MLS
 controller = MLS

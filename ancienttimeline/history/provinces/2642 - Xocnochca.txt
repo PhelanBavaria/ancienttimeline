@@ -1,4 +1,4 @@
-#844 - Zapotec
+#2642 - Xocnochco
 
 culture = highland_mayan
 owner = KIC

@@ -1,4 +1,4 @@
-#1221 - Taqali
+#1221 - El Obeid
 
 culture = nubian
 religion = african

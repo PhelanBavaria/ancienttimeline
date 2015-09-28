@@ -1,4 +1,4 @@
-#220 - València
+#220 - ValÃ¨ncia
 
 culture = iberi
 religion = animism

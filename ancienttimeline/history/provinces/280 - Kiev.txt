@@ -1,4 +1,4 @@
-#280 - Kiev
+#280 - Upper Boristhenis
  
 culture = ruthenian
 religion = slavic

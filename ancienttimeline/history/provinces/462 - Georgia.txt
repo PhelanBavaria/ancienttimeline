@@ -1,4 +1,4 @@
-#462 - Georgia
+#462 - Mingrelia
 
 owner = CLC
 controller = CLC

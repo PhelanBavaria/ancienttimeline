@@ -1,4 +1,4 @@
-#1147 - Benin
+#2339 - Ijebu
 
 culture = yorumba
 religion = african

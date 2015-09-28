@@ -1,4 +1,4 @@
-#155 - Szolnok
+#155 - Békés
 
 culture = austrian
 religion = germanic

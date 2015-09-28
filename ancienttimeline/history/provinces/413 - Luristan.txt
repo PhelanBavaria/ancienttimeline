@@ -1,4 +1,4 @@
-#413 - Luristan
+#413 - Lorestan
 
 owner = ROW
 controller = ROW

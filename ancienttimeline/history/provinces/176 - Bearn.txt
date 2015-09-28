@@ -1,4 +1,4 @@
-# 176 Béarn - Principal cities: Pau
+#176 - BÃ©arn
 
 capital = "Turba"
 culture = aquitanian

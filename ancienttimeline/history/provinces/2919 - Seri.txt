@@ -1,4 +1,4 @@
-#862 - Yaqui
+#2919 - Seri
 
 culture = piman 
 religion = totemism

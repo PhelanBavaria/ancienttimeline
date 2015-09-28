@@ -1,4 +1,4 @@
-#580 - Chin
+#580 - Kale
 
 culture = chin
 religion = animism

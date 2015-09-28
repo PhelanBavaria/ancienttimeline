@@ -1,4 +1,4 @@
-# 180 Poitou - Principal cities: Poitiers
+#180 - Poitou
 
 capital = "Pictavium"
 culture = gallian

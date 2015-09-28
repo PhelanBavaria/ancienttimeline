@@ -1,4 +1,4 @@
-#279 - Volhynia
+#3115 - Rowne
 
 culture = polish
 religion = slavic

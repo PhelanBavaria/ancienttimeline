@@ -1,4 +1,4 @@
-#896 - Ozark
+#896 - Yscani
 
 culture = wichita # Old plains people
 religion = totemism

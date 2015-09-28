@@ -1,4 +1,4 @@
-#792 - Copiapo
+#2744 - Coquimbo
 
 culture = mapuche
 religion = south_american

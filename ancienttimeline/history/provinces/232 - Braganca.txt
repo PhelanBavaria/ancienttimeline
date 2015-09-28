@@ -1,4 +1,4 @@
-#232 - Bragança
+#232 - BraganÃ§a
 
 culture = gallaic
 religion = druidism

@@ -1,4 +1,4 @@
-# 200 Languedoc - Principal cities: Montpellier
+#200 - Languedoc
 
 capital = "Nemausus"
 culture = volcaean

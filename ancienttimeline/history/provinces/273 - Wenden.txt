@@ -1,4 +1,4 @@
-#273 - Wenden
+#273 - Lettgallia
 
 culture = latvian
 religion = romuva

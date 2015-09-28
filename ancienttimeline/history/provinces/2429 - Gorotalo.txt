@@ -1,4 +1,4 @@
-#643 - Pose
+#2429 - Gorontalo
 
 culture = sulawesi
 religion = animism

@@ -1,4 +1,4 @@
-#317 - Bursa
+#317 - Hüdavendigar
 
 owner = ROW
 controller = ROW

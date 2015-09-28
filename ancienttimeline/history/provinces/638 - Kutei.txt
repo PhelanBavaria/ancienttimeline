@@ -1,4 +1,4 @@
-#638 - Kutei
+#638 - Kutai
 
 culture = bornean
 religion = vedism

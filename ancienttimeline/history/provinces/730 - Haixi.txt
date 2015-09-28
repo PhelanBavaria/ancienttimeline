@@ -1,4 +1,4 @@
-#730 - Haixi
+#730 - Buyeo
 
 owner = SUS
 controller = SUS

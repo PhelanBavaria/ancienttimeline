@@ -1,4 +1,4 @@
-#Nyland, incl. Raseborg, Borgå, Helsingfors.
+#28 - Nyland
 
 culture = finnish
 religion = suomenusko

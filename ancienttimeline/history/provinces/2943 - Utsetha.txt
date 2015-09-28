@@ -1,4 +1,4 @@
-#896 - Ozark
+#2943 - Utsetha
 
 culture = osage
 religion = totemism

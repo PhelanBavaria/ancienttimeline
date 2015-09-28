@@ -1,4 +1,4 @@
-# 65 - München
+#65 - MÃ¼nchen
 
 culture = vindelican
 religion = druidism

@@ -1,4 +1,4 @@
-# 188 Metz - Principal cities: Metz, Thionville
+#188 - Metz
 
 capital = "Divodurum"
 culture = belgae

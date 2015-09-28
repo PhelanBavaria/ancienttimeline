@@ -1,4 +1,4 @@
-#631 - Bali-Lombok
+#631 - Bali
 
 culture = javanese
 religion = vedism

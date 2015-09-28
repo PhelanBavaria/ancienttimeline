@@ -1,3 +1,5 @@
+#Manaus
+
 culture = tupinamba
 religion = south_american
 capital = "Manaus"

@@ -1,4 +1,4 @@
-#2528 - Ma'an
+#2528 - Petra
 
 culture = bedouin_arabic
 religion = nabataean

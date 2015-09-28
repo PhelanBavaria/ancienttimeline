@@ -1,4 +1,4 @@
-#262 - Krakow
+#2602 - Przemysl
 
 culture = gepid
 religion = germanic

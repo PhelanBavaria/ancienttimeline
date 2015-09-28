@@ -1,4 +1,4 @@
-#659 - Riau
+#3089 - Lingga
 
 culture = malayan
 religion = animism

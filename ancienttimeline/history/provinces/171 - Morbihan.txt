@@ -1,4 +1,4 @@
-# 171 Morbihan
+#171 - Morbihan
 
 capital = "Vannes"
 culture = armorican

@@ -1,4 +1,4 @@
-#815 - Maynas
+#815 - Yurimaguas
 
 culture = jivaro
 religion = inti

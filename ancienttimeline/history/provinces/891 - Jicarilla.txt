@@ -1,4 +1,4 @@
-#891 - Jicarilla
+#891 - Naisha
 
 culture = pawnee #Old plains people
 religion = totemism

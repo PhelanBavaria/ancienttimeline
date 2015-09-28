@@ -1,4 +1,4 @@
-#Riga Bight, incl. the city of Riga, and Dünamünde.
+#38 - Riga
 
 culture = latvian
 religion = romuva

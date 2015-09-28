@@ -1,4 +1,4 @@
-#146 - Athens
+#146 - Attica
 
 owner = CRH
 controller = CRH

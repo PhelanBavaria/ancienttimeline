@@ -1,4 +1,4 @@
-#1754 - Murom ( formerly Orel)
+#1754 - Murom
       
 culture = volga_finnic
 religion = suomenusko

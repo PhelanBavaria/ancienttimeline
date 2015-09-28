@@ -1,4 +1,4 @@
-#469 - Mordvar
+#2436 - North Aorsi
 
 culture = alan
 religion = scythian_religion

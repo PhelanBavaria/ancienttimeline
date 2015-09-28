@@ -1,4 +1,4 @@
-#618 - Aru
+#2400 - Peureulak
 
 culture = sumatran
 religion = mahayana

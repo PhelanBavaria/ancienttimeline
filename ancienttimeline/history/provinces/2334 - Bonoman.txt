@@ -1,4 +1,4 @@
-#1138 - Kumasi
+#2334 - Bonoman
 
 culture = aka
 base_manpower = 2

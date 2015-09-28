@@ -1,4 +1,4 @@
-#777 - Parana
+#2769 - Corrientes
 
 culture = guarani
 religion = south_american

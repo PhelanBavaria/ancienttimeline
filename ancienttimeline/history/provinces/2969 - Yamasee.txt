@@ -1,4 +1,4 @@
-#929 - Muskogee
+#2969 - Yamasee
 
 culture = creek
 religion = totemism

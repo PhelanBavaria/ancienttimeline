@@ -1,4 +1,4 @@
-# 310 - Novgorod
+#310 - Novgorod
 
 culture = ingrian
 religion = suomenusko

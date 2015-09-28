@@ -1,4 +1,4 @@
-#677 - Qamdo
+#2456 - Markam
 
 culture = tibetan
 religion = tibetan_bon

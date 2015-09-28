@@ -1,4 +1,4 @@
-#1214 - Awsa
+#1214 - Ausa
 
 citysize = 1142
 culture = somali # afar 

@@ -1,4 +1,4 @@
-#1213 - Shoa
+#1213 - Shewa
 
 culture = amhara
 religion = african

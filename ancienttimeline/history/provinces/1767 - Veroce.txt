@@ -1,4 +1,4 @@
-#1767 - Osijek
+#1767 - Slavonia
 
 culture = illyrian
 religion = animism

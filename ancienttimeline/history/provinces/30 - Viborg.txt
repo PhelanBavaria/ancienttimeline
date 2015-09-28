@@ -1,4 +1,4 @@
-#Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
+#30 - Viborg
 
 culture = finnish
 religion = suomenusko

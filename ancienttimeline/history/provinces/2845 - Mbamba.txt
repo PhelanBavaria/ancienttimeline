@@ -1,4 +1,4 @@
-# - Mbwila
+#2845 - Mbamba
 
 culture = kongolese
 religion = shamanism

@@ -1,4 +1,4 @@
-#1007 - Ojibwa
+#3033 - Wappus
 
 culture = cree
 religion = totemism

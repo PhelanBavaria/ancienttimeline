@@ -1,4 +1,4 @@
-#383 - Tabouk
+#383 - Tabuk
 
 culture = bedouin_arabic
 religion = nabataean

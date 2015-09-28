@@ -1,4 +1,4 @@
-#876 - Yavapai
+#2930 - Hualapai
 
 culture = piman
 religion = totemism

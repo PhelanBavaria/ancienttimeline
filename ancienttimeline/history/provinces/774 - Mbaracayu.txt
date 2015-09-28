@@ -1,4 +1,4 @@
-#774 - Mbaracayu
+#774 - Coxim
 
 culture = ge
 religion = south_american

@@ -1,4 +1,4 @@
-#667 - Guangzhou
+#2474 - Shaoguan
 
 owner = GAN
 controller = GAN

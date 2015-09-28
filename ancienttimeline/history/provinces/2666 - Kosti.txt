@@ -1,4 +1,4 @@
-#1221 - Taqali
+#2666 - Kosti
 
 culture = nubian
 religion = african

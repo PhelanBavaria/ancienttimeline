@@ -1,4 +1,4 @@
-#1143 - Borgu
+#2342 - Kebbi
 
 culture = hausa 
 religion = african

@@ -1,4 +1,4 @@
-#1129 - Azawadd
+#1129 - Azawad
 
 culture = tuareg
 religion = african

@@ -1,4 +1,4 @@
-#Ajuuraan
+#2703 - Afgooye
 
 culture = somali
 religion = african

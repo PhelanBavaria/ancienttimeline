@@ -1,4 +1,4 @@
-# 177 Maine - Principal cities: Le Mans, Alençon, Laval
+#177 - Maine
 
 capital = "Vindinium"
 culture = gallian

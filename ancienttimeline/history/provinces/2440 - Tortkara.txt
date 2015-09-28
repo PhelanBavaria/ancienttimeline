@@ -1,4 +1,4 @@
-#472 - Zheteru
+#2440 - Tortkara
 
 culture = turkish
 religion = tengri_pagan_reformed

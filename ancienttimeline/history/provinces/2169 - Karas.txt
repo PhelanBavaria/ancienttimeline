@@ -1,4 +1,4 @@
-#1174 - Greater Namaqualand
+#2169 - Karas
 
 culture = khoi
 religion = african

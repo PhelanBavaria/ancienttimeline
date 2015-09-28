@@ -1,4 +1,4 @@
-#161 - Wallachia
+#161 - Muntenia
   
 culture = dacian
 religion = zamolxism

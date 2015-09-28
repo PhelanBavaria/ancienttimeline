@@ -1,4 +1,4 @@
-#837 - Nicaragua
+#2628 - Managua
 
 culture = miskito
 religion = animism

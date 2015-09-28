@@ -1,4 +1,4 @@
-#Skåne
+#6 - SkÃ¥ne
 
 culture = danish
 religion = norse_pagan_reformed

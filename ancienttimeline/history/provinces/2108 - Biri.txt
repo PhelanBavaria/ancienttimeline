@@ -1,3 +1,5 @@
+#Biri
+
 culture = aboriginal
 religion = animism
 capital = "Biri"

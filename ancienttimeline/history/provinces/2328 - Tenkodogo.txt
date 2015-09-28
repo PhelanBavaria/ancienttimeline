@@ -1,4 +1,4 @@
-#1137 - Wagadugi
+#2328 - Tenkodogo
 
 culture = mossi 
 religion = african

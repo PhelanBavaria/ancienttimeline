@@ -1,4 +1,4 @@
-#661 - Dali
+#2465 - Lijiang
 
 culture = bai
 religion = animism
