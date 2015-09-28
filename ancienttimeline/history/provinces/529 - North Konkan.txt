@@ -1,4 +1,4 @@
-#529 - Dadra
+#529 - North Konkan
 
 owner = ASA
 controller = ASA

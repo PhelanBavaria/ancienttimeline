@@ -1,4 +1,4 @@
-#1172 - Namibe
+#1172 - Benguela
 
 culture = herero
 religion = shamanism

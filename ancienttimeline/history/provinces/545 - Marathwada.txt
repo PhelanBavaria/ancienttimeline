@@ -1,4 +1,4 @@
-#545 - Maharastra
+#545 - Marathwada
 
 owner = ASA
 controller = ASA

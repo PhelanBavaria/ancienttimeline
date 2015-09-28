@@ -1,4 +1,4 @@
-#626 - Mataram
+#626 - Pajang
 
 culture = javanese
 religion = vedism

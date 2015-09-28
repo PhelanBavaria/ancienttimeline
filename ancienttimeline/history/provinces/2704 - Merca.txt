@@ -1,4 +1,4 @@
-#1205 - Mogadishu
+#2704 - Merca
 
 culture = somali
 religion = african

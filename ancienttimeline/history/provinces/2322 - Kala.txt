@@ -1,4 +1,4 @@
-#1131 - Massina
+#2322 - Kala
 
 culture = bozo  
 base_manpower = 2

@@ -1,4 +1,4 @@
-#Ladoga
+#1961 - Ladoga
 
 culture = ingrian
 religion = suomenusko

@@ -1,4 +1,4 @@
-#665 - Jiangmen
+#2470 - Lianzhou
 
 owner = VNL
 controller = VNL

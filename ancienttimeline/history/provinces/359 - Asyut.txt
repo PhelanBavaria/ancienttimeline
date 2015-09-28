@@ -1,4 +1,4 @@
-#359 - Asyut
+#359 - Faiyum
 
 culture = al_misr_arabic
 religion = african

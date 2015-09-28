@@ -1,3 +1,5 @@
+#Norilsk
+
 culture = samoyed
 religion = shamanism
 capital = "Norilsk"

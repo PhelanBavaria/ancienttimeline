@@ -1,4 +1,4 @@
-#788 - Cuyo
+#2762 - Chepes
 
 culture = huarpe
 religion = south_american

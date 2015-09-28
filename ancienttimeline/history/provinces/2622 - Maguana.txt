@@ -1,4 +1,4 @@
-#490 - Barahonas
+#2622 - Maguana
 
 culture = arawak
 religion = animism

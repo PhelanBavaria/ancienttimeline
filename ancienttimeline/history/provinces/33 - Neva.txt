@@ -1,4 +1,4 @@
-#Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
+#33 - Neva
 
 culture = finnish
 religion = suomenusko

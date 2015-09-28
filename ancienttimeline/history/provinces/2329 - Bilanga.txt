@@ -1,4 +1,4 @@
-#1137 - Wagadugi
+#2329 - Bilanga
 
 #Senior of the Mossi Kingdoms centered here
 culture = mossi

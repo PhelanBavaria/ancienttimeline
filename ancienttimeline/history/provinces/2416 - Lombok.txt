@@ -1,4 +1,4 @@
-#631 - Bali-Lombok
+#2416 - Lombok
 
 culture = papuan
 religion = animism

@@ -1,4 +1,4 @@
-#622 - Palembang
+#3090 - Belitung
 
 culture = sumatran
 religion = animism

@@ -1,4 +1,4 @@
-#924 - Alabama
+#2961 - Napochi
 
 culture = chickasaw
 religion = totemism

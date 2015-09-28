@@ -1,4 +1,4 @@
-#466 - Sarai
+#466 - Lower Rha
 
 culture = sarmatian
 religion = scythian_religion

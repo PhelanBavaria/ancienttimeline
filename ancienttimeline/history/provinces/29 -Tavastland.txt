@@ -1,4 +1,4 @@
-#Tavastland, incl. Tavastehus.
+#29 - Tavastland
 
 culture = finnish
 religion = suomenusko

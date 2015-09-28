@@ -1,4 +1,4 @@
-#727 - Heilongjiang
+#2559 - Aigun
 
 culture = manchu
 religion = shamanism

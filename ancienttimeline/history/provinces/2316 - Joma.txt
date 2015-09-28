@@ -1,4 +1,4 @@
-#1121 - Bure
+#2316 - Joma
 
 culture = mali
 base_manpower = 2

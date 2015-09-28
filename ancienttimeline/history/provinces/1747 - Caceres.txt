@@ -1,4 +1,4 @@
-#1747 - Caceres
+#1747 - Cáceres
 
 culture = celtiberian
 religion = lusitanian_poly

@@ -1,4 +1,4 @@
-#772 - Uruguay
+#2774 - Salto
 
 culture = charruan
 religion = south_american

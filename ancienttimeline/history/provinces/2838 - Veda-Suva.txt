@@ -1,4 +1,4 @@
-#1082 - Kazan
+#2838 - Veda-Suvar
 
 capital = "Veda-Suvar"
 culture = bulgarian

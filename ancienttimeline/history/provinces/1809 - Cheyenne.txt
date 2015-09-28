@@ -1,3 +1,5 @@
+#Só'taeo'o
+
 culture = shoshone
 religion = totemism
 capital = "Cheyenne"

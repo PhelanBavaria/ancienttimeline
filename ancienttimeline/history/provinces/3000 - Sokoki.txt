@@ -1,4 +1,4 @@
-#970 - Pennacook
+#3000 - Sokoki
 
 culture = abenaki
 religion = totemism

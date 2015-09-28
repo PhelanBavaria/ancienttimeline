@@ -1,4 +1,4 @@
-#1022 - Amaravati
+#1022 - Indrapura
 
 owner = HUY
 controller = HUY

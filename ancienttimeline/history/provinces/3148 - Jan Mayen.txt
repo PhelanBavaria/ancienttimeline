@@ -1,3 +1,5 @@
+#Jan Mayen
+
 owner = JMN
 controller = JMN
 add_core = JMN

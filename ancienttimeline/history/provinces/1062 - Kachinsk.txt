@@ -1,4 +1,4 @@
-#1062 - Kachinsk
+#1062 - Angara
 
 culture = buryat
 religion = shamanism

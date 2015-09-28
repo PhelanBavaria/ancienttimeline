@@ -1,4 +1,4 @@
-#571 - Brahmaputra
+#571 - Pragjyotishpura
 
 owner = ASS
 controller = ASS

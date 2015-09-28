@@ -1,4 +1,4 @@
-#2215 - Tirunveli
+#2215 - Korkai
 
 owner = PAN
 controller = PAN

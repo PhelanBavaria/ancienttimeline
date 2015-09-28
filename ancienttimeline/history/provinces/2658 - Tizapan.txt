@@ -1,4 +1,4 @@
-#854 - Sayultecas
+#2658 - Tizapan
 
 culture = tecos
 religion = nahuatl

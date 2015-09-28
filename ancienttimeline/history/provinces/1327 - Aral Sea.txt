@@ -1,3 +1,5 @@
+#Aral Sea
+
 discovered_by = scythian_group
 discovered_by = middle_eastern
 

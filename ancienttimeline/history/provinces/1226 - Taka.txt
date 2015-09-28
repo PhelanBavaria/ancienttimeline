@@ -1,4 +1,4 @@
-#1226 - Taka
+#1226 - Beja
 
 citysize = 2000
 culture = nubian 

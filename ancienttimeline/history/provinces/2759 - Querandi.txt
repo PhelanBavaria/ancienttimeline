@@ -1,4 +1,4 @@
-#778 - Rio de la Plata
+#2759 - Querandi
 
 culture = het
 religion = south_american

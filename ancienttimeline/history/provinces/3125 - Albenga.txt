@@ -1,4 +1,4 @@
-#101 - Liguria
+#3125 - Albenga
 
 culture = ligurian
 religion = druidism

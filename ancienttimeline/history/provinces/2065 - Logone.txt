@@ -1,3 +1,5 @@
+#Logone
+
 culture = kanuri 
 religion = african
 capital = "Moundou"

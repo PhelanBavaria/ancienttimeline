@@ -1,4 +1,4 @@
-#316 - Bithynia
+#316 - Kocaeli
 
 owner = ROW
 controller = ROW

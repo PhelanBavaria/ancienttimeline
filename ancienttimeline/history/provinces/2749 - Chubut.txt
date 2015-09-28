@@ -1,4 +1,4 @@
-#781 - Patagonia Oriental
+#2749 - Chubut
 
 culture = patagonian
 religion = south_american

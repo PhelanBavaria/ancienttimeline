@@ -1,4 +1,4 @@
-#Ajuuraan
+#2147 - Gedo
 
 culture = somali
 religion = african

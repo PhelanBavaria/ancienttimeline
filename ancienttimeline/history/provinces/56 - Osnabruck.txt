@@ -1,4 +1,4 @@
-#56 - Osnabrück
+#56 - OsnabrÃ¼ck
 
 culture = saxon
 religion = germanic

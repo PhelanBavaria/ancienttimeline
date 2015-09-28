@@ -1,4 +1,4 @@
-#832 - Chiancon
+#832 - Tunja
 
 owner = MCA
 controller = MCA

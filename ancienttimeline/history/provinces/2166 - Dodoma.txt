@@ -1,4 +1,4 @@
-#1198 - Tabora
+#2166 - Dodoma
 
 culture = eastern_bantu
 religion = african

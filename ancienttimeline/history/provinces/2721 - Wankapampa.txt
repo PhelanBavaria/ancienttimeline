@@ -1,4 +1,4 @@
-#813 - Cajamarca
+#2721 - Wankapampa
 
 culture = inca
 religion = inti

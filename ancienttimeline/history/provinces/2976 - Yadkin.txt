@@ -1,4 +1,4 @@
-#937 - Tuscarora
+#2976 - Yadkin
 
 culture = catawba
 religion = totemism

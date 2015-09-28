@@ -1,4 +1,4 @@
-#225 - Córdoba
+#225 - CÃ³rdoba
 
 culture = turdetanian
 religion = animism

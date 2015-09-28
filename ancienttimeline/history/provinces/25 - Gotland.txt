@@ -1,4 +1,4 @@
-#Gotland- Visby etc
+#25 - Gotland
 
 culture = swedish
 religion = norse_pagan_reformed

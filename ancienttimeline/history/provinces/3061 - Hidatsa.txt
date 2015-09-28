@@ -1,4 +1,4 @@
-#909 - Mandan
+#3061 - Hidatsa
 
 culture = dakota
 religion = totemism

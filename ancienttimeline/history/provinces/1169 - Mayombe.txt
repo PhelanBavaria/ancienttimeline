@@ -1,4 +1,4 @@
-#1169 - Mayombe
+#1169 - Anziku
 
 culture = kongolese
 religion = shamanism

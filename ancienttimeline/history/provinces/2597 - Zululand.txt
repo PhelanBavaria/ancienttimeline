@@ -1,4 +1,4 @@
-#1181 - Natal
+#2597 - Mtetwa
 
 culture = bantu #Nguni
 religion = african

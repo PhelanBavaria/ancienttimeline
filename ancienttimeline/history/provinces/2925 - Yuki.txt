@@ -1,4 +1,4 @@
-#871 - Pomo
+#2925 - Yuki
 
 culture = piman
 religion = totemism

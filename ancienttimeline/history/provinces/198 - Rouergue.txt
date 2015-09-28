@@ -1,4 +1,4 @@
-# 198 Rouergue - Principal cities: Rodez
+#198 - Rouergue
 
 capital = "Segodunum"
 culture = gallian

@@ -1,3 +1,5 @@
+#Eeelalapito
+
 culture = shoshone
 religion = totemism
 capital = "Eelalapito"

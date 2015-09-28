@@ -1,3 +1,5 @@
+#Kawar
+
 culture = tuareg
 religion = african
 capital = "Kawar"

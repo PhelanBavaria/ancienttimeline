@@ -1,4 +1,4 @@
-#1125 - Worodugu
+#2331 - Gyaaman
 
 culture = aka
 religion = african

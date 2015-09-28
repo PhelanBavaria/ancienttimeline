@@ -1,4 +1,4 @@
-#68 - Schwaben
+#68 - Memmingen
 
 culture = vindelican
 religion = druidism

@@ -1,4 +1,4 @@
-#292 - Mogilyov
+#292 - Mogilev
   
 culture = byelorussian
 religion = slavic

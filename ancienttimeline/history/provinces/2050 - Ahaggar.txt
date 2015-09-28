@@ -1,3 +1,5 @@
+#Ahaggar
+
 culture = tuareg
 religion = african
 capital = "Ahaggar"

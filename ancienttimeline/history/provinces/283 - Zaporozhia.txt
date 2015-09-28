@@ -1,4 +1,4 @@
-#283 - Zaporozhia
+#283 - Lower Boristhenis
 
 owner = SCY
 controller = SCY

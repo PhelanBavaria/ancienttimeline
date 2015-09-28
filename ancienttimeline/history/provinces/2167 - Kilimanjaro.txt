@@ -1,4 +1,4 @@
-#1198 - Tabora
+#2167 - Kilimanjaro
 
 culture = masai
 religion = african

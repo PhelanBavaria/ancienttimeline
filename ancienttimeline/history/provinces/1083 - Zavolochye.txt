@@ -1,4 +1,4 @@
-#1083 - Vetluga ( formerly Zavolochye )
+#1083 - Vetluga
 
 capital = "Yur"
 culture = volga_finnic

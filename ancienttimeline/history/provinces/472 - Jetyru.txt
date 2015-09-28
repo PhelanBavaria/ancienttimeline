@@ -1,4 +1,4 @@
-#472 - Zheteru
+#472 - Zhetyru
 
 culture = saka
 religion = scythian_religion

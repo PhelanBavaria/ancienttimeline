@@ -1,3 +1,5 @@
+#Burundi
+
 culture = eastern_bantu
 religion = african
 capital = "Gitega"

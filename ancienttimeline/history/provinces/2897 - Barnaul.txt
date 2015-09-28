@@ -1,4 +1,4 @@
-#480 - Kulunda
+#2897 - Barnaul
 
 culture = kirgiz
 religion = shamanism

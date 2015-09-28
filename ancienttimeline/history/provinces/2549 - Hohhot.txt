@@ -1,4 +1,4 @@
-#702 - Ulaanchab
+#2549 - Hohhot
 
 owner = XIO
 controller = XIO

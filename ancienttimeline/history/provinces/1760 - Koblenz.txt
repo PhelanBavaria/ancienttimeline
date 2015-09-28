@@ -1,4 +1,4 @@
-# 1760 Koblenz
+#1760 - Koblenz
 
 culture = frankish
 religion = germanic

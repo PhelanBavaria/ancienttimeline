@@ -1,3 +1,5 @@
+#Ndola
+
 culture = bemba
 religion = african
 capital = "Ndola"

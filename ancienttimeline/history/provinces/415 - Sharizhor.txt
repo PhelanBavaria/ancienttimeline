@@ -1,4 +1,4 @@
-#415 - Sharizhor
+#415 - Shahrizor
 
 owner = ASY
 controller = ASY

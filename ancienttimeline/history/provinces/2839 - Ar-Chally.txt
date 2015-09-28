@@ -1,4 +1,4 @@
-#1082 - Kazan
+#2839 - Ar-Chally
 
 capital = "Ar-Chally"
 culture = bulgarian

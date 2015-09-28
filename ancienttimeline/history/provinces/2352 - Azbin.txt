@@ -1,3 +1,5 @@
+#Azbin
+
 culture = tuareg
 religion = african
 capital = "In-Gall"

@@ -1,4 +1,4 @@
-#116 - Firenze
+#3127 - Arezzo
 
 culture = etruscan
 religion = etruscan_poly

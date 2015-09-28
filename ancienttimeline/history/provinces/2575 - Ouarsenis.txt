@@ -1,4 +1,4 @@
-#336 - Tlemcen
+#2575 - Ouarsenis
 
 culture = berber
 religion = african

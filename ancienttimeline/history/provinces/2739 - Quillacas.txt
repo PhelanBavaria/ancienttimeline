@@ -1,4 +1,4 @@
-#795 - Chichas
+#2739 - Quillacas
 
 culture = aimara
 religion = inti

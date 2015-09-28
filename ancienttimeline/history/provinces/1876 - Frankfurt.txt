@@ -1,4 +1,4 @@
-# 1876 - Frankfurt
+#1876 - Frankfurt
 
 capital = "Frankonovurd"
 culture = swabian

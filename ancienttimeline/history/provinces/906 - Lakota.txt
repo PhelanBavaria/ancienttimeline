@@ -1,4 +1,4 @@
-#906 - Lakota
+#906 - Yanktonai
 
 culture = dakota
 religion = totemism

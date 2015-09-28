@@ -1,4 +1,4 @@
-#676 - U-Tsang
+#676 - Changtang
 
 culture = tibetan
 religion = tibetan_bon

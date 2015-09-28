@@ -1,4 +1,4 @@
-#Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
+#11 - VÃ¤sterbotten
 
 culture = swedish
 religion = suomenusko

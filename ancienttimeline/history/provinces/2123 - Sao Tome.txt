@@ -1,3 +1,5 @@
+#Sao Tome
+
 culture = uninhabited
 religion = animism
 capital = "Sao Tome"

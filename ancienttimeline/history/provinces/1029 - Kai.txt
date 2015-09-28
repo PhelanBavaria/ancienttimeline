@@ -1,4 +1,4 @@
-#1029 - Shinano
+#1029 - Kai
 
 culture = emishi
 religion = animism

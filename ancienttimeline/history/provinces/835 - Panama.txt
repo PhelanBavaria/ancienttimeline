@@ -1,4 +1,4 @@
-#835 - Panama 
+#835 - Panama
 
 culture = muisca
 religion = animism

@@ -1,4 +1,4 @@
-#645 - Buru
+#2865 - Sula
 
 culture = moluccan
 religion = animism

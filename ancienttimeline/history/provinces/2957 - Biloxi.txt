@@ -1,4 +1,4 @@
-#922 - Mobile
+#2957 - Biloxi
 
 culture = choctaw
 religion = totemism

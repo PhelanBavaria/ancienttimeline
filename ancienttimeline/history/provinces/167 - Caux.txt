@@ -1,4 +1,4 @@
-# 167 Caux - Principal cities: Rouen
+#167 - Caux
 
 capital = "Caracotinum"
 culture = gallian

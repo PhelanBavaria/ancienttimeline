@@ -1,3 +1,5 @@
+#Kalanga
+
 culture = bantu
 religion = african
 capital = "Kalanga"

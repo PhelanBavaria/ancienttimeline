@@ -1,4 +1,4 @@
-#790 - Chaco Austral
+#2764 - Santiago del Estero
 
 culture = diaguita
 religion = south_american

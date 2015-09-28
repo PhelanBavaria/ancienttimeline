@@ -1,4 +1,4 @@
-#672 - Chenzhou
+#672 - Changde
 
 owner = HND
 controller = HND

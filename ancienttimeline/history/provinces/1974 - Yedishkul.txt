@@ -1,4 +1,4 @@
-#1974 - Yedishkul
+#1974 - South Scythia
 
 owner = SCY
 controller = SCY

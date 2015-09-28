@@ -1,4 +1,4 @@
-#259 - Lublin
+#3113 - Tarnow
 
 capital = "Tarnow"
 culture = burgundione

@@ -1,4 +1,4 @@
-#2009 - Teton
+#2134 - Oglala
 
 culture = pawnee #Not yet Dakota
 religion = totemism

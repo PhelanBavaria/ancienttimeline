@@ -1,4 +1,4 @@
-#582 - Kachin
+#2257 - Hkamti Long
 
 culture = kachin
 religion = animism

@@ -1,4 +1,4 @@
-#532 - Raichur Doab
+#2211 - Savanaur
 
 owner = KSK
 controller = KSK

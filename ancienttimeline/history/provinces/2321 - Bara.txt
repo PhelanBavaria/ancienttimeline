@@ -1,4 +1,4 @@
-#1132 - Timbuktu
+#2321 - Bara
 
 culture = bambara 
 base_manpower = 2

@@ -1,4 +1,4 @@
-#453 - Karshi
+#453 - Qarshi
 
 owner = ROW
 controller = ROW

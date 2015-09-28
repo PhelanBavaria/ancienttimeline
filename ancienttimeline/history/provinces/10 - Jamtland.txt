@@ -1,4 +1,4 @@
-#Jämtland+Härjedalen
+#10 - JÃ¤mtland
 
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = norse_pagan_reformed

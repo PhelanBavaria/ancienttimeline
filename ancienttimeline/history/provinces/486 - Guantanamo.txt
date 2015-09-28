@@ -1,4 +1,4 @@
-#486 - Guantanamo		
+#486 - Guantanamo
 
 culture = arawak
 religion = animism

@@ -1,4 +1,4 @@
-#844 - Zapotec
+#2641 - Chiapas
 
 culture = putun
 owner = PLQ

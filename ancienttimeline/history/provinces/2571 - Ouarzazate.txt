@@ -1,4 +1,4 @@
-#346 - Figuig
+#2571 - Ouarzazate
 
 culture = berber
 religion = african

@@ -1,4 +1,4 @@
-#1817 - Higo
+#1817 - Nan
 
 culture = northern_thai
 religion = mahayana

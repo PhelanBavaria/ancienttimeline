@@ -1,4 +1,4 @@
-#59 - Meissen
+#59 - Wittenberg
 
 culture = langobardi
 religion = germanic

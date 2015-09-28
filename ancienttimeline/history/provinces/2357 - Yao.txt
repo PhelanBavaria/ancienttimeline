@@ -1,4 +1,4 @@
-#1158 - Kanem
+#2357 - Yao
 
 culture = bilala  
 religion = african

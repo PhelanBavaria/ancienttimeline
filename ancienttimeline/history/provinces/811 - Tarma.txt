@@ -1,4 +1,4 @@
-#811 - Tarma
+#811 - Jauja
 
 culture = inca
 religion = inti

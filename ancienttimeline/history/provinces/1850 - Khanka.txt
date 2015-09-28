@@ -1,4 +1,4 @@
-#1850 - Mudanjiang
+#1850 - Furdan
 
 culture = manchu
 religion = shamanism

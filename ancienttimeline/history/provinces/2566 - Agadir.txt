@@ -1,4 +1,4 @@
-#347 - Ifni
+#2566 - Agadir
 
 culture = berber
 religion = african

@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2698 - Hobyo
 
 culture = somali
 religion = african

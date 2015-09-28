@@ -1,4 +1,4 @@
-#535 - Kochin
+#535 - Central Kerala
 
 owner = AYX
 controller = AYX

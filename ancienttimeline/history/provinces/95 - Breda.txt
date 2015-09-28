@@ -1,4 +1,4 @@
-# 95 Breda - Principal cities: 's Hertogenbosch & Breda
+#95 - Breda
 
 capital = "Noviomagus"
 culture = belgic

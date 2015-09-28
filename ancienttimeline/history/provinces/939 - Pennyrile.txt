@@ -1,4 +1,4 @@
-#939 - Pennyrile
+#939 - Kaskinampo
 
 culture = chickasaw
 religion = totemism

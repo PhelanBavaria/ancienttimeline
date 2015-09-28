@@ -1,4 +1,4 @@
-#1846 - Yazgod
+#1846 - Amasya
 
 
 culture = pontic_greek

@@ -1,4 +1,4 @@
-#1057 - Udinsky
+#1057 - Ude
 
 culture = buryat
 religion = tengri_pagan_reformed

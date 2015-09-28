@@ -1,4 +1,4 @@
-#932 - Santee
+#2972 - Cusabo
 
 culture = catawba
 religion = totemism

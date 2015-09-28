@@ -1,3 +1,5 @@
+#Nihithawak
+
 culture = athabascan
 religion = totemism
 capital = "Nihithawak"

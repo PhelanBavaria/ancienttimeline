@@ -1,4 +1,4 @@
-#544 - Ahmadnagar
+#544 - Pratishthana
 
 owner = DND
 controller = DND

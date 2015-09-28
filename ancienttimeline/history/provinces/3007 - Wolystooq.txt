@@ -1,4 +1,4 @@
-#985 - Micmac
+#3007 - Wolystoq
 
 culture = mikmaq
 religion = totemism

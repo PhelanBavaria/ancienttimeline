@@ -1,4 +1,4 @@
-#Ust-Sysolsk
+#1964 - Ust-Sysolsk
 
 culture = uralic
 religion = suomenusko

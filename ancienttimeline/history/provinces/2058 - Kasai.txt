@@ -1,3 +1,5 @@
+#Kasai Occidental
+
 culture = luba
 religion = african
 capital = "Kasai Occidental"

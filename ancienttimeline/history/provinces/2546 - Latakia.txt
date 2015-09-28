@@ -1,4 +1,4 @@
-#2546 - Latakia
+#2546 - Ugarit
 
 owner = UGA
 controller = UGA

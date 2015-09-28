@@ -1,4 +1,4 @@
-#893 - Chitimacha
+#2956 - Adai
 
 culture = caddo
 religion = totemism

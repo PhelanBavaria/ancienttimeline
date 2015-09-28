@@ -1,3 +1,5 @@
+#Adamawa
+
 culture = gbaya
 religion = african
 capital = "Adamaoua"

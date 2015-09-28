@@ -1,4 +1,4 @@
-#Kovno
+#1936 - Kovno
 
 culture = lithuanian
 religion = romuva

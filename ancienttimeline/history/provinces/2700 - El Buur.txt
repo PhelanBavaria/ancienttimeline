@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2700 - El Buur
 
 culture = somali
 religion = african

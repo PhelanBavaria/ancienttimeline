@@ -1,4 +1,4 @@
-#777 - Parana
+#2770 - Yareyu
 
 culture = guarani
 religion = south_american

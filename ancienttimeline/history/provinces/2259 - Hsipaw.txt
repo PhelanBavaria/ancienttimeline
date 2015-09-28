@@ -1,4 +1,4 @@
-#583 - Hsenwi
+#2259 - Hsipaw
 
 culture = shan
 religion = mahayana

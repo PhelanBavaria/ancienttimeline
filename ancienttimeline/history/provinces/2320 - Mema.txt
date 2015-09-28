@@ -1,4 +1,4 @@
-#1132 - Timbuktu
+#2320 - Mema
 
 culture = bambara 
 base_manpower = 2

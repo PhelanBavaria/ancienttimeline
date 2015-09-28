@@ -1,4 +1,4 @@
-# 99 Gelre - Principal cities: Arnhem, Zwolle & Nijmegen
+#99 - Gelre
 
 capital = "Arnhem"
 culture = frankish

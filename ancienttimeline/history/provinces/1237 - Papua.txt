@@ -1,4 +1,4 @@
-#1237 - Papua
+#1237 - Hanuabada
 
 culture = papuan
 religion = animism

@@ -1,4 +1,4 @@
-#424 - Shirva
+#424 - Ardabil
 
 owner = CLB
 controller = CLB

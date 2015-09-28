@@ -1,4 +1,4 @@
-#848 - Tohancapan
+#2649 - Cuetlaxtlan
 
 culture = totonac
 owner = TOT

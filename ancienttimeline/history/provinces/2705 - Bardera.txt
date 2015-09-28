@@ -1,4 +1,4 @@
-#Ajuuraan
+#2705 - Bardera
 
 culture = somali
 religion = african

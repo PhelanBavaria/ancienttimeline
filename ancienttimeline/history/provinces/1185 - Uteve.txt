@@ -1,4 +1,4 @@
-#1185 - Uteve
+#1185 - Madanda
 
 culture = shona
 religion = african

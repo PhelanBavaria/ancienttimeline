@@ -1,4 +1,4 @@
-#546 - Nagpur
+#546 - East Berar
 
 owner = SAT
 controller = SAT

@@ -1,4 +1,4 @@
-#430 - Laristan
+#430 - Larestan
 
 owner = ACA
 controller = ACA

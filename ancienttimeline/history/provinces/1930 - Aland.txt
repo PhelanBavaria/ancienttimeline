@@ -1,4 +1,4 @@
-#Åland
+#1930 - Ã…land
 
 culture = swedish
 religion = norse_pagan_reformed

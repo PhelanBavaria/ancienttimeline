@@ -1,4 +1,4 @@
-#354 - Tripolitania
+#354 - Tripoli
 
 culture = berber
 religion = african

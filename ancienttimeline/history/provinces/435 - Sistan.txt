@@ -1,4 +1,4 @@
-#435 - Sistan
+#435 - Zaranj
 
 owner = ROW
 controller = ROW

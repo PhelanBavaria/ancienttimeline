@@ -1,4 +1,4 @@
-#521 - Rajkot
+#521 - Kathiawar
 
 owner = SUR
 controller = SUR

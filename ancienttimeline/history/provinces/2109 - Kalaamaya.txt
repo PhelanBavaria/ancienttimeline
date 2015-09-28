@@ -1,3 +1,5 @@
+#Kalaamaya
+
 culture = aboriginal
 religion = animism
 capital = "Kalaamaya"

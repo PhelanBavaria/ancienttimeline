@@ -1,4 +1,4 @@
-#692 - Handan
+#692 - Baoding
 
 owner = HND
 controller = HND

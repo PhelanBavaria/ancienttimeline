@@ -1,4 +1,4 @@
-#46 - Mecklenburg
+#3120 - Rostock
 
 culture = pommeranian
 religion = germanic

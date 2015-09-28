@@ -1,4 +1,4 @@
-#1197 - Ujiji
+#2165 - Mwanza
 
 culture = eastern_bantu
 religion = african

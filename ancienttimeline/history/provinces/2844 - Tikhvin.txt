@@ -1,4 +1,4 @@
-# 310 - Novgorod
+#2844 - Tikhvin
 
 culture = ingrian
 religion = suomenusko

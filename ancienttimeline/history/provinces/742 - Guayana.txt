@@ -1,4 +1,4 @@
-#742 - Guayana
+#742 - Guasipati
 
 culture = carib
 religion = south_american

@@ -1,3 +1,5 @@
+#Solwezi
+
 culture = bemba
 religion = african
 capital = "Solwezi"

@@ -1,4 +1,4 @@
-#Österbotten, down to Vasa.
+#19 - Ã–sterbotten
 
 culture = finnish
 religion = suomenusko

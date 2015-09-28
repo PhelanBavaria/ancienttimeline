@@ -1,4 +1,4 @@
-#788 - Cuyo
+#2756 - Mendoza
 
 culture = huarpe
 religion = south_american

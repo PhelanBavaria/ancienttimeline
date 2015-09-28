@@ -1,4 +1,4 @@
-#543 - Golconda
+#2228 - Konaseema
 
 owner = ADH
 controller = ADH

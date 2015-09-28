@@ -1,4 +1,4 @@
-#807 - Huamanga
+#807 - Abancay
 
 culture = inca
 religion = inti

@@ -1,3 +1,5 @@
+#Ennedi
+
 culture = tuareg
 religion = african
 capital = "Fada"

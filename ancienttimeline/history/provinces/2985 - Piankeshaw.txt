@@ -1,4 +1,4 @@
-#942 - Wea
+#2985 - Piankeshaw
 
 culture = illini
 religion = totemism

@@ -1,3 +1,5 @@
+#Palus
+
 culture = salish
 religion = totemism
 capital = "Palus"

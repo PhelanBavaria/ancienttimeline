@@ -1,4 +1,4 @@
-#1117 - Futa Jallon
+#2313 - Beafada
 
 culture = senegambian  
 base_manpower = 2

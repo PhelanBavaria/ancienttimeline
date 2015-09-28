@@ -1,4 +1,4 @@
-#277 - Grodno
+#277 - Brest
 
 culture = byelorussian
 religion = slavic

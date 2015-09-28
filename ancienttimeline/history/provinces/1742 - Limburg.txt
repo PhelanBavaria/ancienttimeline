@@ -1,4 +1,4 @@
-# 1742 Limburg
+#1742 - Limburg
 
 capital = "Catualium"
 culture = flemish

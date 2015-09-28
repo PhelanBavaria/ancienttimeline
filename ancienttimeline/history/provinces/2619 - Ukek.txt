@@ -1,4 +1,4 @@
-#303 - Saratow
+#2619 - Ukek
     
 culture = bulgarian
 religion = tengri_pagan_reformed

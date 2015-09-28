@@ -1,3 +1,5 @@
+#Garoua
+
 culture = gbaya
 religion = african
 capital = "Garoua"

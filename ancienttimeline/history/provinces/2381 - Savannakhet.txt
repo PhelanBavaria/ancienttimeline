@@ -1,4 +1,4 @@
-#611 - Thakhek
+#2381 - Savannakhet
 
 culture = lao
 religion = animism

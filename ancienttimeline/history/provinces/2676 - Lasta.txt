@@ -1,4 +1,4 @@
-#1227 - Tigre
+#2676 - Lasta
 
 culture = amhara
 religion = south_arabian

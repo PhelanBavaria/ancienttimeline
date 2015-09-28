@@ -1,4 +1,4 @@
-#654 - Visayas
+#2862 - Panay
 
 culture = filipino
 religion = animism

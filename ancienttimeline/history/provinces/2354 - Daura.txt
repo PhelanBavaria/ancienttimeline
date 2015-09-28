@@ -1,4 +1,4 @@
-#1156 - Damagaram
+#2354 - Daura
 
 culture = hausa  
 religion = african

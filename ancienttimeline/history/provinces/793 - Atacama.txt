@@ -1,4 +1,4 @@
-#793 - Atacama
+#793 - Antofagasta
 
 culture = diaguita
 religion = south_american

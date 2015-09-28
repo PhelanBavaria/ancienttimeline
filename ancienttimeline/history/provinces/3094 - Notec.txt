@@ -1,4 +1,4 @@
-#254 - Poznan
+#3094 - Notec
 
 capital = "Bydgoszcz"
 culture = gothic

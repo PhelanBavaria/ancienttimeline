@@ -1,4 +1,4 @@
-#Ostrov
+#1960 - Ostrov
 
 culture = russian
 religion = slavic

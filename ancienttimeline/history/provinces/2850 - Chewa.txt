@@ -1,4 +1,4 @@
-#1191 - Sena
+#2850 - Chewa
 
 culture = chewa
 religion = african

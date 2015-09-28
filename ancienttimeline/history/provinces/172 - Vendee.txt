@@ -1,4 +1,4 @@
-# 172 Vendée - Principal cities: Nantes
+#172 - Loire
 
 capital = "Portus Namnetum"
 culture = armorican

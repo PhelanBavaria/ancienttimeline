@@ -1,4 +1,4 @@
-#643 - Pose
+#2428 - Palu
 
 culture = sulawesi
 religion = animism

@@ -1,3 +1,5 @@
+#Tsisistas
+
 culture = shoshone
 religion = totemism
 capital = "Tsisistas"

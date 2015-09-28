@@ -1,4 +1,4 @@
-#1066 - Altai
+#1066 - Narym
 
 culture = khazak
 religion = tengri_pagan_reformed

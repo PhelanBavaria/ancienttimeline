@@ -1,4 +1,4 @@
-#840 - Honduras
+#2631 - Olancho
 
 culture = miskito
 religion = mesoamerican_religion

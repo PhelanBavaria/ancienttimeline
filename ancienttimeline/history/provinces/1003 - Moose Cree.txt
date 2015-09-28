@@ -1,4 +1,4 @@
-#1003 - Moose Cree
+#1003 - Mosoni
 
 culture = cree
 religion = totemism

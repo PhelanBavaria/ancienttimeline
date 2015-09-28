@@ -1,4 +1,4 @@
-#Bergslagen, contains Falun, Västerås etc.
+#4 - Bergslagen
 
 culture = swedish
 religion = norse_pagan_reformed

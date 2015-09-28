@@ -1,3 +1,5 @@
+#Luapula
+
 culture = bemba
 religion = african
 capital = "Luapula"

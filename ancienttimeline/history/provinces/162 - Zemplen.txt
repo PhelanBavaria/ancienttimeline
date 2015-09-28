@@ -1,4 +1,4 @@
-#162 - Carpathia
+#162 - Zemplen
 
 culture = gepid
 religion = germanic

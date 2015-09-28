@@ -1,4 +1,4 @@
-# 190 Bourbon - Principal cities: Moulins
+#190 - Bourbon
 
 capital = "Moulins"
 culture = gallian

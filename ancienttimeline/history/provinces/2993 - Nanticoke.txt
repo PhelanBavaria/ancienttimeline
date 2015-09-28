@@ -1,4 +1,4 @@
-#957 - Delaware
+#2993 - Naticoke
 
 culture = powhatan
 religion = totemism

@@ -1,4 +1,4 @@
-#53 - Lüneburg
+#53 - LÃ¼neburg
 
 culture = saxon
 religion = germanic

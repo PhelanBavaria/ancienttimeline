@@ -1,4 +1,4 @@
-#785 - Pehuenmapu
+#2754 - Chanar
 
 culture = het
 religion = south_american

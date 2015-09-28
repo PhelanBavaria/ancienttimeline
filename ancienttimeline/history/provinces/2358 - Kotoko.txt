@@ -1,4 +1,4 @@
-#1159 - Bagirmi
+#2358 - Kotoko
 
 owner = KBO
 controller = KBO

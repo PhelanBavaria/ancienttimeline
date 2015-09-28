@@ -1,4 +1,4 @@
-#222 - Almería
+#222 - AlmerÃ­a
 
 culture = iberi
 religion = animism

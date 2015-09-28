@@ -1,4 +1,4 @@
-#306 - Nijni-Novgorod
+#306 - Nizhny Novgorod
  
 culture = volga_finnic
 religion = suomenusko

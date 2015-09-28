@@ -1,4 +1,4 @@
-# 189 Lothringen - Principal cities: Nancy
+#189 - Lothringen
 
 capital = "Nasium"
 culture = gallian

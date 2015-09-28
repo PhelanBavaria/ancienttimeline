@@ -1,4 +1,4 @@
-#1211 - Harer
+#2689 - Degehabur
 
 religion = african
 culture = somali # Harerge

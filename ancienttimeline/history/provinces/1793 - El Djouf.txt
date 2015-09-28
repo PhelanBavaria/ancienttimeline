@@ -1,3 +1,5 @@
+#Ouadane
+
 culture = tuareg
 religion = african
 hre = no

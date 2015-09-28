@@ -1,4 +1,4 @@
-#East Karelia
+#1776 - Karelia
 
 capital = "Kem"
 culture = karelian

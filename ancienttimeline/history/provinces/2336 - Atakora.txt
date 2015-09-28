@@ -1,4 +1,4 @@
-#2016 - Togo
+#2336 - Atakora
 
 culture = dagomba
 religion = african

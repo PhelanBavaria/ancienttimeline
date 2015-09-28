@@ -1,4 +1,4 @@
-#1192 - Quelimane
+#2854 - Angoche
 
 culture = swahili
 religion = african

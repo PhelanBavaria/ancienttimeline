@@ -1,4 +1,4 @@
-#1750 - Alàcant
+#1750 - Alicante
 
 culture = iberi
 religion = animism

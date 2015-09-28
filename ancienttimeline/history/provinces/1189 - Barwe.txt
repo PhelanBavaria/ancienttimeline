@@ -1,4 +1,4 @@
-#1189 - Barwe
+#1189 - Tete
 
 culture = shona
 religion = african

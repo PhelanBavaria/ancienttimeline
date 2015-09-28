@@ -1,4 +1,4 @@
-#907 - Dakota
+#907 - Yankton
 
 culture = dakota
 religion = totemism

@@ -1,4 +1,4 @@
-#Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
+#15 - Midtjylland
 
 culture = danish
 religion = norse_pagan_reformed

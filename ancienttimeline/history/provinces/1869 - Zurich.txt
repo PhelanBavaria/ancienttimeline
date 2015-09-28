@@ -1,4 +1,4 @@
-#1869 - Zurich
+#1869 - Zürich
 
 culture = helvetian
 religion = druidism

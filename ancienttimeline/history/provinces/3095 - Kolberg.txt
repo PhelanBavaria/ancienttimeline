@@ -1,4 +1,4 @@
-#1858 - Stettin
+#3095 - Kolberg
 
 culture = pommeranian
 religion = germanic

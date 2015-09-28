@@ -1,4 +1,4 @@
-#Keksholms län+Karelen, incl. Sordavala and Keksholm.
+#32 - Kexholm
 
 culture = finnish
 religion = suomenusko

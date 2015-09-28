@@ -1,4 +1,4 @@
-#Kirikiriroa
+#2880 - Kirikiriroa
 
 culture = polynesian
 religion = animism

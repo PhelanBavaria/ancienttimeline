@@ -1,4 +1,4 @@
-#1013 - Hizen
+#1013 - Chungcheong
 
 owner = JIN
 controller = JIN

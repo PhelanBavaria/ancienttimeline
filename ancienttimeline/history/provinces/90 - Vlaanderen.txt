@@ -1,4 +1,4 @@
-# 90 Vlaanderen - Principal cities: Brugge
+#90 - Vlaanderen
 
 capital = "Viroviacum"
 culture = belgae

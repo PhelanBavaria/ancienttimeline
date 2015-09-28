@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2699 - Meregh
 
 culture = somali
 religion = african

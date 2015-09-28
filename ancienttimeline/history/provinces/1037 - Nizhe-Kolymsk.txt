@@ -1,4 +1,4 @@
-#1037 - Nizhe-Kolymsk
+#1037 - Omolon
 
 culture = yukagyr
 religion = shamanism

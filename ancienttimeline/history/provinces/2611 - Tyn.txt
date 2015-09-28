@@ -1,4 +1,4 @@
-#291 - Kharkov
+#2611 - East Amazonia
    
 owner = SCY
 controller = SCY

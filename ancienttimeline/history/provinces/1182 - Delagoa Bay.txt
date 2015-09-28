@@ -1,4 +1,4 @@
-#1182 - Delagoa Bay
+#1182 - Matsolo
 
 culture = bantu #Tsonga
 religion = african

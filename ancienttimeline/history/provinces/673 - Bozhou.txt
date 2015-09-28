@@ -1,4 +1,4 @@
-#673 - Bozhou
+#673 - Bo
 
 owner = SHU
 controller = SHU

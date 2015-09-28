@@ -1,4 +1,4 @@
-#814 - Huanuco
+#2725 - Huaraz
 
 culture = inca
 religion = inti

@@ -1,4 +1,4 @@
-#953 - Conoy
+#2992 - Potomac
 
 culture = susquehannock
 religion = totemism

@@ -1,4 +1,4 @@
-#45 - Lübeck
+#45 - LÃ¼beck
 
 culture = hannoverian
 religion = germanic

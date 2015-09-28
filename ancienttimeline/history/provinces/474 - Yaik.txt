@@ -1,4 +1,4 @@
-#474 - Uralsk
+#474 - Upper Jajykon
 
 culture = alan
 religion = scythian_religion

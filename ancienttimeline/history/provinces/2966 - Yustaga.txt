@@ -1,4 +1,4 @@
-#927 - Timucua
+#2966 - Yustaga
 
 culture = creek
 religion = totemism

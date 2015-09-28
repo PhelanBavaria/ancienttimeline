@@ -1,3 +1,5 @@
+#Maka
+
 culture = gbaya
 religion = shamanism
 capital = "Maka"

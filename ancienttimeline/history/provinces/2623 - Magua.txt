@@ -1,4 +1,4 @@
-#490 - Barahonas
+#2623 - Magua
 
 culture = arawak
 religion = animism

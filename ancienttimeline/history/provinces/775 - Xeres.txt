@@ -1,4 +1,4 @@
-#775 - Xeres
+#775 - Cuiaba
 
 culture = ge
 religion = south_american

@@ -1,4 +1,4 @@
-#1051 - Uchurskoye
+#1051 - Aldan
 
 culture = yakut
 religion = shamanism

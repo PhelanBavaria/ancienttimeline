@@ -1,4 +1,4 @@
-#2265 - Kakheti
+#2265 - Hereti
 
 owner = IBE
 controller = IBE

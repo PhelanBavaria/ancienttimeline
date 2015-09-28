@@ -1,4 +1,4 @@
-#714 - Dzungaria
+#2888 - Chuguchak
 
 owner = WUS
 controller = WUS

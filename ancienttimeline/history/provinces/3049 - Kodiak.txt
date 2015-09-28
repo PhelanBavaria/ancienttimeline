@@ -1,4 +1,4 @@
-#979 - Aleut
+#3049 - Kodiak
 
 culture = aleutian
 religion = shamanism

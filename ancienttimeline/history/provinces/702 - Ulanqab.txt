@@ -1,4 +1,4 @@
-#702 - Ulaanchab
+#702 - Khara Narin Ula
 
 owner = XIO
 controller = XIO

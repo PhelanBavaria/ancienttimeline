@@ -1,4 +1,4 @@
-#2269 - Diyarbakir
+#2269 - Adma
 
 culture = aramaic
 religion = ashurism

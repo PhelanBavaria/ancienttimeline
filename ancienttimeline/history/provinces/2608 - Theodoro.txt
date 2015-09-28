@@ -1,4 +1,4 @@
-#2608 - Theodoro
+#2608 - Chersonesos
 
 owner = SCY
 controller = SCY

@@ -1,4 +1,4 @@
-#Kurland, center at Goldingen
+#39 - Kurland
 
 culture = old_prussian
 religion = romuva

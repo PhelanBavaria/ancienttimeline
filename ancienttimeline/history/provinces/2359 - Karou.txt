@@ -1,4 +1,4 @@
-#1119 - Grain Coast
+#2359 - Karou
 
 culture = dyola
 religion = african

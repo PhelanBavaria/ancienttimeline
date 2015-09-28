@@ -1,4 +1,4 @@
-#1873 - Chur
+#1873 - Graubünden
 
 culture = raetian
 religion = druidism

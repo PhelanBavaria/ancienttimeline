@@ -1,4 +1,4 @@
-# 168 Normandie - Principal cities: Caen
+#168 - Normandie
 
 capital = "Constantia"
 culture = armorican

@@ -1,3 +1,5 @@
+#Nawu
+
 culture = aboriginal
 religion = animism
 capital = "Nawu"

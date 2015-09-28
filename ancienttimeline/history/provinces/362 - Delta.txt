@@ -1,4 +1,4 @@
-#362 - Delta
+#362 - Rosetta
 
 owner = EGY
 controller = EGY

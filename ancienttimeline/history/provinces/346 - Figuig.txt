@@ -1,4 +1,4 @@
-#346 - Figuig
+#346 - Tafilalt
 
 culture = berber
 religion = african

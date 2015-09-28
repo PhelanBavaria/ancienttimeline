@@ -1,4 +1,4 @@
-#Kudymkar
+#1962 - Kudymkar
 
 capital = "Kudymkar"
 culture = uralic

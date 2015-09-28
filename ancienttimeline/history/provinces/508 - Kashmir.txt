@@ -1,4 +1,4 @@
-#508 - Kashmir
+#508 - Baltistan
 
 owner = KSH
 controller = KSH

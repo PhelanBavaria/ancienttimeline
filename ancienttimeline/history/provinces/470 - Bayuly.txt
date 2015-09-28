@@ -1,4 +1,4 @@
-#470 - Baybaktu
+#470 - Thyssagetae
 
 culture = saka
 religion = scythian_religion

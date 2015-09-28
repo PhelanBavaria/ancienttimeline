@@ -1,4 +1,4 @@
-#1128 - Taodeni
+#1128 - Taudeni
 
 culture = tuareg
 religion = african

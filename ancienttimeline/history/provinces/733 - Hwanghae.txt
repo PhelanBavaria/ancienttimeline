@@ -1,4 +1,4 @@
-#733 - Pyeongan
+#733 - South Gojoseon
 
 owner = GOJ
 controller = GOJ

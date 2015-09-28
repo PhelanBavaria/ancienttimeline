@@ -1,4 +1,4 @@
-#737 - Jeolla
+#2516 - Jeju
 
 culture = korean
 religion = muism

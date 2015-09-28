@@ -1,4 +1,4 @@
-#769 - Santana
+#769 - Curitiba
 
 culture = guarani
 religion = south_american

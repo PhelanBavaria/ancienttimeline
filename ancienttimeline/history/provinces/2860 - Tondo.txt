@@ -1,4 +1,4 @@
-#656 - Manila
+#2860 - Tondo
 
 culture = filipino
 religion = animism

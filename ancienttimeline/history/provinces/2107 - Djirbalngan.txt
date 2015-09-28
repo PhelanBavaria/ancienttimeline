@@ -1,3 +1,5 @@
+#Djirbalngar
+
 culture = aboriginal
 religion = animism
 capital = "Djirbalngan"

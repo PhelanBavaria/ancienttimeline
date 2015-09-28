@@ -1,4 +1,4 @@
-#104 - Lombardia
+#3124 - Novara
 
 culture = gallian
 religion = druidism

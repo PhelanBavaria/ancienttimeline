@@ -1,4 +1,4 @@
-#2412 - Karia
+#2412 - Karta
 
 culture = javanese
 religion = vedism

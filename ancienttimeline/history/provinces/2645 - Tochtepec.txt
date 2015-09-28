@@ -1,4 +1,4 @@
-#848 - Tohancapan
+#2645 - Tochtepec
 
 culture = zapotek
 owner = ZAP

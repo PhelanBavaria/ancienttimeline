@@ -1,4 +1,4 @@
-#2290 - Rushehr
+#2290 - Bushehr
 
 owner = ACA
 controller = ACA

@@ -1,4 +1,4 @@
-#570 - Naga
+#3093 - Mizoram
 
 culture = chin
 religion = animism

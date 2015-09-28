@@ -1,4 +1,4 @@
-#813 - Cajamarca
+#2722 - Chachapoyas
 
 culture = chachapoyan
 religion = inti

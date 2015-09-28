@@ -1,4 +1,4 @@
-#841 - Guatemala
+#841 - Xelajú
 
 owner = KIC 
 controller = KIC

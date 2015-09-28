@@ -1,4 +1,4 @@
-#747 - Tucujulandia
+#747 - Amapa
 
 culture = guajiro
 religion = south_american

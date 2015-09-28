@@ -1,4 +1,4 @@
-#619 - Minangkabau
+#619 - Pagarruyung
 
 culture = sumatran
 religion = mahayana

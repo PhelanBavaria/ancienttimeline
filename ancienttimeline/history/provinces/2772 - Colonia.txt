@@ -1,4 +1,4 @@
-#773 - Banda Oriental
+#2772 - Colonia
 
 culture = charruan
 religion = south_american

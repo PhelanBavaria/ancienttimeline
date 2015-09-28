@@ -1,4 +1,4 @@
-#2003 - Djibouti
+#2003 - Tajura
 
 culture = somali #afar
 religion = south_arabian

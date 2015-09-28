@@ -1,4 +1,4 @@
-#2289 - Sarvestan
+#2289 - Shiraz
 
 owner = ACA
 controller = ACA

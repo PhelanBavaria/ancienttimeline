@@ -1,4 +1,4 @@
-#553 - Cuttack
+#553 - Garjat
 
 owner = KAL
 controller = KAL

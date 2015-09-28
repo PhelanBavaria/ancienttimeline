@@ -1,4 +1,4 @@
-#708 - Gansu
+#2461 - Xining
 
 owner = XIR
 controller = XIR

@@ -1,4 +1,4 @@
-#1245 - Irian
+#1245 - Manokwari
 
 culture = papuan
 religion = animism

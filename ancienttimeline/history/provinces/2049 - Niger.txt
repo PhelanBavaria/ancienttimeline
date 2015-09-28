@@ -1,3 +1,5 @@
+#Tenere
+
 culture = tuareg
 religion = african
 capital = "Bilma"

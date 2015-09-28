@@ -1,4 +1,4 @@
-#1205 - Mogadishu
+#2701 - Warsheikh
 
 culture = somali
 religion = african

@@ -1,4 +1,4 @@
-#615 - Luang Prabang
+#2379 - Luang Namtha
 
 culture = lao
 religion = mahayana

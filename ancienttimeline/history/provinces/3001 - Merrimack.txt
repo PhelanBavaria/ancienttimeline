@@ -1,4 +1,4 @@
-#970 - Pennacook
+#3001 - Merrimack
 
 culture = abenaki
 religion = totemism

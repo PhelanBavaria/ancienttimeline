@@ -1,4 +1,4 @@
-#1056 - Barguzinsky
+#1056 - Barguzin
 
 culture = buryat
 religion = tengri_pagan_reformed

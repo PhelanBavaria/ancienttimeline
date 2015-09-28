@@ -1,4 +1,4 @@
-#1125 - Worodugu
+#2318 - Bagoe
 
 culture = dyola
 religion = african

@@ -1,4 +1,4 @@
-# 202 Avignon - Principal cities: Avignon
+#202 - Avignon
 
 capital = "Avenio"
 culture = gallian

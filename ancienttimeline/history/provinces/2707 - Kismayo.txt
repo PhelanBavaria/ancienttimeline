@@ -1,4 +1,4 @@
-#1204 - Lamu
+#2707 - Kismayo
 
 culture = somali
 religion = african

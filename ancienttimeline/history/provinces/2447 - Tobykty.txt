@@ -1,4 +1,4 @@
-#477 - Nadym
+#2447 - Tobykty
 
 culture = turkish
 religion = tengri_pagan_reformed

@@ -1,4 +1,4 @@
-# 203 Lyonnais - Principal cities: Lyon
+#203 - Lyonnais
 
 capital = "Vienna"
 culture = gallian

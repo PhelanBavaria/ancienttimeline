@@ -1,4 +1,4 @@
-#664 - Guangxi
+#664 - Liuzhou
 
 owner = ZHN
 controller = ZHN

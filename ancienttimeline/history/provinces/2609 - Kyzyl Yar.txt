@@ -1,4 +1,4 @@
-#1974 - Yedishkul
+#2609 - West Amazonia
 
 owner = SCY
 controller = SCY

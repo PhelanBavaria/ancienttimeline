@@ -1,4 +1,4 @@
-# 193 Franche-Comté - Principal cities: Besançon
+#193 - Franche-ComtÃ©
 
 capital = "Vesontio"
 culture = gallian

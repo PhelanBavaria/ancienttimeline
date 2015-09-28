@@ -1,4 +1,4 @@
-#572 - Jaffna
+#2217 - Kandy
 
 culture = sinhala
 religion = buddhism

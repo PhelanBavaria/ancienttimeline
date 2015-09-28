@@ -1,4 +1,4 @@
-#1064 - Tomsk
+#2902 - Chulym
 
 culture = tungus
 religion = shamanism

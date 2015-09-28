@@ -1,4 +1,4 @@
-#Bergenshus, incl. Bergen, 
+#3088 - Sogn
 
 culture = norwegian
 religion = norse_pagan_reformed

@@ -1,4 +1,4 @@
-#1155 - Kano
+#2343 - Rano
 
 culture = hausa
 base_manpower = 2

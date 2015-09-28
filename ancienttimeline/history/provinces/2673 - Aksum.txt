@@ -1,4 +1,4 @@
-#1226 - Taka
+#2673 - Aksum
 
 citysize = 1000
 culture = tigray 

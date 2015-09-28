@@ -1,4 +1,4 @@
-#63 - Erfurt
+#63 - Thüringen
 
 culture = hessian
 religion = germanic

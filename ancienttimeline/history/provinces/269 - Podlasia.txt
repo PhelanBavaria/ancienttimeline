@@ -1,4 +1,4 @@
-#269 - Podlasia
+#269 - Podlasie
 
 culture = polish
 religion = romuva

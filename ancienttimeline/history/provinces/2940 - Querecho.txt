@@ -1,4 +1,4 @@
-#886 - Waco
+#2940 - Querecho
 
 culture = navajo
 religion = totemism

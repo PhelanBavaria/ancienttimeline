@@ -1,4 +1,4 @@
-#916 - Kaskaskia
+#2952 - Kilatika
 
 culture = illini
 religion = totemism

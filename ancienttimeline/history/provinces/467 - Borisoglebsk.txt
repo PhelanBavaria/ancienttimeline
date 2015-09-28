@@ -1,4 +1,4 @@
-#467 - Bogutjar
+#467 - Central Silys
 
 culture = sarmatian
 religion = scythian_religion

@@ -1,4 +1,4 @@
-#721 - Dornod
+#721 - Setsen
 
 culture = xiongnu
 religion = tengri_pagan_reformed

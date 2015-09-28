@@ -1,4 +1,4 @@
-# 182 Vermandois - Principal cities: Compiègne
+#182 - Vermandois
 
 capital = "Noviomagus Veromanduorum"
 culture = gallian

@@ -1,4 +1,4 @@
-#1758 - Hannover
+#3106 - Hoya
 
 culture = saxon
 religion = germanic

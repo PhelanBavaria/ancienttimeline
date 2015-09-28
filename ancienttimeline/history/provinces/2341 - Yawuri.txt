@@ -1,4 +1,4 @@
-#1145 - Nupe
+#2341 - Yawuri
 
 culture = hausa 
 religion = african

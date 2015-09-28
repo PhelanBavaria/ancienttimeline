@@ -1,4 +1,4 @@
-#990 - Kwedech
+#990 - Maisouna
 
 culture = huron
 religion = totemism

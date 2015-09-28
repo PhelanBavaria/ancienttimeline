@@ -1,4 +1,4 @@
-#588 - Mongnai
+#2372 - Mong Pai
 
 culture = karen
 religion = animism

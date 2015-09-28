@@ -1,4 +1,4 @@
-#844 - Zapotec
+#2644 - Mixe
 
 owner = ZAP
 controller = ZAP

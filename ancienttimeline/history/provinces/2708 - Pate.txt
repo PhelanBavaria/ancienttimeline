@@ -1,4 +1,4 @@
-#1204 - Lamu
+#2708 - Pate
 
 culture = swahili
 religion = african

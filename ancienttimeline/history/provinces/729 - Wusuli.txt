@@ -1,4 +1,4 @@
-#729 - Wusuli
+#729 - Bohori
 
 culture = manchu
 religion = shamanism

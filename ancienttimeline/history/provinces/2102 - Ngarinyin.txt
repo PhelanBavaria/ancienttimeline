@@ -1,3 +1,5 @@
+#Ngarinyin
+
 culture = aboriginal
 religion = animism
 capital = "Ngarinyin"

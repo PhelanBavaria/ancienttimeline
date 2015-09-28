@@ -1,4 +1,4 @@
-#797 - Caracara
+#2736 - Sucre
 
 culture = aimara
 religion = inti

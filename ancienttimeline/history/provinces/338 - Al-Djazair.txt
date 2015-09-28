@@ -1,4 +1,4 @@
-#338 - Al-Djazair
+#338 - Mitidia
  
 culture = berber
 religion = african

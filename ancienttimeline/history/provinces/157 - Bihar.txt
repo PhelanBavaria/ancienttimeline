@@ -1,4 +1,4 @@
-#157 - Partium
+#157 - Bihar
 
 culture = dacian
 religion = zamolxism

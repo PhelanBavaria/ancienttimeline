@@ -1,3 +1,5 @@
+#Kuccuntikka
+
 culture = navajo
 religion = totemism
 capital = "Wyoming"

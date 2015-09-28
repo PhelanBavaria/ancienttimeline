@@ -1,4 +1,4 @@
-#1180 - Transkei
+#1180 - Xhosa
 
 culture = bantu #Thembu
 religion = african

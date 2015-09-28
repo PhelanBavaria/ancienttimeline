@@ -1,4 +1,4 @@
-#455 - Kyrzyl-Kum
+#455 - Kyzylkum
 
 culture = saka
 religion = scythian_religion

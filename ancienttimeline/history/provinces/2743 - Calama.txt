@@ -1,4 +1,4 @@
-#793 - Atacama
+#2743 - Calama
 
 culture = diaguita
 religion = inti

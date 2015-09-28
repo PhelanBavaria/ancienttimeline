@@ -1,4 +1,4 @@
-#42 - Warmia
+#3099 - Ortelsburg
 
 capital  = "Ortelsburg"
 culture = old_prussian

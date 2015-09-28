@@ -1,4 +1,4 @@
-#1823 - Iwami
+#2390 - Kratie
 
 culture = khmer
 religion = animism

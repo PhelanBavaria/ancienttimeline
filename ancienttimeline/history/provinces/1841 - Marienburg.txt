@@ -1,4 +1,4 @@
-#1841 - Izu
+#1841 - Marienburg
 
 capital  = "Marienburg"
 culture = gothic

@@ -1,4 +1,4 @@
-#1842 - Kazusa
+#1842 - Narva
 
 culture = estonian
 religion = suomenusko

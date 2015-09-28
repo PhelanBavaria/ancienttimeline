@@ -1,4 +1,4 @@
-#1970 - Syghnak
+#1970 - Apa Saka
 
 culture = saka
 religion = scythian_religion

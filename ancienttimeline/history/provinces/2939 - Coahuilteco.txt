@@ -1,4 +1,4 @@
-#884 - Karankawa
+#2939 - Coahuilteco
 
 culture = chichimecan
 religion = totemism

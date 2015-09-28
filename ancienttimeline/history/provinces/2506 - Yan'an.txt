@@ -1,4 +1,4 @@
-#700 - Shaanxi
+#2506 - Yan'an
 
 owner = HND
 controller = HND

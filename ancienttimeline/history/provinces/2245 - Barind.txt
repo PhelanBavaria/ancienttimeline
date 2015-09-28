@@ -1,4 +1,4 @@
-#2245 - Barind
+#2245 - Pundranagara
 
 owner = GNG
 controller = GNG

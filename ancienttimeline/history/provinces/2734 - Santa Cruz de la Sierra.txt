@@ -1,4 +1,4 @@
-#801 - Caranga
+#2734 - Santa Cruz de la Sierra
 
 culture = guarani
 religion = south_american

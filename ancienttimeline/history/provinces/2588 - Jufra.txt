@@ -1,3 +1,5 @@
+#Jufra
+
 citysize = 5000
 culture = tuareg
 religion = african

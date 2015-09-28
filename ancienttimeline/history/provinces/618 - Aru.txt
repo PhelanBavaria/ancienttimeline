@@ -1,4 +1,4 @@
-#618 - Aru
+#618 - Deli
 
 culture = sumatran
 religion = mahayana

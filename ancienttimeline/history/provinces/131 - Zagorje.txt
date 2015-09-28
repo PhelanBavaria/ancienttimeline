@@ -1,4 +1,4 @@
-#131 - Croatia
+#131 - Zagreb
 
 culture = illyrian
 religion = animism

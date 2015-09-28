@@ -1,4 +1,4 @@
-#387 - Mocha
+#387 - Mokha
 
 culture = yemeni_culture
 religion = south_arabian

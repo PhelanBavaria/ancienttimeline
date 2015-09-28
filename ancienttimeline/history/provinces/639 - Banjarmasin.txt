@@ -1,4 +1,4 @@
-#639 - Banjarmasin
+#639 - Banjar
 
 culture = bornean
 religion = vedism

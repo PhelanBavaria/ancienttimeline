@@ -1,4 +1,4 @@
-#665 - Jiangmen
+#665 - Shiuhing
 
 owner = ZHN
 controller = ZHN

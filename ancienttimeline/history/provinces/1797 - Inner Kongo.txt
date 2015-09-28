@@ -1,3 +1,5 @@
+#Inner Kongo
+
 culture = mongo
 religion = african
 capital = "Mbandaka"

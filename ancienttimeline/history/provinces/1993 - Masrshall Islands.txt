@@ -1,4 +1,4 @@
-#1993 - Marshal Islands
+#1993 - Marshall Islands
 
 culture = polynesian
 religion = animism

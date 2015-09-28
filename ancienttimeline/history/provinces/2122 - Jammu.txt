@@ -1,4 +1,4 @@
-#2122 - Jammu
+#2122 - Kashmir
 
 owner = KSH
 controller = KSH

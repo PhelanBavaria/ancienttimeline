@@ -1,4 +1,4 @@
-#394 - Al Hasa
+#394 - Hofuf
 
 owner = DIL
 controller = DIL

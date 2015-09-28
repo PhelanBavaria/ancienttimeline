@@ -1,4 +1,4 @@
-# 1878 Aachen
+#1878 - Aachen
 
 culture = belgae
 religion = druidism

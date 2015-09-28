@@ -1,4 +1,4 @@
-# 97 Holland - Principal cities: Amsterdam, Haarlem & Den Haag
+#97 - Holland
 
 capital = "Aemstelredamme"
 culture = belgic

@@ -1,4 +1,4 @@
-#619 - Minangkabau
+#2402 - Batak
 
 culture = sumatran
 religion = mahayana

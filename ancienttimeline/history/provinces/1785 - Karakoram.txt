@@ -1,4 +1,4 @@
-#1785 - Karakoram
+#1785 - Pamir
 
 culture = uyghur
 religion = mahayana

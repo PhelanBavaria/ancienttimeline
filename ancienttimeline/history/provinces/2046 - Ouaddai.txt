@@ -1,3 +1,5 @@
+#Wadai
+
 culture = nubian 
 religion = african
 capital = "Ouara"

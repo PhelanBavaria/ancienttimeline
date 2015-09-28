@@ -1,4 +1,4 @@
-#Savolaks, incl. Nyslott(Olofsborg).
+#31 - Savolax
 
 culture = finnish
 religion = suomenusko

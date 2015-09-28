@@ -1,4 +1,4 @@
-#880 - Pueblo
+#2935 - Jicarilla
 
 culture = navajo
 religion = totemism

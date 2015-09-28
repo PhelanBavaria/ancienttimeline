@@ -1,4 +1,4 @@
-#495 - St. Kitts	
+#495 - St. Kitts
 
 culture = arawak
 religion = animism

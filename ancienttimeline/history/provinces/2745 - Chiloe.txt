@@ -1,4 +1,4 @@
-#784 - Huillimapu
+#2745 - Chiloe
 
 culture = mapuche
 religion = south_american

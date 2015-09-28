@@ -1,4 +1,4 @@
-#1170 - Kongo
+#1170 - Mbwila
 
 culture = kongolese
 religion = shamanism

@@ -1,4 +1,4 @@
-#224 - Andalucía
+#224 - Sevilla
 
 culture = turdetanian
 religion = animism

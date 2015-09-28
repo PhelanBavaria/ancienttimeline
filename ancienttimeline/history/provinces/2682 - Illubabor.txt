@@ -1,4 +1,4 @@
-#1218 - Kefa
+#2682 - Illubabor
 
 culture = sidamo
 religion = african

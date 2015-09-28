@@ -1,3 +1,5 @@
+#Ngamiland
+
 culture = san
 religion = african
 capital = "Ngamiland"

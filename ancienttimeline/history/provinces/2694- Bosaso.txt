@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2694 - Bosaso
 
 culture = somali
 religion = african

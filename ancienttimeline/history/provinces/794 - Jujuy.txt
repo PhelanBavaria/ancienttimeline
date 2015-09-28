@@ -1,4 +1,4 @@
-#794 - Jujuy
+#794 - Salta
 
 owner = CCQ
 controller = CCQ

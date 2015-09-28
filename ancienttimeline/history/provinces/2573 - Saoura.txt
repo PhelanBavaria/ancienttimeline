@@ -1,4 +1,4 @@
-#1127 - Tuat
+#2573 - Saoura
 
 citysize = 5000
 culture = tuareg

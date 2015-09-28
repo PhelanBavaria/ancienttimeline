@@ -1,3 +1,5 @@
+#Kokowarra
+
 culture = aboriginal
 religion = animism
 capital = "Kokowarra"

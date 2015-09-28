@@ -1,4 +1,4 @@
-#50 - Brandenburg
+#3122 - Uckermark
 
 culture = langobardi
 religion = germanic

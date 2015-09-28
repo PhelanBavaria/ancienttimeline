@@ -1,4 +1,4 @@
-#791 - Catamarca
+#2763 - La Rioja
 
 culture = huarpe
 religion = south_american

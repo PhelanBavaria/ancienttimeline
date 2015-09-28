@@ -1,4 +1,4 @@
-#1784 - Tiam Shan
+#1784 - Tian Shan
 
 culture = kirgiz
 religion = tengri_pagan_reformed

@@ -1,4 +1,4 @@
-#475 - Ufa
+#2841 - Bashgird
 
 culture = bashkir
 religion = tengri_pagan_reformed

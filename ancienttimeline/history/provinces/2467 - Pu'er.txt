@@ -1,4 +1,4 @@
-#660 - Xishuan Banna
+#2467 - Pu'er
 
 culture = bai
 religion = animism

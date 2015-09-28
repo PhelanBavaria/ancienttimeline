@@ -1,4 +1,4 @@
-#542 - Telingana
+#2224 - Yerragudi
 
 owner = ADH
 controller = ADH

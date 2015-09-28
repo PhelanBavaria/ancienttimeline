@@ -1,4 +1,4 @@
-#Soria
+#3136 - Rioja
 
 culture = celtiberian
 religion = druidism

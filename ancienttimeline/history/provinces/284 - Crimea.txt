@@ -1,4 +1,4 @@
-#284 - Crimea
+#284 - Taurica
 
 owner = SCY
 controller = SCY

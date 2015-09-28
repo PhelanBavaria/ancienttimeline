@@ -1,4 +1,4 @@
-# - Meghalaya
+#1950 - Meghalaya
 
 culture = assamese
 religion = mahayana

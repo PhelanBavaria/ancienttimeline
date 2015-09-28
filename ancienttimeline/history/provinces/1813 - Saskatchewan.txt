@@ -1,4 +1,4 @@
-#1813 - Keewatin
+#1813 - Kesyehotinne
 
 culture = cree
 religion = totemism

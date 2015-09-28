@@ -1,4 +1,4 @@
-#1219 - Kordofan
+#1219 - Medwa
 
 culture = nubian 
 religion = african

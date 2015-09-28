@@ -1,4 +1,4 @@
-#260 - Galicien
+#260 - Lublin
 
 capital= "Lublin"
 culture = polish

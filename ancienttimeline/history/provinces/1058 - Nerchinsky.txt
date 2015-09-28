@@ -1,4 +1,4 @@
-#1058 - Nerchinsky
+#1058 - Onan Gol
 
 culture = mongol
 religion = tengri_pagan_reformed

@@ -1,4 +1,4 @@
-#Bratslav/East Podolia
+#1943 - Hypanis
 
 owner = SCY
 controller = SCY

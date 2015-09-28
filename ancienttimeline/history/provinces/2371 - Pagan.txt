@@ -1,4 +1,4 @@
-#584 - Kyuakse
+#2371 - Pagan
 
 culture = burmese
 religion = mahayana

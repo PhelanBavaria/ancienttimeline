@@ -1,4 +1,4 @@
-#1116 - Wolof
+#2311 - Siine
 
 culture = senegambian
 base_manpower = 2

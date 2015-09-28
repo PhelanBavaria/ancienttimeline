@@ -1,4 +1,4 @@
-#736 - Gyeongsang
+#736 - Jinhan
 
 owner = JIN
 controller = JIN

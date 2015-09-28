@@ -1,4 +1,4 @@
-#919 - Chickasaw
+#2959 - Yazoo
 
 culture = chickasaw
 religion = totemism

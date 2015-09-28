@@ -1,4 +1,4 @@
-#1054 - Ilimsk
+#1054 - Mukhtuya
 
 culture = tungus
 religion = shamanism

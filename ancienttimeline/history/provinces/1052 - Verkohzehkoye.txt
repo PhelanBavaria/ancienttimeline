@@ -1,4 +1,4 @@
-#1052 - Verkohzehkoye
+#1052 - Stanovoy
 
 culture = yakut
 religion = shamanism

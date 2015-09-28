@@ -1,4 +1,4 @@
-#653 - Tagoloan
+#653 - Lanao
 
 culture = filipino
 religion = animism

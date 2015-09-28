@@ -1,4 +1,4 @@
-#1212 - Zeila
+#2690 - Hargeisa
 
 culture = somali # issa
 religion = african

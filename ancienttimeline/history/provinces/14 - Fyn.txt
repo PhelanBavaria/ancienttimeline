@@ -1,4 +1,4 @@
-#Fyn-Langeland
+#14 - Fyn
 
 culture = danish
 religion = norse_pagan_reformed

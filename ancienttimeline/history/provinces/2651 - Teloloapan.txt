@@ -1,4 +1,4 @@
-#849 - Tlapanec
+#2651 - Teloloapan
 
 culture = tlapanec
 owner = TLA

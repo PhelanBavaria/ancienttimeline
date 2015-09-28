@@ -1,4 +1,4 @@
-#1000 - Cree
+#3031 - Cisapipi
 
 culture = cree
 religion = totemism

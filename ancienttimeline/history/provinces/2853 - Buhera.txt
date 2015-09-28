@@ -1,4 +1,4 @@
-#1184 - Zimbabwe
+#2853 - Buhera
 
 culture = shona
 religion = african

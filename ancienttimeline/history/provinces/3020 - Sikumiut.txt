@@ -1,4 +1,4 @@
-#997 - Labrador
+#3020 - Sikumiut
 
 culture = inuit
 religion = shamanism

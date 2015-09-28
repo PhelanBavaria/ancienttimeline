@@ -1,4 +1,4 @@
-#537 - Tiruchchirapalli 
+#537 - South Kerala
 
 owner = AYX
 controller = AYX

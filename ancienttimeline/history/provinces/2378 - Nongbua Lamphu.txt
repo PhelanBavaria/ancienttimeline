@@ -1,4 +1,4 @@
-#612 - Khorat
+#2378 - Nongbua Lamphu
 
 culture = lao
 religion = animism

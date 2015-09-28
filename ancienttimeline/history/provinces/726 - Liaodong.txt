@@ -1,4 +1,4 @@
-#726 - Liaodong
+#726 - Central Wuhuan
 
 owner = HND
 controller = HND

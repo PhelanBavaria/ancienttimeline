@@ -1,4 +1,4 @@
-#820 - Quito
+#2718 - Esmeraldas
 
 culture = cara
 religion = inti

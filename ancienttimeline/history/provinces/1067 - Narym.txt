@@ -1,4 +1,4 @@
-#1067 - Narym
+#1067 - Turukhan
 
 culture = samoyed
 religion = shamanism

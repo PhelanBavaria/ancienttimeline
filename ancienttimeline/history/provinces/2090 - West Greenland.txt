@@ -1,3 +1,5 @@
+#West Greenland
+
 culture = inuit
 religion = shamanism
 capital = "West Greenland"

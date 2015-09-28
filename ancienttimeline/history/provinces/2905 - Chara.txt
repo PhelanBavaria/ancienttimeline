@@ -1,4 +1,4 @@
-#1056 - Barguzinsky
+#2905 - Chara
 
 culture = buryat
 religion = tengri_pagan_reformed

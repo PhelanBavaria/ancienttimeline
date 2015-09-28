@@ -1,4 +1,4 @@
-#541 - Kondavidu
+#541 - Mozhipeyar Desam
 
 owner = KSK
 controller = KSK

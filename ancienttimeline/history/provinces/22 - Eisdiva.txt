@@ -1,4 +1,4 @@
-#Oplandene, incl. Hamar, Lillehammer
+#22 - Eidsiva
 
 culture = norwegian
 religion = norse_pagan_reformed

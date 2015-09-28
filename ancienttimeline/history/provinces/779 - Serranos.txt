@@ -1,4 +1,4 @@
-#779 - Serranos
+#779 - Tandil
 
 culture = het
 religion = south_american

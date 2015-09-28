@@ -1,4 +1,4 @@
-#842 - Petén
+#842 - PetÃ©n
 
 owner = TIK
 controller = TIK

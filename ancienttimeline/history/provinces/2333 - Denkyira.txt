@@ -1,4 +1,4 @@
-#1139 - Gold Coast
+#2333 - Denkyira
 
 culture = aka
 religion = african

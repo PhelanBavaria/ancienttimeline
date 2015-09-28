@@ -1,4 +1,4 @@
-#509 - Kashmir
+#509 - Kangra
 
 owner = KSH
 controller = KSH

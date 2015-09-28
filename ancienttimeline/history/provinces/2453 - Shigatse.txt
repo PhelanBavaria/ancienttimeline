@@ -1,4 +1,4 @@
-#676 - U-Tsang
+#2453 - Shigatse
 
 culture = tibetan
 religion = tibetan_bon

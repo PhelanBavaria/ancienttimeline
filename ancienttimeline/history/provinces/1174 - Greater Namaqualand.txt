@@ -1,4 +1,4 @@
-#1174 - Greater Namaqualand
+#1174 - Namib
 
 culture = khoi
 religion = african

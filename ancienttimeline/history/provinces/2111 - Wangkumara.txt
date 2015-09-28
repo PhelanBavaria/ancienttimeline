@@ -1,3 +1,5 @@
+#Wangkumara
+
 culture = aboriginal
 religion = animism
 capital = "Wangkumara"

@@ -1,4 +1,4 @@
-#969 - Pocumtuk
+#2999 - Missisquoi
 
 culture = abenaki
 religion = totemism

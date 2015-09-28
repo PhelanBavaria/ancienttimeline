@@ -1,4 +1,4 @@
-#350 - Aures
+#350 - Laghouat
 
 citysize = 5000
 culture = berber

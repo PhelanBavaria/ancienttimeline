@@ -1,4 +1,4 @@
-#771 - Patos
+#771 - Rio Grande do Sul
 
 culture = guarani
 religion = south_american

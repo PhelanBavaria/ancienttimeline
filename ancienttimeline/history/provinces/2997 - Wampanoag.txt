@@ -1,4 +1,4 @@
-#968 - Massachusetts
+#2997 - Wampanoag
 
 culture = pequot
 religion = totemism

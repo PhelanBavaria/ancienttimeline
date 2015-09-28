@@ -1,4 +1,4 @@
-#1954 - Torontál
+#1954 - Torontal
 
 culture = dacian
 religion = zamolxism

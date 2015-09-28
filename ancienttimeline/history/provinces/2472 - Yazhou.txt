@@ -1,4 +1,4 @@
-#666 - Hainan
+#2472 - Yazhou
 
 culture = zhuang
 religion = animism

@@ -1,4 +1,4 @@
-#1220 - Dar Ja'al
+#1220 - Bayuda
 
 culture = nubian 
 religion = african

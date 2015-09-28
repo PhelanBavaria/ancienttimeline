@@ -1,4 +1,4 @@
-#678 - Kham
+#2458 - Dege
 
 culture = tibetan
 religion = tibetan_bon

@@ -1,4 +1,4 @@
-# 174 Gascogne - Principal cities: Bordeaux
+#174 - Gascogne
 
 capital = "Burdigala"
 culture = aquitanian

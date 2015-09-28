@@ -1,4 +1,4 @@
-#1761 - Alzey
+#1761 - Pfalz
 
 capital = "Augusta Vangionum"
 culture = hessian

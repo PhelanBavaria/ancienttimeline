@@ -1,4 +1,4 @@
-#61 - Dresden
+#3118 - Chemnitz
 
 culture = hessian
 religion = germanic

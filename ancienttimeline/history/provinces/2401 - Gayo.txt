@@ -1,4 +1,4 @@
-#617 - Aceh
+#2401 - Gayo
 
 culture = sumatran
 religion = animism

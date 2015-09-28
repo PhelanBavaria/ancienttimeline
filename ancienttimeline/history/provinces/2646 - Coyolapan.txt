@@ -1,4 +1,4 @@
-#847 - Mixtec
+#2646 - Coyolapan
 
 culture = mixtec
 owner = MIX

@@ -1,4 +1,4 @@
-#303 - Saratow
+#303 - Saratov
     
 culture = bulgarian
 religion = tengri_pagan_reformed

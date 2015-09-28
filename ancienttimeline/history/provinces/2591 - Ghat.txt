@@ -1,3 +1,5 @@
+#Ghat
+
 culture = tuareg
 religion = african
 capital = "Ghat"

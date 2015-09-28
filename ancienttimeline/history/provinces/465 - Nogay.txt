@@ -1,4 +1,4 @@
-#465 - Bersh
+#465 - Lower Jajykon
 
 culture = saka
 religion = scythian_religion

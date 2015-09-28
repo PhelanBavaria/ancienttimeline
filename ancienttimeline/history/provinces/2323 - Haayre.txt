@@ -1,4 +1,4 @@
-#1135 - Yatenga
+#2323 - Haayre
 
 culture = bozo  
 religion = african

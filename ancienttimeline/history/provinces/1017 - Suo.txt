@@ -1,4 +1,4 @@
-#1017 - Nagato
+#1017 - Suo
 
 culture = japanese
 religion = animism

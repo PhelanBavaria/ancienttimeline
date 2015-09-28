@@ -1,4 +1,4 @@
-#699 - Lanzhou
+#2507 - Pingliang
 
 owner = HND
 controller = HND

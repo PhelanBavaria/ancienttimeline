@@ -1,4 +1,4 @@
-#1206 - Majerteen
+#2697 - Garoowe
 
 culture = somali
 religion = african

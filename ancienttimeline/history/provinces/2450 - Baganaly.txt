@@ -1,4 +1,4 @@
-#476 - Kypshak
+#2450 - Baganaly
 
 culture = turkish
 religion = tengri_pagan_reformed

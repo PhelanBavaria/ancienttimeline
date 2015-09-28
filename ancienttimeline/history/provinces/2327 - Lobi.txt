@@ -1,4 +1,4 @@
-#1124 - Wasuju
+#2327 - Lobi
 
 culture = dyola 
 base_manpower = 2

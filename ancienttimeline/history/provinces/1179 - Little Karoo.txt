@@ -1,4 +1,4 @@
-#1179 - Little Karoo
+#1179 - Swellendam
 
 culture = bantu
 religion = african

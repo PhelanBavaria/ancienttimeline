@@ -1,4 +1,4 @@
-#Blekinge
+#1982 - Blekinge
 
 culture = danish
 religion = norse_pagan_reformed

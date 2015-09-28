@@ -1,4 +1,4 @@
-# 88 Artois - Principal cities: Arras, Saint-Omer & Lille
+#88 - Artois
 
 capital = "Nematacum"
 culture = belgae

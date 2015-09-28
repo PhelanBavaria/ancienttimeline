@@ -1,4 +1,4 @@
-#657 - Samtoy
+#657 - Ilocos
 
 culture = filipino
 religion = animism

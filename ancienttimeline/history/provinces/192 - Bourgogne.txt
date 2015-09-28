@@ -1,4 +1,4 @@
-# 192 Bourgogne - Principal cities: Dijon
+#192 - Bourgogne
 
 capital = "Divio"
 culture = gallian

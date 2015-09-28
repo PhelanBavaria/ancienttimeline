@@ -1,4 +1,4 @@
-#719 - Sayin Noyan
+#719 - Uliastai
 
 culture = xiongnu
 religion = tengri_pagan_reformed

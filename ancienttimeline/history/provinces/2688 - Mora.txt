@@ -1,4 +1,4 @@
-#1211 - Harer
+#2688 - Mora
 
 religion = african
 culture = somali # Harerge

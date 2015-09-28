@@ -1,4 +1,4 @@
-#550 - Mahakoshal
+#550 - Mandla
 
 owner = DAS
 controller = DAS

@@ -1,4 +1,4 @@
-#1049 - Saghalian Oula
+#2562 - Kuru
 
 culture = manchu
 religion = shamanism

@@ -1,3 +1,5 @@
+#Wudjari
+
 culture = aboriginal
 religion = animism
 capital = "Wudjari"

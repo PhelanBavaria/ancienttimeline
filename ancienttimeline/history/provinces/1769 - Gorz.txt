@@ -1,4 +1,4 @@
-# 1769 - Görz
+#1769 - GÃ¶rz
 
 culture = venetian
 religion = animism

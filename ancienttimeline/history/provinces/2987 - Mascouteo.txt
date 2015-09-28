@@ -1,4 +1,4 @@
-#944 - Potawatomi
+#2987 - Mascouten
 
 culture = mesquakie
 religion = totemism

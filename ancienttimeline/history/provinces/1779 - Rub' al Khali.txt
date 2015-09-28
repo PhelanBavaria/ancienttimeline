@@ -1,4 +1,4 @@
-#1779 - Rub al Khali
+#1779 - Rub' al Khali
 
 culture = bedouin_arabic
 religion = south_arabian

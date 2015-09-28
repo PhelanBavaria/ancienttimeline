@@ -1,4 +1,4 @@
-#Närke
+#1985 - NÃ¤rke
 
 culture = swedish
 religion = norse_pagan_reformed

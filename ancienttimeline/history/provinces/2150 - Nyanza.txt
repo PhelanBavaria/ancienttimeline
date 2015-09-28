@@ -1,3 +1,5 @@
+#Nyanza
+
 culture = masai
 religion = african
 capital = "Kisumu"

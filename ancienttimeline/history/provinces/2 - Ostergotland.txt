@@ -1,4 +1,4 @@
-#Östergötland, contains Norrköping, Linköping etc.
+#2 - Ã–stergÃ¶tland
 
 culture = swedish
 religion = norse_pagan_reformed

@@ -1,4 +1,4 @@
-#679 - Sichuan Pendi
+#679 - Shu
 
 owner = SHU
 controller = SHU

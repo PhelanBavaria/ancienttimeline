@@ -1,4 +1,4 @@
-#930 - Yamasee
+#930 - Muskogee
 
 owner = CRE
 controller = CRE

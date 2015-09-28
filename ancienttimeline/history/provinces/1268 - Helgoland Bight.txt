@@ -1,2 +1,4 @@
+#Helgoland Bight
+
 discovered_by = gauls
 discovered_by = barbarian

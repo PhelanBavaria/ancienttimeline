@@ -1,4 +1,4 @@
-#2008 - Yankton
+#2133 - Lakota
 
 culture = pawnee #Old plains people
 religion = totemism

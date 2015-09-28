@@ -1,4 +1,4 @@
-#940 - Kentucky
+#2983 - Shatteras
 
 culture = shawnee
 religion = totemism

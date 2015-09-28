@@ -1,4 +1,4 @@
-#325 - Kastamon
+#325 - Kastamonu
 
 
 culture = pontic_greek

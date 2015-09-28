@@ -1,4 +1,4 @@
-#436 - Khurasan
+#436 - Mashhad
 
 owner = ROW
 controller = ROW

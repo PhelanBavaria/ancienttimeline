@@ -1,4 +1,4 @@
-#570 - Naga
+#2253 - Manipur
 
 culture = chin
 religion = animism

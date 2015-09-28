@@ -1,4 +1,4 @@
-#1065 - Kuznetsk
+#2898 - Altai
 
 culture = oirats
 religion = tengri_pagan_reformed

@@ -1,4 +1,4 @@
-#473 - Samara
+#2620 - Kanadey
 
 culture = bulgarian
 religion = tengri_pagan_reformed

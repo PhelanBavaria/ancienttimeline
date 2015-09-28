@@ -1,4 +1,4 @@
-#1115 - Brakna
+#2308 - Baghena
 
 culture = soninke
 capital = "Koumbi Saleh"

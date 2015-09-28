@@ -1,4 +1,4 @@
-#1867 - Freiburg
+#1867 - Vaud
 
 culture = helvetian
 religion = druidism

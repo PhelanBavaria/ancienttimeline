@@ -1,4 +1,4 @@
-#290 - Poltava
+#290 - Gelonia
 
 owner = SCY
 controller = SCY

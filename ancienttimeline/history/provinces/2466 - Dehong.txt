@@ -1,4 +1,4 @@
-#661 - Dali
+#2466 - Dehong
 
 culture = shan
 religion = animism

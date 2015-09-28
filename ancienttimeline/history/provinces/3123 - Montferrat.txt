@@ -1,4 +1,4 @@
-#103 - Piedmont
+#3123 - Asti
 
 culture = gallian
 religion = druidism

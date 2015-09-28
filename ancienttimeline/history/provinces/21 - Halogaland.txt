@@ -1,4 +1,4 @@
-#Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
+#21 - HÃ¥logaland
 
 culture = norwegian
 religion = norse_pagan_reformed

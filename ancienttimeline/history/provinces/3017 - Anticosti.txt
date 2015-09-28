@@ -1,4 +1,4 @@
-#996 - Innu
+#3017 - Anticosti
 
 culture = cree
 religion = totemism

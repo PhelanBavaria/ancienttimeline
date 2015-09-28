@@ -1,4 +1,4 @@
-#384 - Medina
+#384 - Yathrib
 
 culture = bedouin_arabic
 religion = nabataean

@@ -1,4 +1,4 @@
-#630 - Sunda
+#630 - Kalapa
 
 culture = javanese
 religion = vedism

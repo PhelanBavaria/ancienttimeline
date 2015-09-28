@@ -1,4 +1,4 @@
-#363 - Diamientia
+#363 - Damietta
 
 culture = al_misr_arabic
 religion = african

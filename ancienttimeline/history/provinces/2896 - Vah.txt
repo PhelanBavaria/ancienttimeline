@@ -1,4 +1,4 @@
-#480 - Kulunda
+#2896 - Vah
 
 culture = ostyaki
 religion = shamanism

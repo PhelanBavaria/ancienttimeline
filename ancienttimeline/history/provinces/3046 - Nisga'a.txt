@@ -1,4 +1,4 @@
-#975 - Tsimshian
+#3046 - Nisga'a
 
 culture = chinook 		#sub-branch of Tsimshian, suspected Penutian language
 religion = totemism

@@ -1,4 +1,4 @@
-# 66 - Bamberg
+#66 - Bamberg
 
 culture = hessian
 religion = germanic

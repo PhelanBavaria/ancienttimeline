@@ -1,4 +1,4 @@
-#872 - Kalapuya
+#2927 - Kalapuya
 
 culture = chinook
 religion = totemism

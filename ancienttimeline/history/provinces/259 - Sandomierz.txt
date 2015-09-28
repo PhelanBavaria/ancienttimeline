@@ -1,4 +1,4 @@
-#259 - Lublin
+#259 - Sandomierz
 
 capital = "Sandomierz"
 culture = burgundione

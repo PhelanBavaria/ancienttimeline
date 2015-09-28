@@ -1,4 +1,4 @@
-# 92 Brabant - Principal cities: Brussel & Mechelen
+#3103 - Loon
 
 capital = "Atuatuca Tungrorum"
 culture = belgae

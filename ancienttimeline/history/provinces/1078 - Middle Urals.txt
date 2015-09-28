@@ -1,4 +1,4 @@
-#1078 - Middle Urals
+#1078 - Tura
 
 capital = "Neromkar"
 culture = uralic

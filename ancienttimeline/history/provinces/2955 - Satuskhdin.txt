@@ -1,4 +1,4 @@
-#897 - Quapaw
+#2955 - Satuskhdin
 
 culture = osage
 religion = totemism

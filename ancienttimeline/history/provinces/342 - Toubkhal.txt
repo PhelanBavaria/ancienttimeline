@@ -1,4 +1,4 @@
-#342 - Toubkhal
+#342 - Dukkala
 
 culture = berber
 religion = african

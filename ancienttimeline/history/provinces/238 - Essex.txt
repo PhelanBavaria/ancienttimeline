@@ -1,4 +1,4 @@
-#238 - Essex (can't change file name)
+#238 - Essex
 
 culture = briton
 religion = druidism

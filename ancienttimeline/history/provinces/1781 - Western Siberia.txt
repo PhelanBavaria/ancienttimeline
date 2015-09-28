@@ -1,4 +1,4 @@
-#1781 - Western Siberia
+#1781 - Northwestern Siberia
 
 culture = yakut
 religion = shamanism

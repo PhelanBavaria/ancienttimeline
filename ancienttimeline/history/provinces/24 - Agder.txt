@@ -1,4 +1,4 @@
-#Agder, incl. Stavanger, Kristiansand
+#24 - Agder
 
 culture = norwegian
 religion = norse_pagan_reformed

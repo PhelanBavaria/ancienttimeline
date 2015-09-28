@@ -1,4 +1,4 @@
-#833 - Tunja
+#833 - Pore
 
 culture = carib
 religion = south_american

@@ -1,4 +1,4 @@
-#420 - Qarabagh
+#420 - Janza
 
 owner = CLB
 controller = CLB

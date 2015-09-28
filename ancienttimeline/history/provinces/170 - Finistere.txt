@@ -1,4 +1,4 @@
-# 170 Finistère - Principal cities: Brest
+#170 - FinistÃ¨re
 
 capital = "Gesocribate"
 culture = armorican

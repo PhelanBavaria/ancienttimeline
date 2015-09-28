@@ -1,4 +1,4 @@
-#885 - Comanche
+#885 - Teyas
 
 culture = navajo
 religion = totemism

@@ -1,4 +1,4 @@
-#604 - Udong
+#2392 - Battambang
 
 culture = khmer
 religion = mahayana

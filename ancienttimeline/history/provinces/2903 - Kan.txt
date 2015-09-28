@@ -1,4 +1,4 @@
-#1062 - Kachinsk
+#2903 - Kan
 
 culture = buryat
 religion = shamanism

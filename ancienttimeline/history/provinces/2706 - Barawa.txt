@@ -1,4 +1,4 @@
-#1204 - Lamu
+#2706 - Barawa
 
 culture = somali
 religion = african

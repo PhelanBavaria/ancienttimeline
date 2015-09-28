@@ -1,4 +1,4 @@
-#581 - Sagaing
+#2255 - Thaungdut
 
 culture = chin
 religion = animism

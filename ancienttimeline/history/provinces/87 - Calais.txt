@@ -1,4 +1,4 @@
-# 87 Calais - Principal cities: Calais
+#87 - Calais
 
 capital = "Gesoriacum"
 culture = belgae

@@ -1,4 +1,4 @@
-#480 - Kulunda
+#480 - Pegaya Orda
 
 culture = kirgiz
 religion = shamanism

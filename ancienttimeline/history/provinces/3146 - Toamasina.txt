@@ -1,4 +1,4 @@
-#1792 - Antananarivo
+#3146 - Toamasina
 
 culture = madagascan
 religion = animism

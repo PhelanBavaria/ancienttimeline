@@ -1,4 +1,4 @@
-#548 - Indravati
+#548 - Kundina
 
 owner = SAT
 controller = SAT

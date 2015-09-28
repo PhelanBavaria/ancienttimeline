@@ -1,4 +1,4 @@
-#1229 - Berber
+#2521 - Sahra an Nübyah
 
 culture = nubian 
 religion = egyptian

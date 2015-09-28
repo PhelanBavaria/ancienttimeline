@@ -1,4 +1,4 @@
-#433 - Dash-i-Lut
+#433 - Yazd
 
 owner = ROW
 controller = ROW

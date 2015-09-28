@@ -1,4 +1,4 @@
-#266 - Bohemia
+#266 - Praha
 
 capital = "Praha"
 culture = boian

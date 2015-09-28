@@ -1,4 +1,4 @@
-#908 - Minnesota
+#908 - Sisseton
 
 culture = dakota
 religion = totemism

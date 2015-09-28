@@ -1,3 +1,5 @@
+#Kalahari
+
 culture = san
 religion = african
 capital = "Kalahari"

@@ -1,4 +1,4 @@
-#2002 - Gal·pagos Islands
+#2002 - Gal√°pagos Islands
 
 culture = guajiro
 religion = animism

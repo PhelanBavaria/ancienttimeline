@@ -1,4 +1,4 @@
-#1049 - Saghalian Oula
+#1049 - Haiilanboo
 
 culture = manchu
 religion = shamanism

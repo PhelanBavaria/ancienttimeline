@@ -1,4 +1,4 @@
-# 71 - Leiningen
+#71 - Ansbach
 
 culture = boian
 religion = druidism

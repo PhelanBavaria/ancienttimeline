@@ -1,4 +1,4 @@
-#572 - Jaffna
+#572 - Kotte
 
 culture = sinhala
 religion = buddhism

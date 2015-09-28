@@ -1,4 +1,4 @@
-#1213 - Shoa
+#2685 - Ankober
 
 culture = amhara 
 religion = african

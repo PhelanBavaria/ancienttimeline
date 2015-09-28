@@ -1,4 +1,4 @@
-#584 - Kyuakse
+#584 - Ava
 
 culture = burmese
 religion = mahayana

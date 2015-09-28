@@ -1,4 +1,4 @@
-#1141 - Whydah
+#2338 - Ketu
 
 culture = yorumba
 religion = african

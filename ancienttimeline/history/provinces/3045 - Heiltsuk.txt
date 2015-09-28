@@ -1,4 +1,4 @@
-#973 - Squamish
+#3045 - Heiltsuk
 
 culture = salish
 religion = totemism

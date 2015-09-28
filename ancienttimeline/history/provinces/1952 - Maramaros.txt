@@ -1,4 +1,4 @@
-#1952 - Máramaros
+#1952 - Maramaros
 
 culture = gepid
 religion = germanic

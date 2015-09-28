@@ -1,4 +1,4 @@
-#Kholmogory
+#1955 - Kholmogory
  
 culture = karelian
 religion = suomenusko

@@ -1,4 +1,4 @@
-#1947 - Carnatic
+#1947 - Uraiyur
 
 owner = PAN
 controller = PAN

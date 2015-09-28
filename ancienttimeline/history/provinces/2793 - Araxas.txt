@@ -1,4 +1,4 @@
-#765 - Minas Gerais
+#2793 - Araxas
 
 culture = ge
 religion = south_american

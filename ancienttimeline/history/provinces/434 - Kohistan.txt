@@ -1,4 +1,4 @@
-#434 - Makran
+#434 - Western Makran
 
 owner = ROW
 controller = ROW

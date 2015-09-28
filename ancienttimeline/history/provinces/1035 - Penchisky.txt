@@ -1,4 +1,4 @@
-#1035 - Penchisky
+#1035 - Penzhina
 
 culture = kamchatkan
 religion = shamanism

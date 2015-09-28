@@ -1,4 +1,4 @@
-#728 - Sanxing
+#728 - Ilan Hala
 
 culture = manchu
 religion = shamanism

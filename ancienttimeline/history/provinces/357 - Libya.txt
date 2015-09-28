@@ -1,4 +1,4 @@
-#357 - Libya
+#357 - Tarrana
 
 culture = al_misr_arabic
 religion = african

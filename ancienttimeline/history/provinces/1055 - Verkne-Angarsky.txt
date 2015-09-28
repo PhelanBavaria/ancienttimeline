@@ -1,4 +1,4 @@
-#1055 - Verkne-Angarsky
+#1055 - Kirenga
 
 culture = buryat
 religion = tengri_pagan_reformed
