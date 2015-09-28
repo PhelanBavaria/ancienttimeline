@@ -5,7 +5,6 @@ religion = african
 technology_group = middle_eastern
 capital = 2055
 
-850.1.1 = { religion = sunni primary_culture = tunisian technology_group = muslim }
 
 1440.1.1 = {
 	monarch = {
