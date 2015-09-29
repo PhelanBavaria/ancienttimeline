@@ -13,4 +13,5 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = mediterranean
 
-4600.1.1 = { owner = MSY controller = MSY add_core = MSY citysize = 1000 }
+4600.1.1 = { owner = MES controller = MES add_core = MES citysize = 1000 }
+4798.1.1 = { owner = NMD controller = NMD add_core = NMD citysize = 1000 religion = african culture = berber }
