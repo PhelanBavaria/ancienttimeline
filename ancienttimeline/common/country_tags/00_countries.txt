@@ -291,6 +291,7 @@ STG	= "countries/Sattagydia.txt"
 SUM	= "countries/Sumeria.txt"
 THM	= "countries/Thamud.txt"
 UGA	= "countries/Ugarit.txt"
+UEG = "countries/UpperEgypt.txt"
 URK	= "countries/Urkesh.txt"
 YMH	= "countries/Yamhad.txt"
 		
