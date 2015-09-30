@@ -28,6 +28,7 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+3450.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 3900.1.1 = { owner = EDO controller = EDO add_core = EDO citysize = 3000 trade_goods = wool }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA remove_core = EDO }
 4668.8.17 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA capital = "Petra" }

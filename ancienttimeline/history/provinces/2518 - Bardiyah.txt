@@ -16,6 +16,7 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = mediterranean
 
+3450.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
