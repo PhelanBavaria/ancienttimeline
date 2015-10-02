@@ -1459,41 +1459,6 @@ iranian	= {
 			"Marwarrudhid" "Azdid" "Sijistani" "Ghurid" "Baduspanid" "Karen"
 		}
 	}
-	alan = {
-		male_names = {
-			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
-			Burikhan Candak Chelakhsartag Davit Djadaron Durgulel Dzæræs Gætæg Georgy Girgon Gokhar Gubaz Guram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
-			Khankhusy Khætag Konstantin Kubal Kuddana Kul Kuluk Lak Levan Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
-		}
-		female_names = {
-			Adadza Alda Altun Ana Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene Eliso Gergana Gulchara Guranduht Kera Keratsa Ketevan Koser
-			Lamara Lashin Lela Mariami Natia Nino Rusudan Sanatha Satinik Shatana Shorena Shukhia Tamari Tinatini Tsiala Vardo Vedokha Yeran
-		}
-	}
-	sarmatian = {
-		male_names = {
-			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
-			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
-			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
-			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
-			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
-		}
-		female_names = {
-			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
-		}
-	}
-	scythian = {
-		male_names = {
-			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
-			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
-			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
-			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
-			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
-		}
-		female_names = {
-			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
-		}
-	}
 	median = {
 		male_names = { 
 			Abbas Abolhassan Afshar Afshar Ahmad Ahmad Akbar Akbar Allahyar Amin Anushirvan Anushirvan 
@@ -1599,18 +1564,6 @@ iranian	= {
 			"Sassanid" "Mihran" "Habbari" "Hunas" "Barmakid" "Afrighid" "Neisany" "of Uq" "Marwazid" 
 			"Muqannid" "Surena" "of Lad" "of Persepolis" "of Aligoodarz" "Khurramid" "Rawandi" "Ishaqid" 
 			"Marwarrudhid" "Azdid" "Sijistani" "Ghurid" "Baduspanid" "Karen"
-		}
-	}
-	saka = {
-		male_names = {
-			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
-			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
-			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
-			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
-			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
-		}
-		female_names = {
-			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
 		}
 	}
 	sogdian = {
@@ -1719,196 +1672,53 @@ iranian	= {
 	}
 }
 
-altaic = {
-	graphical_culture = muslimgfx
-
-	turkish = {
-		dynasty_names = {
-			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
-			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
-			"Artukoglu" "Mutahhartenoglu" "Tekeoglu" "Hamidoglu" "Tacettinoglu"
-			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
-		}
+scythian_group = {
+	alan = {
 		male_names = {
-			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut Süleyman Bayezid Orhan Abdulaziz Abdülhamit Ibrahim 
-			Abdülmecit Abdullah Cem Cihangir Alaattin Isa Musa Ömer Seyfettin Yakup Yusuf Giyasettin Numan 
-			Ali Davut Hasan Hüseyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
-			Nizamettin Sinan Ferhat Salih Ismail Cüneyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
-			Dursun Ramazan Recep Abdulrahman Hayrettin
-			Çagri Çaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz 
-			Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
-			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
-			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
-			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
-			Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
-			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Söbuk Sökmen Sönmez Suleyman Saim Saltuk 
-			Saruca Savtekin Savur Sehinsah Selçuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
-			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal 
-			Yunus
+			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
+			Burikhan Candak Chelakhsartag Davit Djadaron Durgulel Dzæræs Gætæg Georgy Girgon Gokhar Gubaz Guram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
+			Khankhusy Khætag Konstantin Kubal Kuddana Kul Kuluk Lak Levan Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
 		}
 		female_names = {
-			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
-			Bozçin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gulçiçek Gulay Gulbahar Gulfem 
-			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
-			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
-			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tekçe Tura 
-			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep Hürrem Mihrimah Nurbanu 
-			Handan Alime Kösem Hüma 
+			Adadza Alda Altun Ana Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene Eliso Gergana Gulchara Guranduht Kera Keratsa Ketevan Koser
+			Lamara Lashin Lela Mariami Natia Nino Rusudan Sanatha Satinik Shatana Shorena Shukhia Tamari Tinatini Tsiala Vardo Vedokha Yeran
 		}
 	}
-	xiongnu = {
+	sarmatian = {
 		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
-			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
+			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
+			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
+			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
+			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
+			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
-			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-		dynasty_names = {
-			# CKII
-			"Onggirat" "Naiman" "Kereyid" "Sartaq" "Mengu-Timur" "Uriankhai" "Bujakhin" "Besud" "Noyan" 
-			"Jochid" "Chagatayid" "Borjigin" "Chupanid" "Injuid" "Toluid" "Ganbold" "Bolormaa" "Batbayar" 
-			"Bat-Erdene" "Otgonbayar" "Enkhtuyaa" "Gantulga" "Nergüi" "Lkhagvasüren" "Enkhjargal" 
-			"Ganzorig" "Narantsetseg" "Pürevsüren" "Ganbaatar" "Mönkhtsetseg" "Mönkhbat" "Mönkh-Erdene" 
-			"Jalair" "Sartuul" "Olkhunut" "Khatagin" "Iljigin" "Tsookhor" "Qarakhanid"
+			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
 		}
 	}
-
-	male_names = {
-		Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen 
-		Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei Belgunutei Bilge Berke 
-		Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha 
-		Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu Chidukhul Chilagun Chiledu 
-		Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug 
-		Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen Jajiradai Jamugha Jebe Jochi 
-		Jurchedei Khabichi Khachi Khachigun Khadagh Khagatai Khaidu Khal Khorchi Khorilartai Khubilai 
-		Khudu Khutula Khuyildar Kogsegu Kokochu Megetu Megujin Menggei Mongke Morokha Munglig Nakhu 
-		Narin Nayaga Nogai Odchigin Ogodei Okhotur Oljaitu Oronartai Shiraghul Shirgugetu Subetei 
-		Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur Todogen Toghoril Toghtoga Tokhtamis 
-		Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
-		# PECHENEG
-		Çelgil Aba Baitzas Balgor Batan Batas Bator Bayça Biçkili Bizel Boru Bula Giazis Ildey Ipa Ipaos 
-		Kabuksin Karaca Kaydum Kegen Konel
-		Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi 
-		# CUMAN
-		Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
-		Itlar Ituk Könçek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan 
-		Sokal Sotan Sugr Törtogul Togli Tolun Tugor Uzluk Uzur
-		# KHAZAR
-		Alp Araslan Arslan Bagha Baghatur Bälgiçi Barjik Barsbek Bastu Bashtwa Bihor Böri Bugha Bulan 
-		Bulçan Busir Buzer Çat Çat'n Çorpan Ilik Iltäbär Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
-		Kibar Kisa Kundaçiq Kundaç Mänär Mänäs Mënümarót Ötemis Papaçyz Samsam Sartäç Simsam Täbär Tabghaç 
-		Tarkhan Tarmaç Tuzniq Vakrim Yabghu Yavantey Yençepi Yerneslu Yeçtirek Yilig
-		Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
-		# BOLGHAR
-		Almish Alzek Anzi Apskhih Araslan Arslan Asparukh Balamber Balambar Bars Bataul Batbayan Batoya 
-		Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh 
-		Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek 
-		Isbul Islivan Isperikh Ispor Kälaç Kano Karan Karaton
-		Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt 
-		Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi 
-		Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar Bakhtiar Paväl Praksa 
-		Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki 
-		Sondoke Tähtaman Tarasiy Taridin Tatra Telec Telerig Tervel Timër Timur Timëreç Timërpälat Tingiz 
-		Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani 
-		Yavantey Yençepi Yerneslu Yeçtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
-		# AVAR
-		Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balambär Balambar Barjik 
-		Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha 
-		Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Böri 
-		Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda 
-		Gostun Guar Hudbad Iani Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh 
-		Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
-		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç 
-		Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi 
-		Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
-		Oshi Ostro Pagan Pakhtiyar Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil 
-		Sandilkh Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç 
-		Tatra Telec Telerig Tervel Timër Timur Timëreç Timërpälat 
-		Tingiz Tiradin Toghan Toghrïl Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq Täbär Teber Tähtaman 
-		Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yençepi Yerneslu Yeçtirek Yilig 
-		Zabergan Zenti Çat Çat'n Çorpan Ötemis
-		# KARLUK
-		Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
-		Itlar Ituk Könçek Kobyak Kopti Kotyan Koza
-		Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan Sokal Sotan Sugr Törtogul Togli Tolun Tugor 
-		Uzluk Uzur
-		# KIRGHIZ
-		Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
-		Itlar Ituk Könçek Kobyak Kopti Kotyan Koza
-		Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan Sokal Sotan Sugr Törtogul Togli Tolun Tugor 
-		Uzluk Uzur
+	scythian = {
+		male_names = {
+			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
+			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
+			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
+			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
+			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
+		}
+		female_names = {
+			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
+		}
 	}
-	female_names = { 
-		Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene 
-		Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin 
-		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Töregene 
-		Yesugun Yesui Hoelun
-		# PECHENEG
-		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay 
-		Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay 
-		Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
-		# CUMAN
-		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz 
-		Gundes Gunes Ilkay Ipek Ipekel Irge Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik 
-		Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
-		# KHAZAR
-		Çiçäk Çiçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek 
-		Esin Gulçiçäk Gulçiçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-		Karacik Kätyarikka Këlnissa Këlyamal Khatun Lärkka Lyukha Mala Maturkka Mutlu Naça Parsbit Patiyer 
-		Paykëlti Peksen Puyantay Samur Sarantay Sarä Sarica Sarikel 
-		Sati Savaçka Savkëlti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
-		Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
-		# BOLGHAR
-		Çeçek Çiçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek 
-		Esin Gulçeçek Gulçiçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-		Karacik Kätyarikka Këlnissa Këlyamal Lärkka Lyukha Mala Maturkka Mutlu Naça Patiyer Paykëlti Peksen 
-		Puyantay Samur Sarantay Sarä Sarica Sarikel 
-		Sati Savaçka Savkëlti Savtilek Savilay Sevilay Savintik Sevindik Shurkka Sibel Sirin Sirma Songul 
-		Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
-		# AVAR
-		Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulay Gulçiçäk Gulçiçek Gundes Gunduz Gunes Ikalay Ilkay 
-		Ipek Ipekel Irge Karacik Khatun Kätyarikka Këlnissa Këlyamal Lyukha Lärkka Mala Maturkka Mutlu Naça 
-		Parsbit Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay 
-		Sevilay Savintik Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma Songul Tekçe Tura Tähtani 
-		Umay Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Çiçäk Çiçek Özgul 
-		Özlem
-		# KARLUK
-		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz 
-		Gundes Gunes Ilkay Ipek Ipekel Irge
-		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura 
-		Umay Usunbike Yasar Yeldem Yildiz
-		 KIRGHIZ
-		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz 
-		Gundes Gunes Ilkay Ipek Ipekel Irge
-		Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura 
-		Umay Usunbike Yasar Yeldem Yildiz
-	}
-	dynasty_names = {
-		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
-		Hasanid Zhetysu Bajanid Yagma Karakhanid Karlukid Chigil "of Farghana" Turai Kipchaki Osenevich 
-		Terteroba Turgay Kimak Askarid Adirlu Gutkeled Kolbasz Khovansky Olas Laktan
-		Kunev Kumanov Folban Vallani Qoun Polovtsy Kipchak Kuman Thocomer Bazaraads Kunság Nagykunság 
-		Kiskunság Bortz Bahariyya Klobuky Kimak Dentümoger Andjogli Durut Kochoba Toksoba Urosoba Kimek 
-		Uyghurid Kirghiz
-		"Bukhal" "Tzul" "Vakrimal" "Samsamakh" "Karadakhu" "Yabghumakh" "Ashina" "Bulanid" "Kabar" 
-		"Khwaliz" "Kozar" "Baranjar"
-		# AVAR
-		"Khazbek" "Yantsukh" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" 
-		"Khunzakhal" "Umorid" "Pavalid" "Isbulid" "Sabir" "Akhasir" "Araslanid" "Kazarig" "Kidar"
-		# BOLGHAR
-		"Ukil" "Bilig" "Dulo" "Erdevelu" "Vokil" "Ugain" "Altsikur" "Ezgil" "Kashu" "Barskhan" "Suvar" 
-		"Barsil" "Bilar" "Balanjar" "Baskatir"
-		# PECHENEG
-		"Yüregir" "Beçenek" "Bügdüz" "Üçok" "Çavuldur" "Bayandur" "Irtim" "Talmat" "Batas" "Alayuntlu" 
-		"Çepni" "Eymür" "Salgurlu" "Gyla" "Jabdertim" "Kankali" "Kharoboe" "Tzopon" "Giazihopon" "Haravoi" 
-		"Havuksingila" "Iavdiertim" "Kuertsitsur" "Sirukalpei" "Vorotalmat" "Vulatsopon" "Paguman" 
-		"Belermen" "Thonuzoba"
-		# CKII - KHANTY
-		"Sibiri" "Narima" "Mansi" "Khantys"
+	saka = {
+		male_names = {
+			Badaskapes Zanticus Beuca Babay Palacus Skilurus Zorsines Abeacus Sauromantes Ishpaka Partatua Madea Eruvand Tigran
+			Abazion Abdarakos Aboagos Abragos Abrozeos Adoes Akasas Akkas Aldis Alexarthos Arsalion Arseouachos Asander
+			Asaros Aspourgos Attaces Aunamos Azarion Azos Badagos Baioraspos Baiormaios Banas Bastakas Baxagos Chodekios Chouarsazos
+			Dadagos Didumoxarthos Eisgoudios Elmanos Eubarnakos Godosauos Iauakos Insazagos Irbis Kainaxarthos Kamorsazes Karaxstos Kasais
+			Mastas Mazis Medosaccus Methakos Namgenos Olgasus Omrasmakos Orsiomichos Spaldines Tasius Xegodis Zabandos Sozirsauos
+		}
+		female_names = {
+			Ababa Alda Alde Aldi Borena Burdukhan Leileme Mada Maiosara Saruke Storane Tamura Tirgatao
+		}
 	}
 }
 	
@@ -2199,6 +2009,40 @@ steppe_group = {
 			Fen Jian Wen Hejing Hejia Hexiao Zhuangjing 
 		}
 	}
+	turkish = {
+		dynasty_names = {
+			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
+			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
+			"Artukoglu" "Mutahhartenoglu" "Tekeoglu" "Hamidoglu" "Tacettinoglu"
+			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
+		}
+		male_names = {
+			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut Süleyman Bayezid Orhan Abdulaziz Abdülhamit Ibrahim 
+			Abdülmecit Abdullah Cem Cihangir Alaattin Isa Musa Ömer Seyfettin Yakup Yusuf Giyasettin Numan 
+			Ali Davut Hasan Hüseyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
+			Nizamettin Sinan Ferhat Salih Ismail Cüneyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
+			Dursun Ramazan Recep Abdulrahman Hayrettin
+			Çagri Çaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz 
+			Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
+			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
+			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
+			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
+			Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
+			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Söbuk Sökmen Sönmez Suleyman Saim Saltuk 
+			Saruca Savtekin Savur Sehinsah Selçuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
+			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal 
+			Yunus
+		}
+		female_names = {
+			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
+			Bozçin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gulçiçek Gulay Gulbahar Gulfem 
+			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
+			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
+			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tekçe Tura 
+			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep Hürrem Mihrimah Nurbanu 
+			Handan Alime Kösem Hüma 
+		}
+	}
 }
 
 korean_g = {
@@ -2380,18 +2224,6 @@ mon_khmer = {
 malay = { 
 	graphical_culture = asiangfx
 
-	polynesian = {
-		female_names = {
-			Alamea Alaula Alika Elikapeka Halia Iokina Iolana Kailani Kalea Kamaile Kamea Kanoa Kawena Keala Keola Keona Kiele Kina 
-			Kinipela Konane Lahela Lanai Lani Leiko Leilani Liliha Lilo Luana Mahina Maile Makana Makelina Malana Maleah Malia Mana
-			Miliani Moana Moanna Nalanie Napua Noelani Nohealani Okalani Onaona Palila Pilialoha Ulani
-		}
-		male_names = {
-			Akamu Aloha Alohilani Analu Aolani Aulani Aulii Feleti Inoke Iolani Ipo Iwalani Kai Kaili Kaipo Kalani Kale Kalei Kapena 
-			Kapono Keahi Kealii Keani Keanu Keiki Kelii Keon Keoni Kimo Konala Liko Loe Lulani Makaio  Makani Malo Mauli Mele Moke 
-			Nalani Oke Palani Pekelo
-		}
-	}
 	cham = {
 		dynasty_names = { 
 			Vijaya Kauthara Panduranga Indrapura
@@ -3542,114 +3374,6 @@ central_indic = {
 		Sunder Sundara Sunil Suraj Surendra Suresh Suresha Surinder Surendra Surya Sushil Sushila Sushila Swapan Swapna 
 		Swapnil Swaran Swarna Varghese Vasant Vasanta Vasu Venkat Venkata Vijay Vikram Vikrama Vikrama Vimal Vinay Vipin 
 		Vipul Vishal Vishnu Vivek Yama Yash 
-	}
-}
-
-mande = {
-	graphical_culture = africangfx
-	mali = {
-		dynasty_names = {
-			Keita Sama
-		}
-		male_names = {
-			"Mule" "Mamadu" "Al-Hajj" "'Ali Zalil" "Muhammad" "Da'ud" "Bakari" "'Abd al-Rahman" "Bakr" "Al-Mukhtar" 
-			"Mahmud" "Majan" "Birahim" "'Ali" "Amada Sire" "Nguia" "Bubu" "Ilo" "Kanta" "Al-Mansur" "'Ammar" "Sa'ud 
-			'Arjud" "Haddu" "Sa'id" "Dhu al-Nun" "'Abd Allah" "Nasr" "Yahya" "Sanibar" "Hammadi" "'Abbas" "Benkano" 
-			"Zenka" "Mami" "Ba-Bakribin" "'Abd al-Qadir" "Yusuf" "Santa'a" "Al-Fa' Ibrahim" "Sandaki" 
-		}
-		female_names = {
-			"Amna" "Ghadir" "Latifa" "Maha" "Ranya" Ibtisam Isra Karima Kera Khadija Layla Malika Mariam Maria Munya 
-			Munia Nadia Naila Nur Rafiqa Rahat 
-		}
-	}
-	songhai = {
-		dynasty_names = {
-			Askia Sonni 
-		}
-		male_names = {
-			"Muhammad" "Karbifo" "Mar Fai" "Mar-Arkana" "Mar Arandan" "Sulaymân" "`Alî Ber" "Bakarî" "Mûsâ" "Ismâ`îl" 
-			"Ishâq" "Dâ`ûd" "Nûh" "Hârûn" "al-Amîn" "Hanga" "Samsu" "Harangi" "Silman" "Abu Bakr" "Fodi Mayrumfa"	 
-			"Al-Mustafa" "Harun" "Tomo" "Bassaru Missi" "Bumi" "Koyze Baba" "Wankoy" "Mar Kiray" "Bakr Zanku" "Salman" 
-			"Birahim" "Hammadi" "Al-Mansur" "`Ammar" "Sa`id" "`Abd Allah" "Nasr" "Yahya" "Yusuf" 
-		}
-		female_names = {
-			"Amna" "Ghadir" "Latifa" "Maha" "Ranya" Ibtisam Isra Karima Kera Khadija Layla Malika Mariam Maria Munya 
-			Munia Nadia Naila Nur Rafiqa Rahat 
-		}
-	}
-	soninke = {
-		dynasty_names = {
-			Ghana Diarisso Kante
-		}
-		male_names = {
-			"Barama N'Golo" "Danfasri" "Suma" "Denkoro" "Bakari" "Ton Mansa Demele" "Kera Djugu" "Monson" "Tonkomo" 
-			"Fa Sine" "Da Kaha" "Tyefolo" "Nga Ngolo" "Sunsa" "Massa" "Sekolo" "Forokolo" "Seba Mana" "Deni ba Bo" 
-			"Sira Bo" "Dessekoro" "Saraba" "Nntinkoro" "Nanka" "Daoula" "Yadega" "Yolomfaogoma" "Kourita" "Geba" 
-			"Wobgho" "Saaga" "Kaongo" "Dulugu" "Sawadogo" "Karfo" "Baongo" "Tontuoriba"
-		}
-		female_names = {
-			"Tabara" "Gaisiri" "Bello" "Diallo" "Nyako" Endana Gethera Hinya Ikeno Inira Inithia Itanya Jamba Kakena 
-			Kenja Kenithia Kenura Kiama Kiania Kianira Kiira Kirima Muney Muraty Oyana Therania Tia
-		}
-	}
-	bambara = {
-		dynasty_names = {
-			Coulibaly Diarra Massassi
-		}
-	}
-	bozo = {
-		dynasty_names = {
-			Konboro Seku
-		}
-		male_names = {
-			"Barama N'Golo" "Kaladyan Kulibaly" "Danfasri" "Suma" "Biton Mamari" "Denkoro" "Bakari" "Ton Mansa Demele" 
-			"Kanyuba Nyama" "Kera Djugu" "N'Golo Diara" "Monson" "Tonkomo" "Fa Sine" "Da Kaha" "Tyefolo" "Nga Ngolo" 
-			"Sunsa" "Massa" "Sekolo" "Forokolo" "Seba Mana" "Deni ba Bo" "Sira Bo" "Dessekoro" "Saraba" "Nntinkoro" 
-			"Nanka" "Daoula" "Yadega" "Yolomfaogoma" "Kourita" "Geba" "Wobgho" "Saaga" "Kaongo" "Dulugu" "Sawadogo" 
-			"Karfo" "Baongo" "Tontuoriba"
-		}
-		female_names = {
-			"Masego" "Sekai" "Tsholofelo" Boipelo Boitumelo Dikeledi Itumeleng Kagiso Katlego Kefilwe Lesedi Neo 
-			Refilwe Sethunya Tumelo
-		}
-	}
-	dyola = {
-		dynasty_names = {
-			Gorogo Wattara
-		}
-		male_names = {
-			"Agyen Kokobo" "Ofusu Kwabi" "Oduro" "Ado" "Otumfo Asare" "Yanza" "Ansa Saseraku" "Akotia" "Abuako Dako" 
-			"Afera Kuma" "Manukure" "Akwamno Panyini" "Dako Booman" "Mnumunumfi" "Werempe Ampem" "Boa Amponsem" 
-			"Ntim Gyakari" "Boado Ahafo Berempon" "Kyei Akobeng" "Amoako Atta Panyin" "Gyan Badu" "Amoako Atta Kuma" 
-			"Amoako Atta Yiadom" "Owusu Bori" "Kwadwo Tibu" "Kwakye Fram" "Kwesi Kyei" "Nkwantabisa"
-		}
-		female_names = {
-			Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi Chiamaka Chibueze Chibuike Chibuzo 
-			Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika Chike Chikelu Chikere Chinasa Chinedu Chinonso 
-			Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya 
-			Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi 
-			Onyeka Onyekachi Onyekachukwu Udo Uzoma
-		}
-	}
-	male_names = {
-		Abi-Bakr Abubakari Akoi Alayaman Ali Ali Ali-Fay Ali-Kolon Ali-Zalil Badä Bakr Bakr-Kanbu Bamari Bankanu
-		Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud David Dawud David Demba Diara Düru
-		Faga-Laye Fatta Fodi Fuluku Fädazu Gane Gao Hargani Harun Igoumou Ishaq Isaac Ismail Ismail Kabayo Kalabi Kambine
-		Kanafa Kassa Kasseï Kaya Kayna Kinkin Kisha Kodama Koïzé Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
-		Mahmud Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata Maÿroumfa Missi-Izé Morobani Musa Moses
-		Nintasanay Nuh Ouali Ouankoÿ Ouati Reidja Sakoura Salman Solomon Samsou-Béri Samsou-Keïna Sandaki Soumaba
-		Soumaoro Soundiata Sulayman Solomon Takoi Tib Tomo Thomas Tunka Umar Umar Yama Yaqub Jacob Yasiboy Zakoi Zenku
-	}
-	female_names = {
-		Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
-		Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa Namandjé Namiss Nana
-		Safiatou Salimata Sassouma Sidibé Siya Sogolon Tekhaye Youma Zeïnab
-	}
-	dynasty_names = {
-		# CKII
-		"Cisse" "Diarisso" "Keita" "Bereté" "Kédjou" "Moussa" "Zuwa" "Sonni" "Askiya" "Konare" "Traoré" "Modibo" "Toumani" 
-		"Gurmanche" "Buricimba" "Nungu" "Mossi" "Habe" "of Zarma" "of Gurma" "of Djenne" "of Bambuk" "Ezekoye" "Sahara" 
-		"Oualata" "Bambuk" "Gurma" "Djenné" "Tadmekka"
 	}
 }
 

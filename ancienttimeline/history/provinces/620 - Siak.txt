@@ -1,10 +1,1 @@
 #620 - Siak
-
-culture = sumatran
-religion = mahayana
-capital = "Siak"
-trade_goods = chinaware
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
