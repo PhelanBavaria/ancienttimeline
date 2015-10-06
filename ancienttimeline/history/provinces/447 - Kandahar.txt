@@ -4,12 +4,12 @@ owner = ROW
 controller = ROW
 culture = avestan
 religion = zunism
-capital = "Kandahar"
+capital = "Mundigak"
 trade_goods = cotton
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 3
+base_manpower = 3
 citysize = 1404
 add_core = ROW
 discovered_by = muslim
@@ -20,5 +20,5 @@ fort1 = yes
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4670.7.17 = { owner = ARC controller = ARC add_core = ARC remove_core = ACA }
-4671.2.2 = { owner = MCD controller = MCD add_core = MCD }
+4671.2.2 = { owner = MCD controller = MCD add_core = MCD capital = "Candahar" }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }

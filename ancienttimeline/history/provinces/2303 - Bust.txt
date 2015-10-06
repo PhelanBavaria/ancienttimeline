@@ -1,10 +1,10 @@
-#2303 - Bust
+#2303 - Zamindawar
 
 owner = ROW
 controller = ROW
 culture = avestan
 religion = zunism
-capital = "Zamindawar"
+capital = "Musa Qala"
 trade_goods = wool
 hre = no
 base_tax = 2
