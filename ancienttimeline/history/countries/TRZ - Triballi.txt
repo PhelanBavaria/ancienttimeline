@@ -4,3 +4,40 @@ primary_culture = illyrian
 religion = illyrian
 technology_group = mediterranean
 capital = 150
+
+4620.1.1 = {
+	monarch = {
+		name = "Hales"
+		dynasty = "Triballian"
+		birth_date = 4590.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+4640.1.1 = {
+	heir = {
+		name = "Syrmus"
+		monarch_name = "Syrmus"
+		dynasty = "Triballian"
+		birth_date = 4640.1.1
+		death_date = 4700.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+4660.1.1 = {
+	monarch = {
+		name = "Syrmus"
+		dynasty = "Triballian"
+		birth_date = 4640.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
