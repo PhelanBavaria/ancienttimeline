@@ -1,14 +1,404 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 3
-#innovative_narrowminded = 1
-#mercantilism_freetrade = -3
 mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -4
-#quality_quantity = 3
-#serfdom_freesubjects = 2
 primary_culture = doric_greek
 religion = hellenism
 technology_group = mediterranean
 capital = 144
+
+4530.1.1 = {
+	monarch = {
+		name = "Admetus I"
+		dynasty = "Aeacid"
+		birth_date = 4500.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+4540.1.1 = {
+	heir = {
+		name = "Tharrhypas"
+		monarch_name = "Tharrhypas I"
+		dynasty = "Aeacid"
+		birth_date = 4540.1.1
+		death_date = 4610.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+4570.1.1 = {
+	monarch = {
+		name = "Tharrhypas I"
+		dynasty = "Aeacid"
+		birth_date = 4540.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+4580.1.1 = {
+	heir = {
+		name = "Alcetas"
+		monarch_name = "Alcetas I"
+		dynasty = "Aeacid"
+		birth_date = 4580.1.1
+		death_date = 4630.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4610.1.1 = {
+	monarch = {
+		name = "Alcetas I"
+		dynasty = "Aeacid"
+		birth_date = 4580.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+4610.1.1 = {
+	heir = {
+		name = "Neoptolemos"
+		monarch_name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		death_date = 4687.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4630.1.1 = {
+	monarch = {
+		name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4630.1.1 = {
+	heir = {
+		name = "Arybbas"
+		monarch_name = "Arybbas I"
+		dynasty = "Aeacid"
+		birth_date = 4597.1.1
+		death_date = 4658.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4627.1.1 = {
+	monarch = {
+		name = "Arybbas I"
+		dynasty = "Aeacid"
+		birth_date = 4597.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+4630.1.1 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander I"
+		dynasty = "Aeacid"
+		birth_date = 4630.1.1
+		death_date = 4670.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4658.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Aeacid"
+		birth_date = 4630.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+4658.1.1 = {
+	heir = {
+		name = "Aeacides"
+		monarch_name = "Aeacides I"
+		dynasty = "Aeacid"
+		birth_date = 4640.1.1
+		death_date = 4683.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	monarch = {
+		name = "Aeacides I"
+		dynasty = "Aeacid"
+		birth_date = 4640.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+4670.1.1 = {
+	heir = {
+		name = "Neoptolemos"
+		monarch_name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		death_date = 4687.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4683.1.1 = {
+	monarch = {
+		name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4683.1.1 = {
+	heir = {
+		name = "Alcetas"
+		monarch_name = "Alcetas II"
+		dynasty = "Aeacid"
+		birth_date = 4657.1.1
+		death_date = 4693.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+4687.1.1 = {
+	monarch = {
+		name = "Alcetas II"
+		dynasty = "Aeacid"
+		birth_date = 4657.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+4687.1.1 = {
+	heir = {
+		name = "Pyrrhus"
+		monarch_name = "Pyrrhus I"
+		dynasty = "Aeacid"
+		birth_date = 4682.1.1
+		death_date = 4728.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4693.1.1 = {
+	monarch = {
+		name = "Pyrrhus I"
+		dynasty = "Aeacid"
+		birth_date = 4682.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4693.1.1 = {
+	heir = {
+		name = "Neoptolemos"
+		monarch_name = "Neoptolemos II"
+		dynasty = "Aeacid"
+		birth_date = 4669.1.1
+		death_date = 4703.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+4698.1.1 = {
+	monarch = {
+		name = "Neoptolemos II"
+		dynasty = "Aeacid"
+		birth_date = 4669.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+4698.1.1 = {
+	heir = {
+		name = "Pyrrhus"
+		monarch_name = "Pyrrhus I"
+		dynasty = "Aeacid"
+		birth_date = 4682.1.1
+		death_date = 4728.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4703.1.1 = {
+	monarch = {
+		name = "Pyrrhus I"
+		dynasty = "Aeacid"
+		birth_date = 4682.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+4703.1.1 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander II"
+		dynasty = "Aeacid"
+		birth_date = 4698.1.1
+		death_date = 4745.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4728.1.1 = {
+	monarch = {
+		name = "Alexander II"
+		dynasty = "Aeacid"
+		birth_date = 4698.1.1
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+}
+
+4728.1.1 = {
+	heir = {
+		name = "Pyrrhus"
+		monarch_name = "Pyrrhus II"
+		dynasty = "Aeacid"
+		birth_date = 4715.1.1
+		death_date = 4763.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4745.1.1 = {
+	monarch = {
+		name = "Pyrrhus II"
+		dynasty = "Aeacid"
+		birth_date = 4715.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+4745.1.1 = {
+	heir = {
+		name = "Ptolemy"
+		monarch_name = "Ptolemy I"
+		dynasty = "Aeacid"
+		birth_date = 4733.1.1
+		death_date = 4766.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+4763.1.1 = {
+	monarch = {
+		name = "Ptolemy I"
+		dynasty = "Aeacid"
+		birth_date = 4733.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+4763.1.1 = {
+	heir = {
+		name = "Pyrrhus"
+		monarch_name = "Pyrrhus III"
+		dynasty = "Aeacid"
+		birth_date = 4740.1.1
+		death_date = 4769.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4766.1.1 = {
+	monarch = {
+		name = "Pyrrhus III"
+		dynasty = "Aeacid"
+		birth_date = 4740.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4769.1.1 = { government = oligarchic_republic }
+
+4769.1.1 = {
+	monarch = {
+		name = "(Epirote League)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
