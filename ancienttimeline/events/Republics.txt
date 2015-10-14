@@ -1,0 +1,908 @@
+namespace = republics
+
+# Debates in Republics
+country_event = {
+	id = republics.1
+	title = republics.1.t
+	desc = republics.1.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.5 }
+	}
+	
+	mean_time_to_happen = {
+		months = 120		
+	}
+	
+	option = {
+		name = republics.1.a
+		add_republican_tradition = -0.25
+		add_prestige = 10
+	}
+	option = {
+		name = republics.1.b
+		add_republican_tradition = 0.2
+		add_stability = -1
+	}
+}
+
+# Ruled by Despot
+country_event = {
+	id = republics.3
+	title = republics.3.t
+	desc = republics.3.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.01 }
+	}
+	
+	mean_time_to_happen = {
+		months = 240
+		modifier = {
+			factor = 0.5
+			NOT = { republican_tradition = 0.3 }
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { republican_tradition = 0.2 }
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { republican_tradition = 0.1 }
+		}		
+		modifier = {
+			factor = 0.01
+			NOT = { republican_tradition = 0.01 }
+		}			
+	}
+	
+	option = {
+		name = republics.3.a
+		if = {
+			limit = { is_tribal = yes }
+			change_government = tribal_despotism
+		}
+		if = {
+			limit = {
+				is_tribal = no  
+				NOT = { has_dlc = "Res Publica" }
+			}
+			change_government = despotic_monarchy
+		}			
+	}
+}
+
+# The Trial
+country_event = {
+	id = republics.4
+	title = republics.4.t
+	desc = republics.4.d
+	picture = LIBERUM_VETO_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 3.0
+			is_at_war = yes
+		}		
+	}
+	
+	option = {
+		name = republics.4.a
+		add_adm_power = -40
+		add_dip_power = -40
+		add_mil_power = -40
+		add_republican_tradition = 0.05
+	}
+
+	option = {
+		name = republics.4.b
+		add_republican_tradition = -0.05
+		add_adm_power = 10
+		add_dip_power = 10
+		add_mil_power = 10
+	}
+}
+
+# A New Coin
+country_event = {
+	id = republics.5
+	title = republics.5.t
+	desc = republics.5.d
+	picture = ECONOMY_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = republics.5.a
+		add_inflation = 2
+	}
+
+	option = {
+		name = republics.5.b
+		add_republican_tradition = -0.10
+	}
+}
+
+# Foreign Plots?
+country_event = {
+	id = republics.6
+	title = republics.6.t
+	desc = republics.6.d
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		
+		modifier = {
+			factor = 1.5
+			NOT = { years_of_income = 0.5 }
+		}
+	}
+	
+	option = {
+		name = republics.6.a
+		add_years_of_income = 0.5
+		add_republican_tradition = -0.10
+	}
+
+	option = {
+		name = republics.6.b
+		add_stability = -1
+	}
+}
+
+# Expand the Bodyguard
+country_event = {
+	id = republics.7
+	title = republics.7.t
+	desc = republics.7.d
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+		NOT = { stability = 3 }
+		NOT = { republican_tradition = 0.8 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		
+		modifier = {
+			factor = 2
+			NOT = { years_of_income = 0.5 }
+		}
+	}
+	
+	option = {
+		name = republics.7.a
+		add_stability = 1
+		add_republican_tradition = -0.1
+	}
+
+	option = {
+		name = republics.7.b
+		add_republican_tradition = 0.05
+	}
+}
+
+# Noble Plot
+country_event = {
+	id = republics.9
+	title = republics.9.t
+	desc = republics.9.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.80 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 1.5
+			NOT = { republican_tradition = 0.70 }
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { republican_tradition = 0.50 }
+		}
+		modifier = {
+			factor = 3.0
+			NOT = { republican_tradition = 0.30 }
+		}
+		modifier = {
+			factor = 5.0
+			NOT = { republican_tradition = 0.10 }
+		}
+	}
+	
+	option = {
+		name = republics.9.a
+		add_stability = -1
+	}
+}
+ 
+# Splits in the Council
+country_event = {
+	id = republics.10
+	title = republics.10.t
+	desc = republics.10.d
+	picture = LIBERUM_VETO_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.80 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 1.5
+			NOT = { republican_tradition = 0.70 }
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { republican_tradition = 0.50 }
+		}
+		modifier = {
+			factor = 3.0
+			NOT = { republican_tradition = 0.30 }
+		}
+		modifier = {
+			factor = 5.0
+			NOT = { republican_tradition = 0.10 }
+		}
+	}
+	
+	option = {
+		name = republics.10.a
+		add_mil_power = -50
+	}
+}
+ 
+#Disputes effecting governments
+country_event = {
+	id = republics.11
+	title = republics.11.t
+	desc = republics.11.d
+	picture = LIBERUM_VETO_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.80 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 1.5
+			NOT = { republican_tradition = 0.70 }
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { republican_tradition = 0.50 }
+		}
+		modifier = {
+			factor = 3.0
+			NOT = { republican_tradition = 0.30 }
+		}
+		modifier = {
+			factor = 5.0
+			NOT = { republican_tradition = 0.10 }
+		}
+	}
+	
+	option = {
+		name = republics.11.a
+		add_adm_power = -50
+	}
+}
+
+#Ceremony Disrupted
+country_event = {
+	id = republics.13
+	title = republics.13.t
+	desc = republics.13.d
+	picture = LIBERUM_VETO_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = republic
+		NOT = { republican_tradition = 0.80 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 1.5
+			NOT = { republican_tradition = 0.70 }
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { republican_tradition = 0.50 }
+		}
+		modifier = {
+			factor = 3.0
+			NOT = { republican_tradition = 0.30 }
+		}
+		modifier = {
+			factor = 5.0
+			NOT = { republican_tradition = 0.10 }
+		}
+	}
+	
+	option = {
+		name = republics.13.a
+		add_prestige = -10
+	}
+}
+
+# Offense or Defense
+country_event = {
+	id = republics.21
+	title = "EVTNAME9557"
+	desc = "EVTDESC9557"
+	picture = BATTLE_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = {
+			has_country_modifier = offensive_modifier 
+		}
+		NOT = { 
+			has_country_modifier = defensive_modifier 
+		}
+		government = republic
+		is_at_war = yes
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -1 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -2 }
+		}
+		modifier = {
+			factor = 1.1
+			stability = 2
+		}
+		modifier = {
+			factor = 1.1
+			stability = 3
+		}
+		modifier = {
+			factor = 1.1
+			adm = 4
+		}
+		modifier = {
+			factor = 1.1
+			adm = 5
+		}
+		modifier = {
+			factor = 1.1
+			adm = 6
+		}
+		modifier = {
+			factor = 1.1
+			mil = 4
+		}
+		modifier = {
+			factor = 1.1
+			mil = 5
+		}
+		modifier = {
+			factor = 1.1
+			mil = 6
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9557" #Offense is probably the only option
+		ai_chance = { factor = 55 }
+		add_country_modifier = {
+			name = offensive_modifier
+			duration = 3650
+		}
+		add_stability = -1
+	}
+	option = {
+		name = "EVTOPTB9557" #Defense sounds better at this stage
+		ai_chance = { factor = 45 }
+		add_country_modifier = {
+			name = defensive_modifier
+			duration = 3650
+		}
+		add_stability = -1
+	}
+}
+
+# Conflicting Opinions
+country_event = {
+	id = republics.22
+	title = "EVTNAME9558"
+	desc = "EVTDESC9558"
+	picture = DEBATE_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { 
+			has_country_modifier = conflicting_opinions_timer 
+		}
+		government = republic
+		OR = {
+			NOT = { mil = 2 }
+			NOT = { adm = 2 }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 1.1
+			economic_ideas = 7
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { economic_ideas = 1 }
+		}
+		modifier = {
+			factor = 0.9
+			num_of_rebel_controlled_provinces = 1
+		}
+		modifier = {
+			factor = 0.9
+			num_of_rebel_controlled_provinces = 2
+		}
+		modifier = {
+			factor = 1.1
+			advisor = statesman
+		}
+		modifier = {
+			factor = 1.1
+			statesman = 3
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9558" # It's probably best to leave things as they are
+		ai_chance = { factor = 55 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = conflicting_opinions_timer
+				duration = 3650
+				hidden = yes
+			}
+		}
+		add_prestige = -8
+	}
+	option = {
+		name = "EVTOPTB9558" # Some restructuring might be needed
+		ai_chance = { factor = 45 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = conflicting_opinions_timer
+				duration = 3650
+				hidden = yes
+			}
+		}
+		add_stability = -1
+	}
+}
+
+# Political Chaos
+country_event = {
+	id = republics.25
+	title = "EVTNAME9561"
+	desc = "EVTDESC9561"
+	picture = LIBERUM_VETO_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { 
+			has_country_modifier = political_chaos_timer 
+		}
+		government = republic
+		NOT = { adm = 2 }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 0.9
+			NOT = { mil = 2 }
+		}
+		modifier = {
+			factor = 1.1
+			mil = 4
+		}
+		modifier = {
+			factor = 1.1
+			mil = 5
+		}
+		modifier = {
+			factor = 1.1
+			mil = 6
+		}
+		modifier = {
+			factor = 1.1
+			stability = 3
+		}
+		modifier = {
+			factor = 1.1
+			stability = 2
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -1 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -2 }
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9561" # That's just the nature of politics
+		ai_chance = { factor = 55 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = political_chaos_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		random_owned_province = {
+			limit = { is_capital = yes }
+			add_unrest = 2
+		}
+	}
+	option = {
+		name = "EVTOPTB9561" # Some restructuring might be necessary
+		ai_chance = { factor = 45 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = political_chaos_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		add_years_of_income = -0.10
+		add_stability = 1
+	}
+}
+
+# Influenced Decisions
+country_event = {
+	id = republics.26
+	title = "EVTNAME9562"
+	desc = "EVTDESC9562"
+	picture = DEBATE_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { 
+			has_country_modifier = influenced_decisions_timer 
+		}
+		government = republic
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -1 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { stability = -2 }
+		}
+		modifier = {
+			factor = 1.1
+			stability = 2
+		}
+		modifier = {
+			factor = 1.1
+			stability = 3
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { adm = 1 }
+		}
+		modifier = {
+			factor = 1.1
+			adm = 4
+		}
+		modifier = {
+			factor = 1.1
+			adm = 5
+		}
+		modifier = {
+			factor = 1.1
+			adm = 6
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9562"		# It has to stop
+		ai_chance = { factor = 55 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = influenced_decisions_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		random = {
+			chance = 50
+			add_stability = -1
+		}
+	}
+	option = {
+		name = "EVTOPTB9562"		# That can't be true
+		ai_chance = { factor = 45 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = influenced_decisions_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		add_prestige = -5
+	}
+}
+
+# Financial Disagreements
+country_event = {
+	id = republics.27
+	title = "EVTNAME9563"
+	desc = "EVTDESC9563"
+	picture = ECONOMY_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { 
+			has_country_modifier = financial_disagreements_timer 
+		}
+		government = republic
+		num_of_loans = 1
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 1.2
+			advisor = treasurer
+		}
+		modifier = {
+			factor = 1.2
+			advisor = master_of_mint
+		}
+		modifier = {
+			factor = 1.2
+			treasurer = 3
+		}
+		modifier = {
+			factor = 1.1
+			adm = 4
+		}
+		modifier = {
+			factor = 1.1
+			adm = 5
+		}
+		modifier = {
+			factor = 1.1
+			adm = 6
+		}
+		modifier = {
+			factor = 0.8
+			num_of_loans = 2
+		}
+		modifier = {
+			factor = 0.9
+			inflation = 4
+		}
+		modifier = {
+			factor = 0.9
+			inflation = 6
+		}
+		modifier = {
+			factor = 0.9
+			inflation = 8
+		}
+		modifier = {
+			factor = 0.9
+			inflation = 10
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { adm = 1 }
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9563" # Mint more money
+		ai_chance = { factor = 55 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = financial_disagreements_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		add_years_of_income = 0.25
+		add_inflation = 4
+	}
+	option = {
+		name = "EVTOPTB9563" # Raise taxes
+		ai_chance = { factor = 45 }
+		hidden_effect = {
+			add_country_modifier = {
+				name = financial_disagreements_timer
+				duration = 1825
+				hidden = yes
+			}
+		}
+		add_years_of_income = 0.25
+		add_stability = -1
+	}
+}
+
+# Military Spending
+country_event = {
+	id = republics.28
+	title = "EVTNAME9564"
+	desc = "EVTDESC9564"
+	picture = MILITARY_CAMP_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { has_country_modifier = trade_and_production_cutbacks }
+		NOT = { has_country_modifier = military_cutbacks }
+		government = republic
+		is_at_war = yes
+		OR = {
+			NOT = { trade_efficiency = 0.4 }
+			NOT = { production_efficiency = 0.4 }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+
+		modifier = {
+			factor = 0.9
+			manpower_percentage = 0.7
+		}
+		modifier = {
+			factor = 0.9
+			manpower_percentage = 0.8
+		}
+		modifier = {
+			factor = 0.9
+			manpower_percentage = 0.9
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { production_efficiency = 0.3 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { production_efficiency = 0.2 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { trade_efficiency = 0.3 }
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { trade_efficiency = 0.2 }
+		}
+		modifier = {
+			factor = 0.9
+			is_monarch_leader = yes
+		}
+		modifier = {
+			factor = 0.9
+			mil = 6
+		}
+		modifier = {
+			factor = 0.9
+			mil = 5
+		}
+		modifier = {
+			factor = 1.2
+			NOT = { mil = 1 }
+		}
+		modifier = {
+			factor = 0.9
+			advisor = army_reformer
+		}
+		modifier = {
+			factor = 0.9
+			advisor = army_organiser
+		}
+		modifier = {
+			factor = 0.9
+			advisor = fortification_expert
+		}
+		modifier = {
+			factor = 0.9
+			advisor = naval_reformer
+		}
+		modifier = {
+			factor = 1.2
+			advisor = natural_scientist
+		}
+		modifier = {
+			factor = 1.2
+			advisor = trader
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA9564" # Well, trade and production aren't as important
+		ai_chance = { factor = 55 }
+		add_country_modifier = {
+			name = "trade_and_production_cutbacks"
+			duration = 730
+		}
+	}
+	option = {
+		name = "EVTOPTB9564" # Cut back on military expenses
+		ai_chance = { factor = 45 }
+		add_country_modifier = {
+			name = "military_cutbacks"
+			duration = 730
+		}
+	}
+}
