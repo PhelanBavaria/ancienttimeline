@@ -16,3 +16,4 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = mediterranean
 
+4799.1.1 = { owner = GAR controller = GAR add_core = GAR citysize = 1000 }
