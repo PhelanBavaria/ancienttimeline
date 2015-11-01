@@ -1,9 +1,6 @@
 
 type = infantry
-unit_type = mediterranean
-trigger = {
-	culture_group = byzantine
-}
+unit_type = balkan_group
 
 maneuver = 1
 offensive_morale = 1

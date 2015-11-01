@@ -591,8 +591,6 @@ technology = {
 	# Tech 96
 	year = 4200
 	land_morale 		= 	0.1
-
-	enable = phalanx
 }
 
 technology = {
@@ -653,6 +651,14 @@ technology = {
 	# Tech 106
 	year = 4450
 	infantry_fire		= 	0.05
+
+	enable = phalanx
+	enable = peltast_m
+	enable = peltast_b
+	enable = immortals
+	enable = sparabara
+	enable = companion_cavalry
+	enable = scythe_chariots
 }
 
 technology = {
@@ -671,14 +677,15 @@ technology = {
 	# Tech 109
 	year = 4525
 	maneuver_value 		= 	0.10
-
-	enable = peltast
 }
 
 technology = {
 	# Tech 110
 	year = 4550
 	military_tactics	=	0.1
+
+	enable = elite_phalanx
+	enable = middle_eastern_phalanx
 }
 
 technology = {
@@ -692,7 +699,11 @@ technology = {
 	year = 4600
 	cavalry_shock  		= 	0.05
 
-	enable = companion_cavalry
+	enable = cataphract
+	enable = tarantine_cavalry
+	enable = heavy_companion_cavalry
+	enable = war_elephants_i
+	enable = war_elephants_me
 }
 
 technology = {
@@ -711,6 +722,8 @@ technology = {
 	# Tech 115
 	year = 4675
 	infantry_fire		= 	0.05
+
+	enable = thureophoi
 }
 
 technology = {
@@ -729,6 +742,9 @@ technology = {
 	# Tech 118
 	year = 4750
 	land_morale 		= 	0.1
+
+	enable = elite_cataphract
+	enable = equites
 }
 
 technology = {
@@ -741,6 +757,9 @@ technology = {
 	# Tech 120
 	year = 4800
 	infantry_shock 		= 	0.05
+
+	enable = hastati
+	enable = principes
 }
 
 technology = {
@@ -759,6 +778,8 @@ technology = {
 	# Tech 123
 	year = 4875
 	land_morale 		= 	0.1
+
+	enable = parthian_shot
 }
 
 technology = {
@@ -771,6 +792,8 @@ technology = {
 	# Tech 125
 	year = 4925
 	infantry_shock 		= 	0.05
+
+	enable = legionaries
 }
 
 technology = {
