@@ -658,7 +658,7 @@ technology = {
 	enable = immortals
 	enable = sparabara
 	enable = companion_cavalry
-	enable = scythe_chariots
+	enable = scythe_chariot
 }
 
 technology = {
