@@ -723,7 +723,7 @@ technology = {
 	year = 4675
 	infantry_fire		= 	0.05
 
-	enable = thureophoi
+	enable = thureophoroi
 }
 
 technology = {
