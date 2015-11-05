@@ -23,3 +23,5 @@ discovered_by = nomad_group
 4671.7.7 = { owner = BCT controller = BCT add_core = BCT remove_core = MCD }
 4672.3.2 = { owner = MCD controller = MCD add_core = MCD }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
+4744.1.1 = { owner = GRB controller = GRB add_core = GRB remove_core = SLC }
+4875.1.1 = { owner = YZH controller = YZH add_core = YZH remove_core = GRB }

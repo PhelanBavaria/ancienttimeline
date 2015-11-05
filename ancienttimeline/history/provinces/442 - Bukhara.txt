@@ -18,8 +18,4 @@ discovered_by = nomad_group
 discovered_by = indian
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
-4670.7.17 = { owner = SGD controller = SGD add_core = SGD remove_core = ACA }
-4671.6.1 = { owner = MCD controller = MCD add_core = MCD }
-4671.7.7 = { owner = SGD controller = SGD add_core = SGD remove_core = MCD }
-4672.3.2 = { owner = MCD controller = MCD add_core = MCD }
-4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
+4670.7.17 = { owner = CHS controller = CHS add_core = CHS remove_core = ACA }

@@ -35,3 +35,4 @@ discovered_by = celtiberians
 4669.9.12 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4695.1.1 = { base_tax = 5 base_production = 3 base_manpower = 4 }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
+4859.1.1 = { owner = PRT controller = PRT add_core = PRT remove_core = SLC }

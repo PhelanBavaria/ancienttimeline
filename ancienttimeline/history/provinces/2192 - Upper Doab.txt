@@ -14,6 +14,5 @@ citysize = 4842
 add_core = PAU
 discovered_by = indian
 
-4674.4.8 = { owner = MCD controller = MCD }
-4690.1.1 = { owner = MAU controller = MAU add_core = MAU }
+4678.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4815.1.1 = { owner = KUN controller = KUN add_core = KUN remove_core = MAU }

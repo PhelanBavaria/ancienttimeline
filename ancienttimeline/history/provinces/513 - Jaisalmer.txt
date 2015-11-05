@@ -17,4 +17,4 @@ discovered_by = middle_eastern
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = SAU controller = SAU add_core = SAU remove_core = MAU }
 4890.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = SAU }
-4988.1.1 = { owner = IPA controller = IPA add_core = IPA remove_core = WSA }
+4980.1.1 = { owner = IPA controller = IPA add_core = IPA remove_core = WSA }

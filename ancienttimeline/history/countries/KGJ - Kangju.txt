@@ -1,0 +1,6 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = sogdian
+religion = zoroastrian
+technology_group = scythian_group
+capital = 456
