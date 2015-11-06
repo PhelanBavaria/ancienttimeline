@@ -695,3 +695,89 @@ ETR_ideas = {
 	    global_unrest = -1
 	}
 }
+
+MCD_ideas = {
+	start = {
+		cavalry_cost = -0.10
+		core_creation = -0.15
+	}
+
+	bonus = {
+		land_forcelimit_modifier = 0.20
+	}
+	
+	trigger = {
+		OR = {
+			tag = MCD
+			primary_culture = attic
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	companion_cavalry = {
+		cavalry_power = 0.25
+	}
+	greek_heroes = {
+		land_morale = 0.10
+	}
+	theater = {
+		global_unrest = -1
+	}
+	alexander_the_great = {
+		army_tradition = 1.0
+	}
+	council_of_macedon = {
+		legitimacy = 1.0
+	}
+	regional_districts = {
+		local_autonomy = -0.05
+	}
+	hellenization = {
+		global_missionary_strength = 0.02
+		culture_conversion_cost = -0.2
+	}
+}
+
+ACA_ideas = {
+	start = {
+		global_manpower_modifier = 0.15
+		production_efficiency = 0.05
+	}
+
+	bonus = {
+		infantry_cost = -0.15
+	}
+	
+	trigger = {
+		OR = {
+			tag = ACA
+			primary_culture = persian
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	zoroaster = {
+		global_missionary_strength = 0.03
+	}
+	cultural_diversity = {
+		accepted_culture_threshold = -0.15
+	}
+	persian_architecture = {
+		build_cost = -0.10
+	}
+	cyrus_cylinder = {
+		tolerance_heretic = 2
+		tolerance_heathen = 1
+	}
+	immortals = {
+		infantry_power = 0.20
+	}
+	efficient_infrastructure = {
+		trade_efficiency = 0.10
+		global_tax_modifier = 0.10
+	}
+	achaemenid_legacy = {
+		prestige = 1
+		diplomatic_reputation = 1
+	}
+}
