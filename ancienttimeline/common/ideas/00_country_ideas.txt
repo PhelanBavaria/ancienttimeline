@@ -107,10 +107,8 @@ ROME_ideas = {
 	the_roman_legions = {
 		land_morale = 0.10
 		discipline = 0.10
-		infantry_power = 0.15
 	}
 	roads_and_infrastructure = {
-		trade_efficiency = 0.10
 		production_efficiency = 0.15
         global_tax_modifier = 0.20
 	}
@@ -129,7 +127,6 @@ ROME_ideas = {
 	loyal_subjects = {
 		global_manpower_modifier = 0.10
 		vassal_income = 0.30
-		diplomatic_upkeep = 2
 	}
 	legacy_of_rome = {
 		prestige = 2
