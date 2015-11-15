@@ -108,28 +108,28 @@ innovativeness_ideas = {
 	category = ADM
 
 	bonus = {
-		advisor_cost = -0.25
+		advisor_cost = -0.15
 	}
 	
-	patron_of_art  = { 
-		prestige_decay = -0.01
+	artistic_appreciation  = { 
+		prestige_decay = -0.005
 	}
-	pragmatism = {
-		mercenary_cost = -0.25
+	problem_solving = {
+		mercenary_cost = -0.10
 	}
-	scientific_revolution = {
-		technology_cost = -0.05
+	advancement = {
+		technology_cost = -0.02
 	}
 	dynamic_court = {
 		advisor_pool = 1
 	}
-	resilient_state = {
-		inflation_action_cost = -0.10
+	life_cycle_of_a_civilization = {
+		inflation_action_cost = -0.05
 	}	
 	optimism = {
-		war_exhaustion = -0.05
+		war_exhaustion = -0.03
 	}
-	formalized_officer_corps = {
+	dynamic_leadership = {
 		free_leader_pool = 1
 	}
 	
@@ -147,22 +147,22 @@ religious_ideas = {
 	category = ADM
 
 	bonus = {
-		culture_conversion_cost = -0.25
+		culture_conversion_cost = -0.15
 	}
 
-	deus_vult = {
+	destroy_the_non-believers = {
 		cb_on_religious_enemies = yes
 	}
-	missionary_schools = {
+	religious_education = {
 		missionaries = 1
 	}
-	church_attendance_duty = {
-		stability_cost_modifier = -0.25
+	group_worship = {
+		stability_cost_modifier = -0.10
 	}
-	divine_supremacy = { 
-		global_missionary_strength = 0.03
+	conversion = { 
+		global_missionary_strength = 0.02
 	}
-	devoutness = {
+	the_one_true_faith = {
 		tolerance_own = 1
 		papal_influence = 2
 		devotion = 0.5
@@ -170,10 +170,10 @@ religious_ideas = {
 		church_power_modifier = 0.1
 	}
 	religious_tradition = {
-		prestige = 1
+		prestige = 0.5
 	}
-	inquisition = {
-		global_heretic_missionary_strength = 0.02
+	religious_persecution = {
+		global_heretic_missionary_strength = 0.01
 	}
 	
 	ai_will_do = {
@@ -394,29 +394,29 @@ economic_ideas = {
 	category = ADM
 
 	bonus = {
-		development_cost = -0.2
+		development_cost = -0.1
 	}	
 	
-	bureaucracy = {
-		global_tax_modifier = 0.10
+	eminent_domain = {
+		global_tax_modifier = 0.05
 	}
-	organised_construction = {
-		build_cost = -0.20
+	skilled_builders = {
+		build_cost = -0.10
 	}
 	national_bank = {
-		inflation_reduction = 0.1
+		inflation_reduction = 0.05
 	}
 	debt_and_loans = {
 		interest = -1
 	}
 	centralization = {
-		global_autonomy = -0.05
+		global_autonomy = -0.02
 	}
 	nationalistic_enthusiasm = {
-		land_maintenance_modifier = -0.10
+		land_maintenance_modifier = -0.05
 	}
-	smithian_economics = {
-		production_efficiency = 0.1
+	economy = {
+		production_efficiency = 0.05
  	}
 	
 	ai_will_do = {
@@ -635,26 +635,26 @@ expansion_ideas = {
  		cb_on_overseas = yes
 	}
 
-	additional_colonists = {
-		colonists = 1
+	integration = {
+		core_creation = -0.10
 	}
 	additional_merchants = {
 		merchants = 1
 	}
-	faster_colonists = {
-		global_colonial_growth = 10
+	war_and_fear = {
+		unjustified_demands = -0.05
 	}
 	organised_recruiting = {
-		global_regiment_recruit_speed = -0.1
+		global_regiment_recruit_speed = -0.05
 	}	
 	additional_diplomats = {
 		diplomatic_upkeep = 1
 	}
 	improved_shipyards  = {
-		global_ship_recruit_speed = -0.1
+		global_ship_recruit_speed = -0.05
 	}
 	competetive_merchants  = {
-		global_trade_power = 0.2
+		global_trade_power = 0.1
 	}
 	
 	ai_will_do = {
@@ -684,29 +684,29 @@ administrative_ideas = {
 	category = ADM
 	
 	bonus = {
-		global_trade_goods_size_modifier = 0.1
+		global_trade_goods_size_modifier = 0.05
 	}
 
-	organised_mercenary_payment = {
-		mercenary_cost = -0.25
+	payment_haggling = {
+		mercenary_cost = -0.10
 	}
-	adaptability = {
-		core_creation = -0.25
+	rightful_land = {
+		core_creation = -0.15
 	}	
-	benefits_for_mercenaries = {
-		merc_maintenance_modifier = -0.33
+	mercenary_honor = {
+		merc_maintenance_modifier = -0.20
 	}
 	bookkeeping = {
 		interest = -1
 	}
 	organised_mercenary_recruitment = {
-		possible_mercenaries = 0.50
+		possible_mercenaries = 0.25
 	}
 	administrative_efficiency_idea = {
 		advisor_pool = 1
 	}
-	civil_servants = {
-		adm_tech_cost_modifier = -0.1
+	administrative_study = {
+		adm_tech_cost_modifier = -0.05
 	}
 	
 	ai_will_do = {
@@ -722,29 +722,29 @@ humanist_ideas = {
 	category = ADM
 	
 	bonus = {
-		idea_cost = -0.1
+		idea_cost = -0.05
 	}
 
 	tolerance_idea = {
-		religious_unity = 0.25
+		religious_unity = 0.15
 	}	
 	local_traditions = {
-		global_unrest = -2
+		global_unrest = -1
 	}
-	ecumenism = {
-		tolerance_heretic = 3
+	religion_cooperation = {
+		tolerance_heretic = 2
 	}	
 	indirect_rule = {
-		years_of_nationalism = -10
+		years_of_nationalism = -5
 	}
 	cultural_ties = {
-		accepted_culture_threshold = -0.5
+		accepted_culture_threshold = -0.25
 	}
 	benevolence = {
-		relations_decay_of_me = 0.33
+		relations_decay_of_me = 0.20
 	}	
-	humanist_tolerance = {
-		tolerance_heathen = 3
+	altruistic_tolerance = {
+		tolerance_heathen = 2
 	}		
 	
 	ai_will_do = {
