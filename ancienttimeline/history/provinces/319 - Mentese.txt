@@ -26,4 +26,5 @@ discovered_by = middle_eastern
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4666.12.12 = { owner = MCD controller = MCD add_core = MCD }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
+4719.1.1 = { owner = RHD controller = RHD add_core = RHD }
 4900.1.1 = { owner = ROM controller = ROM add_core ROM }

@@ -27,4 +27,6 @@ discovered_by = middle_eastern
 4624.1.1 = { owner = BIY controller = BIY add_core = BIY }
 4667.1.19 = { remove_core = ACA }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
+4719.1.1 = { owner = BIY controller = BIY add_core = BIY remove_core = THR }
 4736.1.1 = { capital = "Nicomedia" base_tax = 3 base_manpower = 3 }
+4926.1.1 = { owner = ROM controller = ROM add_core = ROM }

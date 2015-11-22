@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = doric_greek
+religion = hellenism
+technology_group = mediterranean
+capital = 1036
