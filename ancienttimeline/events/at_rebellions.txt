@@ -29,36 +29,36 @@ country_event = {
     #}
 }
 
-# National decentralisation
-country_event = {
-    id = rebellions.2
-    title = "rebellions.EVTNAME2"
-    desc = "rebellions.EVTDESC2"
-    picture = CIVIL_WAR_eventPicture
-    
-    is_triggered_only = yes
-
-    trigger = {
-        has_country_modifier = increased_centralization
-    }
-
-    mean_time_to_happen = {
-        days = 1
-    }
-
-    option = {
-        name = "rebellions.EVTOPTA2"            # Crush the rebels
-        ai_chance = { factor = 55 }
-        random_owned_province = {
-            spawn_rebels = {
-                type = particularist_rebels
-                size = 2
-                win = yes
-                unrest = 15
-            }
-        }
-    }
-}
+## National decentralisation
+#country_event = {
+#    id = rebellions.2
+#    title = "rebellions.EVTNAME2"
+#    desc = "rebellions.EVTDESC2"
+#    picture = CIVIL_WAR_eventPicture
+#    
+#    is_triggered_only = yes
+#
+#    trigger = {
+#        has_country_modifier = increased_centralization
+#    }
+#
+#    mean_time_to_happen = {
+#        days = 1
+#    }
+#
+#    option = {
+#        name = "rebellions.EVTOPTA2"            # Crush the rebels
+#        ai_chance = { factor = 55 }
+#        random_owned_province = {
+#            spawn_rebels = {
+#                type = particularist_rebels
+#                size = 2
+#                win = yes
+#                unrest = 15
+#            }
+#        }
+#    }
+#}
 
 # End of centralization efforts
 country_event = {
