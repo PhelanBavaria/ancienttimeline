@@ -2,8 +2,6 @@ government = elective_monarchy
 government_rank = 2
 mercantilism = 0.1
 primary_culture = roman
-
-
 religion = hellenism
 technology_group = mediterranean
 capital = 118	# Rome
@@ -11,7 +9,7 @@ capital = 118	# Rome
 
 4247.1.1 = {
     monarch = {
-	    name = "Romulus Aeneid"
+		name = "Romulus Aeneid"
 		adm = 6
 		dip = 3
 		mil = 4
@@ -19,24 +17,27 @@ capital = 118	# Rome
 }
 
 4284.1.1 = {
-    monarch = {
-	    name = (interragnum)
+	monarch = {
+		name = "(Interregnum)"
 		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
 4285.1.1 = {
-    monarch = {
-	    name = "Numa Pompilius"
-	    adm = 5
+	monarch = {
+		name = "Numa Pompilius"
+		adm = 5
 		dip = 2
 		mil = 2
 	}
 }
 
 4327.1.1 = {
-    monarch = {
-	    name = "Tullus Hostilius"
+	monarch = {
+		name = "Tullus Hostilius"
 		adm = 2
 		dip = 0
 		mil = 5
@@ -44,8 +45,8 @@ capital = 118	# Rome
 }
 
 4359.1.1 = {
-    monarch = {
-	    name = "Ancus Marcius"
+	monarch = {
+		name = "Ancus Marcius"
 		adm = 4
 		dip = 2
 		mil = 3
@@ -53,26 +54,26 @@ capital = 118	# Rome
 }
 
 4384.1.1 = {
-    monarch = {
-	    name = "Lucius Tarquinius Priscus"
-	    adm = 3
-	    dip = 4
-	    mil = 4
+	monarch = {
+		name = "Lucius Tarquinius Priscus"
+		adm = 3
+		dip = 4
+		mil = 4
 	}
 }
 
 4422.1.1 = {
-    monarch = {
-	    name = "Servius Tullius"
-	    adm = 2
-	    dip = 4
-	    mil = 3
+	monarch = {
+		name = "Servius Tullius"
+		adm = 2
+		dip = 4
+		mil = 3
     } 	
 }
 
 4465.1.1 = {
-    monarch = {
-	    name = "Lucius Tarquinius Superbus"
+	monarch = {
+		name = "Lucius Tarquinius Superbus"
 		adm = 0
 		dip = 1
 		mil = 2

@@ -1,22 +1,22 @@
 namespace = gen
 
-province_event = {
-
-    id = gen.1
-    hidden = yes
-
-    trigger = {
-        owner = { is_at_war = yes }
-    }
-    mean_time_to_happen = {
-        months = 0.01
-    }
-
-    controller = {
-        add_core = ROOT
-        ROOT = { cede_province = PREV }
-    }
-}
+#province_event = {
+#
+#    id = gen.1
+#    hidden = yes
+#
+#    trigger = {
+#        owner = { is_at_war = yes }
+#    }
+#    mean_time_to_happen = {
+#        months = 1
+#    }
+#
+#    controller = {
+#        add_core = ROOT
+#        ROOT = { cede_province = PREV }
+#    }
+#}
 
 country_event = {
     id = gen.2
@@ -28,7 +28,7 @@ country_event = {
 
     trigger = {
         OR = {
-            ligitimacy = 50
+            legitimacy = 50
             has_regency = yes
         }
         any_core_province = {

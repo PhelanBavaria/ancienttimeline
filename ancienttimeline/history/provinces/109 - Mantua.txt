@@ -16,6 +16,6 @@ discovered_by = mediterranean
 discovered_by = east_celtic
 discovered_by = gauls
 
-4250.1.1 = { owner = ETR controller = ETR add_core = ETR citysize = 1000 trade_goods = grain}
+4250.1.1 = { owner = ETR controller = ETR add_core = ETR citysize = 1000 trade_goods = grain }
 4609.1.1 = { owner = SEN controller = SEN add_core = SEN culture = gallian religion = druidism }
-4805.1.1 = { owner = ROM controller = ROM add_core ROM }
+4805.1.1 = { owner = ROM controller = ROM add_core = ROM }

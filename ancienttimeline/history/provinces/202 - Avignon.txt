@@ -15,4 +15,4 @@ native_hostileness = 6
 discovered_by = gauls
 
 4500.1.1 = { owner = VOC controller = VOC add_core = VOC citysize = 1000 trade_goods = cloth }
-4879.1.1 = { owner = ROM controller = ROM add_core ROM }
+4879.1.1 = { owner = ROM controller = ROM add_core = ROM }

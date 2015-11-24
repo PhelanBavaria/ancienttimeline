@@ -18,6 +18,6 @@ province_event = {
 
 	option = {
 		name = prab.EVTOPTA1
-		cede_province = ZZZ
+		cede_province = XXX
 	}
 }

@@ -17,4 +17,4 @@ discovered_by = east_celtic
 discovered_by = gauls
 
 4600.1.1 = { owner = OXY controller = OXY add_core = OXY citysize = 1000 trade_goods = fish }
-4879.1.1 = { owner = ROM controller = ROM add_core ROM }
+4879.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -26,4 +26,4 @@ discovered_by = middle_eastern
 4658.1.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA culture = attic_greek }
 4698.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
 4719.1.1 = { owner = SLC controller = SLC add_core = SLC }
-4900.1.1 = { owner = ROM controller = ROM add_core ROM }
+4900.1.1 = { owner = ROM controller = ROM add_core = ROM }

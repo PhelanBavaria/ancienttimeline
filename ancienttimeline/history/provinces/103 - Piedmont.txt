@@ -17,4 +17,4 @@ discovered_by = east_celtic
 discovered_by = gauls
 
 4609.1.1 = { owner = SLS controller = SLS add_core = SLS citysize = 1000 trade_goods = cloth }
-4775.1.1 = { owner = ROM controller = ROM add_core ROM }
+4775.1.1 = { owner = ROM controller = ROM add_core = ROM }

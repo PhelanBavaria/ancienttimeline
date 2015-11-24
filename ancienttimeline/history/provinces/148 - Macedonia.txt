@@ -26,4 +26,4 @@ discovered_by = middle_eastern
 #4665.6.1 = {  }
 4712.1.1 = { owner = THR controller = THR }
 4719.1.1 = { owner = MCD controller = MCD }
-4854.1.1 = { owner = ROM controller = ROM add_core ROM }
+4854.1.1 = { owner = ROM controller = ROM add_core = ROM }

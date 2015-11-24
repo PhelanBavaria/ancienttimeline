@@ -23,4 +23,4 @@ discovered_by = celtiberians
 discovered_by = middle_eastern
 
 
-4900.1.1 = { owner = ROM controller = ROM add_core ROM }
+4900.1.1 = { owner = ROM controller = ROM add_core = ROM }
