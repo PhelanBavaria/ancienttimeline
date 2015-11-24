@@ -193,11 +193,11 @@ spy_ideas = {
 		rebel_support_efficiency = 0.50
 	}
 	
-	privateers = {
+	pirates = {
 		embargo_efficiency = 0.25
 		privateer_efficiency = 0.33
 	}
-	vetting = {
+	trustworthy_administration = {
 		global_spy_defence = 0.25
 	}
 	rumourmongering = {
@@ -235,16 +235,16 @@ diplomatic_ideas = {
 		reduced_stab_impacts = yes
 	}
 
-	foreign_embassies = {
+	diplomats = {
 		diplomats = 1
 	}
-	cabinet = {
+	council = {
 		diplomatic_upkeep = 1
 	}
-	war_cabinet = {
+	war_council = {
 		war_exhaustion_cost = -0.33
 	}
-	benign_diplomats = {
+	lingual_education = {
 		improve_relation_modifier = 0.25
 	}
 	experienced_diplomats  = {
@@ -253,7 +253,7 @@ diplomatic_ideas = {
 	flexible_negotiation = {
 		province_warscore_cost = -0.2
 	}
-	diplomatic_corps = {
+	diplomatic_records = {
 		dip_tech_cost_modifier = -0.1
 	}
 	
@@ -356,16 +356,16 @@ trade_ideas = {
   	free_trade = {
   		merchants = 1
   	}
-	merchant_adventures = {
+	travelling_merchants = {
 		trade_range_modifier = 0.25
 	}
-	national_trade_policy = {
+	encourage_trade = {
 		trade_efficiency = 0.1
 	}
 	overseas_merchants = {
 		merchants = 1
 	}
-	trade_manipulation = {
+	convincing_merchants = {
 		trade_steering = 0.25
 		caravan_power = 0.20
 	}
@@ -448,7 +448,7 @@ exploration_ideas = {
 	colonial_ventures = {
 		colonists = 1
 	}
-	quest_for_the_new_world	= {
+	distant_exploration	= {
 		may_explore = yes
 	}
 	overseas_exploration = {
@@ -457,13 +457,13 @@ exploration_ideas = {
 	land_of_opportunity = {
 		global_colonial_growth = 20
 	}
-	vice_roys  = {
+	new_land_taxes  = {
  		global_tariffs = 0.20
  	}
-	free_colonies = {
-		colonists = 1
+	guerilla_warfare = {
+		land_attrition = -0.10
 	}
-	global_empire = {
+	colonization_fleets = {
 		naval_forcelimit_modifier = 0.25
 	}
 	
@@ -520,7 +520,7 @@ maritime_ideas = {
 		sea_repair = yes
 	}
 
-	sea_hawks = {
+	trained_ship_captains = {
 		navy_tradition = 1
 	}
 	merchant_marine = {
@@ -529,16 +529,16 @@ maritime_ideas = {
 	sheltered_ports = {
 		global_ship_repair = 0.2
 	}
-	grand_navy = {
+	naval_expansion = {
 		naval_forcelimit_modifier = 0.5
 	}
-	ships_penny = {
+	ship_slaves = {
 		global_ship_cost = -0.1
 	}
 	excellent_shipwrights = {
 		leader_naval_manuever = 2
 	}
-	naval_fighting_instruction = {
+	blockades = {
 		blockade_efficiency = 0.5
 	}
 	
@@ -769,20 +769,20 @@ influence_ideas = {
 	claim_fabrication = {
 		fabricate_claims_time = -0.33
 	}		
-	integrated_elites = {
+	client_kings = {
 		diplomatic_annexation_cost = -0.25
 	}
-	state_propaganda = {
+	tales_of_evil = {
 		ae_impact = -0.2
 	}
 	diplomatic_influence = {
 		diplomatic_reputation = 2
 	}
-	postal_service = {
+	messengers = {
 		envoy_travel_time = -0.25
 		diplomatic_upkeep = 1
 	}
-	marcher_lords = {
+	subject_drafting = {
 		vassal_forcelimit_bonus = 0.5
 	}	
 	
