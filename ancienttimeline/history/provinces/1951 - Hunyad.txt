@@ -11,3 +11,5 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+4993.1.1 = { owner = DAC controller = DAC add_core = DAC citysize = 1000 trade_goods = salt }

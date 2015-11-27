@@ -1,0 +1,7 @@
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = dacian
+religion = zamolxism
+technology_group = balkan_group
+capital = 1951  #Hunyad
