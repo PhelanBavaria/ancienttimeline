@@ -1,0 +1,33 @@
+name = "First Macedonian War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4786.1.1 = {
+	add_attacker = ROM
+	add_defender = MCD
+}
+
+4789.1.1 = {
+	add_attacker = AET
+}
+
+4790.4.1 = {
+	add_attacker = PGM
+	add_attacker = ELI
+}
+
+4790.5.1 = {
+	add_attacker = SPR
+}
+
+4795.1.1 = {
+	rem_attacker = ROM
+	rem_attacker = AET
+	rem_attacker = PGM
+	rem_attacker = SPR
+	rem_attacker = ELI
+	rem_defender = MCD
+}
