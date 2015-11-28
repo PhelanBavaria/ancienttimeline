@@ -1,0 +1,24 @@
+name = "Second Macedonian War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4800.1.1 = {
+	add_attacker = ROM
+	add_attacker = PGM
+	add_attacker = RHD
+	add_attacker = AET
+	add_attacker = ATH
+	add_defender = MCD
+}
+
+4803.1.1 = {
+	rem_attacker = ROM
+	rem_attacker = PGM
+	rem_attacker = RHD
+	rem_attacker = AET
+	rem_attacker = ATH
+	rem_defender = MCD
+}

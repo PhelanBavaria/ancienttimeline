@@ -8,6 +8,7 @@ war_goal = {
 4786.1.1 = {
 	add_attacker = ROM
 	add_defender = MCD
+	add_defender = ACH
 }
 
 4789.1.1 = {
@@ -30,4 +31,5 @@ war_goal = {
 	rem_attacker = SPR
 	rem_attacker = ELI
 	rem_defender = MCD
+	rem_defender = ACH
 }
