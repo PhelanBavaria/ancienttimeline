@@ -25,3 +25,4 @@ discovered_by = middle_eastern
 4665.9.12 = { owner = MCD controller = MCD }
 4699.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
 4719.1.1 = { owner = MYT controller = MYT add_core = MYT remove_core = THR }
+4921.1.1 = { owner = ROM controller = ROM add_core = ROM }

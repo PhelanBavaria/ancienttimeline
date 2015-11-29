@@ -1,4 +1,4 @@
-#201 - Provence
+#201 - Massilia
 
 capital = "Massilia"
 culture = ionic_greek

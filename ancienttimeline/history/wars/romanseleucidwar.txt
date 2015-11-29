@@ -1,0 +1,28 @@
+name = "Roman-Seleucid War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4808.1.1 = {
+	add_attacker = SLC
+	add_attacker = AET
+	add_attacker = CAP
+	add_defender = ROM
+	add_defender = ACH
+	add_defender = MCD
+	add_defender = PGM
+	add_defender = RHD
+}
+
+4812.1.1 = {
+	rem_attacker = SLC
+	rem_attacker = AET
+	rem_attacker = CAP
+	rem_defender = ROM
+	rem_defender = ACH
+	rem_defender = MCD
+	rem_defender = PGM
+	rem_defender = RHD
+}

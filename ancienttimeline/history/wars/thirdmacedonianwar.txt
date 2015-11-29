@@ -1,0 +1,18 @@
+name = "Third Macedonian War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4829.1.1 = {
+	add_attacker = ROM
+	add_attacker = PGM
+	add_defender = MCD
+}
+
+4832.1.1 = {
+	rem_attacker = ROM
+	rem_attacker = PGM
+	rem_defender = MCD
+}

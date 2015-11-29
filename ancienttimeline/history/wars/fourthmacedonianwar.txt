@@ -1,0 +1,16 @@
+name = "Fourth Macedonian War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4850.1.1 = {
+	add_attacker = ROM
+	add_defender = MCD
+}
+
+4852.1.1 = {
+	rem_attacker = ROM
+	rem_defender = MCD
+}

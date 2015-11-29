@@ -1,0 +1,20 @@
+name = "Achaean War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4854.1.1 = {
+	add_attacker = ROM
+	add_defender = ACH
+	add_defender = ELI
+	add_defender = SPR
+}
+
+4854.3.1 = {
+	rem_attacker = ROM
+	rem_defender = ACH
+	rem_defender = ELI
+	rem_defender = SPR
+}

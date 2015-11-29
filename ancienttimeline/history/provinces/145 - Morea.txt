@@ -23,5 +23,5 @@ discovered_by = celtiberians
 discovered_by = middle_eastern
 
 4665.9.12 = { owner = MCD controller = MCD }
-4677.6.11 = { owner = SPR controller = SPR }
-4900.1.1 = { owner = ROM controller = ROM add_core = ROM }
+4677.6.11 = { owner = SPR controller = SPR add_core = SPR }
+4854.3.1 = { owner = ROM controller = ROM add_core = ROM }
