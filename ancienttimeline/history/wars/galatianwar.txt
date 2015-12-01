@@ -1,0 +1,18 @@
+name = "Galatian War"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+4811.1.1 = {
+	add_attacker = ROM
+	add_attacker = PGM
+	add_defender = GLT
+}
+
+4811.6.1 = {
+	rem_attacker = ROM
+	rem_attacker = PGM
+	rem_defender = GLT
+}
