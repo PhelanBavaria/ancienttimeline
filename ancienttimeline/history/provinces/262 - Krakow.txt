@@ -19,3 +19,4 @@ native_hostileness = 6
 	}
 }
 
+5006.1.1 = { owner = HVC controller = HVC add_core = HVC citysize = 1000 trade_goods = cloth }

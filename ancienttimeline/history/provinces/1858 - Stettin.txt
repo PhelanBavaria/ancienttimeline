@@ -19,3 +19,4 @@ native_hostileness = 6
 		}
 }
 
+5006.1.1 = { owner = LEM controller = LEM add_core = LEM citysize = 1000 trade_goods = naval_supplies }

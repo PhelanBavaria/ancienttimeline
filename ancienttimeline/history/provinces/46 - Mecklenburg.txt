@@ -11,3 +11,5 @@ capital = "Schwerin"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+5006.1.1 = { owner = NUT controller = NUT add_core = NUT citysize = 1000 trade_goods = grain }

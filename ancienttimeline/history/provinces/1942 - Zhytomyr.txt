@@ -9,3 +9,4 @@ trade_goods = unknown
 base_manpower = 2
 capital = "Zhytomyr"
 
+5006.1.1 = { owner = BAS controller = BAS add_core = BAS citysize = 1000 trade_goods = grain }

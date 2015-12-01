@@ -1,0 +1,7 @@
+government = tribal_monarchy
+government_rank = 2
+mercantilism = 0.1
+primary_culture = north_germanic
+religion = germanic
+technology_group = barbarian
+capital = 74

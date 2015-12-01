@@ -11,3 +11,5 @@ capital = "Stolp"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+5006.1.1 = { owner = RUG controller = RUG add_core = RUG citysize = 1000 trade_goods = fish }

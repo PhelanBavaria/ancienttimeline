@@ -1,0 +1,6 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = pommeranian
+religion = germanic
+technology_group = barbarian
+capital = 47
