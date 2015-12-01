@@ -4,3 +4,17 @@ vassal = {
 	start_date = 4811.6.1
 	end_date = 4911.1.1
 }
+
+vassal = {
+	first = PON
+	second = CAP
+	start_date = 4899.1.1
+	end_date = 4915.1.1
+}
+
+vassal = {
+	first = ROM
+	second = CAP
+	start_date = 4915.1.1
+	end_date = 5017.1.1
+}

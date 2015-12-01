@@ -19,3 +19,14 @@ discovered_by = middle_eastern
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4665.4.15 = { owner = PON controller = PON add_core = PON remove_core = ACA }
+4724.1.1 = { owner = GLT controller = GLT add_core = GLT }
+4870.1.1 = { owner = PON controller = PON add_core = PON }
+4881.1.1 = { owner = GLT controller = GLT }
+4892.1.1 = { owner = BIY controller = BIY add_core = BIY }
+4911.1.1 = { owner = PON controller = PON }
+4916.1.1 = { owner = BIY controller = BIY }
+4926.1.1 = { owner = ROM controller = ROM }
+4927.1.1 = { owner = PON controller = PON }
+4930.1.1 = { owner = ROM controller = ROM }
+4932.1.1 = { owner = PON controller = PON }
+4934.1.1 = { owner = ROM controller = ROM add_core = ROM }

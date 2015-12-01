@@ -15,6 +15,5 @@ native_hostileness = 6
 discovered_by = mediterranean
 
 4484.1.1 = { owner = ACA controller = ACA add_core = ACA city_size = 1000 trade_goods = iron}
-4530.1.1 = { owner = ODR controller = ODR add_core = ODR }
-4580.1.1 = { owner = TRZ controller = TRZ add_core = TRZ }
+4540.1.1 = { owner = ODR controller = ODR add_core = ODR }
 5046.1.1 = { owner = ROM controller = ROM add_core = ROM capital = "Novae" }

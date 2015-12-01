@@ -15,8 +15,8 @@ native_hostileness = 6
 discovered_by = mediterranean
 
 4484.1.1 = { owner = ACA controller = ACA add_core = ACA city_size = 1000 trade_goods = fish}
-4530.1.1 = { owner = ODR controller = ODR add_core = ODR }
+4540.1.1 = { owner = ODR controller = ODR add_core = ODR }
 4658.1.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4698.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
-4719.1.1 = { owner = SLC controller = SLC add_core = SLC }
+4719.1.1 = { owner = ODR controller = ODR add_core = ODR }
 #Durostolon at split
