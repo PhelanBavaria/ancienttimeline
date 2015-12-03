@@ -89,6 +89,11 @@ spriteTypes = {
 		texturefile = "gfx//interface//sort_button_127.dds"
 	}		
 	
+	textSpriteType = {
+		name = "GFX_sort_button_128"
+		texturefile = "gfx//interface//sort_button_128.dds"
+	}			
+
 	spriteType = {
 		name = "GFX_sort_tradepower_button"
 		texturefile = "gfx//interface//sort_tradepower_button.dds"
@@ -159,13 +164,13 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_lower_tariff_button"
-		texturefile = "gfx//interface//lower_tariff_button.dds"
+		name = "GFX_decrease_tariffs_button"
+		texturefile = "gfx//interface//decrease_tariffs_button.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_customize_button"
-		texturefile = "gfx//interface//customize_button.dds"
+		name = "GFX_customize_subject_button"
+		texturefile = "gfx//interface//customize_subject_button.dds"
 	}
 
 	spriteType = {
@@ -189,8 +194,8 @@ spriteTypes = {
 	}	
 	
 	spriteType = {
-		name = "GFX_boost_tariff_button"
-		texturefile = "gfx//interface//boost_tariff_button.dds"
+		name = "GFX_increase_tariffs_button"
+		texturefile = "gfx//interface//increase_tariffs_button.dds"
 	}
 
 	spriteType = {
@@ -270,8 +275,8 @@ spriteTypes = {
 	
 	
 	spriteType = {
-		name = "GFX_boost_tariff_button"
-		texturefile = "gfx//interface//boost_tariff_button.dds"
+		name = "GFX_increase_tariffs_button"
+		texturefile = "gfx//interface//increase_tariffs_button.dds"
 	}
 
 	spriteType = {
@@ -280,8 +285,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_customize_button"
-		texturefile = "gfx//interface//customize_button.dds"
+		name = "GFX_customize_subject_button"
+		texturefile = "gfx//interface//customize_subject_button.dds"
 	}
 
 	spriteType = {
@@ -310,8 +315,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_lower_tariff_button"
-		texturefile = "gfx//interface//lower_tariff_button.dds"
+		name = "GFX_decrease_tariffs_button"
+		texturefile = "gfx//interface//decrease_tariffs_button.dds"
 	}
 
 	spriteType = {
@@ -377,8 +382,8 @@ spriteTypes = {
 
 	
 	spriteType = {
-		name = "GFX_boost_tariff_button_icon"
-		texturefile = "gfx//interface//boost_tariff_button_icon.dds"
+		name = "GFX_increase_tariffs_button_icon"
+		texturefile = "gfx//interface//increase_tariffs_button_icon.dds"
 	}
 
 	spriteType = {
@@ -387,8 +392,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_customize_button_icon"
-		texturefile = "gfx//interface//customize_button_icon.dds"
+		name = "GFX_customize_subject_button_icon"
+		texturefile = "gfx//interface//customize_subject_button_icon.dds"
 	}
 
 	spriteType = {
@@ -417,8 +422,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_lower_tariff_button_icon"
-		texturefile = "gfx//interface//lower_tariff_button_icon.dds"
+		name = "GFX_decrease_tariffs_button_icon"
+		texturefile = "gfx//interface//decrease_tariffs_button_icon.dds"
 	}
 
 	spriteType = {
@@ -481,11 +486,29 @@ spriteTypes = {
 		texturefile = "gfx//interface//promote_investments_button_icon.dds"
 	}		
 	
-	
+	spriteType = {
+		name = "GFX_grant_province_button_icon"
+		texturefile = "gfx//interface//grant_province_button_icon.dds"
+	}		
 	
 	spriteType = {
-		name = "GFX_boost_tariff_button_small"
-		texturefile = "gfx//interface//boost_tariff_button_small.dds"
+		name = "GFX_grant_core_claim_button_icon"
+		texturefile = "gfx//interface//grant_core_claim_button_icon.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_sacrifice_heir_button_icon"
+		texturefile = "gfx//interface//sacrifice_heir_button_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_sacrifice_ruler_button_icon"
+		texturefile = "gfx//interface//sacrifice_ruler_button_icon.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_increase_tariffs_button_small"
+		texturefile = "gfx//interface//increase_tariffs_button_small.dds"
 	}
 
 	spriteType = {
@@ -494,8 +517,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_customize_button_small"
-		texturefile = "gfx//interface//customize_button_small.dds"
+		name = "GFX_customize_subject_button_small"
+		texturefile = "gfx//interface//customize_subject_button_small.dds"
 	}
 
 	spriteType = {
@@ -524,8 +547,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_lower_tariff_button_small"
-		texturefile = "gfx//interface//lower_tariff_button_small.dds"
+		name = "GFX_decrease_tariffs_button_small"
+		texturefile = "gfx//interface//decrease_tariffs_button_small.dds"
 	}
 
 	spriteType = {
@@ -588,6 +611,23 @@ spriteTypes = {
 		texturefile = "gfx//interface//promote_investments_button_small.dds"
 	}		
 
-
 	
+
+	spriteType = {
+		name = "GFX_subject_action_bg"
+		texturefile = "gfx//interface//subject_action_bg.dds"
+	}	
+	spriteType = {
+		name = "GFX_subject_actions_bg"
+		texturefile = "gfx//interface//subject_actions_bg.dds"
+	}	
+	spriteType = {
+		name = "GFX_subject_actions_red_bg"
+		texturefile = "gfx//interface//subject_actions_red_bg.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_subject_interactions_button_small"
+		texturefile = "gfx//interface//subject_interactions_button_small.dds"
+	}		
 }

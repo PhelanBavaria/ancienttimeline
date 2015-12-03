@@ -31,10 +31,10 @@ categories =  {
 		color = { 235 235 235 }
 		
 		local_development_cost = 0.5
-		nation_designer_cost_multiplier = 0.75	
+		nation_designer_cost_multiplier = 0.75		
 		
 		terrain_override = {		
-998 999 1036 1037 1038 1781 1782 1783 1804 1807 2119 2090 2911 3020
+998 999 1036 1037 1038 1104 1105 1781 1782 1783 1804 1807 2119 2090 2911 3020
 		}
 	}
 
@@ -42,10 +42,11 @@ categories =  {
 	farmlands = {
 		movement_cost = 1.10
 		
+		local_development_cost = -0.05
 		supply_limit = 10
-		allowed_num_of_buildings = 2
-		nation_designer_cost_multiplier = 1.1
-
+		allowed_num_of_buildings = 1
+		nation_designer_cost_multiplier = 1.05
+	
 		sound_type = plains
 		color = { 179 255 64 }
 		
@@ -103,6 +104,8 @@ categories =  {
 		sound_type = forest
 		color = { 31 116 16 }
 		
+		
+		
 		terrain_override = {
 2 4 8 9 11 18 315 # Sweden
 309 1955 #Russia
@@ -126,8 +129,10 @@ categories =  {
 		nation_designer_cost_multiplier = 0.85
 		supply_limit = 5
 
-		sound_type = mountain
+		
 		color = { 113 176 151 }
+		
+		
 
 		
 		terrain_override = {
@@ -145,6 +150,7 @@ categories =  {
 2150 3147 1108 1089 1088 2877 1085
 		}
 
+		sound_type = mountain
 	}
 
 	#woods
@@ -155,10 +161,10 @@ categories =  {
 		combat_width = -0.20
 		nation_designer_cost_multiplier = 0.9
 		supply_limit = 6
-		
-		sound_type = forest
-		color = { 41 155 22 }
 
+		
+		
+		color = { 41 155 22 }
 		terrain_override = {
 206 1746 1851 # Spain
 373 374 375 376 #Ireland
@@ -198,6 +204,7 @@ categories =  {
 2010 2012 2018 2879 1087 2876
 		}
 
+		sound_type = forest
 	}
 	
 	#mountain
@@ -209,7 +216,6 @@ categories =  {
 		combat_width = -0.50
 		nation_designer_cost_multiplier = 0.75
 		supply_limit = 4
-		sound_type = mountain
 
 		color = { 105 24 4 }
 		
@@ -231,6 +237,7 @@ categories =  {
 1048 2560 2562 729 2563 2564 731 2554 2553 2510 222 223 1109 
 		}
 
+		sound_type = mountain
 	}
 	
 
@@ -252,7 +259,7 @@ categories =  {
 		nation_designer_cost_multiplier = 1
 
 		sound_type = plains
-		color = { 171 255 92 }
+		color = { 130 255 47 }
 		
 		terrain_override = {
 2938 # North America
@@ -304,7 +311,6 @@ categories =  {
 		supply_limit = 5
 		sound_type = jungle
 		color = { 98 163 18 }
-
 		terrain_override = {
 2249
 1237 1245 2425 #South East Asia
@@ -334,9 +340,6 @@ categories =  {
 		nation_designer_cost_multiplier = 0.85
 		supply_limit = 5
 
-		sound_type = forest
-		color = { 13 189 130 }
-		
 		terrain_override = {
 1860 #England
 97 100 #Netherlands
@@ -349,6 +352,9 @@ categories =  {
 2051 2321 2322 2065 2358 1217
 277 2832
 		}
+
+		sound_type = forest
+		color = { 13 189 130 }
 	}
 	
 	#desert
@@ -358,8 +364,6 @@ categories =  {
 		sound_type = desert
 		local_development_cost = 0.35
 		nation_designer_cost_multiplier = 0.8
-		
-		color = { 242 242 111 }
 		
 		terrain_override = {
 503 2182 2188 #India
@@ -374,6 +378,7 @@ categories =  {
 2698 1206 2699 2700 2701 2702 2703 2705 
 		}	
 		
+		color = { 242 242 111 }
 	}
 	
 	#coastal_desert
@@ -383,10 +388,7 @@ categories =  {
 		color = { 255 211 110 }
 		
 		local_development_cost = 0.25
-		nation_designer_cost_multiplier = 0.9	
-		supply_limit = 4
-		sound_type = desert
-		
+		nation_designer_cost_multiplier = 0.9		
 		
 		terrain_override = {
 792 2742 796 805 806 2719 2720 2743 793
@@ -397,17 +399,19 @@ categories =  {
 2696 1209 2697 2692 2690
 782 2099 
 		}
+	
+		supply_limit = 4
+		sound_type = desert
 	}
 	
 	coastline = {
 		movement_cost = 1.0
 
-		local_development_cost = 0.1
-		nation_designer_cost_multiplier = 0.95		
+		local_development_cost = 0.25
+		nation_designer_cost_multiplier = 0.85		
 		supply_limit = 6
 		sound_type = sea
-
-		color = { 49 175 191 }
+ 
 		
 		terrain_override = {
 213  # Spain
@@ -437,6 +441,7 @@ categories =  {
 1106 1236
 		}
 		
+		color = { 49 175 191 }
 	}	
 	
 	#drylands
@@ -444,10 +449,6 @@ categories =  {
 		movement_cost = 1.00
 		local_development_cost = 0.05
 		nation_designer_cost_multiplier = 0.95
-		supply_limit = 7
-		allowed_num_of_buildings = 1
-		sound_type = plains
-		color = { 232 172 102 }	
 			
 		terrain_override = {
 1749 224
@@ -475,7 +476,11 @@ categories =  {
 699 713 2885 2881 2462 2461
 2596 2856 1199 1202 1086 1084 2108 1092 1094 2600
 		}
-				
+		
+		supply_limit = 7
+		allowed_num_of_buildings = 1
+		sound_type = plains
+		color = { 232 172 102 }		
 	}
 
 	#highlands
@@ -485,9 +490,6 @@ categories =  {
 		local_defensiveness = 0.1
 		local_development_cost = 0.2
 		nation_designer_cost_multiplier = 0.9	
-		combat_width = -0.25
-		supply_limit = 6
-		sound_type = mountain
 
 		color = { 176 129 21 }
 
@@ -522,16 +524,17 @@ categories =  {
 3111 3112 3109 3110 148 3125 3134
 2296 1798 2167 2171 1792 2079 1246 2878 2163 2032 2127 1800 2023 1181
 		}
+
+		combat_width = -0.25
+		supply_limit = 6
+		sound_type = mountain
 	}
 
 	savannah = {
 		movement_cost = 1.00
 		local_development_cost = 0.15
 		nation_designer_cost_multiplier = 0.95	
-		supply_limit = 6
-		sound_type = plains
-		color = { 248 199 23  }
-			
+		
 		terrain_override = {
 768 2777 2829 2833 833 2715 2771 2776 2779 770 2780 
 2784 2781 2783 2801 2802 2072 2799 2804 2805 750 2831 
@@ -552,7 +555,10 @@ categories =  {
 1186 1192 2854 1195 2855 1196 1200 2030 2166 1198 1197 2034 2035 2165 2033
 2036 2153 2669 2045 2670 2064 2157 2129 3142 3145 1203
 		}
-				
+		
+		supply_limit = 6
+		sound_type = plains
+		color = { 248 199 23  }
 	}
 	
 	#steppe
@@ -604,12 +610,12 @@ categories =  {
 
 terrain
 {
-	plains				= { type = grasslands		color = { 	0	 } }
+	grasslands			= { type = grasslands		color = { 	0	 } }
 	hills				= { type = hills			color = { 	1	 } }
 	desert_mountain		= { type = mountain			color = { 	2	 } }
 	desert				= { type = desert			color = { 	3	 } }
 
-	grasslands			= { type = grasslands		color = { 	4	 } }
+	plains				= { type = grasslands		color = { 	4	 } }
 	terrain_5			= { type = grasslands		color = { 	5	 } }
 	mountain			= { type = mountain			color = { 	6	 } }
 	desert_mountain_low	= { type = desert			color = { 	7	 } }
@@ -629,6 +635,11 @@ terrain
 
 	coastal_desert_18	= { type = coastal_desert	color = { 	19	 } }
 	coastline			= { type = coastline		color = { 	35	 } }
+	
+	savannah			= { type = savannah 		color = {	20	 } }
+	drylands			= { type = drylands			color = {	22	 } }
+	highlands			= { type = highlands		color = {	23	 } }
+	dry_highlands		= { type = highlands		color = {	24	 } }
 	
 	woods				= { type = woods			color = { 	255	 } }
 	jungle				= { type = jungle			color = { 	254	 } }

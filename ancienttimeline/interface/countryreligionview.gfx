@@ -137,7 +137,22 @@ spriteTypes = {
 		name = "GFX_religion_convert_button"
 		texturefile = "gfx//interface//religion_convert_button.dds"	
 	}
+	
+	spriteType = {
+		name = "GFX_religion_secondary_convert_button"
+		texturefile = "gfx//interface//religion_secondary_convert_button.dds"	
+	}	
+	
+	spriteType = {
+		name = "GFX_change_religion_button"
+		texturefile = "gfx//interface//change_religion_button.dds"	
+	}	
 
+	spriteType = {
+		name = "GFX_secondary_religion_banner"
+		texturefile = "gfx//interface//secondary_religion_banner.dds"	
+	}	
+		
 	spriteType = {
 		name = "GFX_country_religion_view_bg"
 		texturefile = "gfx//interface//country_religion_view_bg.dds"

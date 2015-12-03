@@ -14,13 +14,17 @@
 # --------------------------------------------------------------
 
 # Restoration of recently broken PU
-cb_restore_personal_union = {
+cb_restore_personal_union = {	
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 120
 	
 	prerequisites = {
-		government = monarchy
+		OR = {
+			government = monarchy
+			government = dutch_republic
+		}
 		is_revolution_target = no
 	}
 	
@@ -29,6 +33,7 @@ cb_restore_personal_union = {
 
 # Defected province
 cb_defection = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -38,6 +43,7 @@ cb_defection = {
 
 # Cancelled loan
 cb_loan_cancelled = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -47,6 +53,7 @@ cb_loan_cancelled = {
 
 # Hostile spy discovered
 cb_spy_discovered = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -56,6 +63,7 @@ cb_spy_discovered = {
 
 # Vassal that broke free
 cb_disloyal_vassal = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 120
@@ -65,6 +73,7 @@ cb_disloyal_vassal = {
 
 # A HRE prince has been annexed
 cb_hre_attacked = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 60
@@ -74,6 +83,7 @@ cb_hre_attacked = {
 
 # War of Honor
 cb_insult = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	
@@ -84,6 +94,7 @@ cb_insult = {
 
 # Dishonored an alliance
 cb_dishonored_call = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 36
@@ -93,6 +104,7 @@ cb_dishonored_call = {
 
 # CB for vassalization missions
 cb_vassalize_mission = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 120
@@ -102,6 +114,7 @@ cb_vassalize_mission = {
 
 # CB for fabricated claim on throne. (from events)
 cb_fabricated_claims = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 12
@@ -111,6 +124,7 @@ cb_fabricated_claims = {
 
 # CB for Emperor against HRE members that refuse religious conformance
 cb_religious_conformance = {
+	valid_for_subject = no
 	
 	is_triggered_only = yes
 	months = 24
@@ -120,6 +134,7 @@ cb_religious_conformance = {
 
 # Friction along a border
 cb_border_war = {
+	valid_for_subject = no
 
 	is_triggered_only = yes
 	months = 12
@@ -129,6 +144,8 @@ cb_border_war = {
 
 # Trade War (from events and others)
 cb_trade_war_triggered = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -136,6 +153,8 @@ cb_trade_war_triggered = {
 }
 
 cb_trade_conflict = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -143,6 +162,8 @@ cb_trade_conflict = {
 }
 
 cb_annex = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 24
 
@@ -150,6 +171,8 @@ cb_annex = {
 }
 
 cb_change_government = {
+	valid_for_subject = no
+
 	is_triggered_only = yes
 	months = 120
 
@@ -211,35 +234,14 @@ cb_independence_war = {
 		is_subject = yes
 		is_subject_of = FROM
 		NOT = { is_colonial_nation_of = FROM }
+		OR = {
+			NOT = { government = daimyo }
+			NOT = { from = { government = shogunate } }
+		}
 		is_revolution_target = no
 	}
 
 	war_goal = defend_capital_independence
-}
-
-# Colonial Independance
-cb_colonial_independance_war = {
-	exclusive = yes
-	independence = yes
-	
-	prerequisites = {
-		is_subject = yes
-		is_colonial_nation_of = FROM
-		is_revolution_target = no
-	}
-		
-	war_goal = defend_capital_independence
-}
-
-# Colonialist CB
-cb_colonial = {
-	
-	prerequisites = {
-		colony_claim = FROM
-		is_revolution_target = no
-	}
-	
-	war_goal = take_colony	
 }
 
 # Liberation CB
@@ -252,59 +254,21 @@ cb_liberation = {
 	war_goal = take_capital_liberation
 }
 
-# Liberation of same-faith provinces
-cb_religious_liberation = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		always = no
-		NOT = { religion_group = FROM }
-		religion_group_claim = FROM
-		OR = {
-			cb_on_religious_enemies = yes
-		}
-		OR = {
-			hre_religion_treaty = no
-			capital_scope = { is_part_of_hre = no }
-			FROM = { capital_scope = { is_part_of_hre = no } }
-		}	
-		is_revolution_target = no		
-	}
-	
-	war_goal = take_province_religion
-}
-
-# Purging of Heresy
-cb_heretic = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		is_neighbor_of = FROM
-		cb_on_religious_enemies = yes
-		religion_group = from
-		NOT = { religion = from }
-		OR = {
-			NOT = { has_dlc = "Art of War" }
-			hre_religion_treaty = no
-			capital_scope = { is_part_of_hre = no }
-			FROM = { capital_scope = { is_part_of_hre = no } }
-		}		
-		is_revolution_target = no	
-	}
-	
-	allowed_provinces = {
-		always = yes
-	}
-
-	war_goal = superiority_heretic
-}
-
 # Trade War
 cb_trade_war = {
 	
 	prerequisites = {
-		trade_embargo_by = FROM
-		NOT = { FROM = { trade_embargo_by = ROOT } }
+		
+		OR = {
+			AND = {
+				trade_embargo_by = FROM
+				NOT = { FROM = { trade_embargo_by = ROOT } }
+			}
+			AND = {
+				government = merchant_republic
+				FROM = { government = merchant_republic }
+			}
+		}
 		is_revolution_target = no
 	}
 	
@@ -349,6 +313,7 @@ cb_liberate_elector = {
 
 # Coalition CB
 cb_super_badboy = {
+	coalition = yes
 
 	prerequisites = {	
 		coalition_target = FROM
@@ -362,53 +327,6 @@ cb_super_badboy = {
 	}
 	
 	war_goal = superiority_punitive
-}
-
-# War on "primitives" (annexable religion)
-cb_primitives = {
-	valid_for_subject = no
-	
-	prerequisites = {
-		OR = {
-			cb_on_primitives = yes
-			AND = {
-				is_colonial_nation = yes
-				is_neighbor_of = FROM
-			}
-		}
-		NOT = { has_country_modifier = the_proclamation_of_year_timer } # Used from event
-		FROM = { 
-			primitives = yes 
-			is_subject = no
-		}
-		is_revolution_target = no
-	}
-	
-	war_goal = superiority_primitives	
-}
-
-cb_overseas = {
-	valid_for_subject = no
-
-	prerequisites = {
-		cb_on_overseas = yes
-		OR = {
-			technology_group = mediterranean
-			technology_group = middle_eastern
-		}
-
-		FROM = { 
-			primitives = no
-			is_subject = no
-			NOT = { technology_group = mediterranean }
-			NOT = { technology_group = middle_eastern }
-			NOT = { technology_group = indian }
-		}
-		is_subject = no
-		is_revolution_target = no
-	}
-	
-	war_goal = superiority_overseas	
 }
 
 # Claim Throne
@@ -522,47 +440,6 @@ cb_support_rebels = {
 	war_goal = take_capital_support_rebels
 }
 
-# Revolution
-cb_crush_the_revolution = {
-	ai_peace_desire = -50
-	valid_for_subject = no
-
-	prerequisites = {
-		OR = {	
-			capital_scope = { continent = europe }
-			is_neighbor_of = FROM
-		}
-		revolution_target_exists = yes
-		is_revolution_target = no
-		is_subject = no
-		OR = {
-			government = absolute_monarchy
-			government = enlightened_despotism
-			government = despotic_monarchy
-			government = feudal_monarchy
-			government = administrative_monarchy
-			government = constitutional_monarchy
-			government = bureaucratic_despotism
-		}
-		NOT = {
-			revolution_target = {
-				war_with = ROOT
-			}
-			revolution_target = {
-				truce_with = ROOT
-			}
-			revolution_target = {
-				alliance_with = ROOT
-			}  
-		}
-		FROM = {
-			is_revolution_target = yes
-		}
-	}
-	
-	war_goal = take_capital_revolution
-}
-
 cb_religious_league = {
 	league = yes
 	ai_peace_desire = -50
@@ -622,35 +499,19 @@ cb_maya_expansion = {
 	war_goal = take_capital_imperial
 }
 
+# Force migration
+cb_force_migration = {
 
-############################
-### - Ancient Timeline - ###
-############################
-
-
-# Forceful Vassalization
-#cb_forceful_vassalization = {
-#	prerequisites = {
-#		culture_group = gaelic
-#		OR = {
-#			personality = ai_militarist
-#			personality = human
-#		}
-#		OR = {  # Can't do "NOT = {has_country_modifier = #minimum_centralization}" because then players could use it #right at the start
-#			has_country_modifier = low_centralization
-#			has_country_modifier = high_centralization
-#			has_country_modifier = maximum_centralization
-#		}
-#		OR = {
-#			government = tribal_federation
-#			government = tribal_kingdom
-#		}
-#		NOT = { is_subject_of = FROM }
-#		FROM = {
-#			NOT = { is_subject_of = ROOT }
-#		}
-#		is_neighbor_of = FROM
-#	}
-#
-#	war_goal = take_capital_vassalize
-#}
+	valid_for_subject = no
+	
+	prerequisites = {
+		has_dlc = "The Cossacks"
+		is_neighbor_of = FROM
+		is_subject = no
+		FROM = {
+			can_migrate = yes
+			is_subject = no
+		}
+	}	
+	war_goal = force_migration
+}

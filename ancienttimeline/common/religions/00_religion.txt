@@ -16,6 +16,10 @@ abrahamic = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
 		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
 		
 		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }
 	}
@@ -26,6 +30,10 @@ abrahamic = {
 		country = {
 			tolerance_own = 2
 			advisor_pool = 1
+		}
+		country_as_secondary = {
+			advisor_pool = 1
+			advisor_cost = -0.1
 		}
 		province = {
 			local_missionary_strength = -0.01
@@ -52,6 +60,10 @@ dharmic = {
 			tolerance_heretic = 2
 			tolerance_heathen = 1
 		}
+		country_as_secondary = {
+			global_tax_modifier = 0.1
+			tolerance_heathen = 2
+		}
 		on_convert = {
 			change_religion = mahayana
 			add_prestige = -100
@@ -76,6 +88,10 @@ dharmic = {
 		country = {
 			tolerance_heretic = 2
 			advisor_cost = -0.1
+		}
+		country_as_secondary = {
+			development_cost = -0.1
+			diplomats = 1
 		}
 		on_convert = {
 			change_religion = buddhism
@@ -102,6 +118,10 @@ dharmic = {
 		country = {
 			tolerance_heathen = 1
 			tolerance_own = 1
+		}
+		country_as_secondary = {
+			tolerance_heretic = 1
+			tolerance_heathen = 2
 		}
 
 		personal_deity = yes
@@ -130,6 +150,10 @@ dharmic = {
 			global_tax_modifier = 0.05
 			tolerance_heretic = 3
 		}
+		country_as_secondary = {
+			tolerance_heathen = 2
+			global_unrest = -1
+		}
 		on_convert = {
 			change_religion = jainism
 			add_prestige = -100
@@ -153,6 +177,10 @@ dharmic = {
 			land_morale = 0.10
 			defensiveness = 0.2
 		}
+		country_as_secondary = {
+			land_morale = 0.05
+			defensiveness = 0.2
+		}
 
 		heretic = { BHAKTI }
 	}
@@ -166,6 +194,10 @@ dharmic = {
 		country = {
 			tolerance_own = 2
 			advisor_cost = -0.1
+		}
+		country_as_secondary = {
+			horde_unity = 1
+			tolerance_own = 1
 		}
 
 		personal_diety = yes
@@ -188,6 +220,10 @@ eastern = {
 			tolerance_heretic = 2
 			tolerance_heathen = 1
 		}
+		country_as_secondary = {
+			adm_tech_cost_modifier = -0.1
+			stability_cost_modifier = -0.1
+		}
 		
 		heretic = { TAOIST }
 	}
@@ -201,6 +237,10 @@ eastern = {
 		country = {
 			land_morale = 0.1
 			tolerance_heathen = -1
+		}
+		country_as_secondary = {
+			discipline = 0.05
+			global_unrest = -1
 		}
 		
 		heretic = { SHUGENDO }
@@ -218,6 +258,10 @@ eastern = {
 			land_morale = 0.1
 			tolerance_heathen = 1
 		}
+		country_as_secondary = {
+			discipline = 0.05
+			stability_cost_modifier = -0.1
+		}
 		
 		heretic = { SHUGENDO }
 	}
@@ -231,6 +275,10 @@ eastern = {
 		country = {
 			tolerance_heretic = 2
 			tolerance_heathen = 1
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+			loot_amount = 0.25
 		}
 		
 		heretic = { TAOIST }
@@ -254,6 +302,10 @@ pagan = {
 			tolerance_own = 1
 			global_unrest = -1
 		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 		
@@ -269,6 +321,10 @@ pagan = {
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
 		}
 		
 		heretic = { GOAT_SKULL }
@@ -294,6 +350,10 @@ hellenic = {
 			global_tax_modifier = 0.05
 			tolerance_heathen = 2
 		}
+		country_as_secondary = {
+			infantry_power = 0.1
+			technology_cost = -0.05
+		}
 
 		personal_deity = yes
 
@@ -308,7 +368,11 @@ hellenic = {
 		}
 		country = {
 			global_tax_modifier = 0.05
+			tolerance_heathen = 1
+		}
+		country_as_secondary = {
 			tolerance_heathen = 2
+			siege_ability = 0.1
 		}
 
 		personal_deity = yes
@@ -326,6 +390,10 @@ hellenic = {
 			global_tax_modifier = 0.05
 			tolerance_heathen = 1
 		}
+		country_as_secondary = {
+			infantry_power = 0.1
+			tolerance_heathen = 1
+		}
 
 		heretic = { SERAPIS }
 	}
@@ -338,6 +406,10 @@ hellenic = {
 		}
 		country = {
 			trade_efficiency = 0.1
+			tolerance_heathen = 1
+		}
+		country_as_secondary = {
+			caravan_power = 0.2
 			tolerance_heathen = 1
 		}
 
@@ -378,6 +450,10 @@ iranian = {
 			tolerance_own = 2
 			trade_efficiency = 0.1
 		}
+		country_as_secondary = {
+			merchants = 1
+			tolerance_own = 1
+		}
 		
 		heretic = { MAZDAKI ZURVANITE }	
 	}
@@ -391,6 +467,10 @@ iranian = {
 		country = {
 			tolerance_own = 2
 			cavalry_cost = -0.15
+		}
+		country_as_secondary = {
+			cavalry_power = 0.1
+			tolerance_heathen = 2
 		}
 		
 		heretic = { MAZDAKI ZURVANITE }	
@@ -414,6 +494,10 @@ american_pagan = {
 			tolerance_own = 1
 			global_unrest = -1
 		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 		
@@ -426,6 +510,10 @@ american_pagan = {
 		country = {
 			tolerance_own = 1
 			advisor_pool = 1
+		}
+		country_as_secondary = {
+			advisor_pool = 1
+			stability_cost_modifier = -0.1
 		}
 		province = {
 			local_missionary_strength = 0.02
@@ -447,6 +535,10 @@ american_pagan = {
 			tolerance_own = 1
 			global_tax_modifier = 0.05
 		}
+		country_as_secondary = {
+			advisor_pool = 1
+			global_tax_modifier = 0.05
+		}
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 		
@@ -459,6 +551,10 @@ american_pagan = {
 		country = {
 			land_morale = 0.1
 			global_unrest = -2
+		}
+		country_as_secondary = {
+			land_morale = 0.05
+			raze_power_gain = 0.2
 		}
 		province = {
 			local_missionary_strength = 0.02
@@ -475,6 +571,10 @@ american_pagan = {
 		color = { 0.25 0.45 0.45 }
 		icon = 43
 		country = {
+			tolerance_own = 1
+			global_autonomy = -0.05
+		}
+		country_as_secondary = {
 			tolerance_own = 1
 			global_autonomy = -0.05
 		}
@@ -507,6 +607,10 @@ celtic = {
 			tolerance_own = 1
 			global_unrest = -1
 		}
+		country_as_secondary = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
 
 		personal_deity = yes
 		
@@ -522,6 +626,10 @@ celtic = {
 		country = {
 			tolerance_own = 1
 			global_unrest = -1
+		}
+		country_as_secondary = {
+			siege_ability = 0.1
+			defensiveness = 0.1
 		}
 
 		personal_deity = yes
@@ -545,6 +653,10 @@ european_pagan = {
 			enemy_core_creation = 0.2
 			hostile_attrition = 1
 		}
+		country_as_secondary = {
+			hostile_attrition = 1
+			tolerance_heathen = 2
+		}
 
 		personal_deity = yes
 		
@@ -560,6 +672,10 @@ european_pagan = {
 		country = {
 			defensiveness = 0.2
 			enemy_core_creation = 0.2
+		}
+		country_as_secondary = {
+			hostile_attrition = 1
+			defensiveness = 0.2
 		}
 
 		personal_deity = yes
@@ -577,6 +693,10 @@ european_pagan = {
 			hostile_attrition = 1
 			defensiveness = 0.2
 		}
+		country_as_secondary = {
+			hostile_attrition = 1
+			global_tax_modifier = 0.1
+		}
 
 		personal_deity = yes
 		
@@ -593,6 +713,10 @@ european_pagan = {
 			land_maintenance_modifier = -0.10
 			land_forcelimit_modifier  = 0.2
 			land_morale = 0.20
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			land_morale = 0.05
 		}
 
 		personal_deity = yes
@@ -612,13 +736,13 @@ tengri_group = {
 		color = { 0.1 0.3 0.85 }
 		icon = 33
 		province = {
-			local_missionary_strength = 0.02
+			local_missionary_strength = 0.01
 		}
 		country = {
 			global_unrest = -2
 			cavalry_cost = -0.2
 		}
-		
+		can_have_secondary_religion = yes
 		heretic = { OLD_TENGRI }
 	}
 
@@ -640,6 +764,10 @@ african_pagan = {
 			tolerance_heretic = 1
 			tolerance_heathen = 1
 		}
+		country_as_secondary = {
+			build_cost = -0.1
+			defensiveness = 0.2
+		}
 
 		personal_deity = yes
 		
@@ -656,6 +784,10 @@ african_pagan = {
 			tolerance_heretic = 1
 			tolerance_own = 1
 		}
+		country_as_secondary = {
+			build_cost = -0.1
+			global_tax_modifier = 0.1
+		}
 
 		heretic = { ATENISM }
 	}
@@ -670,6 +802,10 @@ african_pagan = {
 			tolerance_own = 1
 			hostile_attrition = 1
 		}
+		country_as_secondary = {
+			global_spy_defence = 0.1
+			land_attrition = -0.10
+		}
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 		
@@ -677,29 +813,21 @@ african_pagan = {
 	}
 
 	punic_religion = {
-		
 		color = { 0.8 0.9 0.9 }
-
 		icon = 34
-
 		province = {
-
 			local_missionary_strength = 0.02
-
 		}
-
 		country = {
-
 			tolerance_heretic = 1
-
 			tolerance_heathen = 1
-
 		}
-
-		
+		country = {
+			global_tax_modifier = 0.1
+			stability_cost_modifier = -0.1
+		}
 
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
-
 	}
 
 	crusade_name = CRUSADE
@@ -720,6 +848,10 @@ mesopotamian = {
 			tolerance_heathen = 1
 			defensiveness = 0.1
 		}
+		country_as_secondary = {
+			global_regiment_recruit_speed = -0.10
+			defensiveness = 0.2
+		}
 
 		personal_deity = yes
 		
@@ -738,6 +870,10 @@ mesopotamian = {
 			tolerance_heathen = 2
 			tolerance_heretic = 2
 		}
+		country_as_secondary = {
+			prestige = 1
+			land_attrition = -0.10
+		}
 
 		personal_deity = yes
 		
@@ -755,6 +891,10 @@ mesopotamian = {
 		country = {
 			defensiveness = 0.1
 			hostile_attrition = 1
+		}
+		country_as_secondary = {
+			land_morale = 0.05
+			advisor_cost = -0.1
 		}
 
 		personal_diety = yes
@@ -780,7 +920,11 @@ caucasian_group = {
 		}
 		country = {
 			hostile_attrition = 1
+			land_attrition = -0.20
+		}
+		country_as_secondary = {
 			tolerance_heathen = 1
+			hostile_attrition = 1
 		}
 		
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
@@ -795,6 +939,10 @@ caucasian_group = {
 		country = {
 			land_morale = 0.10
 			tolerance_heathen = 1
+		}
+		country_as_secondary = {
+			years_of_nationalism = -5
+			defensiveness = 0.2
 		}
 		
 		heretic = { GOAT_SKULL }

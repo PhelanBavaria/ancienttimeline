@@ -390,6 +390,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_production_icon"
+		texturefile = "gfx/interface/production_icon.dds"
+	}	
+	
+	spriteType = {
 		name = "GFX_icon_war_exhaustion"
 		texturefile = "gfx/interface/icon_war_exhaustion.dds"
 	}
@@ -933,8 +938,8 @@ spriteTypes = {
 	}
 	
 		textSpriteType = {
-		name = "GFX_sort_149"
-		texturefile = "gfx/interface/sort_149.dds"
+		name = "GFX_sort_148"
+		texturefile = "gfx/interface/sort_148.dds"
 	}
 
 		textSpriteType = {
@@ -951,6 +956,11 @@ spriteTypes = {
 		name = "GFX_sort_179"
 		texturefile = "gfx/interface/sort_179.dds"
 	}
+	
+		textSpriteType = {
+		name = "GFX_sort_209"
+		texturefile = "gfx/interface/sort_209.dds"
+	}	
 	
 		textSpriteType = {
 		name = "GFX_sort_186"
@@ -1009,8 +1019,13 @@ spriteTypes = {
 	
 	textSpriteType = {
 		name = "GFX_sort_144"
-		texturefile = "gfx/interface/sort_144.dds"
+		texturefile = "gfx//interface//sort_144.dds"
 	}
+	
+	textSpriteType = {
+		name = "GFX_sort_136"
+		texturefile = "gfx//interface//sort_136.dds"
+	}	
 	
 	textSpriteType = {
 		name = "GFX_sort_160"
@@ -1061,7 +1076,11 @@ spriteTypes = {
 		name = "GFX_sort_trade_power2"
 		texturefile = "gfx/interface/sort_trade_power2.dds"
 	}
-		spriteType = {
+	spriteType = {
+		name = "GFX_sort_total_trade_power"
+		texturefile = "gfx/interface/sort_total_trade_power.dds"
+	}
+	spriteType = {
 		name = "GFX_sort_trade_power3"
 		texturefile = "gfx/interface/sort_trade_power3.dds"
 	}
@@ -1167,6 +1186,15 @@ spriteTypes = {
 		textureFile3 = "gfx//interface//client_state_symbols_mini.dds"
 		noOfFrames = 62
 	}
+	
+	maskedShieldType = {
+		name = "GFX_shield_small_permanent_claim"
+		textureFile1 = "gfx/interface/small_shield_overlay_permanent_claim.dds"
+		textureFile2 = "gfx/interface/small_shield_mask.tga"
+		effectFile = "gfx/FX/maskedflag.lua"
+		textureFile3 = "gfx//interface//client_state_symbols_mini.dds"
+		noOfFrames = 62
+	}	
 	
 	maskedShieldType = {
 		name = "GFX_shield_fancy"
@@ -1352,6 +1380,11 @@ spriteTypes = {
 	}
 	
 	textSpriteType = {
+		name = "GFX_button_straight_152_32"
+		texturefile = "gfx/interface/button_straight_152_32.dds"
+	}	
+	
+	textSpriteType = {
 		name = "GFX_button_straight_148_32"
 		texturefile = "gfx/interface/button_straight_148_32.dds"
 	}
@@ -1364,6 +1397,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/button_straight_255_32_glow.dds"
 		allwaystransparent = yes
 	}
+	textSpriteType = {
+		name = "GFX_button_straight_213_29"
+		texturefile = "gfx/interface/button_straight_213_29.dds"
+	}	
 	textSpriteType = {
 		name = "GFX_button_straight_300_32"
 		texturefile = "gfx/interface/button_straight_300_32.dds"
@@ -1474,6 +1511,11 @@ spriteTypes = {
 		name = "GFX_arrow_down_small"
 		texturefile = "gfx/interface/arrow_down_small.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_exclamation_button"
+		texturefile = "gfx/interface/exclamation_button.dds"
+	}	
 	
 	### SCROLL GRAPHICS
 	
