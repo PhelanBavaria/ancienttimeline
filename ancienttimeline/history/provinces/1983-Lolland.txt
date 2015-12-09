@@ -11,3 +11,5 @@ capital = "Nykobing"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+5006.1.1 = { owner = AVI controller = AVI add_core = AVI citysize = 1000 trade_goods = fish }

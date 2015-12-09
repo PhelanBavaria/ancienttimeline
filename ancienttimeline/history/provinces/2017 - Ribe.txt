@@ -11,3 +11,5 @@ capital = "Ribe"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+5006.1.1 = { owner = CHR controller = CHR add_core = CHR citysize = 1000 trade_goods = grain }
