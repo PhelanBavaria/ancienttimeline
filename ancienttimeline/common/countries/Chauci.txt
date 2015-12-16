@@ -1,0 +1,50 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 54 156 128 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_adm_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+}
+
+monarch_names = {
+"Adalberht #0" = 10
+"Adalfuns #0" = 10
+"Baldovin #0" = 10
+"Cyneweard #0" = 10
+"Cyneric #0" = 10
+"Ealgyd #0" = 10	
+}
+
+leader_names = {
+ADALBERHT ADALFUNS ADALHARD ADALWOLF ÆBBE BALDOVIN BALDOMAR BERENGAR CYNEWEARD CYNERIC EALDGYÐ
+}
+
+ship_names = {
+ Gyð Wulf Agil Hard Ric Eofor Hild Eofor Era Thurd Ewa Wald Ey Steinn Fara Mund Nand Beraht Frid Ger Hnod 
+}

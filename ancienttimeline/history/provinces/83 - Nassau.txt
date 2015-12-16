@@ -13,3 +13,5 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+5006.1.1 = { owner = ANG controller = ANG add_core = ANG citysize = 1000 trade_goods = copper }
