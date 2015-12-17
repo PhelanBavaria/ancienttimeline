@@ -657,8 +657,11 @@ technology = {
 	enable = peltast_b
 	enable = immortals
 	enable = sparabara
+	enable = chinese_crossbow
+	
 	enable = companion_cavalry
 	enable = scythe_chariot
+	enable = chinese_chariot
 }
 
 technology = {
@@ -686,6 +689,8 @@ technology = {
 
 	enable = elite_phalanx
 	enable = middle_eastern_phalanx
+	enable = chinese_bronze_sword
+	enable = chinese_heavy_crossbow
 }
 
 technology = {
@@ -704,6 +709,7 @@ technology = {
 	enable = heavy_companion_cavalry
 	enable = war_elephants_i
 	enable = war_elephants_me
+	enable = chinese_horsemen
 }
 
 technology = {
@@ -724,6 +730,7 @@ technology = {
 	infantry_fire		= 	0.05
 
 	enable = thureophoroi
+	enable = chinese_iron_sword
 }
 
 technology = {
@@ -745,6 +752,7 @@ technology = {
 
 	enable = elite_cataphract
 	enable = equites
+	enable = chinese_nomad_cavalry
 }
 
 technology = {
@@ -760,6 +768,7 @@ technology = {
 
 	enable = hastati
 	enable = principes
+	enable = chinese_conscripts
 }
 
 technology = {
@@ -794,6 +803,8 @@ technology = {
 	infantry_shock 		= 	0.05
 
 	enable = legionaries
+	enable = chinese_volunteers
+	enable = chinese_militia
 }
 
 technology = {

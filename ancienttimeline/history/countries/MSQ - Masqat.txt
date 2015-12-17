@@ -1,0 +1,6 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = omani_culture
+religion = south_arabian
+technology_group = middle_eastern
+capital = 400 #Masqat

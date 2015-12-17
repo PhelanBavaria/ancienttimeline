@@ -48,24 +48,7 @@ persian_monarchy = {
 
 	trigger = {
 		government = monarchy
-		OR = {
-			tag = ACA
-			tag = AIA
-			tag = AMY
-			tag = ARC
-			tag = BCT
-			tag = CHS
-			tag = CMN
-			tag = DAE
-			tag = GDR
-			tag = GNR
-			tag = HDS
-			tag = MSG
-			tag = PRT
-			tag = SGD
-			tag = SGT
-			tag = STG
-		}
+		primary_culture = persian
 	}
 }
 

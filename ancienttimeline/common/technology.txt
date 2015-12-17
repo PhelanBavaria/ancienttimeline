@@ -50,7 +50,7 @@ groups = {
 	}
 	chinese = {
 		modifier = 0.3
-		start_level = 4
+		start_level = 10
 		cav_to_inf_ratio = 0.5
 	}
 	scythian_group = {
