@@ -13,6 +13,7 @@ base_manpower = 2
 citysize = 1547
 add_core = DNG
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 4792.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = DNG }

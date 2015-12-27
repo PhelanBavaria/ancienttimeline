@@ -13,6 +13,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 discovered_by = chinese
+discovered_by = south_chinese
 
 4684.1.1 = { owner = QIN controller = QIN add_core = QIN remove_core = SHU }
 4794.1.1 = { owner = HND controller = HND add_core = HND remove_core = QIN }

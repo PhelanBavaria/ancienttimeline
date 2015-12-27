@@ -13,5 +13,6 @@ base_manpower = 2
 citysize = 1639
 add_core = HUY
 discovered_by = chinese
+discovered_by = south_chinese
 
 4500.1.1 = { religion = hinduism }

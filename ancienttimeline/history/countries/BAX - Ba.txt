@@ -1,6 +1,7 @@
 government = tribal_kingdom
 mercantilism = 0.1
-technology_group = chinese
+technology_group = south_chinese
+unit_type = chinese
 religion = animism
 primary_culture = yi
 capital = 2491

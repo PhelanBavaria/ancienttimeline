@@ -13,5 +13,6 @@ base_manpower = 2
 citysize = 9089
 add_core = DIN
 discovered_by = chinese
+discovered_by = south_chinese
 
 4891.1.1 = { owner = HND controller = HND add_core = HND remove_core = DIN }

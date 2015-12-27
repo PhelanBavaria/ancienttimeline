@@ -1,6 +1,7 @@
 #Lake Hongze
 
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 

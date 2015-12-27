@@ -13,6 +13,7 @@ base_manpower = 2
 citysize = 1000
 add_core = MNY
 discovered_by = chinese
+discovered_by = south_chinese
 
 4786.1.1 = { owner = QIN controller = QIN add_core = QIN }
 4790.1.1 = { culture = zhuang }

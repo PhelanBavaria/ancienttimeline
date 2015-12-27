@@ -13,6 +13,7 @@ base_manpower = 2
 citysize = 2914
 add_core = YZH
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 4824.1.1 = { owner = XIO controller = XIO add_core = XIO remove_core = YZH }

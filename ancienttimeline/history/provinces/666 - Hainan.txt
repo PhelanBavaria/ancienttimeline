@@ -9,5 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 discovered_by = chinese
+discovered_by = south_chinese
 
 4890.1.1 = { owner = HND controller = HND add_core = HND citysize = 1000 }

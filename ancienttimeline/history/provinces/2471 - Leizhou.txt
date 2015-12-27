@@ -13,6 +13,7 @@ base_manpower = 2
 citysize = 6333
 add_core = ZHN
 discovered_by = chinese
+discovered_by = south_chinese
 
 4796.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ZHN }
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }

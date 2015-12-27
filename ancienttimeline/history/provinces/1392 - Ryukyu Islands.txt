@@ -1,6 +1,7 @@
 #Ryukyu Islands
 
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR

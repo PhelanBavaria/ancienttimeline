@@ -1,3 +1,4 @@
 #Gulf of Tonkin
 
 discovered_by = chinese
+discovered_by = south_chinese

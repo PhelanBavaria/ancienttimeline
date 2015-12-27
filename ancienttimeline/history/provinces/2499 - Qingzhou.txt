@@ -14,6 +14,7 @@ citysize = 7607
 add_core = HND
 add_core = WEI
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 3954.1.1 = { owner = QIC controller = QIC add_core = QIC }

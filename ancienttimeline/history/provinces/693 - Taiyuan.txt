@@ -15,6 +15,7 @@ fort_15th = yes #The Great Wall
 add_core = HND
 add_core = WEI
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 4597.1.1 = { owner = ZAO controller = ZAO add_core = ZAO }

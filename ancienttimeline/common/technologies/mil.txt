@@ -597,6 +597,9 @@ technology = {
 	# Tech 97
 	year = 4225
 	infantry_fire		= 	0.05
+	
+	enable = chinese_spearmen
+	enable = chinese_composite_bow
 }
 
 technology = {
@@ -609,6 +612,8 @@ technology = {
 	# Tech 99
 	year = 4275
 	cavalry_shock  		= 	0.05
+	
+	enable = chinese_chariot
 }
 
 technology = {
@@ -661,7 +666,6 @@ technology = {
 	
 	enable = companion_cavalry
 	enable = scythe_chariot
-	enable = chinese_chariot
 }
 
 technology = {

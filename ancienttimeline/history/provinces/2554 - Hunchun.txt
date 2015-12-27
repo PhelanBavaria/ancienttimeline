@@ -13,6 +13,7 @@ base_manpower = 2
 citysize = 3585
 add_core = SUS
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
 4850.1.1 = { owner = BUY controller = BUY add_core = BUY remove_core = SUS }

@@ -3,5 +3,6 @@ government_rank = 2
 mercantilism = 0.1
 primary_culture = bai
 religion = animism
-technology_group = chinese
+technology_group = south_chinese
+unit_type = chinese
 capital = 662

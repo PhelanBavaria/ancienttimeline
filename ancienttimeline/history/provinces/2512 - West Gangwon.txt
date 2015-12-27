@@ -14,5 +14,6 @@ citysize = 4639
 add_core = DON
 fort1 = yes
 discovered_by = chinese
+discovered_by = south_chinese
 discovered_by = nomad_group
 
