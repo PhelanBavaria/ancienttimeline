@@ -3,4 +3,5 @@ mercantilism = 0.1
 primary_culture = hannoverian
 religion = germanic
 technology_group = barbarian
+unit_type = gauls
 capital = 1775

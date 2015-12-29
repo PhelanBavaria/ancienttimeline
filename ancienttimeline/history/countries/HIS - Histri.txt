@@ -12,4 +12,5 @@ mercantilism = 0.1
 primary_culture = venetian
 religion = animism
 technology_group = east_celtic
+unit_type = gauls
 capital = 130	# Istria

@@ -4,6 +4,7 @@ mercantilism = 0.1
 primary_culture = noric
 religion = druidism
 technology_group = east_celtic
+unit_type = gauls
 capital = 132  # Steiermark
 
 4828.5.6 = {

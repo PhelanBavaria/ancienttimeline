@@ -4,4 +4,5 @@ mercantilism = 0.1
 primary_culture = vindelican
 religion = druidism
 technology_group = east_celtic
+unit_type = gauls
 capital = 65  # Munchen

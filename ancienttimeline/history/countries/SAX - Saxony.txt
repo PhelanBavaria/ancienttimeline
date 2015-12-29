@@ -3,4 +3,5 @@ mercantilism = 0.1
 primary_culture = saxon
 religion = germanic
 technology_group = barbarian
+unit_type = gauls
 capital = 62 # Leipzig

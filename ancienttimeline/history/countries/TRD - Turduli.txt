@@ -4,4 +4,5 @@ mercantilism = 0.1
 primary_culture = celtiberian
 religion = druidism
 technology_group = hispanian
+unit_type = gauls
 capital = 1851	# Ribatejo

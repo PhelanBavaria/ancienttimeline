@@ -11,5 +11,6 @@ mercantilism = 0.1
 primary_culture = pictish
 religion = druidism
 technology_group = british
+unit_type = gauls
 capital = 252	# Highlands
 

@@ -11,6 +11,7 @@ mercantilism = 0.1
 primary_culture = georgian
 religion = georgian_religion
 technology_group = barbarian
+unit_type = gauls
 capital = 423
 
 4688.2.2 = { religion = hellenism }

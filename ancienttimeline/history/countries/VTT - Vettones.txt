@@ -4,4 +4,5 @@ mercantilism = 0.1
 primary_culture = celtiberian
 religion = lusitanian_poly
 technology_group = hispanian
+unit_type = gauls
 capital = 216	# Salamanca

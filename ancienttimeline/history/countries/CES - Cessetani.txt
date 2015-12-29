@@ -4,4 +4,5 @@ mercantilism = 0.1
 primary_culture = iberi
 religion = animism
 technology_group = hispanian
+unit_type = gauls
 capital = 213	# Barcelona
