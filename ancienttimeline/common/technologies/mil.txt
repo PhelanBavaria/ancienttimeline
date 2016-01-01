@@ -600,6 +600,7 @@ technology = {
 	enable = chinese_spearmen
 	enable = chinese_composite_bow
 	enable = celtic_longswordsmen
+	enable = scythian_tribal_warriors
 }
 
 technology = {
@@ -615,6 +616,7 @@ technology = {
 	
 	enable = chinese_chariot
 	enable = celtic_chariot
+	enable = scythian_skirmishers
 }
 
 technology = {
@@ -664,8 +666,7 @@ technology = {
 	enable = immortals
 	enable = sparabara
 	enable = chinese_crossbow
-	enable = celtic_shortswordsmen
-	
+		
 	enable = companion_cavalry
 	enable = scythe_chariot
 }
@@ -674,6 +675,10 @@ technology = {
 	# Tech 107
 	year = 4475
 	infantry_shock 		= 	0.05
+	
+	enable = celtic_shortswordsmen
+	enable = scythian_archers
+	enable = scythian_spearmen
 }
 
 technology = {
@@ -718,6 +723,7 @@ technology = {
 	enable = chinese_horsemen
 	enable = celtic_elite_chariot
 	enable = celtic_trimarcisia
+	enable = scythian_horse_archers
 }
 
 technology = {
@@ -740,6 +746,7 @@ technology = {
 	enable = thureophoroi
 	enable = chinese_iron_sword
 	enable = celtic_spearmen
+	enable = scythian_heavy_spearmen
 }
 
 technology = {
@@ -763,6 +770,7 @@ technology = {
 	enable = equites
 	enable = chinese_nomad_cavalry
 	enable = celtic_chariot_javelineers
+	enable = scythian_elite_horse_archers
 }
 
 technology = {
@@ -780,6 +788,7 @@ technology = {
 	enable = principes
 	enable = chinese_conscripts
 	enable = celtic_ambaxtoi
+	enable = scythian_foot_skirmishers
 }
 
 technology = {
@@ -801,6 +810,7 @@ technology = {
 
 	enable = parthian_shot
 	enable = celtic_mounted_skirmisher
+	enable = scythian_raiders
 }
 
 technology = {
@@ -818,6 +828,7 @@ technology = {
 	enable = chinese_volunteers
 	enable = chinese_militia
 	enable = celtic_phalanx
+	enable = scythian_royal_guards
 }
 
 technology = {
