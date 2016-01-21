@@ -700,6 +700,7 @@ technology = {
 
 	enable = elite_phalanx
 	enable = middle_eastern_phalanx
+	enable = bedouin_warriors
 	enable = chinese_bronze_sword
 	enable = chinese_heavy_crossbow
 }
@@ -744,6 +745,8 @@ technology = {
 	infantry_fire		= 	0.05
 
 	enable = thureophoroi
+	enable = argyraspides
+	enable = middle_eastern_javelineers
 	enable = chinese_iron_sword
 	enable = celtic_spearmen
 	enable = scythian_heavy_spearmen
@@ -786,6 +789,8 @@ technology = {
 
 	enable = hastati
 	enable = principes
+	enable = chrysaspides
+	enable = hillmen
 	enable = chinese_conscripts
 	enable = celtic_ambaxtoi
 	enable = scythian_foot_skirmishers
@@ -825,6 +830,8 @@ technology = {
 	infantry_shock 		= 	0.05
 
 	enable = legionaries
+	enable = romanized_infantry
+	enable = reflex_bowmen
 	enable = chinese_volunteers
 	enable = chinese_militia
 	enable = celtic_phalanx

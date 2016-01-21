@@ -1,5 +1,5 @@
 type = cavalry
-unit_type = middle_eastern
+unit_type = gauls
 
 maneuver = 2
 offensive_morale = 3
