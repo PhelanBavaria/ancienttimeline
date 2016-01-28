@@ -547,7 +547,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_button_show_siege"
 		texturefile = "gfx//interface//button_show_siege.tga"
-		allwaystransparent = no
 	}
 
 	spriteType = {
@@ -642,8 +641,14 @@ spriteTypes = {
 		texturefile = "gfx//interface//resources.tga"
 		noOfFrames = 26
 		loadType = "INGAME"
-		
 	}
+	
+	spriteType = {
+		name = "GFX_resource_icon_small"
+		texturefile = "gfx//interface//resources_small.dds"
+		noOfFrames = 26
+		loadType = "INGAME"
+	}	
 	
 	spriteType = {
 		name = "GFX_resource_icon_transparent"
@@ -785,7 +790,14 @@ spriteTypes = {
 		noOfFrames = 1
 		effectFile = "gfx/FX/buttonstate.lua"
 		loadType = "INGAME"
-		
+	}
+	
+	spriteType = {
+		name = "GFX_country_modifier_button"
+		texturefile = "gfx//interface//country_modifier_button.tga"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
 	}
 
 	textSpriteType = {

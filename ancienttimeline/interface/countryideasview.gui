@@ -34,11 +34,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "close_button"
 			position = { x = 514 y = -1 }
-			quadTextureSprite ="GFX_closebutton"	
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "vic_18"
+			quadTextureSprite ="GFX_closebutton2"	
 			shortcut = "ESCAPE"
 			Orientation = "UPPER_LEFT"
 			clicksound = close_window
@@ -558,7 +554,14 @@ guiTypes = {
 			spriteType = "GFX_idea_view_nextunlock"
 			position = { x= 2 y = -30 }
 			Orientation = "UPPER_LEFT"
-			#scale = 0.85
+		}
+		
+		iconType =
+		{
+			name ="idea_icon_cannot_unlock"
+			spriteType = "GFX_idea_view_cannotunlock"
+			position = { x= 2 y = -30 }
+			Orientation = "UPPER_LEFT"
 		}
 		
 		guiButtonType =

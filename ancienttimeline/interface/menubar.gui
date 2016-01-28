@@ -93,6 +93,13 @@ guiTypes = {
 			maxHeight = 32
 			format = center
 		}
+		
+		iconType =
+		{
+			name ="war_enthusiasm_icon"
+			spriteType = "GFX_war_enthusiasm_high"
+			position = { x = 42 y = 7 }
+		}	
 	}
 		
 	eu3dialogtype = {
@@ -2590,16 +2597,11 @@ guiTypes = {
 			name = "WarOverviewButtonWindow"
 			backGround=""
 			position = { x = -780 y = -65 }
-			show_position = { x = -780 y = -175 }
+			show_position = { x = -780 y = -175 } # Actually not showing/hiding, just moving to be on top of log. Like a subwindow, but done in a stupid way :)
 			hide_position = { x = -780 y = -65 }
 			animation_type = "decelerated"
 			animation_time = 1000
 			size = { x= 300 y = 40 }
-			moveable = 0
-			dontRender = ""
-			horizontalBorder= ""
-			verticalBorder= ""
-			fullScreen = no
 			orientation = "LOWER_RIGHT"
 		
 			# Most be here to make it animate when open log.
@@ -2976,240 +2978,234 @@ guiTypes = {
 	########### 
 
 
-		textBoxType = {
-			name = "mapmode_name"
-			position = { x = -99265 y = -141 }
+		windowType = {
+			name = "floating_buttons"
+			fullscreen = yes
+			show_position = { x = 0 y = 0 }
+			hide_position = { x = 0 y = 100 }
+			position = { x = 0 y = 0 }
+			animation_type = "decelerated"
+			animation_time = 300
+		
+			iconType =
+			{
+				name ="menubar_floating_bg_1"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -362 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}
+			iconType =
+			{
+				name ="menubar_floating_bg_2"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -407 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}
+			iconType =
+			{
+				name ="menubar_floating_bg_3"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -452 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}
+
+			iconType =
+			{
+				name ="menubar_floating_bg_4"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -497 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}
 			
-			font = "Main_16"
-			borderSize = {x = 0 y = 0}
-			text = "MAPMODE"	
-			maxWidth = 200
-			maxHeight = 32
-			format = right	
-
-			Orientation = "LOWER_RIGHT"
-		}
-		
-
-
-		iconType =
-		{
-			name ="menubar_floating_bg_1"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -362 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}
-		iconType =
-		{
-			name ="menubar_floating_bg_2"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -407 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}
-		iconType =
-		{
-			name ="menubar_floating_bg_3"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -452 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}
-
-		iconType =
-		{
-			name ="menubar_floating_bg_4"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -497 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}
-		
-		iconType =
-		{
-			name ="menubar_floating_bg_5"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -542 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}		
-		iconType =
-		{
-			name ="menubar_floating_bg_6"
-			spriteType = "GFX_menubar_floating_bg"
-			position = { x= -597 y = -36 }
-			Orientation = "LOWER_RIGHT"
-		}		
-		
-		instantTextBoxType = {
-			name = "floating_number_1"
-			position = { x = -364 y = -18 }
+			iconType =
+			{
+				name ="menubar_floating_bg_5"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -542 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}		
+			iconType =
+			{
+				name ="menubar_floating_bg_6"
+				spriteType = "GFX_menubar_floating_bg"
+				position = { x= -597 y = -36 }
+				Orientation = "LOWER_RIGHT"
+			}		
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
+			instantTextBoxType = {
+				name = "floating_number_1"
+				position = { x = -364 y = -18 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
 
-			Orientation = "LOWER_RIGHT"
-		}
-		instantTextBoxType = {
-			name = "floating_number_2"
-			position = { x = -410 y = -18 }
+				Orientation = "LOWER_RIGHT"
+			}
+			instantTextBoxType = {
+				name = "floating_number_2"
+				position = { x = -410 y = -18 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
+
+				Orientation = "LOWER_RIGHT"
+			}
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
+			instantTextBoxType = {
+				name = "floating_number_3"
+				position = { x = -456 y = -38 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
 
-			Orientation = "LOWER_RIGHT"
-		}
+				Orientation = "LOWER_RIGHT"
+			}		
+			instantTextBoxType = {
+				name = "floating_number_4"
+				position = { x = -502 y = -38 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
+
+				Orientation = "LOWER_RIGHT"
+			}	
+			instantTextBoxType = {
+				name = "floating_number_5"
+				position = { x = -548 y = -38 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
+
+				Orientation = "LOWER_RIGHT"
+			}		
+			instantTextBoxType = {
+				name = "floating_number_6"
+				position = { x = -596 y = -38 }
+				
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "100"	
+				maxWidth = 50
+				maxHeight = 32
+				format = centre	
+
+				Orientation = "LOWER_RIGHT"
+			}			
+	 
+			guiButtonType = {
+				name = "f_button_1"
+				position = { x = -360 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}
 		
-		instantTextBoxType = {
-			name = "floating_number_3"
-			position = { x = -456 y = -38 }
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
-
-			Orientation = "LOWER_RIGHT"
-		}		
-		instantTextBoxType = {
-			name = "floating_number_4"
-			position = { x = -502 y = -38 }
+			guiButtonType = {
+				name = "f_button_2"
+				position = { x = -405 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
-
-			Orientation = "LOWER_RIGHT"
-		}	
-		instantTextBoxType = {
-			name = "floating_number_5"
-			position = { x = -548 y = -38 }
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
-
-			Orientation = "LOWER_RIGHT"
-		}		
-		instantTextBoxType = {
-			name = "floating_number_6"
-			position = { x = -596 y = -38 }
+			iconType =
+			{
+				name ="hre_strip_glow"
+				spriteType = "GFX_hre_strip_glow"
+				position = { x= -406 y = -58 }
+				Orientation = "LOWER_RIGHT"
+			}			
 			
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre	
+			# Can be moved using the positionType "revolution_flag_offset"
+			guiButtonType = {
+				name = "f_button_3"
+				position = { x = -450 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
 
-			Orientation = "LOWER_RIGHT"
-		}			
- 
-		guiButtonType = {
-			name = "f_button_1"
-			position = { x = -360 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}
+			
+			guiButtonType = {
+				name = "f_button_4"
+				position = { x = -495 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
+
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}
+			
+			guiButtonType = {
+				name = "f_button_5"
+				position = { x = -540 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
+
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}		
+			
+			guiButtonType = {
+				name = "f_button_6"
+				position = { x = -585 y = -58 }
+				quadTextureSprite ="GFX_menubar_floating_strip"
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonFont = "Main_14_black"
+
+				Orientation = "LOWER_RIGHT"
+				hint_tag = "hint_papacy"
+			}		
+			iconType =
+			{
+				name ="revolution_flag"
+				spriteType = "GFX_rev_target"
+				position = { x = -446 y = -54 }
+				Orientation = "LOWER_RIGHT"				
+			}		
 		}
-	
-		
-		guiButtonType = {
-			name = "f_button_2"
-			position = { x = -405 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
-		}
-		
-		
-		iconType =
-		{
-			name ="hre_strip_glow"
-			spriteType = "GFX_hre_strip_glow"
-			position = { x= -406 y = -58 }
-			Orientation = "LOWER_RIGHT"
-		}			
-		
-		# Can be moved using the positionType "revolution_flag_offset"
-		guiButtonType = {
-			name = "f_button_3"
-			position = { x = -450 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
-		}
-		
-		guiButtonType = {
-			name = "f_button_4"
-			position = { x = -495 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
-		}
-		
-		guiButtonType = {
-			name = "f_button_5"
-			position = { x = -540 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
-		}		
-		
-		guiButtonType = {
-			name = "f_button_6"
-			position = { x = -585 y = -58 }
-			quadTextureSprite ="GFX_menubar_floating_strip"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonFont = "Main_14_black"
-
-			Orientation = "LOWER_RIGHT"
-			hint_tag = "hint_papacy"
-		}		
-		iconType =
-		{
-			name ="revolution_flag"
-			spriteType = "GFX_rev_target"
-			position = { x = -446 y = -54 }
-			Orientation = "LOWER_RIGHT"				
-		}		
 			
 		
 		######
