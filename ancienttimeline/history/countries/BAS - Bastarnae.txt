@@ -1,4 +1,4 @@
-government = barbarian_tribe
+government = steppe_horde
 mercantilism = 0.1
 primary_culture = pommeranian
 religion = germanic

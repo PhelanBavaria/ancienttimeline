@@ -88,7 +88,7 @@ PTH_ideas = {
 
 ROME_ideas = {
 	start = {
-	    manpower_recovery_speed = 0.15
+	    manpower_recovery_speed = 0.20
 		core_creation = -0.25
 	}
 
@@ -105,8 +105,8 @@ ROME_ideas = {
 	free = yes		#will be added at load.
 	
 	the_roman_legions = {
-		land_morale = 0.10
-		discipline = 0.10
+		land_morale = 0.20
+		discipline = 0.15
 	}
 	roads_and_infrastructure = {
 		production_efficiency = 0.15
