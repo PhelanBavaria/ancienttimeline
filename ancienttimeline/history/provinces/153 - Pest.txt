@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-5006.1.1 = { owner = CPI controller = CPI add_core = CPI citysize = 1000 trade_goods = grain }
+4640.1.1 = { owner = CPI controller = CPI add_core = CPI citysize = 1000 trade_goods = grain }

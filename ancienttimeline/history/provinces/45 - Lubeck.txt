@@ -19,4 +19,4 @@ native_hostileness = 6
 		}
 }
 
-5006.1.1 = { owner = SAX controller = SAX add_core = SAX citysize = 1000 trade_goods = naval_supplies }
+4655.1.1 = { owner = SAX controller = SAX add_core = SAX citysize = 1000 trade_goods = naval_supplies }

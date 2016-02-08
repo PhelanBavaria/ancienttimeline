@@ -20,4 +20,4 @@ native_hostileness = 6
 #discovered_by = muslim
 #discovered_by = ottoman
 
-5006.1.1 = { owner = BAS controller = BAS add_core = BAS citysize = 1000 trade_goods = grain }
+4700.1.1 = { owner = BAS controller = BAS add_core = BAS citysize = 1000 trade_goods = grain }

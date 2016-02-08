@@ -31,4 +31,4 @@ native_hostileness = 6
 		}
 }
 
-5006.1.1 = { owner = FRS controller = FRS add_core = FRS citysize = 1000 trade_goods = fish }
+4640.1.1 = { owner = FRS controller = FRS add_core = FRS citysize = 1000 trade_goods = fish }

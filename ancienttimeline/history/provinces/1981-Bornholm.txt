@@ -11,3 +11,6 @@ capital = "Ronne"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+
+4652.1.1 = { owner = BUR controller = BUR add_core = BUR citysize = 1000 trade_goods = grain }
+4681.1.1 = { owner = NONE controller = NONE add_core = NONE citysize = 0 trade_goods = unknown }

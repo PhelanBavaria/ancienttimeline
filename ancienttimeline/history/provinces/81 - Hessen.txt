@@ -13,4 +13,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-5006.1.1 = { owner = DUL controller = DUL add_core = DUL citysize = 1000 trade_goods = wool }
+4730.1.1 = { owner = DUL controller = DUL add_core = DUL citysize = 1000 trade_goods = wool }

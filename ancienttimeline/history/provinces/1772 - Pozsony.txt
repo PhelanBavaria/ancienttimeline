@@ -14,6 +14,7 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
+4640.1.1 = { owner = RAC controller = RAC add_core = RAC citysize = 1000 trade_goods = grain }
 4700.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = grain  }
 4850.1.1 = { owner = NONE controller = NONE citysize = 0 trade_goods = unknown }
-5006.1.1 = { owner = RAC controller = RAC add_core = RAC citysize = 1000 trade_goods = grain }
+4851.1.1 = { owner = RAC controller = RAC add_core = RAC citysize = 1000 trade_goods = grain }

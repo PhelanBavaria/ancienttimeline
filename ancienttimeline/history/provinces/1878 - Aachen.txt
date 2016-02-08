@@ -20,4 +20,4 @@ native_hostileness = 6
 #discovered_by = muslim
 #discovered_by = ottoman
 
-5006.1.1 = { owner = TEN controller = TEN add_core = TEN citysize = 1000 trade_goods = grain }
+4640.1.1 = { owner = TEN controller = TEN add_core = TEN citysize = 1000 trade_goods = grain }

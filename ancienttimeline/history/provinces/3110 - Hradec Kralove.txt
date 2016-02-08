@@ -16,4 +16,4 @@ discovered_by = east_celtic
 
 4650.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = grain }
 4750.1.1 = { owner = NONE controller = NONE citysize = 0 trade_goods = unknown }
-5006.1.1 = { owner = MRG controller = MRG add_core = MRG citysize = 1000 trade_goods = grain }
+4751.1.1 = { owner = MRG controller = MRG add_core = MRG citysize = 1000 trade_goods = grain }

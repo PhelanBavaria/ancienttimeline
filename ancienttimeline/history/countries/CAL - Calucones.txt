@@ -4,4 +4,4 @@ primary_culture = pommeranian
 religion = germanic
 technology_group = barbarian
 unit_type = gauls
-capital = 47
+capital = 60

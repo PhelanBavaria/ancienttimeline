@@ -20,4 +20,4 @@ native_hostileness = 6
 #discovered_by = muslim
 #discovered_by = ottoman
 
-5006.1.1 = { owner = MRM controller = MRM add_core = MRM citysize = 1000 trade_goods = wine }
+4730.1.1 = { owner = MRM controller = MRM add_core = MRM citysize = 1000 trade_goods = wine }
