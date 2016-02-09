@@ -597,6 +597,7 @@ technology = {
 	year = 4225
 	infantry_fire		= 	0.05
 	
+	enable = peltast_b
 	enable = chinese_spearmen
 	enable = chinese_composite_bow
 	enable = celtic_longswordsmen
@@ -617,6 +618,7 @@ technology = {
 	enable = chinese_chariot
 	enable = celtic_chariot
 	enable = scythian_skirmishers
+	enable = thracian_light_cavalry
 }
 
 technology = {
@@ -662,7 +664,6 @@ technology = {
 
 	enable = phalanx
 	enable = peltast_m
-	enable = peltast_b
 	enable = immortals
 	enable = sparabara
 	enable = chinese_crossbow
@@ -699,6 +700,7 @@ technology = {
 	military_tactics	=	0.1
 
 	enable = elite_phalanx
+	enable = elite_peltast
 	enable = middle_eastern_phalanx
 	enable = bedouin_warriors
 	enable = chinese_bronze_sword
@@ -725,6 +727,7 @@ technology = {
 	enable = celtic_elite_chariot
 	enable = celtic_trimarcisia
 	enable = scythian_horse_archers
+	enable = scythian_cavalry
 }
 
 technology = {
@@ -746,6 +749,8 @@ technology = {
 
 	enable = thureophoroi
 	enable = argyraspides
+	enable = falxmen
+	enable = rhomphaia_warriors
 	enable = middle_eastern_javelineers
 	enable = chinese_iron_sword
 	enable = celtic_spearmen
@@ -774,6 +779,7 @@ technology = {
 	enable = chinese_nomad_cavalry
 	enable = celtic_chariot_javelineers
 	enable = scythian_elite_horse_archers
+	enable = thracian_royal_cavalry
 }
 
 technology = {
@@ -794,6 +800,7 @@ technology = {
 	enable = chinese_conscripts
 	enable = celtic_ambaxtoi
 	enable = scythian_foot_skirmishers
+	enable = thracian_hellenized_infantry
 }
 
 technology = {
@@ -836,6 +843,7 @@ technology = {
 	enable = chinese_militia
 	enable = celtic_phalanx
 	enable = scythian_royal_guards
+	enable = thracian_noble_infantry
 }
 
 technology = {
