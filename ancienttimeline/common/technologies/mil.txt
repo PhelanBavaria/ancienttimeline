@@ -619,6 +619,7 @@ technology = {
 	enable = celtic_chariot
 	enable = scythian_skirmishers
 	enable = thracian_light_cavalry
+	enable = nomadic_horsemen
 }
 
 technology = {
@@ -728,6 +729,7 @@ technology = {
 	enable = celtic_trimarcisia
 	enable = scythian_horse_archers
 	enable = scythian_cavalry
+	enable = nomadic_raiders
 }
 
 technology = {
@@ -780,6 +782,7 @@ technology = {
 	enable = celtic_chariot_javelineers
 	enable = scythian_elite_horse_archers
 	enable = thracian_royal_cavalry
+	enable = nomadic_horse_archers
 }
 
 technology = {
@@ -823,6 +826,7 @@ technology = {
 	enable = parthian_shot
 	enable = celtic_mounted_skirmisher
 	enable = scythian_raiders
+	enable = nomadic_horde
 }
 
 technology = {
