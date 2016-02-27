@@ -13,4 +13,4 @@ native_ferocity = 6
 native_hostileness = 6
 
 4000.1.1 = { discovered_by = mediterranean discovered_by = balkan_group discovered_by = middle_eastern }
-4993.1.1 = { owner = GET controller = GET add_core = GET citysize = 1000 trade_goods = grain }
+4775.1.1 = { owner = GET controller = GET add_core = GET citysize = 1000 trade_goods = grain }
