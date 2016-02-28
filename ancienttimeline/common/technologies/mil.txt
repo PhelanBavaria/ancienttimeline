@@ -668,9 +668,12 @@ technology = {
 	enable = immortals
 	enable = sparabara
 	enable = chinese_crossbow
+	enable = indian_longbowmen
 		
 	enable = companion_cavalry
 	enable = scythe_chariot
+	enable = indian_war_elephant
+	enable = indian_chariot
 }
 
 technology = {
@@ -706,6 +709,7 @@ technology = {
 	enable = bedouin_warriors
 	enable = chinese_bronze_sword
 	enable = chinese_heavy_crossbow
+	enable = indian_swordsmen
 }
 
 technology = {
@@ -722,7 +726,6 @@ technology = {
 	enable = cataphract
 	enable = tarantine_cavalry
 	enable = heavy_companion_cavalry
-	enable = war_elephants_i
 	enable = war_elephants_me
 	enable = chinese_horsemen
 	enable = celtic_elite_chariot
@@ -730,6 +733,7 @@ technology = {
 	enable = scythian_horse_archers
 	enable = scythian_cavalry
 	enable = nomadic_raiders
+	enable = indian_elephant_archer
 }
 
 technology = {
@@ -757,6 +761,7 @@ technology = {
 	enable = chinese_iron_sword
 	enable = celtic_spearmen
 	enable = scythian_heavy_spearmen
+	enable = indian_spearmen
 }
 
 technology = {
@@ -783,6 +788,8 @@ technology = {
 	enable = scythian_elite_horse_archers
 	enable = thracian_royal_cavalry
 	enable = nomadic_horse_archers
+	enable = indian_armored_elephant
+	enable = indian_asvakas
 }
 
 technology = {
@@ -804,6 +811,7 @@ technology = {
 	enable = celtic_ambaxtoi
 	enable = scythian_foot_skirmishers
 	enable = thracian_hellenized_infantry
+	enable = indian_elite_longbowmen
 }
 
 technology = {
@@ -827,6 +835,8 @@ technology = {
 	enable = celtic_mounted_skirmisher
 	enable = scythian_raiders
 	enable = nomadic_horde
+	enable = indian_elephant_sword
+	enable = indian_heavy_cavalry
 }
 
 technology = {
@@ -848,6 +858,7 @@ technology = {
 	enable = celtic_phalanx
 	enable = scythian_royal_guards
 	enable = thracian_noble_infantry
+	enable = indian_steel_bow
 }
 
 technology = {
