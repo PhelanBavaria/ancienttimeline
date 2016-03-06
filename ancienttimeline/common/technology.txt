@@ -73,6 +73,11 @@ groups = {
 		start_level = 3
 		cav_to_inf_ratio = 1.0
 	}
+	north_african = {
+		modifier = 0.3
+		start_level = 4
+		cav_to_inf_ratio = 1.0
+	}
 	arfican = { #Tribal Africans
 		modifier = 0.3
 		start_level = 2

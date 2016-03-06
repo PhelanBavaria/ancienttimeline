@@ -602,6 +602,7 @@ technology = {
 	enable = chinese_composite_bow
 	enable = celtic_longswordsmen
 	enable = scythian_tribal_warriors
+	enable = african_sacred_band
 }
 
 technology = {
@@ -620,6 +621,7 @@ technology = {
 	enable = scythian_skirmishers
 	enable = thracian_light_cavalry
 	enable = nomadic_horsemen
+	enable = african_mounted_skirmishers
 }
 
 technology = {
@@ -684,6 +686,7 @@ technology = {
 	enable = celtic_shortswordsmen
 	enable = scythian_archers
 	enable = scythian_spearmen
+	enable = african_libyan_skirmishers
 }
 
 technology = {
@@ -734,6 +737,7 @@ technology = {
 	enable = scythian_cavalry
 	enable = nomadic_raiders
 	enable = indian_elephant_archer
+	enable = african_numidian_cavalry
 }
 
 technology = {
@@ -762,6 +766,7 @@ technology = {
 	enable = celtic_spearmen
 	enable = scythian_heavy_spearmen
 	enable = indian_spearmen
+	enable = african_libyan_spearmen
 }
 
 technology = {
@@ -790,6 +795,8 @@ technology = {
 	enable = nomadic_horse_archers
 	enable = indian_armored_elephant
 	enable = indian_asvakas
+	enable = african_numidian_raiders
+	enable = african_war_elephants
 }
 
 technology = {
@@ -812,6 +819,7 @@ technology = {
 	enable = scythian_foot_skirmishers
 	enable = thracian_hellenized_infantry
 	enable = indian_elite_longbowmen
+	enable = african_assegai_warrior
 }
 
 technology = {
@@ -837,6 +845,7 @@ technology = {
 	enable = nomadic_horde
 	enable = indian_elephant_sword
 	enable = indian_heavy_cavalry
+	enable = african_armored_elephants
 }
 
 technology = {
@@ -859,6 +868,7 @@ technology = {
 	enable = scythian_royal_guards
 	enable = thracian_noble_infantry
 	enable = indian_steel_bow
+	enable = african_berber_spearmen
 }
 
 technology = {

@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = punic
 religion = punic_religion
-technology_group = mediterranean
+technology_group = north_african
 capital = 341	# Tunis
 
 4186.1.1 = {

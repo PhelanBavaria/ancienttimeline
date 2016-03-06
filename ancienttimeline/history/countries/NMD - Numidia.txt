@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = berber
 religion = african
-technology_group = middle_eastern
+technology_group = north_african
 capital = 340
 
 2.1.1 = {
