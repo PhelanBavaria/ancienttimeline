@@ -23,6 +23,7 @@ discovered_by = gauls
 discovered_by = east_celtic
 discovered_by = mediterranean 
 
+1850.1.1 = { religion = illyrian_religion }
 4250.1.1 = { owner = VEN controller = VEN add_core = VEN citysize = 1000 trade_goods = cloth }
 4797.1.1 = { owner = ROM controller = ROM add_core = ROM }
 

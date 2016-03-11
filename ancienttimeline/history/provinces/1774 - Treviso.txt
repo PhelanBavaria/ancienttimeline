@@ -15,5 +15,6 @@ native_hostileness = 6
 discovered_by = east_celtic
 discovered_by = mediterranean
 
+1850.1.1 = { religion = illyrian_religion }
 4275.1.1 = { owner = VEN controller = VEN add_core = VEN citysize = 1000 trade_goods = fish }
 4797.1.1 = { owner = ROM controller = ROM add_core = ROM }

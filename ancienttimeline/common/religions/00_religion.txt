@@ -434,7 +434,7 @@ hellenic = {
 	
 	crusade_name = CRUSADE
 }
-
+	
 iranian = {
 
 	flags_with_emblem_percentage = 10
@@ -949,4 +949,21 @@ caucasian_group = {
 	}
 
 	crusade_name = CRUSADE
+}
+
+illyrian_group = {
+ flags_with_emblem_percentage = 33
+ flag_emblem_index_range = { 28 28 }
+ illyrian_religion = {
+  icon = 20
+  color = { 0.4 0 0.7 }
+  country = {
+   tolerance_heathen = 1
+   production_efficiency = 0.10
+  }
+  province = {
+   local_missionary_strength = -0.02
+  }
+  heretic = { SAMARITAN KARAITE }
+ }
 }
