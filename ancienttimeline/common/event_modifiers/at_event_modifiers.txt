@@ -11,7 +11,7 @@ death_of_alexander = {
 }
 
 recent_brawl = {
-	land_morale = 2.0
+	land_morale = 0.05
 }
 
 minimum_centralization = {
