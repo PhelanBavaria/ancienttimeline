@@ -169,7 +169,7 @@ technology = {
 technology = {
 	# Tech 26
 	year = 2450
-	infantry_fire		= 	0.05
+	fort_15th = yes
 }
 
 technology = {
@@ -182,6 +182,7 @@ technology = {
 	# Tech 28
 	year = 2500
 	infantry_shock 		= 	0.05
+	infantry_fire		= 	0.05
 }
 
 technology = {
@@ -217,13 +218,14 @@ technology = {
 technology = {
 	# Tech 34
 	year = 2650
-	cavalry_fire		= 	0.05
+	barracks = yes
 }
 
 technology = {
 	# Tech 35
 	year = 2675
 	cavalry_shock  		= 	0.05
+	cavalry_fire		= 	0.05
 }
 
 technology = {
@@ -296,12 +298,13 @@ technology = {
 	# Tech 47
 	year = 2975
 	infantry_shock 		= 	0.05
+	cavalry_shock  		= 	0.05
 }
 
 technology = {
 	# Tech 48
 	year = 3000
-	cavalry_shock  		= 	0.05
+	training_fields = yes
 }
 
 technology = {
@@ -439,13 +442,14 @@ technology = {
 technology = {
 	# Tech 71
 	year = 3575
+	combat_width = 2
 	land_morale 		= 	0.1
 }
 
 technology = {
 	# Tech 72
 	year = 3600
-	combat_width = 2
+	fort_16th = yes
 }
 
 technology = {
@@ -693,12 +697,13 @@ technology = {
 	# Tech 108
 	year = 4500
 	land_morale 		= 	0.1
+	maneuver_value 		= 	0.10
 }
 
 technology = {
 	# Tech 109
 	year = 4525
-	maneuver_value 		= 	0.10
+	fort_17th = yes
 }
 
 technology = {
@@ -743,12 +748,13 @@ technology = {
 technology = {
 	# Tech 113
 	year = 4625
-	land_morale 		= 	0.1
+	armory = yes
 }
 
 technology = {
 	# Tech 114
 	year = 4650
+	land_morale 		= 	0.1
 	infantry_shock 		= 	0.05
 }
 
@@ -772,12 +778,13 @@ technology = {
 technology = {
 	# Tech 116
 	year = 4700
-	combat_width = 2
+	military_academy = yes
 }
 
 technology = {
 	# Tech 117
 	year = 4725
+	combat_width = 2
 	military_tactics	=	0.1
 }
 
@@ -826,12 +833,13 @@ technology = {
 	# Tech 121
 	year = 4825
 	cavalry_fire		= 	0.05
+	infantry_fire		= 	0.05
 }
 
 technology = {
 	# Tech 122
 	year = 4850
-	infantry_fire		= 	0.05
+	fort_18th = yes
 }
 
 technology = {

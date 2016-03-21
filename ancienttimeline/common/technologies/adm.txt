@@ -145,6 +145,7 @@ technology = {
 technology = {
 	# Tech 24
 	year = 2400
+	monument = yes
 }
 
 technology = {
@@ -231,6 +232,7 @@ technology = {
 technology = {
 	# Tech 40
 	year = 2800
+	road = yes
 }
 
 technology = {
@@ -386,6 +388,7 @@ technology = {
 technology = {
 	# Tech 69
 	year = 3525
+	granary = yes
 }
 
 technology = {
@@ -444,6 +447,7 @@ technology = {
 technology = {
 	# Tech 80
 	year = 3800
+	temple = yes
 }
 
 technology = {
@@ -486,6 +490,7 @@ technology = {
 technology = {
 	# Tech 88
 	year = 4000
+	storehouse = yes
 }
 
 technology = {
@@ -523,6 +528,7 @@ technology = {
 technology = {
 	# Tech 95
 	year = 4175
+	town_watch = yes
 }
 
 technology = {
@@ -545,6 +551,7 @@ technology = {
 technology = {
 	# Tech 99
 	year = 4275
+	tax_collector = yes
 }
 
 technology = {
@@ -561,11 +568,13 @@ technology = {
 technology = {
 	# Tech 102
 	year = 4350
+	plantations = yes
 }
 
 technology = {
 	# Tech 103
 	year = 4375
+	forge = yes
 }
 
 technology = {
@@ -577,11 +586,13 @@ technology = {
 technology = {
 	# Tech 105
 	year = 4425
+	weapons = yes
 }
 
 technology = {
 	# Tech 106
 	year = 4450
+	paved_road = yes
 }
 
 technology = {
@@ -599,11 +610,13 @@ technology = {
 technology = {
 	# Tech 109
 	year = 4525
+	wharf = yes
 }
 
 technology = {
 	# Tech 110
 	year = 4550
+	guard_house = yes
 }
 
 technology = {
@@ -615,22 +628,25 @@ technology = {
 technology = {
 	# Tech 112
 	year = 4600
+	workshop = yes
 }
 
 technology = {
 	# Tech 113
 	year = 4625
+	production_efficiency	 =	0.01
 }
 
 technology = {
 	# Tech 114
 	year = 4650
+	coin_mint = yes
 }
 
 technology = {
 	# Tech 115
 	year = 4675
-	production_efficiency	 =	0.01
+	textile = yes
 }
 
 technology = {
@@ -642,11 +658,13 @@ technology = {
 technology = {
 	# Tech 117
 	year = 4725
+	trade_center = yes
 }
 
 technology = {
 	# Tech 118
 	year = 4750
+	academy = yes
 }
 
 technology = {
@@ -669,6 +687,7 @@ technology = {
 technology = {
 	# Tech 122
 	year = 4850
+	great_temple = yes
 }
 
 technology = {
@@ -693,12 +712,12 @@ technology = {
 	# Tech 126
 	year = 4950
 	allowed_idea_groups = 8
-	production_efficiency	 =	0.01
 }
 
 technology = {
 	# Tech 127
 	year = 4975
+	production_efficiency	 =	0.01
 }
 
 technology = {

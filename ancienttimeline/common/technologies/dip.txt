@@ -173,6 +173,7 @@ technology = {
 technology = {
 	# Tech 28
 	year = 2500
+	meeting_place = yes
 }
 
 technology = {
@@ -413,6 +414,7 @@ technology = {
 technology = {
 	# Tech 70
 	year = 3550
+	dock = yes
 }
 
 technology = {
@@ -540,6 +542,7 @@ technology = {
 technology = {
 	# Tech 92
 	year = 4100
+	marketplace = yes
 }
 
 technology = {
@@ -615,6 +618,7 @@ technology = {
 technology = {
 	# Tech 105
 	year = 4425
+	trade_post = yes
 }
 
 technology = {
@@ -644,6 +648,7 @@ technology = {
 technology = {
 	# Tech 110
 	year = 4550
+	shipyard = yes
 }
 
 technology = {
@@ -679,6 +684,7 @@ technology = {
 technology = {
 	# Tech 116
 	year = 4700
+	naval_base = yes
 }
 
 technology = {
@@ -720,6 +726,7 @@ technology = {
 technology = {
 	# Tech 123
 	year = 4875
+	grand_market = yes
 }
 
 technology = {
