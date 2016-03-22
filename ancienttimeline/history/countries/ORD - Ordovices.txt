@@ -1,4 +1,4 @@
-government = tribal_federation
+government = migratory_tribe
 government_rank = 1
 mercantilism = 0.1
 primary_culture = briton
@@ -6,3 +6,5 @@ religion = druidism
 technology_group = british
 unit_type = gauls
 capital = 242  # Gwynedd
+
+4900.1.1 = { government = tribal_federation }

@@ -1,9 +1,9 @@
 
-bookmark =
-{
-    name = "RISE_OF_CYRUS_NAME"
-    desc = "RISE_OF_CYRUS_DESC"
-    date = 4441.1.1
-    
-    country = ACA
-}
+#bookmark =
+#{
+#    name = "RISE_OF_CYRUS_NAME"
+#    desc = "RISE_OF_CYRUS_DESC"
+#    date = 4441.1.1
+#    
+#    country = ACA
+#}

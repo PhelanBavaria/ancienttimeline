@@ -12,4 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4660.1.1 = { owner = CUC controller = CUC add_core = CUC citysize = 1000 trade_goods = fish }
+4660.1.1 = { owner = FRS controller = FRS add_core = FRS is_city = yes trade_goods = fish }
+4850.1.1 = { owner = CUC controller = CUC add_core = CUC remove_core = FRS }

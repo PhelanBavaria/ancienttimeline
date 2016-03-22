@@ -1,4 +1,4 @@
-government = tribal_monarchy
+government = migratory_tribe
 government_rank = 2
 mercantilism = 0.1
 primary_culture = north_germanic
@@ -6,3 +6,5 @@ religion = germanic
 technology_group = barbarian
 unit_type = gauls
 capital = 50
+
+4900.1.1 = { government = tribal_despotism }

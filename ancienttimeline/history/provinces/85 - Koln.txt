@@ -20,5 +20,5 @@ native_hostileness = 6
 	}
 }
 
-4650.1.1 = { owner = CAS controller = CAS add_core = CAS citysize = 1000 trade_goods = grain }
+4900.1.1 = { owner = CAS controller = CAS add_core = CAS is_city = yes trade_goods = grain }
 

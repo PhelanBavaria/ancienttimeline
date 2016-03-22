@@ -1,7 +1,9 @@
-government = barbarian_tribe
+government = migratory_tribe
 mercantilism = 0.1
 primary_culture = danish
 religion = norse_pagan_reformed
 technology_group = barbarian
 unit_type = gauls
 capital = 6
+
+4900.1.1 = { government = tribal_despotism }

@@ -1,9 +1,9 @@
 
-bookmark =
-{
-    name = "RISE_OF_SARGON_NAME"
-    desc = "RISE_OF_SARGON_DESC"
-    date = 2666.1.1
-    
-    country = ACA
-}
+#bookmark =
+#{
+#    name = "RISE_OF_SARGON_NAME"
+#    desc = "RISE_OF_SARGON_DESC"
+#    date = 2666.1.1
+#    
+#    country = ACA
+#}

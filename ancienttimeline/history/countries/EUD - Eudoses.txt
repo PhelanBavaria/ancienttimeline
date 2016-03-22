@@ -1,7 +1,9 @@
-government = barbarian_tribe
+government = migratory_tribe
 mercantilism = 0.1
 primary_culture = pommeranian
 religion = germanic
 technology_group = barbarian
 unit_type = gauls
 capital = 47
+
+4900.1.1 = { government = tribal_despotism }

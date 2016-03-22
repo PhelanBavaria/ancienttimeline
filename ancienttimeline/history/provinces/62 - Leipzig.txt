@@ -11,4 +11,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4690.1.1 = { owner = HRM controller = HRM add_core = HRM citysize = 1000 trade_goods = wool }
+4850.1.1 = { owner = HRM controller = HRM add_core = HRM is_city = yes trade_goods = wool }

@@ -27,3 +27,6 @@ discovered_by = mediterranean
 			duration = -1
 		}
 }
+
+4500.1.1 = { owner = CTH controller = CTH add_core = CTH is_city = yes }
+4799.1.1 = { owner = ROM controller = ROM add_core = ROM }

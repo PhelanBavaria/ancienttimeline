@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4664.1.1 = { owner = GCR controller = GCR add_core = GCR citysize = 1000 trade_goods = cloth }
+4900.1.1 = { owner = GCR controller = GCR add_core = GCR is_city = yes trade_goods = wool }

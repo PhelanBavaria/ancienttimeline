@@ -18,6 +18,6 @@ native_hostileness = 6
             duration = -1
         }
 }
-4600.1.1 = { owner = MEA controller = MEA add_core = MEA citysize = 1000 trade_goods = cloth  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }
+4850.1.1 = { owner = MEA controller = MEA add_core = MEA is_city = yes trade_goods = cloth }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM }
 

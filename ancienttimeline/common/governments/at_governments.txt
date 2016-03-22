@@ -45,3 +45,31 @@ chiefdom = {
         }
     }
 }
+
+migratory_tribe = {
+	native_mechanic = yes
+	allow_migration = yes
+	allow_westernize = no
+	monarchy = yes
+	
+	color = { 220 210 160 }
+	
+	valid_for_new_country = no
+	allow_convert = no
+		
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	
+	ai_will_do = {
+		factor = 0
+	}
+
+	rank = {
+		1 = {
+			stability_cost_modifier = -0.33
+			land_maintenance_modifier = -0.5	
+			diplomatic_upkeep = -1
+		}
+	}
+	fixed_rank = 1
+}

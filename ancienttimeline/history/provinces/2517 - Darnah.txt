@@ -1,24 +1,16 @@
 #2517 - Darnah
 
-culture = al_misr_arabic
-religion = african
-capital = "Darnis"
+culture = ionic_greek
+religion = hellenism
+capital = "Pentapolis"
 trade_goods = unknown
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-discovered_by = western
-discovered_by = barbarian
-discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
-discovered_by = mediterranean
 
-
-
-4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
-4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }
-4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
-4970.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = PTL }
+4370.1.1 = { owner = CYR controller = CYR add_core = CYR is_city = yes trade_goods = grain }
+4695.6.2 = { owner = PTL controller = PTL add_core = PTL religion = serapis }
+4724.1.1 = { owner = CYR controller = CYR add_core = CYR }
+4750.1.1 = { owner = PTL controller = PTL add_core = PTL }
+4970.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = PTL capital = "Darnis" }

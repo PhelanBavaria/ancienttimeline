@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4664.1.1 = { owner = WAR controller = WAR add_core = WAR citysize = 1000 trade_goods = salt }
+4850.1.1 = { owner = WAR controller = WAR add_core = WAR is_city = yes trade_goods = salt }
