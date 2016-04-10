@@ -966,5 +966,27 @@ spriteTypes = {
 		name = "GFX_province_estates_button_icon"
 		texturefile = "gfx/interface/province_estates_button_icon.dds"
 	}	
+
+	spriteType = {
+		name = "GFX_state_bg"
+		texturefile = "gfx/interface/state_bg.dds"
+	}	
 	
+	spriteType = {
+		name = "GFX_in_state_icon"
+		texturefile = "gfx/interface/in_state_icon.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_make_state_button"
+		texturefile = "gfx/interface/make_state_button.dds"
+	}	
+	spriteType = {
+		name = "GFX_abandon_state_button"
+		texturefile = "gfx/interface/abandon_state_button.dds"
+	}	
+	spriteType = {
+		name = "GFX_core_all_button"
+		texturefile = "gfx/interface/core_all_button.dds"
+	}	
 }

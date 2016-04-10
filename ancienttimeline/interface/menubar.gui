@@ -1038,6 +1038,17 @@ guiTypes = {
 			buttonText = "SPECTATOR"
 			buttonFont = "vic_18"
 		}
+		
+		guiButtonType = {
+			name = "timeline_button"
+			position = { x=888  y =96}
+			quadTextureSprite ="largefloaterbutton"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonText = "WATCH_TIMELINE"
+			buttonFont = "vic_18"
+		}
 
 		guiButtonType = {
 			name = "quit_button"
@@ -1047,6 +1058,17 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			buttonText = "QUIT"
+			buttonFont = "vic_18"
+		}
+		
+		guiButtonType = {
+			name = "continue_button"
+			position = { x=528  y =665}
+			quadTextureSprite ="largefloaterbutton"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonText = "CONTINUE"
 			buttonFont = "vic_18"
 		}
 	}

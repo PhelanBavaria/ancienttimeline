@@ -82,6 +82,7 @@ technology = {
 technology = {
 	# Tech 12
 	year = 2100
+	max_states = 2
 }
 
 technology = {
@@ -189,6 +190,7 @@ technology = {
 technology = {
 	# Tech 32
 	year = 2600
+	max_states = 3
 }
 
 technology = {
@@ -281,6 +283,7 @@ technology = {
 technology = {
 	# Tech 49
 	year = 3025
+	max_states = 4
 }
 
 technology = {
@@ -371,6 +374,7 @@ technology = {
 technology = {
 	# Tech 66
 	year = 3450
+	max_states = 5
 }
 
 technology = {
@@ -474,6 +478,7 @@ technology = {
 technology = {
 	# Tech 85
 	year = 3925
+	max_states = 6
 }
 
 technology = {
@@ -517,6 +522,7 @@ technology = {
 technology = {
 	# Tech 93
 	year = 4125
+	max_states = 7
 }
 
 technology = {
@@ -557,6 +563,7 @@ technology = {
 technology = {
 	# Tech 100
 	year = 4300
+	max_states = 8
 }
 
 technology = {
@@ -682,6 +689,7 @@ technology = {
 technology = {
 	# Tech 121
 	year = 4825
+	max_states = 10
 }
 
 technology = {
@@ -723,6 +731,7 @@ technology = {
 technology = {
 	# Tech 128
 	year = 5000
+	max_states = 12
 }
 
 technology = {

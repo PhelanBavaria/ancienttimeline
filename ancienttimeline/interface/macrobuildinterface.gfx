@@ -312,8 +312,8 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_sort_base_tax"
-		texturefile = "gfx//interface//sort_base_tax.dds"
+		name = "GFX_sort_development"
+		texturefile = "gfx//interface//sort_development.dds"
 	}	
 	
 	spriteType = {

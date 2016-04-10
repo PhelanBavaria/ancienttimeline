@@ -267,6 +267,19 @@ guiTypes = {
 			format = left
 			allwaystransparent = yes
 		}
+		
+		instantTextBoxType = {
+			name = "sailors"		
+			position = { x = 108 y = 10 }
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""	
+			maxWidth = 36
+			maxHeight = 20	
+			format = center
+			allwaystransparent = yes
+		}
+				
 	
 		instantTextBoxType = {
 			name = "trade_power"		
@@ -1514,6 +1527,14 @@ guiTypes = {
 			maxWidth = 150
 			maxHeight = 18
 			text = ""	
+		}
+		
+		
+		iconType =
+		{
+			name ="icon_sailors"
+			spriteType = "GFX_icon_sailors"
+			position = { x= 153 y = 9 }
 		}
 		
 		iconType = {
