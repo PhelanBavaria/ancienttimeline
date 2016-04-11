@@ -159,7 +159,7 @@ NAB_ideas = {
 		global_missionary_strength = 0.01
 	}
 	painted_ceramics = {
-		global_trade_income_modifier = 0.10
+		trade_efficiency = 0.10
 	}
 	large_reliance_on_agriculture = {
 		global_manpower_modifier = 0.10
@@ -193,7 +193,7 @@ QAT_ideas = {
 		global_unrest = -1
 	}
 	trade_in_incense = {
-		global_trade_income_modifier = 0.10
+		trade_efficiency = 0.10
 	}
 	religious_rituals = {
 		tolerance_own = 3
@@ -335,7 +335,7 @@ MSQ_ideas = {
 	free = yes		# will be added at load
 	
 	important_trading_port = {
-		global_trade_income_modifier = 0.1
+		trade_efficiency = 0.1
 	}
 	wilayats = {
 		global_unrest = -1
@@ -388,7 +388,7 @@ GRR_ideas = {
 		galley_power = 0.15
 	}
 	the_richest_of_the_arabs = {
-		global_trade_income_modifier = 0.15
+		trade_efficiency = 0.15
 	}
 	ornate_villages = {
 		prestige = 1
@@ -564,7 +564,7 @@ DAC_ideas = {
 		technology_cost = -0.1
 	}
 	precious_metal_mines = {
-		global_trade_income_modifier = 0.1
+		trade_efficiency = 0.1
 	}
 	carpathian_fortress = {
 		defensiveness = 0.25
@@ -607,7 +607,7 @@ HUY_ideas = {
 		tolerance_own = 1
 	}
 	extensive_trade_network_sahuynh = {
-		global_trade_income_modifier = 0.1
+		trade_efficiency = 0.1
 	}
 	mon_people_sahuynh = {
 		enemy_core_creation = 0.5
