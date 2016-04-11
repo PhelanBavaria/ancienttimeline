@@ -1194,3 +1194,40 @@ country_event = {
 		name = alex.EVTOPTA20
 	}
 }
+
+#AI Alexander invades Persia
+country_event = {
+	id = alex.21
+	title = alex.EVTNAME21
+	desc = alex.EVTDESC21
+	picture = CIVIL_WAR_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = MCD
+		has_country_flag = alexander_the_great
+		ai = yes
+		is_at_war = no
+		is_year = 4666
+		exists = ACA
+		NOT = { truce_with = ACA }
+		NOT = { alliance_with = ACA }
+		is_subject = no
+	}
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = alex.EVTOPTA21
+		declare_war_with_cb = {
+			who = ACA
+			casus_belli = cb_conquest
+		}
+		every_province = {
+			limit = { owned_by = ACA }
+			add_claim = MCD
+		}
+	}
+}
