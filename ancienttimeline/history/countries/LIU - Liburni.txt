@@ -1,7 +1,7 @@
 government = tribal_kingdom
 government_rank = 1
 primary_culture = illyrian
-religion = animism
+religion = illyrian
 technology_group = east_celtic
 unit_type = gauls
 capital = 1826 # Lika

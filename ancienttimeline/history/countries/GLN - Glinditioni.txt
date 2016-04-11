@@ -1,6 +1,6 @@
 government = tribal_kingdom
 government_rank = 1
 primary_culture = illyrian
-religion = animism
+religion = illyrian
 technology_group = mediterranean
 capital = 3117 # Visoki
