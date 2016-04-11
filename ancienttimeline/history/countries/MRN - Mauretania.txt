@@ -1,0 +1,102 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = berber
+religion = african
+technology_group = middle_eastern
+capital = 343
+
+4775.1.1 = { capital = 1751 }
+
+4775.1.1 = {
+	monarch = {
+		name = "Baga"
+		dynasty = "Mauri"
+		birth_date = 4750.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+4850.1.1 = {
+	monarch = {
+		name = "Bocchus I"
+		dynasty = "Mauri"
+		birth_date = 4840.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+4900.1.1 = {
+	heir = {
+		name = "Bocchus"
+		monarch_name = "Bocchus II"
+		dynasty = "Mauri"
+		birth_date = 4900.1.1
+		death_date = 4962.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4940.1.1 = {
+	monarch = {
+		name = "Bocchus II"
+		dynasty = "Mauri"
+		birth_date = 4900.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+4962.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+4975.1.1 = {
+	monarch = {
+		name = "Juba II"
+		dynasty = "Ptolemaic"
+		birth_date = 4952.1.1
+		adm = 2
+		dip = 4
+		mil = 0
+	}
+}
+
+4987.1.1 = {
+	heir = {
+		name = "Ptolemy"
+		monarch_name = "Ptolemy I"
+		dynasty = "Ptolemaic"
+		birth_date = 4987.1.1
+		death_date = 5040.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+5020.1.1 = {
+	monarch = {
+		name = "Ptolemy I"
+		dynasty = "Ptolemaic"
+		birth_date = 4987.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
