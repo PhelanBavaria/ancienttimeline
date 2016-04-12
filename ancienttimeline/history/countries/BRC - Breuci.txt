@@ -1,7 +1,7 @@
 government = tribal_kingdom
 government_rank = 1
 primary_culture = illyrian
-religion = illyrian
+religion = illyrian_religion
 technology_group = east_celtic
 unit_type = gauls
 capital = 140 # Usora
