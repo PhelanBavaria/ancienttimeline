@@ -444,7 +444,7 @@ exploration_ideas = {
 	important = yes
 
 	bonus = {
-		cb_on_primitives = yes
+		native_assimilation = 0.25
 	}
 	
 	colonial_ventures = {
