@@ -33,7 +33,4 @@
  CONQUISTADOR: "Adventurer"
  HAVE_LESS_CONQUISTADORS_THAN: "Have less adventurers than "
  HAVE_MORE_CONQUISTADORS_THAN: "Number of adventurers at least "
-  RECRUIT_CONQUISTADOR_IRO: "Recruiting an adventurer will cost you §Y$COST$§W£mil ."
-
- 
- 
+ RECRUIT_CONQUISTADOR_IRO: "Recruiting an adventurer will cost you §Y$COST$§W£mil ."
