@@ -3,7 +3,7 @@
 owner = YEL
 controller = YEL
 culture = yi
-religion = animism
+religion = bimoism
 capital = "Guiyang"
 trade_goods = iron
 hre = no

@@ -3,7 +3,7 @@
 owner = BAX
 controller = BAX
 culture = yi
-religion = animism
+religion = bimoism
 capital = "Yicheng"
 trade_goods = tea
 hre = no

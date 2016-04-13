@@ -1,7 +1,6 @@
 government = tribal_kingdom
-mercantilism = 0.1
+primary_culture = miao
+religion = ua_dab
 technology_group = south_chinese
 unit_type = chinese
-religion = bimoism
-primary_culture = yi
-capital = 2487
+capital = 2486

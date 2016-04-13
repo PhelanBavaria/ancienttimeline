@@ -3,7 +3,7 @@
 owner = DIN
 controller = DIN
 culture = yi
-religion = animism
+religion = bimoism
 capital = "Umung"
 trade_goods = copper
 hre = no
