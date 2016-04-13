@@ -2135,3 +2135,125 @@ ariadne =
 		}
 	}
 }
+#Basque
+mari_basque =
+{
+	heir_chance = 0.50
+	land_morale = 0.1
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 114
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+	}
+}
+
+sugaar_basque =
+{
+	defensiveness = 0.2
+        core_creation = -0.10
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 115
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}
+
+aatxe_basque =
+{
+	spy_offence = 0.25
+	global_unrest = -1
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 116
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+	}
+}
+
+eki_basque =
+{
+	heir_chance = 0.50
+	production_efficiency = 0.1
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 117
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 1.5
+			personality = ai_militarist
+		}
+	}
+}	
+
+basajaun_basque =
+{
+	global_tax_modifier = 0.1
+	defensiveness = 0.2
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 118
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+	}
+}
+
+atxular_basque =
+{
+	defensiveness = 0.2
+	leader_land_shock = 1
+
+	allow = {
+		religion = basque_religion
+	}
+	sprite = 119
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+	}
+}

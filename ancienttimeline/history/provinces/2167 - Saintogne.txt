@@ -1,8 +1,8 @@
-#2167 - Kilimanjaro
+#2167 - Saintogne
 
 culture = aquitanian
-religion = druidism
-capital = "Kilimanjaro"
+religion = basque_religion
+capital = "Saintogne"
 native_size = 60
 trade_goods = unknown
 hre = no

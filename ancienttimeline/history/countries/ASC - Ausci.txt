@@ -2,6 +2,6 @@ government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 primary_culture = aquitanian
-religion = animism
+religion = basque_religion
 technology_group = gauls
 capital = 176	# Bearn

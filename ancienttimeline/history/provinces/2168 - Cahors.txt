@@ -1,8 +1,8 @@
-#Ngamiland
+#2168 - Cahors
 
 culture = aquitanian
-religion = druidism
-capital = "Ngamiland"
+religion = basque_religion
+capital = "Cahors"
 trade_goods = unknown
 hre = no
 base_tax = 2
