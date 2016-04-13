@@ -3,7 +3,7 @@
 owner = YEL
 controller = YEL
 culture = miao
-religion = animism
+religion = ua_dab
 capital = "Yuanling"
 trade_goods = tea
 hre = no

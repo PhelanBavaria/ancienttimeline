@@ -3,7 +3,7 @@
 owner = GAN
 controller = GAN
 culture = miao
-religion = animism
+religion = ua_dab
 capital = "Hengyang"
 trade_goods = gold
 hre = no
