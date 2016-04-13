@@ -1,7 +1,7 @@
 #2472 - Yazhou
 
 culture = zhuang
-religion = animism
+religion = shigongism
 capital = "Yazhou"
 trade_goods = tropical_wood
 hre = no

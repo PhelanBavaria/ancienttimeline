@@ -2,8 +2,8 @@
 
 owner = MNY
 controller = MNY
-culture = hakka
-religion = animism
+culture = yue_culture
+religion = yue_religion
 capital = "Huizhou"
 trade_goods = grain
 hre = no

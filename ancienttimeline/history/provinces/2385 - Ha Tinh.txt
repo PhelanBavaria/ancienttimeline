@@ -3,7 +3,7 @@
 owner = VNL
 controller = VNL
 culture = vietnamese
-religion = animism
+religion = dao_mau
 capital = "Ha Tinh"
 trade_goods = grain
 hre = no

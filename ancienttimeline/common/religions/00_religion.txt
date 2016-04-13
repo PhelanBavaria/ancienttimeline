@@ -319,6 +319,78 @@ eastern = {
 
 		heretic = { TAOIST }
 	}
+
+	dao_mau = {
+		color = { 0.05 0.9 0.1 }
+		icon = 51
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			stability_cost_modifier = -0.1
+			caravan_power = 0.2
+		}
+		country_as_secondary = {
+			land_morale = 0.1
+			tolerance_heathen = 1
+		}
+
+		heretic = { TAOIST }
+	}
+
+	shigongism = {
+		color = { 0.5 0.1 0.7 }
+		icon = 52
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			tolerance_heretic = 2
+			loot_amount = 0.25
+		}
+		country_as_secondary = {
+			land_morale = 0.1
+			tolerance_heathen = 1
+		}
+
+		heretic = { TAOIST }
+	}
+
+	benzhuism = {
+		color = { 0.9 0.2 0.2 }
+		icon = 53
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			tolerance_heretic = 2
+			defensiveness = 0.2
+		}
+		country_as_secondary = {
+			land_morale = 0.1
+			tolerance_heathen = 1
+		}
+
+		heretic = { TAOIST }
+	}
+
+	yue_religion = {
+		color = { 0.8 0.8 0.7 }
+		icon = 54
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			tolerance_heretic = 2
+			trade_efficiency = 0.1
+		}
+		country_as_secondary = {
+			land_morale = 0.1
+			tolerance_heathen = 1
+		}
+
+		heretic = { TAOIST }
+	}
 	
 	crusade_name = CRUSADE
 }

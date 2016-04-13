@@ -3,7 +3,7 @@
 owner = MNY
 controller = MNY
 culture = yue_culture
-religion = animism
+religion = yue_religion
 capital = "Tingzhou"
 trade_goods = chinaware
 hre = no

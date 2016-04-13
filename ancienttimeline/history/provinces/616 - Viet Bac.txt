@@ -3,7 +3,7 @@
 owner = VNL
 controller = VNL
 culture = vietnamese
-religion = animism
+religion = dao_mau
 capital = "Dong Kinh"
 trade_goods = chinaware
 hre = no

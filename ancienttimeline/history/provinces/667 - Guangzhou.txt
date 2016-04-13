@@ -2,8 +2,8 @@
 
 owner = MNY
 controller = MNY
-culture = hakka
-religion = animism
+culture = yue_culture
+religion = yue_religion
 capital = "Panyu"
 trade_goods = spices
 hre = no
@@ -27,7 +27,7 @@ discovered_by = south_chinese
 }
 
 4786.1.1 = { owner = QIN controller = QIN add_core = QIN }
-4790.1.1 = { culture = zhuang base_tax = 4 base_production = 4 }
+4790.1.1 = { culture = zhuang religion = shigongism base_tax = 4 base_production = 4 }
 4796.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = QIN remove_core = MNY }
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }
 4900.1.1 = { religion = confucianism }

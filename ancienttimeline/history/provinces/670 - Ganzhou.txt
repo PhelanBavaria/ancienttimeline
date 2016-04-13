@@ -3,7 +3,7 @@
 owner = GAN
 controller = GAN
 culture = gan
-religion = animism
+religion = yue_religion
 capital = "Ganzhou"
 trade_goods = grain
 hre = no

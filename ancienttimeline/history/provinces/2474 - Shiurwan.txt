@@ -2,8 +2,8 @@
 
 owner = GAN
 controller = GAN
-culture = hakka
-religion = animism
+culture = yue_culture
+religion = yue_religion
 capital = "Shaoguan"
 trade_goods = iron
 hre = no

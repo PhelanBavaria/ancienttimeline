@@ -1,7 +1,7 @@
 #2465 - Lijiang
 
 culture = bai
-religion = animism
+religion = benzhuism
 capital = "Lijiang"
 trade_goods = unknown
 hre = no

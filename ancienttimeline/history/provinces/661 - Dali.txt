@@ -1,7 +1,7 @@
 #661 - Dali
 
 culture = bai
-religion = animism
+religion = benzhuism
 capital = "Dali"
 trade_goods = unknown
 hre = no

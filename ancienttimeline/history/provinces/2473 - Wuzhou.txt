@@ -3,7 +3,7 @@
 owner = ZHN
 controller = ZHN
 culture = zhuang
-religion = animism
+religion = shigongism
 capital = "Wuzhou"
 trade_goods = copper
 hre = no

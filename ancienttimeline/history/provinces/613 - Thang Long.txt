@@ -3,7 +3,7 @@
 owner = VNL
 controller = VNL
 culture = vietnamese
-religion = animism
+religion = dao_mau
 capital = "Hai Phong"
 trade_goods = naval_supplies
 hre = no

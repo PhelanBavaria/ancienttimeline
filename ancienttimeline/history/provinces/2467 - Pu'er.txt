@@ -1,7 +1,7 @@
 #2467 - Pu'er
 
 culture = bai
-religion = animism
+religion = benzhuism
 capital = "Pu'er"
 trade_goods = unknown
 hre = no

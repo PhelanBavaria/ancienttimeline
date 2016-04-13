@@ -3,7 +3,7 @@
 owner = VNL
 controller = VNL
 culture = zhuang
-religion = animism
+religion = shigongism
 capital = "Namning"
 trade_goods = grain
 hre = no

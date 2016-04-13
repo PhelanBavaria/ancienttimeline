@@ -3,7 +3,7 @@
 owner = DIN
 controller = DIN
 culture = bai
-religion = animism
+religion = benzhuism
 capital = "Guangnan"
 trade_goods = copper
 hre = no

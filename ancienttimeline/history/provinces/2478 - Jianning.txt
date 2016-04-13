@@ -3,7 +3,7 @@
 owner = YUE
 controller = YUE
 culture = yue_culture
-religion = animism
+religion = yue_religion
 capital = "Ye"
 trade_goods = tea
 hre = no

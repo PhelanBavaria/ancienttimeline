@@ -3,7 +3,7 @@
 owner = ZHN
 controller = ZHN
 culture = zhuang
-religion = animism
+religion = shigongism
 capital = "Zhaoqing"
 trade_goods = chinaware
 hre = no

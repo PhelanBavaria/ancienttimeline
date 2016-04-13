@@ -3,7 +3,7 @@
 owner = DIN
 controller = DIN
 culture = vietnamese
-religion = animism
+religion = dao_mau
 capital = "Song La"
 trade_goods = tea
 hre = no
