@@ -11,5 +11,6 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
+discovered_by = scythian_group
 
 4664.1.1 = { owner = DAC controller = DAC add_core = DAC citysize = 1000 trade_goods = naval_supplies }
