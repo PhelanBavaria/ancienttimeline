@@ -1,6 +1,6 @@
 government = tribal_kingdom
 mercantilism = 0.1
 technology_group = chinese
-religion = animism
+religion = tibetan_bon
 primary_culture = qiang
 capital = 699

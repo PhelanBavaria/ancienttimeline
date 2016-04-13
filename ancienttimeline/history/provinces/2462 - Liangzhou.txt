@@ -3,7 +3,7 @@
 owner = XIR
 controller = XIR
 culture = qiang
-religion = animism
+religion = tibetan_bon
 capital = "Liangzhou"
 trade_goods = wool
 hre = no

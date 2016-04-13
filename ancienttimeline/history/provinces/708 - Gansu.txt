@@ -3,7 +3,7 @@
 owner = YZH
 controller = YZH
 culture = qiang
-religion = animism
+religion = tibetan_bon
 capital = "Zhangye"
 trade_goods = wool
 hre = no

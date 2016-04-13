@@ -3,7 +3,7 @@
 owner = XIR
 controller = XIR
 culture = sichuanese
-religion = animism
+religion = confucianism
 capital = "Yinchuan"
 trade_goods = grain
 hre = no
