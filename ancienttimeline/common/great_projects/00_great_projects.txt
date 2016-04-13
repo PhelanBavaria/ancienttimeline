@@ -1,0 +1,46 @@
+kiel_canal = {
+	ambient_object = kiel_canal
+	province = 1775
+	is_canal = yes
+	time = 120
+	
+	modifier = {
+		province_trade_power_value = 20
+	}
+}
+
+suez_canal = {
+	ambient_object = suez_canal
+	province = 363
+	is_canal = yes
+	time = 120
+	
+	modifier = {
+		province_trade_power_value = 20
+	}
+}
+
+panama_canal = {
+	ambient_object = panama_canal
+	province = 835
+	is_canal = yes
+	time = 120
+	
+	modifier = {
+		province_trade_power_value = 20
+	}
+}
+
+great_pyramids = {
+	ambient_object = pyramids
+	province = 2526
+	is_canal = no
+	time = 120
+	
+	modifier = {
+		prestige = 1
+		legitimacy = 1
+		local_build_cost = -0.15
+		local_production_efficiency = 0.25
+	}
+}

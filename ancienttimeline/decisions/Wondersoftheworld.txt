@@ -1,0 +1,73 @@
+country_decisions = {
+
+	construct_the_pyramids = {
+		major = yes
+		potential = {
+			OR = {
+				ai = no
+				is_year = 2420
+				AND = {
+					treasury = 2000
+					owns_or_vassal_of = 2526
+				}
+			}
+			has_discovered = 2526
+			2526 = {
+				range = ROOT
+				NOT = { has_great_project = great_pyramids }
+			}
+			adm_tech = 24
+		}
+		allow = {
+			owns_or_vassal_of = 2526
+			is_subject = no			
+			adm_tech = 26
+			treasury = 100
+			stability = 1
+			adm = 3
+			dip = 3
+			mil = 3
+			2526 = {
+				NOT = { unrest = 0 }
+			}
+		}
+		effect = {
+			add_treasury = -100
+			add_adm = -100
+			add_dip = -100
+			add_adm = -100
+			2526 = {	# Giza
+				add_great_project = great_pyramids
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	cancel_kiel_canal = {
+		major = yes
+		potential = {
+			ai = no
+			owns_or_vassal_of = 2526
+			is_subject = no
+			2526 = {
+				has_construction = great_pyramids
+			}
+		}
+		allow = {
+			2526 = {
+				has_construction = great_pyramids
+			}
+		}
+		effect = {
+			2526 = {	# Giza
+				cancel_construction = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+}

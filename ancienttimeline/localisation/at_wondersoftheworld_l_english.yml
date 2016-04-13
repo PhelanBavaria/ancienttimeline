@@ -1,0 +1,5 @@
+l_english:
+ great_pyramids: "The Great Pyramids"
+ great_project_great_pyramids: "The Great Pyramids"
+ construct_the_pyramids_title: "Construct The Great Pyramids"
+ construct_the_pyramids_desc: "We must construct vast tombs for the [Root.Monarch.GetTitle] [Root.Monarch.GetName]! They shall be the Pyramids of [2526.GetName]"

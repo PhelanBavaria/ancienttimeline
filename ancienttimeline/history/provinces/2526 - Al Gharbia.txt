@@ -22,6 +22,7 @@ discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = indian
 
+2420.1.1 = {add_great_project = great_pyramids add_construction_progress = 100 }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis capital = "Boubastis" }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }
