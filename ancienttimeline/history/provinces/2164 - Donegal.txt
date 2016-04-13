@@ -1,7 +1,7 @@
 #Matamba
 
-culture = chokwe
-religion = shamanism
+culture = irish
+religion = druidism
 capital = "Matamba"
 native_size = 90
 trade_goods = unknown
@@ -15,3 +15,4 @@ discovered_by = KON
 discovered_by = LOA
 discovered_by = NDO
 
+4600.1.1 = { owner = CRU controller = CRU add_core = CRU citysize = 1000 trade_goods = grain  discovered_by = western discovered_by = barbarian discovered_by = celtiberians discovered_by = eastern discovered_by = mediterranean }

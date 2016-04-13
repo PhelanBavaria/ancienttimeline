@@ -1,0 +1,10 @@
+government = migratory_tribe
+government_rank = 1
+mercantilism = 0.1
+primary_culture = irish
+religion = druidism
+technology_group = british
+unit_type = gauls
+capital = 375  # Munster
+
+4900.1.1 = { government = tribal_federation }

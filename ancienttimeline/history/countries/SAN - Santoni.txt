@@ -1,0 +1,7 @@
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = aquitanian
+religion = animism
+technology_group = gauls
+capital = 2167	# Saintogne
