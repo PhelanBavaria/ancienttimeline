@@ -1,7 +1,7 @@
 #Chari
 
 culture = kanuri
-religion = african
+religion = zamolxism
 capital = "Sarh"
 native_size = 90
 trade_goods = unknown
@@ -12,3 +12,4 @@ base_manpower = 2
 native_ferocity = 4.5
 native_hostileness = 9 
 
+4664.1.1 = { owner = DAC controller = DAC add_core = DAC citysize = 1000 trade_goods = wool }
