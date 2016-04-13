@@ -1,7 +1,7 @@
 #3115 - Rowne
 
 culture = polish
-religion = slavic
+religion = germanic
 hre = no
 base_tax = 2
 base_production = 2

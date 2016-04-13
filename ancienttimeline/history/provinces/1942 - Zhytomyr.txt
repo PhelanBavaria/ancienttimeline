@@ -1,7 +1,7 @@
 #1942 - Zhytomyr
  
 culture = ruthenian
-religion = slavic
+religion = germanic
 hre = no
 base_tax = 2
 base_production = 2
