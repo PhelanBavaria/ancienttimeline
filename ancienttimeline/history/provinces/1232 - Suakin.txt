@@ -15,17 +15,6 @@ discovered_by = barbarian
 discovered_by = celtiberians
 discovered_by = eastern
 discovered_by = mediterranean
-discovered_by = nomad_group
 discovered_by = indian
-discovered_by = ETH
-discovered_by = ADA
-discovered_by = NUB
-discovered_by = ZAN
-discovered_by = ZIM
-discovered_by = AJU
-discovered_by = MBA
-discovered_by = MDI
-discovered_by = MLI
-discovered_by = SFA
 
 4400.1.1 = { owner = BLE controller = BLE add_core = BLE citysize = 1000 }
