@@ -17,4 +17,4 @@ NDefines.NCountry.MIN_TECH_FOR_CIRCUMNAVIGATE = 132
 NDefines.NEconomy.LAND_TECH_MAINTENANCE_IMPACT = 0.002
 NDefines.NAI.FORCE_COMPOSITION_CHANGE_TECH_LEVEL = 132
 
-TECHS_TO_REFORM = 1000,			-- techs needed to reform without western neighbour
+-- TECHS_TO_REFORM = 1000,			-- techs needed to reform without western neighbour
