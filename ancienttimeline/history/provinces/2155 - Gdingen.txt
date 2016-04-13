@@ -2,7 +2,7 @@
 
 capital = "Oxhöft"
 culture = pommeranian
-religion = romuva
+religion = germanic
 trade_goods = grain
 hre = no
 base_tax = 2

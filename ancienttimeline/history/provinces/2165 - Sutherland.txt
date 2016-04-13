@@ -1,7 +1,7 @@
 #2165 - Mwanza
 
-culture = eastern_bantu
-religion = african
+culture = pictish
+religion = druidism
 capital = "Mwanza"
 native_size = 70
 trade_goods = unknown
@@ -12,3 +12,4 @@ base_manpower = 2
 native_ferocity = 4
 native_hostileness = 9
 
+4900.1.1 = { owner = PCT controller = PCT add_core = PCT citysize = 1000 trade_goods = iron  discovered_by = british }

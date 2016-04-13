@@ -1,7 +1,7 @@
 #48 - Stolp
 
 culture = pommeranian
-religion = romuva
+religion = germanic
 hre = no
 base_tax = 2
 base_production = 2
