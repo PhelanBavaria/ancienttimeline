@@ -1,4 +1,5 @@
 #Quiberon Bay
 
 discovered_by = gauls
+discovered_by = north_african
 discovered_by = CTH

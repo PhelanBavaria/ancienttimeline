@@ -10,10 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 citysize = 1266
-fort1 = yes
-discovered_by = western
 discovered_by = barbarian
-discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = middle_eastern
 

@@ -12,7 +12,6 @@ base_production = 2
 base_manpower = 2
 citysize = 9503
 add_core = YAM
-fort1 = yes
 discovered_by = chinese
 discovered_by = south_chinese
  

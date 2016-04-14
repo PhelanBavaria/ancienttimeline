@@ -11,11 +11,8 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = ASY
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
+discovered_by = middle_eastern
 discovered_by = mediterranean
-discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
 

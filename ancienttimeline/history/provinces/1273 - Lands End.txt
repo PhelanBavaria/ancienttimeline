@@ -1,4 +1,5 @@
 #Land's End
 
 discovered_by = british
+discovered_by = north_african
 discovered_by = CTH

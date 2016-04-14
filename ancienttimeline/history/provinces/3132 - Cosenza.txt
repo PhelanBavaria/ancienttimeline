@@ -7,16 +7,13 @@ base_tax = 2
 base_production = 2
 trade_goods = fish
 base_manpower = 2
-fort1 = yes
 capital = "Cosentia"
 citysize = 2600
-discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
-discovered_by = eastern
+discovered_by = north_african
 discovered_by = mediterranean
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = middle_eastern
 
 4266.1.1 = { owner = KRN controller = KRN add_core = KRN }
 4728.1.1 = { owner = ROM controller = ROM add_core = ROM }

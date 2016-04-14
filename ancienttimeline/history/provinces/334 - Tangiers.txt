@@ -12,13 +12,9 @@ base_production = 2
 base_manpower = 2
 citysize = 1733
 add_core = CTH
-fort1 = yes
-discovered_by = western
+discovered_by = north_african
 discovered_by = barbarian
 discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 discovered_by = mediterranean
 
 2.1.1 = {

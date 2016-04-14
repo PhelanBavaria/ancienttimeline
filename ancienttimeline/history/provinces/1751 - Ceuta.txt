@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 discovered_by = mediterranean
+discovered_by = north_african
 
 4500.1.1 = { owner = CTH controller = CTH add_core = CTH is_city = yes }
 4775.1.1 = { owner = MRN controller = MRN add_core = MRN remove_core = CTH }

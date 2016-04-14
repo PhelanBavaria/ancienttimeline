@@ -11,16 +11,13 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 citysize = 7087
-fort1 = yes
 add_core = EGY
-discovered_by = western
+discovered_by = middle_eastern
 discovered_by = barbarian
 discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 discovered_by = mediterranean
 discovered_by = indian
+discovered_by = north_african
 
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA religion = serapis }

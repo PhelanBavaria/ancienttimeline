@@ -13,7 +13,6 @@ base_manpower = 4
 citysize = 18571
 add_core = HND
 add_core = WUU
-fort1 = yes
 discovered_by = chinese
 discovered_by = south_chinese
 discovered_by = nomad_group

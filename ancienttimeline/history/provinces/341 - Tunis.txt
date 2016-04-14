@@ -12,6 +12,7 @@ citysize = 7075
 fort_15th = yes
 
 discovered_by = mediterranean
+discovered_by = north_african
 
 
 2.1.1   = {

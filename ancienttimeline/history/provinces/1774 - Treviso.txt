@@ -11,9 +11,10 @@ capital = "Tarvisium"
 native_size = 5
 native_ferocity = 6
 native_hostileness = 6
-
 discovered_by = east_celtic
+discovered_by = north_african
 discovered_by = mediterranean
+discovered_by = middle_eastern
 
 1850.1.1 = { religion = illyrian_religion }
 4275.1.1 = { owner = VEN controller = VEN add_core = VEN citysize = 1000 trade_goods = fish }

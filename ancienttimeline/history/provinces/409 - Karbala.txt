@@ -12,8 +12,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 4
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = middle_eastern
 
 2846.1.1 = { owner = SUM controller = SUM add_core = SUM }
 3106.1.1 = { owner = BAB controller = BAB add_core = BAB remove_core = AKK remove_core = SUM capital = "Babylon" base_tax = 5 base_production = 5 base_manpower = 5 }

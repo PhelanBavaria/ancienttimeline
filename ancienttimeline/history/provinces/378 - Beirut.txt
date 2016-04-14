@@ -12,13 +12,11 @@ base_production = 3
 base_manpower = 2
 citysize = 3610
 add_core = EBL
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
+discovered_by = middle_eastern
 discovered_by = mediterranean
-discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
+discovered_by = north_african
 
 3450.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

@@ -12,11 +12,8 @@ base_production = 3
 base_manpower = 2
 citysize = 3362
 add_core = SUM
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
+discovered_by = middle_eastern
 discovered_by = mediterranean
-discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
 

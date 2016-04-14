@@ -8,7 +8,5 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-discovered_by = muslim
-discovered_by = ottoman
 
 3800.1.1 = { owner = SAA controller = SAA add_core = SAA citysize = 1087 trade_goods = coffee }

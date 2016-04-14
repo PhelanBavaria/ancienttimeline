@@ -1,5 +1,6 @@
 #Cote D'Argent
 
 discovered_by = gauls
+discovered_by = north_african
 discovered_by = hispanian
 discovered_by = CTH

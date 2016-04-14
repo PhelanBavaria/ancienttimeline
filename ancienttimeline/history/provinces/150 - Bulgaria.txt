@@ -12,6 +12,7 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 discovered_by = scythian_group
+discovered_by = middle_eastern
 discovered_by = mediterranean
 
 4484.1.1 = { owner = ACA controller = ACA add_core = ACA city_size = 1000 trade_goods = iron}

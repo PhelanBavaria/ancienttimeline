@@ -8,13 +8,11 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 3
-discovered_by = western
 discovered_by = barbarian
 discovered_by = celtiberians
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 discovered_by = mediterranean
+discovered_by = north_african
+discovered_by = middle_eastern
 
 4370.1.1 = { owner = CYR controller = CYR add_core = CYR is_city = yes trade_goods = wool }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL religion = serapis }

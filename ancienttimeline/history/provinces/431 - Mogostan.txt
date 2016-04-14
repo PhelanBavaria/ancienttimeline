@@ -12,8 +12,7 @@ base_production = 3
 base_manpower = 2
 citysize = 1801
 add_core = ROW
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = middle_eastern
 discovered_by = indian
 
 2.1.1 = {

@@ -12,8 +12,6 @@ base_production = 3
 base_manpower = 2
 citysize = 1000
 add_core = DIL
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = indian
 
 4400.1.1 = { owner = GRR controller = GRR add_core = GRR remove_core = DIL }

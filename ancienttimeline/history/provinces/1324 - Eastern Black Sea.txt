@@ -5,6 +5,7 @@ discovered_by = celtiberians
 discovered_by = mediterranean
 discovered_by = scythian_group
 discovered_by = middle_eastern
+discovered_by = north_african
 
 
 
