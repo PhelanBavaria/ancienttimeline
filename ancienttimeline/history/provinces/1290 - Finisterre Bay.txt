@@ -1,5 +1,3 @@
 #Finisterre Bay
 
 discovered_by = hispanian
-discovered_by = north_african
-discovered_by = CTH

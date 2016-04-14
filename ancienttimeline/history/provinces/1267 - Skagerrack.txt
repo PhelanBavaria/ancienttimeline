@@ -1,5 +1,4 @@
 #Skagerrak
 
-discovered_by = JUT
-discovered_by = DAN
+4600.1.1 = { discovered_by = barbarian }
 

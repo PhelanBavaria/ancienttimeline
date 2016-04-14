@@ -12,5 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4500.1.1 = { owner = DUM controller = DUM add_core = DUM citysize = 1000 trade_goods = tin  discovered_by = british discovered_by = gauls discovered_by = CTH }
+4500.1.1 = { owner = DUM controller = DUM add_core = DUM citysize = 1000 trade_goods = tin  discovered_by = british discovered_by = gauls }
 5055.1.1 = { owner = ROM controller = ROM add_core = ROM }

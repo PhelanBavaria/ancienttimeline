@@ -1,4 +1,3 @@
 #Helgoland Bight
 
-discovered_by = gauls
-discovered_by = barbarian
+4600.1.1 = { discovered_by = barbarian discovered_by = gauls }

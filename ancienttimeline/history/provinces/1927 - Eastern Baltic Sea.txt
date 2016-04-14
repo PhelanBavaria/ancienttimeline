@@ -1,6 +1,3 @@
 #Eastern Baltic Sea
 
-discovered_by = POM
-discovered_by = PRS
-discovered_by = GCR
-
+4600.1.1 = { discovered_by = barbarian }

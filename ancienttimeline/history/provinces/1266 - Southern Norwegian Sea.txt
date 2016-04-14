@@ -1,4 +1,4 @@
 #Southern Norwegian Sea
 
-discovered_by = JUT
+4600.1.1 = { discovered_by = barbarian }
 
