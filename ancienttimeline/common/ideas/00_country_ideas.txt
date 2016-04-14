@@ -789,3 +789,44 @@ ACA_ideas = {
 		diplomatic_reputation = 1
 	}
 }
+
+SYC_ideas = {
+	start = {
+		trade_efficiency = 0.10
+		infantry_power = 0.05
+	}
+
+	bonus = {
+		light_ship_power = 0.10
+	}
+	
+	trigger = {
+		OR = {
+			tag = SYC
+			primary_culture = doric
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	archidemes = {
+		mil_tech_cost_modifier = -0.10
+	}
+	democratic_values = {
+		stability_cost_modifier = -0.10
+	}
+	dynamic_diplomacy = {
+		diplomatic_reputation = 1
+	}
+	center_of_the_mediterranean = {
+		development_cost = -0.10
+	}
+	magna_graecia = {
+		enemy_core_creation = 0.20
+	}
+	weapons_of_siege = {
+		siege_ability = 0.10
+	}
+	great_naval_power = {
+		naval_forcelimit_modifier = 0.10
+	}
+}
