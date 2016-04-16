@@ -7,7 +7,7 @@ country_decisions = {
 				ai = no
 				is_year = 2420
 				AND = {
-					treasury = 2000
+					treasury = 100
 					owns_or_vassal_of = 2526
 				}
 			}
@@ -45,7 +45,7 @@ country_decisions = {
 		}
 	}
 
-	cancel_kiel_canal = {
+	cancel_the_pyramids = {
 		major = yes
 		potential = {
 			ai = no
@@ -62,6 +62,78 @@ country_decisions = {
 		}
 		effect = {
 			2526 = {	# Giza
+				cancel_construction = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	
+	construct_the_library = {
+		major = yes
+		potential = {
+			OR = {
+				ai = no
+				is_year = 2420
+				AND = {
+					treasury = 100
+					owns_or_vassal_of = 358
+				}
+			}
+			culture_group = byzantine
+			has_discovered = 358
+			358 = {
+				range = ROOT
+				NOT = { has_great_project = great_library }
+				NOT = { has_construction = great_library }
+			}
+			adm_tech = 100
+		}
+		allow = {
+			owns_or_vassal_of = 358
+			is_subject = no			
+			adm_tech = 108
+			treasury = 100
+			stability = 1
+			adm = 2
+			mil = 5
+			358 = {
+				NOT = { unrest = 0 }
+			}
+		}
+		effect = {
+			add_treasury = -100
+			add_adm = -100
+			add_dip = -100
+			add_adm = -100
+			358 = {	# Alexandria
+				add_great_project = great_library
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	cancel_the_library = {
+		major = yes
+		potential = {
+			ai = no
+			owns_or_vassal_of = 358
+			is_subject = no
+			358 = {
+				has_construction = great_library
+			}
+		}
+		allow = {
+			358 = {
+				has_construction = great_library
+			}
+		}
+		effect = {
+			358 = {	# Alexandria
 				cancel_construction = yes
 			}
 		}

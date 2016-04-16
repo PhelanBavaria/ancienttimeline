@@ -2252,9 +2252,11 @@ type={
 	use_animation=no
 	scale=0.570000
 	time_duration=300.000000
+	always_visible=yes
+	visible_in_all_map_modes=yes
 	object={
 		name="angkor_wat"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			4428.600 0.150 869.000 
 		}
@@ -2318,7 +2320,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="notre_dame"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			2843.600 0.200 1494.700 
 		}
@@ -2350,7 +2352,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="stpeters"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			3000.000 0.260 1364.300 
 		}
@@ -2366,7 +2368,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="tower_of_london"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			2802.350 0.200 1550.400 
 		}
@@ -2382,7 +2384,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="chichen_itza"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			1424.000 -0.050 1208.000 
 		}
@@ -2398,7 +2400,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="hagia_sophia"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			3241.000 0.150 1344.000 
 		}
@@ -2414,7 +2416,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="hagia_sophia"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			3241.000 0.150 1344.000 
 		}
@@ -2430,7 +2432,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="machu_picchu"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			1661.800 -0.200 638.800 
 		}
@@ -2444,11 +2446,23 @@ type={
 	use_animation=no
 	scale=0.290000
 	time_duration=300.000000
+	always_visible=yes
+	visible_in_all_map_modes=yes
 	object={
 		name="parthenon"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			3173.300 0.000 1289.400 
+		}
+		rotation={
+			0.000 55.000 0.000 
+		}
+	}
+	object={
+		name="great_library"
+		hidden_on_start=yes
+		position={
+			3269.000 0.000 1289.400 
 		}
 		rotation={
 			0.000 55.000 0.000 
@@ -2462,7 +2476,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="petra"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			3362.000 0.000 1138.000 
 		}
@@ -2478,7 +2492,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="tenochtitlan"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			1260.000 0.300 1184.000 
 		}
@@ -2558,7 +2572,7 @@ type={
 	time_duration=300.000000
 	object={
 		name="forbidden_city"
-		hidden_on_start=no
+		hidden_on_start=yes
 		position={
 			4648.300 -0.020 1332.800 
 		}
@@ -2569,7 +2583,7 @@ type={
 }
 type={
 	type="nammi2_himeji_castle_entity"
-	use_animation=no
+	use_animation=yes
 	scale=0.290000
 	time_duration=300.000000
 	object={

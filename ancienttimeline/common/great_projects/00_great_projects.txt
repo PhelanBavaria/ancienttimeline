@@ -44,3 +44,28 @@ great_pyramids = {
 		local_production_efficiency = 0.25
 	}
 }
+
+great_library = {
+	ambient_object = great_library
+	province = 358
+	is_canal = no
+	time = 20
+	
+	modifier = {
+		technology_cost = -0.05
+		idea_cost = -0.05
+	}
+}
+
+parthenon = {
+	ambient_object = parthenon
+	province = 146
+	is_canal = no
+	time = 120
+	
+	modifier = {
+		local_tax_modifier = 0.1
+		tax_income = 1
+		interest = -1
+	}
+}
