@@ -1162,9 +1162,10 @@ guiTypes = {
 				format = right			
 			}
 			
+			#Hidden by position
 			instantTextBoxType = {
 				name = "attrition"
-				position = { x = 35 y = 450}
+				position = { x = -2035 y = 450} 
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}	
@@ -1175,9 +1176,10 @@ guiTypes = {
 				fixedsize = yes				
 			}
 			
+			#Hidden by position
 			instantTextBoxType = {
 				name = "attrition_value"
-				position = { x = 108 y = 450}
+				position = { x = -2108 y = 450}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}	
@@ -3530,7 +3532,6 @@ guiTypes = {
 			allwaystransparent = yes
 		}	
 
-
 		instantTextBoxType = {
 			name = "unit_buildtime"
 			position = { x = 55 y = 18 }
@@ -3545,7 +3546,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "unit_cost"
-			position = { x = 55 y = 19 }
+			position = { x = 140 y = 18 }
 			textureFile = ""
 			font = "vic_18_grey"
 			borderSize = {x = 4 y = 4}
@@ -3554,7 +3555,7 @@ guiTypes = {
 			maxHeight = 32	
 			Orientation = "UPPER_LEFT"
 		}
-
+		
 		instantTextBoxType = {
 			name = "unit_men"
 			position = { x = 180 y = 18 }
