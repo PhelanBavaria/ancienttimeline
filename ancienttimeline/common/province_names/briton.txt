@@ -1,7 +1,7 @@
 233 = "Dumnon"
 234 = "Wenta" #closer to "Wessex"
 235 = "Canto"
-236 = "Londinjon"
+236 = "Lowonidonjon" #Celtic name of the settlement. Also sounds less like London
 237 = "Catuwerlon"
 238 = "Camulodunon"
 239 = "Abona"
