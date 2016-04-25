@@ -1,1 +1,2 @@
 2.1.1 = { emperor = XXX }
+2.1.1 = { dismantle_hre = yes }
