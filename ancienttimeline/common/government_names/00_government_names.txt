@@ -535,6 +535,7 @@ gov_tribal = {
 			government = tribal_kingdom
 			government = tribal_despotism
 			government = tribal_federation
+			government = migratory_tribe
 		}
 	}
 }

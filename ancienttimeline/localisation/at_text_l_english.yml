@@ -97,4 +97,8 @@ l_english:
  building_monument: "Monument"
  building_temple: "Temple"
  building_great_temple: "Great Temple"
+ building_celtic_roundhouse: "Roundhouse"
+ building_celtic_fort: "Primitive Fort"
+ building_celtic_temple: "Tribal Temple"
+ building_celtic_monument: "Tribal Monument"
  TRANSPORTATION: "Roads"

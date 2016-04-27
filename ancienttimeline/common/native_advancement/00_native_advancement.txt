@@ -1,0 +1,83 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+# ai_will do does not actually determine weighting, but AI will not pick an idea with ai_will_do = 0
+# ROOT = country picking the idea
+# groups set to colonial=yes will be higher prioritized by the AI when spending power
+
+tribal_adm_ideas = {
+	category = ADM
+	
+	migration_tribes = {
+		migration_cooldown = -0.25
+	}
+	tribal_dues = {
+		global_tax_modifier = 0.25
+	}
+	tribal_roundhouses = {
+		build_cost = -0.10
+	}	
+	local_ruling = {
+		global_unrest = -2
+		min_autonomy = 5
+	}
+	tribal_bureaucracy = {
+		core_creation = -0.10
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+tribal_dip_ideas = {
+	category = DIP
+
+	tribal_relations = {
+		diplomatic_upkeep = 1
+	}
+	resistant_people = { 
+		enemy_core_creation = 0.1
+	}
+	tribal_diplomacy = {
+		relations_decay_of_me = 0.5
+		ae_impact = -0.05
+	}
+	land_claiming = { 
+		colonists = 1
+	}
+	concubines = { 
+		heir_chance = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+tribal_mil_ideas = {
+	category = MIL	
+	
+	warrior_societies = {
+		land_morale = 0.1
+	}
+	warrior_women = {
+		may_recruit_female_generals = yes
+		leader_land_shock = 1.0
+	}
+	tribal_generals = {
+		free_leader_pool = 1
+	}
+	provisions_for_warriors = {
+		land_attrition = -0.20
+	}
+	violent_tradition = {
+		war_exhaustion = -0.01
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}

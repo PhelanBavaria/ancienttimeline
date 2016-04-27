@@ -1,0 +1,113 @@
+###
+# North American Natives
+###
+
+# Do not change tags in here without changing every other reference to them.
+# If adding new buildings, make sure they are uniquely named.
+
+# cost = x #==> cost in $ to build (subject to other modifiers)
+# time = x #==> number of months to build.
+# previous = x # a building that is the prerequisite of this building
+# modifier = m # a modifier on the province that the building gives
+# trigger = t # an and trigger that needs to be fullfilled to build and keep the building
+# one_per_country = yes/no # if yes, only one of these can exist in a country
+# manufactory = { trade_good trade_good } # list of trade goods that get a production bonus
+# onmap = yes/no # show as a sprite on the map
+
+# FROM = owner
+# ROOT = province
+
+
+celtic_roundhouse = {
+	cost = 50
+	time = 12
+	trigger = {
+		owner = { 
+			government = migratory_tribe 
+			OR = {
+				primary_culture  = briton
+				primary_culture  = pictish
+				primary_culture  = irish
+			}
+		}
+	}
+	modifier = {
+		local_manpower_modifier = 0.25
+	}
+	government_specific = yes
+
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}				
+	}
+}
+
+celtic_fort = {
+	cost = 100
+	time = 24
+	trigger = {
+		owner = { government = migratory_tribe }
+	}
+	modifier = {
+		fort_level = 1
+	}
+	government_specific = yes
+	influencing_fort = no
+	
+	onmap = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}				
+	}
+}
+
+celtic_temple = {
+	cost = 50
+	time = 12
+	trigger = {
+		owner = { government = migratory_tribe }
+	}
+	modifier = {
+		local_tax_modifier = 0.20
+		local_missionary_strength = 0.001
+	}
+	government_specific = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}				
+	}
+}
+
+celtic_monument = {
+	cost = 80
+	time = 36
+	trigger = {
+		owner = { government = migratory_tribe }
+		is_capital = yes
+	}
+	modifier = {
+		tax_income = 1
+	}
+	government_specific = yes
+	one_per_country = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}				
+	}
+}

@@ -16,4 +16,5 @@ NDefines.NCountry.REBEL_ARTILLERY_INCREASE_LEVEL_2_SIZE = 0
 NDefines.NCountry.MIN_TECH_FOR_CIRCUMNAVIGATE = 132
 NDefines.NEconomy.LAND_TECH_MAINTENANCE_IMPACT = 0.002
 NDefines.NAI.FORCE_COMPOSITION_CHANGE_TECH_LEVEL = 132
-NDefines.NCountry.TECHS_TO_REFORM = 1000		-- techs needed to reform without western neighbour
+NDefines.NCountry.TECHS_TO_REFORM = 1000		-- techs needed to reform without western neighbour - Changed to be undoable as british and german tribes shouldn't be able to.
+NDefines.NCountry.PRIMITIVES_TECH_MODIFIER = 0.35	-- Technology groups with a slower modifier than this count as 'primitives'

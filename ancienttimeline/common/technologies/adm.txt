@@ -18,6 +18,11 @@ technology = {
 	native_sweat_lodge = yes
 	native_great_trail = yes
 	native_ceremonial_fire_pit = yes
+	#European Tribes
+	celtic_roundhouse = yes
+	celtic_fort = yes
+	celtic_temple = yes
+	celtic_monument = yes
 }
 
 technology = {

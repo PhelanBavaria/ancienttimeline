@@ -235,4 +235,24 @@ spriteTypes = {
 		texturefile = "gfx//interface//buildings//manufactory_trade_company.tga"
 		loadType = "INGAME"
 	}
+	spriteType = {
+		name = "GFX_celtic_roundhouse"
+		texturefile = "gfx//interface//buildings//native_storehouse.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_celtic_fort"
+		texturefile = "gfx//interface//buildings//native_palisade.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_celtic_temple"
+		texturefile = "gfx//interface//buildings//temple.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_celtic_monument"
+		texturefile = "gfx//interface//buildings//monument.tga"
+		loadType = "INGAME"
+	}
 }
