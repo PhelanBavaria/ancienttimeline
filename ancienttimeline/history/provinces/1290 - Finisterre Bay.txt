@@ -1,3 +1,4 @@
 #Finisterre Bay
 
-discovered_by = hispanian
+4400.1.1 = { discovered_by = hispanian }
+4950.1.1 = { discovered_by = ROM }

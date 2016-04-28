@@ -12,7 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-discovered_by = gauls
-
-4400.1.1 = { owner = ARV controller = ARV add_core = ARV citysize = 1000 trade_goods = tin }
-4950.1.1 = { owner = ROM controller = ROM add_core = ROM }
+4400.1.1 = { owner = ARV controller = ARV add_core = ARV citysize = 1000 trade_goods = tin discovered_by = gauls }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }

@@ -1,3 +1,5 @@
 #Land's End
 
-discovered_by = british
+4400.1.1 = { discovered_by = british }
+4400.1.1 = { discovered_by = gauls }
+4950.1.1 = { discovered_by = ROM }
