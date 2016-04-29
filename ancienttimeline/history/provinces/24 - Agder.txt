@@ -1,7 +1,7 @@
 #24 - Agder
 
 culture = norwegian
-religion = norse_pagan_reformed
+religion = germanic
 hre = no
 base_tax = 2
 base_production = 2

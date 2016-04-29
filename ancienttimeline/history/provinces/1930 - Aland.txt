@@ -1,7 +1,7 @@
 #1930 - Åland
 
 culture = swedish
-religion = norse_pagan_reformed
+religion = germanic
 capital = "Mariehamn"
 hre = no
 base_tax = 2
