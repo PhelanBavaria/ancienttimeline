@@ -12,5 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = CLL controller = CLL add_core = CLL citysize = 1000 trade_goods = tin   discovered_by = barbarian discovered_by = celtiberians  discovered_by = mediterranean }
+4600.1.1 = { owner = CLL controller = CLL add_core = CLL citysize = 1000 trade_goods = tin discovered_by = hispanian }
+4900.1.1 = { discovered_by = ROM }
 4956.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -12,5 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = CTR controller = CTR add_core = CTR citysize = 1000 trade_goods = naval_supplies   discovered_by = barbarian discovered_by = celtiberians  discovered_by = mediterranean }
+4600.1.1 = { owner = CTR controller = CTR add_core = CTR citysize = 1000 trade_goods = naval_supplies discovered_by = hispanian discovered_by = gauls }
+4900.1.1 = { discovered_by = ROM }
 4981.1.1 = { owner = ROM controller = ROM add_core = ROM }
