@@ -18,6 +18,8 @@ native_hostileness = 6
             duration = -1
         }
 }
+
+4600.1.1 = { discovered_by = gauls discovered_by = barbarian }
 4850.1.1 = { owner = MEA controller = MEA add_core = MEA is_city = yes trade_goods = cloth }
-4950.1.1 = { owner = ROM controller = ROM add_core = ROM }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }
 

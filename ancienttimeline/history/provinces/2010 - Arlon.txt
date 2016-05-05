@@ -12,4 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
+4600.1.1 = { discovered_by = gauls discovered_by = barbarian }
 4900.1.1 = { owner = VNG controller = VNG add_core = VNG is_city = yes trade_goods = gold }
+4950.1.1 = { discovered_by = ROM }

@@ -12,5 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
+4600.1.1 = { discovered_by = gauls discovered_by = barbarian }
 4850.1.1 = { owner = TOX controller = TOX add_core = TOX is_city = yes trade_goods = cloth }
-4950.1.1 = { owner = ROM controller = ROM add_core = ROM }
+4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }
