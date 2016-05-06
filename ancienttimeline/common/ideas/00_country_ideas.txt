@@ -871,3 +871,45 @@ ILL_ideas = {
 		prestige = 1
 	}
 }
+
+MAU_ideas = {
+	start = {
+		global_manpower_modifier = 0.15
+		global_tax_modifier = 0.15
+	}
+
+	bonus = {
+		legitimacy = 1
+	}
+	
+	trigger = {
+		OR = {
+			tag = MAU
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	arthashastra = {
+		stability_cost_modifier = -0.20
+	}
+	edicts_of_ashoka = {
+		tolerance_own = 3
+		tolerance_heretic = 3
+	}
+	indo_greek_friendship_treaty = {
+		global_trade_power = 0.10
+	}
+	buddhist_missions = {
+		missionaries = 1
+		religious_unity = 0.25
+	}
+	ahimsa = {
+		global_unrest = -2
+	}
+	sanchi = {
+		prestige = 1
+	}
+	indian_war_elephants_maurya = {
+		leader_land_shock = 1.5
+	}
+}
