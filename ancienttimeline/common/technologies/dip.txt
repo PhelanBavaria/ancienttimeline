@@ -69,6 +69,7 @@ technology = {
 technology = {
 	# Tech 10
 	year = 2050
+	may_fabricate_claims = yes
 }
 
 technology = {
@@ -334,6 +335,7 @@ technology = {
 technology = {
 	# Tech 56
 	year = 3200
+	may_steal_maps = yes
 }
 
 technology = {
@@ -566,6 +568,7 @@ technology = {
 technology = {
 	# Tech 96
 	year = 4200
+	may_study_technology = yes
 }
 
 technology = {
@@ -636,6 +639,7 @@ technology = {
 technology = {
 	# Tech 108
 	year = 4500
+	may_slander_merchants = yes
 	range					=	10
 }
 
@@ -661,6 +665,7 @@ technology = {
 	# Tech 112
 	year = 4600
 	trade_efficiency 		= 	0.01
+	may_sabotage_recruitment = yes
 }
 
 technology = {
@@ -679,6 +684,7 @@ technology = {
 	# Tech 115
 	year = 4675
 	naval_morale			=	0.1
+	may_sow_discontent = yes
 }
 
 technology = {
@@ -697,6 +703,7 @@ technology = {
 	# Tech 118
 	year = 4750
 	naval_maintenance	= 0.1
+	may_sabotage_reputation = yes
 }
 
 technology = {
@@ -709,12 +716,14 @@ technology = {
 	# Tech 120
 	year = 4800
 	global_colonial_growth	= 	1
+	allow_client_states = yes	
 }
 
 technology = {
 	# Tech 121
 	year = 4825
 	range					=	10
+	may_corrupt_officials = yes
 }
 
 technology = {
@@ -733,6 +742,7 @@ technology = {
 	# Tech 124
 	year = 4900
 	naval_morale			=	0.1
+	may_agitate_for_liberty = yes
 }
 
 technology = {
@@ -750,12 +760,13 @@ technology = {
 technology = {
 	# Tech 127
 	year = 4975
-	trade_efficiency 		= 	0.01
+	may_infiltrate_administration = yes
 }
 
 technology = {
 	# Tech 128
 	year = 5000
+	trade_efficiency 		= 	0.01
 }
 
 technology = {

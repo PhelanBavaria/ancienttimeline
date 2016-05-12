@@ -190,43 +190,36 @@ spy_ideas = {
 	category = DIP
 
 	bonus = {
-		rebel_support_efficiency = 0.25
-		may_steal_maps = yes
+		rebel_support_efficiency = 0.50
 	}
 	
 	pirates = {
-		embargo_efficiency = 0.13
-		privateer_efficiency = 0.16
+		embargo_efficiency = 0.25
+		privateer_efficiency = 0.33
 	}
 	trustworthy_administration = {
-		global_spy_defence = 0.13
+		global_spy_defence = 0.33
+		global_prov_trade_power_modifier = 0.10
 	}
 	rumourmongering = {
-		may_sabotage_reputation = yes
-		may_slander_merchants = yes
+		yearly_corruption = -0.1
 	}
 	efficient_spies = {
-		spy_offence = 0.13
-		diplomats = 1
+		spy_offence = 0.5
+		advisor_cost = -0.10
 	}
 	shady_recruitment = {
-		discovered_relations_impact = -0.16
+		reduced_liberty_desire = -10
 	}
 	destabilising_efforts = {
-		may_sow_discontent = yes
+		fabricate_claims_cost = -0.25
 	}
 	espionage  = {
-		may_infiltrate_administration = yes
+		diplomats = 1	
 	}
 	
 	ai_will_do = {
-		factor = 1
-		
-		# AI generally should not pick this
-		modifier = {
-			factor = 0.1
-			always = yes
-		}
+		factor = 0.75
 	}
 }
 

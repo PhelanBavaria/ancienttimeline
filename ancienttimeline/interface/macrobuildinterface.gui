@@ -257,6 +257,18 @@ guiTypes = {
 		}
 		
 		instantTextBoxType = {
+			name = "base_cost"
+			position = { x = 5 y = 22 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			maxWidth = 164
+			maxHeight = 32
+			format = left
+			allwaystransparent = yes
+		}
+
+		instantTextBoxType = {
 			name = "amount"
 			position = { x = 5 y = 22 }
 			font = "vic_18"

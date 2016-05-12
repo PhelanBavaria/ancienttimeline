@@ -143,4 +143,10 @@ spriteTypes = {
 		name = "GFX_revolution_target"
 		texturefile = "gfx//interface//revolution_target.dds"
 	}
+
+	spriteType = {
+		name = "GFX_gender_icon"
+		texturefile = "gfx//interface//gender_icon.dds"
+		noOfFrames = 2
+	}	
 }
