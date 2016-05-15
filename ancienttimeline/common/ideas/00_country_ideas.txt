@@ -953,3 +953,43 @@ CRT_ideas = {
 		land_morale = 0.10
 	}
 }
+
+CRH_ideas = {
+	start = {
+		light_ship_cost = -0.15
+		naval_maintenance_modifier = -0.10
+	}
+
+	bonus = {
+		global_colonial_growth = 0.25
+	}
+	
+	trigger = {
+		OR = {
+			tag = CRH
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	a_blessed_landscape = {
+		development_cost = -0.10
+	}
+	the_dilokos = {
+		caravan_power = 0.10
+	}
+	greek_art_center = {
+		global_tax_modifier = 0.05
+	}
+	pan_hellenic_games = {
+		land_morale = 0.10
+	}
+	corinthian_colonies = {
+		colonists = 1
+	}
+	crossroads_of_the_world = {
+		global_trade_power = 0.10
+	}
+	greatest_polis_in_greece = {
+		prestige = 1
+	}
+}
