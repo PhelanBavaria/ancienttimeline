@@ -913,3 +913,43 @@ MAU_ideas = {
 		leader_land_shock = 1.5
 	}
 }
+
+CRT_ideas = {
+	start = {
+		galley_power = 0.10
+		trade_value_modifier = 0.10
+	}
+
+	bonus = {
+		prestige_from_naval = 0.50
+	}
+	
+	trigger = {
+		OR = {
+			tag = CRT
+		}
+	}
+	free = yes		#wibe added at load.
+	
+	legacy_of_the_minoans = {
+		prestige = 1
+	}
+	the_labyrinth_of_crete = {
+		tolerance_own = 1
+	}
+	arboriculture_and_sheep = {
+		production_efficiency = 0.05
+	}
+	valleys_and_mountains = {
+		leader_land_manuever = 1
+	}
+	birthplace_of_the_gods = {
+		global_missionary_strength = 0.015
+	}
+	build_up_the_navy = {
+		naval_forcelimit_modifier = 0.10
+	}
+	the_cretan_bull = {
+		land_morale = 0.10
+	}
+}
