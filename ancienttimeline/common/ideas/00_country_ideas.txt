@@ -715,9 +715,7 @@ MCD_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = MCD
-		}
+		tag = MCD
 	}
 	free = yes		#wibe added at load.
 	
@@ -800,9 +798,7 @@ SYC_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = SYC
-		}
+		tag = SYC
 	}
 	free = yes		#wibe added at load.
 	
@@ -881,9 +877,7 @@ MAU_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = MAU
-		}
+		tag = MAU
 	}
 	free = yes		#wibe added at load.
 	
@@ -923,9 +917,7 @@ CRT_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = CRT
-		}
+		tag = CRT
 	}
 	free = yes		#wibe added at load.
 	
@@ -963,9 +955,7 @@ CRH_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = CRH
-		}
+		tag = CRH
 	}
 	free = yes		#wibe added at load.
 	
