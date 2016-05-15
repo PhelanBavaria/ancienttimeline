@@ -632,7 +632,7 @@ CTH_ideas = {
 	trigger = {
 		OR = {
 			tag = CTH
-			primary_culture = carthaginian
+			primary_culture = punic
 		}
 	}
 	free = yes		#wibe added at load.
@@ -717,7 +717,6 @@ MCD_ideas = {
 	trigger = {
 		OR = {
 			tag = MCD
-			primary_culture = attic
 		}
 	}
 	free = yes		#wibe added at load.
@@ -803,7 +802,6 @@ SYC_ideas = {
 	trigger = {
 		OR = {
 			tag = SYC
-			primary_culture = doric
 		}
 	}
 	free = yes		#wibe added at load.
