@@ -1,5 +1,5 @@
-l_english:
- cb_forceful_vassalization: "Forceful Vassalization"
- cb_forceful_vassalization_desc: "Our survival can only mean one thing: War!"
- forceful_vassalization: "Forceful Vassalization"
- FORCEFUL_VASSALIZATION_WAR_NAME: "Forceful Vassalization"
+﻿l_english:
+ cb_forceful_vassalization:0 "Forceful Vassalization"
+ cb_forceful_vassalization_desc:0 "Our survival can only mean one thing:0 War!"
+ forceful_vassalization:0 "Forceful Vassalization"
+ FORCEFUL_VASSALIZATION_WAR_NAME:0 "Forceful Vassalization"
