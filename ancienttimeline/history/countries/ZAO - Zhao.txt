@@ -4,3 +4,15 @@ technology_group = chinese
 religion = confucianism
 primary_culture = jin
 capital = 692	# Handan
+
+4650.1.1 = {
+	monarch = {
+		name = "Yu"
+		dynasty = "of Zhao"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 4620.1.1
+		death_date = 4674.1.1
+	}
+}
