@@ -1020,3 +1020,42 @@ SPR_ideas = {
 		discipline = 0.10
 	}
 }
+
+ATH_ideas = {
+	start = {
+		advisor_cost = -0.20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		legitimacy = 1
+	}
+	
+	trigger = {
+		tag = ATH
+	}
+	free = yes		#wibe added at load.
+	
+	athenian_democracy = {
+		republican_tradition = 0.005
+	}
+	city_of_athena = {
+		adm_tech_cost_modifier = -0.10
+	}
+	reforms_of_solon = {
+		global_unrest = -1
+	}
+	naval_empire = {
+		naval_morale = 0.10
+	}
+	athenian_colonies = {
+		colonists = 1
+	}
+	delian_league = {
+		global_trade_power = 0.05
+		diplomatic_upkeep = 2
+	}
+	golden_age_of_athens = {
+		prestige = 1.50
+	}
+}
