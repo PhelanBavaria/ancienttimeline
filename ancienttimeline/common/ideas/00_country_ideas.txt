@@ -981,3 +981,42 @@ CRH_ideas = {
 		prestige = 1
 	}
 }
+
+SPR_ideas = {
+	start = {
+		land_morale = 0.10
+		army_tradition = 2
+	}
+
+	bonus = {
+		army_tradition_decay = -0.03
+	}
+	
+	trigger = {
+		tag = SPR
+	}
+	free = yes		#wibe added at load.
+	
+	legacy_of_the_mycenaeans = {
+		mil_tech_cost_modifier = -0.10
+	}
+	supress_the_helots = {
+		global_unrest = -1
+	}
+	riches_of_laconia = {
+		production_efficiency = 0.05
+	}
+	citizenship_for_service = {
+		global_manpower_modifier = 0.15
+	}
+	peloponnesian_league = {
+		rebel_support_efficiency = 0.40
+		diplomatic_upkeep = 2
+	}
+	battle_of_thermoplyae = {
+		prestige_from_land = 0.50
+	}
+	soldiers_from_birth = {
+		discipline = 0.10
+	}
+}
