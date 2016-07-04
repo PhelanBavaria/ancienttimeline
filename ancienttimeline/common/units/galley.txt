@@ -1,8 +1,8 @@
 # Galley
-type = transport
+type = galley
 
-hull_size = 12
-base_cannons = 10
-sail_speed = 5
+hull_size = 8
+base_cannons = 8
+sail_speed = 6
 
 sprite_level = 1

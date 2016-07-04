@@ -1,0 +1,8 @@
+# War Raft
+type = galley
+
+hull_size = 5
+base_cannons = 6
+sail_speed = 4
+
+sprite_level = 1

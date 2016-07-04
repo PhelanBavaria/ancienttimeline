@@ -1,0 +1,10 @@
+# Trade Galley
+type = light_ship
+
+hull_size = 8
+base_cannons = 3
+sail_speed = 8
+
+trade_power = 3.0
+
+sprite_level = 1

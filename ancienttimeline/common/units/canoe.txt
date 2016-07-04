@@ -1,0 +1,8 @@
+# Canoe
+type = galley
+
+hull_size = 1
+base_cannons = 1
+sail_speed = 1
+
+sprite_level = 1

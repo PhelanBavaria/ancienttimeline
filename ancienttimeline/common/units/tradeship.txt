@@ -1,0 +1,10 @@
+# Trade Ship
+type = light_ship
+
+hull_size = 10
+base_cannons = 6
+sail_speed = 11
+
+trade_power = 4.0
+
+sprite_level = 1

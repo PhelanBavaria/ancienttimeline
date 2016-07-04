@@ -1,0 +1,8 @@
+# Lembos
+type = galley
+
+hull_size = 10
+base_cannons = 12
+sail_speed = 9
+
+sprite_level = 1

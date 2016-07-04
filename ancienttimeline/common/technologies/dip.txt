@@ -15,8 +15,6 @@ technology = {
 	# Tech 1
 	year = 1825
 	trade_range				=	25
-	enable = galley
-	enable = freighter
 }
 
 technology = {
@@ -99,6 +97,7 @@ technology = {
 technology = {
 	# Tech 15
 	year = 2175
+	enable = canoe
 }
 
 technology = {
@@ -151,6 +150,7 @@ technology = {
 technology = {
 	# Tech 24
 	year = 2400
+	enable = raft
 }
 
 technology = {
@@ -221,11 +221,13 @@ technology = {
 technology = {
 	# Tech 36
 	year = 2700
+	enable = transportraft
 }
 
 technology = {
 	# Tech 37
 	year = 2725
+	enable = warraft
 }
 
 technology = {
@@ -249,6 +251,7 @@ technology = {
 technology = {
 	# Tech 41
 	year = 2825
+	enable = tradeboat
 }
 
 technology = {
@@ -312,6 +315,7 @@ technology = {
 technology = {
 	# Tech 52
 	year = 3100
+	enable = earlygalley
 }
 
 technology = {
@@ -359,6 +363,7 @@ technology = {
 technology = {
 	# Tech 60
 	year = 3300
+	enable = transportboat
 }
 
 technology = {
@@ -376,6 +381,7 @@ technology = {
 technology = {
 	# Tech 63
 	year = 3375
+	enable = galley
 }
 
 technology = {
@@ -399,6 +405,7 @@ technology = {
 technology = {
 	# Tech 67
 	year = 3475
+	enable = tradegalley
 }
 
 technology = {
@@ -475,6 +482,7 @@ technology = {
 technology = {
 	# Tech 80
 	year = 3800
+	enable = wargalley
 }
 
 technology = {
@@ -515,6 +523,7 @@ technology = {
 technology = {
 	# Tech 87
 	year = 3975
+	enable = transportship
 }
 
 technology = {
@@ -533,12 +542,13 @@ technology = {
 	# Tech 90
 	year = 4050
 	trade_efficiency 		= 	0.01
+	naval_maintenance	= 0.1
 }
 
 technology = {
 	# Tech 91
 	year = 4075
-	naval_maintenance	= 0.1
+	enable = penteconter
 }
 
 technology = {
@@ -550,12 +560,13 @@ technology = {
 technology = {
 	# Tech 93
 	year = 4125
-	naval_morale			=	0.1
+	enable = bireme
 }
 
 technology = {
 	# Tech 94
 	year = 4150
+	naval_morale			=	0.1
 	range					=	10
 }
 
@@ -598,6 +609,7 @@ technology = {
 technology = {
 	# Tech 101
 	year = 4325
+	enable = trireme
 }
 
 technology = {
@@ -610,12 +622,13 @@ technology = {
 	# Tech 103
 	year = 4375
 	naval_morale			=	0.1
+	naval_maintenance	= 0.1
 }
 
 technology = {
 	# Tech 104
 	year = 4400
-	naval_maintenance	= 0.1
+	enable = lembos
 }
 
 technology = {
@@ -628,12 +641,13 @@ technology = {
 	# Tech 106
 	year = 4450
 	trade_efficiency 		= 	0.01
+	naval_morale			=	0.1
 }
 
 technology = {
 	# Tech 107
 	year = 4475
-	naval_morale			=	0.1
+	enable = tradeship
 }
 
 technology = {
@@ -659,6 +673,7 @@ technology = {
 	# Tech 111
 	year = 4575
 	naval_morale			=	0.1
+	enable = quinquereme
 }
 
 technology = {
@@ -671,13 +686,14 @@ technology = {
 technology = {
 	# Tech 113
 	year = 4625
-	global_colonial_growth	= 	1
+	enable = transportheavy
 }
 
 technology = {
 	# Tech 114
 	year = 4650
 	range					=	10
+	global_colonial_growth	= 	1
 }
 
 technology = {
@@ -697,6 +713,7 @@ technology = {
 	# Tech 117
 	year = 4725
 	trade_efficiency 		= 	0.01
+	enable = trihemiolia
 }
 
 technology = {
@@ -730,6 +747,7 @@ technology = {
 	# Tech 122
 	year = 4850
 	trade_efficiency 		= 	0.01
+	enable = liburnian
 }
 
 technology = {
@@ -749,6 +767,7 @@ technology = {
 	# Tech 125
 	year = 4925
 	global_colonial_growth	= 	1
+	enable = hexareme
 }
 
 technology = {

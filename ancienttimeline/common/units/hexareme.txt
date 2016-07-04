@@ -1,0 +1,8 @@
+# Hexareme
+type = heavy_ship
+
+hull_size = 25
+base_cannons = 28
+sail_speed = 11
+
+sprite_level = 1
