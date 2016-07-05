@@ -1063,7 +1063,7 @@ ATH_ideas = {
 QIN_ideas = {
 	start = {
 		global_manpower_modifier = 0.20
-		global_regiment_cost - 0.10
+		global_regiment_cost = -0.10
 	}
 
 	bonus = {
@@ -1097,5 +1097,43 @@ QIN_ideas = {
 	}
 	imperial_state = {
 		local_autonomy = -0.05
+	}
+}
+
+CHC_ideas = {
+	start = {
+		stability_cost_modifier = -0.10
+		tolerance_heretic = 1
+	}
+
+	bonus = {
+		leader_land_shock = 1
+	}
+	
+	trigger = {
+		tag = CHC
+	}
+	free = yes		#wibe added at load.
+	
+	large_army_chu = {
+		global_manpower_modifier = 0.20
+	}
+	wu_qi = {
+		adm_tech_cost_modifier = -0.05
+	}
+	expansionist_state_chu = {
+		core_creation = -0.15
+	}
+	links_with_the_southern_tribes = {
+		accepted_culture_threshold = -0.15
+	}
+	vast_natural_resources_chu = {
+		production_efficiency = 0.10
+	}
+	river_transport_system_chu = {
+		trade_efficiency = 0.15
+	}
+	chu_ci = {
+		global_unrest = -2
 	}
 }

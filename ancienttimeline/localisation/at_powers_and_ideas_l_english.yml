@@ -571,3 +571,20 @@
  xianyang_desc: “The imperial capital at Xianyang is the centre of politics, economy and culture in the Qin Empire. There are many palaces in Xianyang which represent the palaces of all the states we have conquered, this is so we can show the world our accomplishment of unifying China.”
  imperial_state: “Imperial State”
  imperial_state_desc: “We have abolished the Fengjian system that was holding us back from our true potential. Now that we have become an imperial state we can centralise our government and ensure that a warring states period never happens again. The name China itself is our enternal legacy as the unifiers of this great nation.”
+ CHC_ideas:0 "Chu Ideas"
+ CHC_ideas_start:0 "Chu Traditions"
+ CHC_ideas_bonus:0 "Chu Ambitions"
+ large_army_chu: “Large Army”
+ large_army_chu_desc: “Our nation has always fielded a large army, and we must maintain the numerical superiority of our forces over the other states that envy our power at all costs.”
+ wu_qi: “Wu Qi”
+ wu_qi_desc: “Wu Qi is an important figure in the history of our nation, he enacted a series of reforms that transformed our nation into an efficient and powerful state. His reforms have also strengthened the power of the king, and has enabled us to become the regional hegemon we are now.”
+ expansionist_state_chu: “Expansionist State”
+ expansionist_state_chu_desc: “We have to expand our territory to compete against potential rivals, and to make sure that our power and influence over the Yangtze River valley is not challenged.”
+ links_with_the_southern_tribes: “Links with the Southern Tribes”
+ links_with_the_southern_tribes_desc: “Due to our location we have extensive cultural and commercial links with the tribes to our south, by incorporating them into the Chu state our power and influence can grow enormously in these uncivilised regions.”
+ vast_natural_resources_chu: “Vast Natural Resources”
+ vast_natural_resources_chu_desc: “Chu lands possess vast amounts of natural resources that will keep our nation strong through trade and production, the resources we have are essential for all and this means that our economic might is certain.”
+ river_transport_system_chu: “River Transport System”
+ river_transport_system_chu_desc: “The heartland of the Chu state is a region of many rivers, to profit from this we have an efficient river transport system which connects our capital with the rest of our nation, this allows for our trade links with other nations to grow as well.”
+ chu_ci: “Chu Ci” 
+ chu_ci_desc: “The Songs of Chu or Chu Ci were written by Qu Yuan and Song Yu, they show that the Chu people although diverse, are united by their respect for their heritage and loyalty to their ruling house and nobility.”
