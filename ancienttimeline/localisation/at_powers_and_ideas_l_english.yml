@@ -523,68 +523,68 @@
  SPR_ideas:0 "Sparta Ideas"
  SPR_ideas_start:0 "Spartan Traditions"
  SPR_ideas_bonus:0 "Spartan Ambitions"
- legacy_of_the_mycenaeans: "Legacy of the Mycenaeans"
- legacy_of_the_mycenaeans_desc: "Before our Dorian ancestors conquered their lands, there was once an advanced civilization known as the Mycenaeans. From this conquered people, we have learned new methods of warfare and agriculture which prove beneficial to Sparta."
- supress_the_helots: "Supress the Helots"
- supress_the_helots_desc: "Rather than force our Spartan boys to have to farm, we have enslaved the local peoples we have conquered to do it for us. To ensure that these slaves or helots do not revolt, we have created a physically fit and alert army to supress any possibility of this happening."
- riches_of_laconia: "Riches of Laconia"
- riches_of_laconia_desc: "Our homeland Laconia is bountifully rich in natural resources and harbors and the greatest part, we have a slave class to work these lands. These conditions allow for bountiful plantations and ports to be established."
- citizenship_for_service: "Citizenship for Service"
- citizenship_for_service_desc: "To become a citizen in Sparta, you must be brought up in the aggora, serve in the Spartan army, and be part of the syssita, or clubs of Spartan soilders to become a citizen. The thought of becoming a citizen makes Spartan soilders try harder in training, which in turn increases the amount of soilders from conquered lands."
- peloponnesian_league: "Peloponnesian League"
- peloponnesian_league_desc: "With our neighbors the Athenians growing in power, we have created the Peloponnesian League. This league boths supports the idea of Spartan oligarchy and diplomacy with our Greek neighbors."
- battle_of_thermoplyae: "Battle of Thermoplyae"
- battle_of_thermoplyae_desc: "During the Persian wars, an army of 7,000 under Leondias met a Persian army of 100,000 at Thermoplyae pass. Even though lost, it serves as an inspiration to all Spartan men of true bravery and prowness against all odds."
- soldiers_from_birth: "Soldiers From Birth"
- soldiers_from_birth_desc: "From birth, Spartan soilders are trained at the aggora, where they are stripped of all personality and turned into fierce warriors. Our methods, though harsh, have produced the most feared army in the classical world."
+ legacy_of_the_mycenaeans:0 "Legacy of the Mycenaeans"
+ legacy_of_the_mycenaeans_desc:0 "Before our Dorian ancestors conquered their lands, there was once an advanced civilization known as the Mycenaeans. From this conquered people, we have learned new methods of warfare and agriculture which prove beneficial to Sparta."
+ supress_the_helots:0 "Supress the Helots"
+ supress_the_helots_desc:0 "Rather than force our Spartan boys to have to farm, we have enslaved the local peoples we have conquered to do it for us. To ensure that these slaves or helots do not revolt, we have created a physically fit and alert army to supress any possibility of this happening."
+ riches_of_laconia:0 "Riches of Laconia"
+ riches_of_laconia_desc:0 "Our homeland Laconia is bountifully rich in natural resources and harbors and the greatest part, we have a slave class to work these lands. These conditions allow for bountiful plantations and ports to be established."
+ citizenship_for_service:0 "Citizenship for Service"
+ citizenship_for_service_desc:0 "To become a citizen in Sparta, you must be brought up in the aggora, serve in the Spartan army, and be part of the syssita, or clubs of Spartan soilders to become a citizen. The thought of becoming a citizen makes Spartan soilders try harder in training, which in turn increases the amount of soilders from conquered lands."
+ peloponnesian_league:0 "Peloponnesian League"
+ peloponnesian_league_desc:0 "With our neighbors the Athenians growing in power, we have created the Peloponnesian League. This league boths supports the idea of Spartan oligarchy and diplomacy with our Greek neighbors."
+ battle_of_thermoplyae:0 "Battle of Thermoplyae"
+ battle_of_thermoplyae_desc:0 "During the Persian wars, an army of 7,000 under Leondias met a Persian army of 100,000 at Thermoplyae pass. Even though lost, it serves as an inspiration to all Spartan men of true bravery and prowness against all odds."
+ soldiers_from_birth:0 "Soldiers From Birth"
+ soldiers_from_birth_desc:0 "From birth, Spartan soilders are trained at the aggora, where they are stripped of all personality and turned into fierce warriors. Our methods, though harsh, have produced the most feared army in the classical world."
  ATH_ideas:0 "Athens Ideas"
  ATH_ideas_start:0 "Athenian Traditions"
  ATH_ideas_bonus:0 "Athenian Ambitions"
- athenian_democracy: "Athenian Democracy"
- athenian_democracy_desc: "After being ruled by tyrannies and corrupt oligarchies the people of Athens turned to a new form of government, democracy. Democracy allows rule to the people and for issues to be debated rather than a monarch deciding how our nation is run."
- city_of_athena: "City of Athena"
- city_of_athena_desc: "Athens truly is the city of Athena. In a way she embodies are city, both beautiful and a producer of countless great minds such as Pericles and Socrates. The people of Greece awe in our city's power and it's citizens."
- reforms_of_solon: "Reforms of Solon"
- reforms_of_solon_desc: "After the harsh and drastic reforms of Draco, a great man known as Solon reformed the Athenian government, making it more peaceful and paving the way for democracy."
- naval_empire: "Naval Empire"
- naval_empire_desc: "During the Persian Wars, we learned the importance of having a strong navy. Since then, a large navy had been built to serve both for trade and for war."
- athenian_colonies: "Athenian Colonies"
- athenian_colonies_desc: "Even though Athens has taken a position of great prowness, we are still small and at risk for invasion. We must take to the seas and colonize new lands."
- delian_league: "Delian League"
- delian_league_desc: "With the power of Sparta growing, we have created the Delian League to defend against this threat. At first a way to defend against Sparta, it has evoved into a trade league that we can profit from."
- golden_age_of_athens: "Golden Age of Athens"
- golden_age_of_athens_desc: "Our great people still remember the golden age of Athens. Even though long passed, it lives in the hearts and minds of all Athenians."
+ athenian_democracy:0 "Athenian Democracy"
+ athenian_democracy_desc:0 "After being ruled by tyrannies and corrupt oligarchies the people of Athens turned to a new form of government, democracy. Democracy allows rule to the people and for issues to be debated rather than a monarch deciding how our nation is run."
+ city_of_athena:0 "City of Athena"
+ city_of_athena_desc:0 "Athens truly is the city of Athena. In a way she embodies are city, both beautiful and a producer of countless great minds such as Pericles and Socrates. The people of Greece awe in our city's power and it's citizens."
+ reforms_of_solon:0 "Reforms of Solon"
+ reforms_of_solon_desc:0 "After the harsh and drastic reforms of Draco, a great man known as Solon reformed the Athenian government, making it more peaceful and paving the way for democracy."
+ naval_empire:0 "Naval Empire"
+ naval_empire_desc:0 "During the Persian Wars, we learned the importance of having a strong navy. Since then, a large navy had been built to serve both for trade and for war."
+ athenian_colonies:0 "Athenian Colonies"
+ athenian_colonies_desc:0 "Even though Athens has taken a position of great prowness, we are still small and at risk for invasion. We must take to the seas and colonize new lands."
+ delian_league:0 "Delian League"
+ delian_league_desc:0 "With the power of Sparta growing, we have created the Delian League to defend against this threat. At first a way to defend against Sparta, it has evoved into a trade league that we can profit from."
+ golden_age_of_athens:0 "Golden Age of Athens"
+ golden_age_of_athens_desc:0 "Our great people still remember the golden age of Athens. Even though long passed, it lives in the hearts and minds of all Athenians."
  QIN_ideas:0 "Qin Ideas"
  QIN_ideas_start:0 "Qin Traditions"
  QIN_ideas_bonus:0 "Qin Ambitions"
- legalism: “Legalism”
- legalism_desc: “The Qin state has supported the Legalist school of philosophy ever since the influential statesman Shang Yang contributed to it, Legalism allows for commoners to rise up in rank if they perform their duties well. The concept of Fa means that all people in our nation are equal before the law, and people who follow the laws are rewarded while those who dare to break them are punished accordingly.”
- great_wall_of_china: “Great Wall of China”
- great_wall_of_china_desc: “In order to keep out the Hu barbarians, we must build a wall along the northern frontier to ensure that the fertile lands of China are protected from attack.”
- military_innovations_qin: “Military Innovations”
- military_innovations_qin_desc: “Our military uses the most advanced weapons and methods of transportation that are available to us, we use iron swords and crossbows which we use to efficiently cut down our rivals, and we have replaced chariots with cavalry which enables our armies to travel at greater speeds than before.”
- wei_river_canal: “Wei River Canal”
- wei_river_canal_desc: “The Wei River canal helps increase our agricultural output which helps to sustain our large army with food and resources. It also is useful for expanding our trade links with other states and tribes.”
- natural_stronghold_qin: “Natural Stronghold”
- natural_stronghold_qin_desc: “Our nation has an advantage over our enemies due to our land’s fertility and strategic position, we are protected by mountains which makes the Qin state a natural stronghold secure from enemy attack.”
- xianyang: “Xianyang”
- xianyang_desc: “The imperial capital at Xianyang is the centre of politics, economy and culture in the Qin Empire. There are many palaces in Xianyang which represent the palaces of all the states we have conquered, this is so we can show the world our accomplishment of unifying China.”
- imperial_state: “Imperial State”
- imperial_state_desc: “We have abolished the Fengjian system that was holding us back from our true potential. Now that we have become an imperial state we can centralise our government and ensure that a warring states period never happens again. The name China itself is our enternal legacy as the unifiers of this great nation.”
+ legalism:0 "Legalism"
+ legalism_desc:0 "The Qin state has supported the Legalist school of philosophy ever since the influential statesman Shang Yang contributed to it, Legalism allows for commoners to rise up in rank if they perform their duties well. The concept of Fa means that all people in our nation are equal before the law, and people who follow the laws are rewarded while those who dare to break them are punished accordingly."
+ great_wall_of_china:0 "Great Wall of China"
+ great_wall_of_china_desc:0 "In order to keep out the Hu barbarians, we must build a wall along the northern frontier to ensure that the fertile lands of China are protected from attack."
+ military_innovations_qin:0 "Military Innovations"
+ military_innovations_qin_desc:0 "Our military uses the most advanced weapons and methods of transportation that are available to us, we use iron swords and crossbows which we use to efficiently cut down our rivals, and we have replaced chariots with cavalry which enables our armies to travel at greater speeds than before."
+ wei_river_canal:0 "Wei River Canal"
+ wei_river_canal_desc:0 "The Wei River canal helps increase our agricultural output which helps to sustain our large army with food and resources. It also is useful for expanding our trade links with other states and tribes."
+ natural_stronghold_qin:0 "Natural Stronghold"
+ natural_stronghold_qin_desc:0 "Our nation has an advantage over our enemies due to our land’s fertility and strategic position, we are protected by mountains which makes the Qin state a natural stronghold secure from enemy attack."
+ xianyang:0 "Xianyang"
+ xianyang_desc:0 "The imperial capital at Xianyang is the centre of politics, economy and culture in the Qin Empire. There are many palaces in Xianyang which represent the palaces of all the states we have conquered, this is so we can show the world our accomplishment of unifying China."
+ imperial_state:0 "Imperial State"
+ imperial_state_desc:0 "We have abolished the Fengjian system that was holding us back from our true potential. Now that we have become an imperial state we can centralise our government and ensure that a warring states period never happens again. The name China itself is our enternal legacy as the unifiers of this great nation."
  CHC_ideas:0 "Chu Ideas"
  CHC_ideas_start:0 "Chu Traditions"
  CHC_ideas_bonus:0 "Chu Ambitions"
- large_army_chu: “Large Army”
- large_army_chu_desc: “Our nation has always fielded a large army, and we must maintain the numerical superiority of our forces over the other states that envy our power at all costs.”
- wu_qi: “Wu Qi”
- wu_qi_desc: “Wu Qi is an important figure in the history of our nation, he enacted a series of reforms that transformed our nation into an efficient and powerful state. His reforms have also strengthened the power of the king, and has enabled us to become the regional hegemon we are now.”
- expansionist_state_chu: “Expansionist State”
- expansionist_state_chu_desc: “We have to expand our territory to compete against potential rivals, and to make sure that our power and influence over the Yangtze River valley is not challenged.”
- links_with_the_southern_tribes: “Links with the Southern Tribes”
- links_with_the_southern_tribes_desc: “Due to our location we have extensive cultural and commercial links with the tribes to our south, by incorporating them into the Chu state our power and influence can grow enormously in these uncivilised regions.”
- vast_natural_resources_chu: “Vast Natural Resources”
- vast_natural_resources_chu_desc: “Chu lands possess vast amounts of natural resources that will keep our nation strong through trade and production, the resources we have are essential for all and this means that our economic might is certain.”
- river_transport_system_chu: “River Transport System”
- river_transport_system_chu_desc: “The heartland of the Chu state is a region of many rivers, to profit from this we have an efficient river transport system which connects our capital with the rest of our nation, this allows for our trade links with other nations to grow as well.”
- chu_ci: “Chu Ci” 
- chu_ci_desc: “The Songs of Chu or Chu Ci were written by Qu Yuan and Song Yu, they show that the Chu people although diverse, are united by their respect for their heritage and loyalty to their ruling house and nobility.”
+ large_army_chu:0 "Large Army"
+ large_army_chu_desc:0 "Our nation has always fielded a large army, and we must maintain the numerical superiority of our forces over the other states that envy our power at all costs."
+ wu_qi:0 "Wu Qi"
+ wu_qi_desc:0 "Wu Qi is an important figure in the history of our nation, he enacted a series of reforms that transformed our nation into an efficient and powerful state. His reforms have also strengthened the power of the king, and has enabled us to become the regional hegemon we are now."
+ expansionist_state_chu:0 "Expansionist State"
+ expansionist_state_chu_desc:0 "We have to expand our territory to compete against potential rivals, and to make sure that our power and influence over the Yangtze River valley is not challenged."
+ links_with_the_southern_tribes:0 "Links with the Southern Tribes"
+ links_with_the_southern_tribes_desc:0 "Due to our location we have extensive cultural and commercial links with the tribes to our south, by incorporating them into the Chu state our power and influence can grow enormously in these uncivilised regions."
+ vast_natural_resources_chu:0 "Vast Natural Resources"
+ vast_natural_resources_chu_desc:0 "Chu lands possess vast amounts of natural resources that will keep our nation strong through trade and production, the resources we have are essential for all and this means that our economic might is certain."
+ river_transport_system_chu:0 "River Transport System"
+ river_transport_system_chu_desc:0 "The heartland of the Chu state is a region of many rivers, to profit from this we have an efficient river transport system which connects our capital with the rest of our nation, this allows for our trade links with other nations to grow as well."
+ chu_ci:0 "Chu Ci"
+ chu_ci_desc:0 "The Songs of Chu or Chu Ci were written by Qu Yuan and Song Yu, they show that the Chu people although diverse, are united by their respect for their heritage and loyalty to their ruling house and nobility."
