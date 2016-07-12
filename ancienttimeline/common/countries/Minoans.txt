@@ -18,22 +18,15 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	eastern_medieval_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	ottoman_spahi
-	ottoman_sekban
-	ottoman_reformed_spahi
-	ottoman_reformed_janissary
-	ottoman_toprakli_hit_and_run
-	ottoman_nizami_cedid
-	ottoman_toprakli_dragoon
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	ottoman_new_model
-	ottoman_lancer
+	stone_age_spearmen
+	phalanx
+	companion_cavalry
+	elite_phalanx
+	heavy_companion_cavalry
+	thureophoroi
+	equites
+	principes
+	legionaries
 }
 
 monarch_names = {
@@ -41,7 +34,6 @@ monarch_names = {
 	"Agamemnon #0" = 5
 	"Atreus #0" = 5
 	"Menelaus #0" = 5
-	"Orestes #0" = 5
 	"Chrysothemis #0" = 5
 	"Thyestes #0" = 5
 	"Aegusthus #0" = 5

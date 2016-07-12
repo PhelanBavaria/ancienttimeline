@@ -20,20 +20,16 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	chinese_longspear
-	eastern_bow
-	chinese_footsoldier
-	chinese_steppe
-	asian_arquebusier
-	asian_charge_cavalry
-	asian_mass_infantry
-	manchu_banner
-	han_banner
-	asian_musketeer
-	chinese_dragoon
-	reformed_asian_musketeer
-	reformed_asian_cavalry
-	reformed_manchu_rifle
+	stone_age_spearmen
+	chinese_composite_bow
+	chinese_chariot
+	chinese_crossbow
+	chinese_bronze_sword
+	chinese_horsemen
+	chinese_iron_sword
+	chinese_nomad_cavalry
+	chinese_conscripts
+	chinese_militia
 }
 
 monarch_names = {
@@ -82,7 +78,6 @@ monarch_names = {
 		"Changyin #0" = 10
 		"Changbo #0" = 10
 		"Youxiao #0" = 10
-		"Youxue #0" = 10
 		"Youmo #0" = 10
 		"Youjian #0" = 10
 		"Youyi #0" = 10
@@ -133,20 +128,14 @@ monarch_names = {
 		"Zhen #0" = 10
 		"Bo #0" = 10
 		"Zi #0" = 10
-		"Chun #0" = 10
-		"Bo #0" = 10
 		"Gui #0" = 10
 		"Xuntan #0" = 10
 		"Xunquan #0" = 10
 		"Ying #0" = 10
-		"Zhanyan #0" = 10
 		"Zhi #0" = 10
-		"Quan #0" = 10
 		"Chenhao #0" = 10
 		"Bian #0" = 10
 		"Hui #0" = 10
-		"Song #0" = 10
-		"Mo #0" = 10
 		"Yin #0" = 10
 		"Jing #0" = 10
 		"Dong #0" = 10
@@ -160,24 +149,12 @@ monarch_names = {
 		"Gaoxu #0" = 10
 		"Gaosui #0" = 10
 		"Houyu #0" = 10
-		"ZhanYong #0" = 10
-		"Zhanshan #0" = 10
 		"Yousi #0" = 10
-		"Jianchun #0" = 10
 		"Jianshu #0" = 10
-		"Jianzhi #0" = 10
 		"Yourong #0" = 10
 		"Houjue #0" = 10
 		"Zailun #0" = 10
-		"Zaiji #0" = 10
 		"Changfang #0" = 10
-		"Changxu #0" = 10
-		"Changxun #0" = 10
-		"Changzhi #0" = 10
-		"Changrun #0" = 10
-		"Cilang #0" = 10
-		"Cihuan #0" = 10
-		"Guan #0" = 0
 		"Keqin #0" = 0
 		"Fu #0" = 0
 		"Dounan #0" = 0
@@ -187,10 +164,8 @@ monarch_names = {
 		"Guan #0" = 0
 		"Zongren #0" = 0
 		"Yuan #0" = 0
-		"Fu #0" = 0
 		"Xingui #0" = 0
 		"Zonglian #0" = 0
-		"Ji #0" = 0
 		"Xiang #0" = 0
 		"Yu #0" = 0
 		"Quan #0" = 0
@@ -257,7 +232,6 @@ monarch_names = {
 		"Shenzhong #0" = 0
 		"Panlong #0" = 0
 		"Youguang #0" = 0
-		"Weizhen #0" = 0
 		"Shisheng #0" = 0
 		"Qichang #0" = 0
 		"Hongdao #0" = 0

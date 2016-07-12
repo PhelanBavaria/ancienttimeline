@@ -23,7 +23,6 @@ cb_restore_personal_union = {
 	prerequisites = {
 		OR = {
 			government = monarchy
-			government = dutch_republic
 		}
 		is_revolution_target = no
 	}
@@ -234,10 +233,10 @@ cb_independence_war = {
 		is_subject = yes
 		is_subject_of = FROM
 		NOT = { is_colonial_nation_of = FROM }
-		OR = {
-			NOT = { government = daimyo }
-			NOT = { from = { government = shogunate } }
-		}
+#		OR = {
+#			NOT = { government = daimyo }
+#			NOT = { from = { government = shogunate } }
+#		}
 		is_revolution_target = no
 	}
 
@@ -263,10 +262,6 @@ cb_trade_war = {
 			AND = {
 				trade_embargo_by = FROM
 				NOT = { FROM = { trade_embargo_by = ROOT } }
-			}
-			AND = {
-				government = merchant_republic
-				FROM = { government = merchant_republic }
 			}
 		}
 		is_revolution_target = no

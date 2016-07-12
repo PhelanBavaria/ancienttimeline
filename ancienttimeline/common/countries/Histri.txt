@@ -62,7 +62,6 @@ monarch_names = {
 	"Teuta #0" = -10	#name of last queen
 	"Agron #0" = 10		#king, husband to Teuta
 	"Kleitus #0" = 10
-	"Pleuratus #0" = 10
 	"Mytilius #0" = 10
 	"Skerdilaidas #0" = 10
 	"Andia #0" = -10

@@ -20,12 +20,7 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	south_american_spearmen
-	aztec_tribal_warfare
-	aztec_hill_warfare
-	aztec_gunpowder_warfare
-	westernized_aztec
-	mexican_guerilla_warfare
+	stone_age_clubmen
 }
 
 monarch_names = {

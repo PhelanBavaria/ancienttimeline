@@ -1,4 +1,4 @@
-graphical_culture = easterngfx
+﻿graphical_culture = easterngfx
 
 color = { 7  199  140 }
 
@@ -14,21 +14,15 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	ottoman_sekban
-	ottoman_reformed_spahi
-	ottoman_reformed_janissary
-	ottoman_toprakli_hit_and_run
-	ottoman_nizami_cedid
-	ottoman_toprakli_dragoon
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	ottoman_new_model
-	ottoman_lancer
+	stone_age_spearmen
+	peltast_m
+	companion_cavalry
+	elite_phalanx
+	tarantine_cavalry
+	thureophoroi
+	equites
+	principes
+	legionaries
 }
 
 monarch_names = {
@@ -58,7 +52,6 @@ monarch_names = {
 	"Teuta #0" = -10	#name of last queen
 	"Agron #0" = 10		#king, husband to Teuta
 	"Kleitus #0" = 10
-	"Pleuratus #0" = 10
 	"Mytilius #0" = 10
 	"Skerdilaidas #0" = 10
 	"Andia #0" = -10

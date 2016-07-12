@@ -20,18 +20,16 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	indian_footsoldier
-	rajput_hill_fighters
-	indian_arquebusier
-	indian_elephant
-	indian_shock_cavalry
-	rajput_musketeer
-	south_indian_musketeer
-	mughal_mansabdar
-	reformed_mughal_musketeer
-	reformed_mughal_mansabdar
-	tipu_sultan_rocket
-	indian_rifle
+	stone_age_clubmen
+	indian_longbowmen
+	indian_war_elephant
+	indian_swordsmen
+	indian_elephant_archer
+	indian_spearmen
+	indian_asvakas
+	indian_elite_longbowmen
+	indian_heavy_cavalry
+	indian_steel_bow
 }
 
 monarch_names = {

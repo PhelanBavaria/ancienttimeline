@@ -53,7 +53,6 @@ monarch_names = {
 	"Machares #0" = 0
 	"Xiphares #0" = 0
 	"Ariarathes #0" = 0
-	"Orophernes #0" = 0
 
 	"Glaphyra #0" = -1
 	"Pythodorida #0" = -1

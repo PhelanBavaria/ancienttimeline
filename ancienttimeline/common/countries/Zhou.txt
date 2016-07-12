@@ -20,78 +20,141 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	chinese_longspear
-	eastern_bow
-	chinese_footsoldier
-	chinese_steppe
-	asian_arquebusier
-	asian_charge_cavalry
-	asian_mass_infantry
-	manchu_banner
-	han_banner
-	asian_musketeer
-	chinese_dragoon
-	reformed_asian_musketeer
-	reformed_asian_cavalry
-	reformed_manchu_rifle
+	stone_age_spearmen
+	chinese_composite_bow
+	chinese_chariot
+	chinese_crossbow
+	chinese_bronze_sword
+	chinese_horsemen
+	chinese_iron_sword
+	chinese_nomad_cavalry
+	chinese_conscripts
+	chinese_militia
 }
 
 monarch_names = {
-		"Qizhen #0" = 20
-		"Qiyu #0" = 20
-		"Jianjun #0" = 20
-		"Youcheng #0" = 20
-		"Houzhao #0" = 20
-		"Houcong #0" = 20
-		"Zaihou #0" = 20
-		"Yijun #0" = 20
-		"Changluo #0" = 20
-		"Youjian #0" = 20
-		"Yousong #0" = 20
-		"Yujian #0" = 20
-		"Youlang #0" = 20
-		"Chenggong #0" = 10
-		"Kehshuan #0" = 10
+		"Zhanji #0" = 10
+		"Zhanjun #0" = 10
+		"Zhanyong #0" = 10
+		"Zhanyin #0" = 10
+		"Zhanshan #0" = 10
+		"Zhangang #0" = 10
+		"Zhan'ao #0" = 10
+		"Zhankai #0" = 10
+		"Zhanyan #0" = 10
+		"Jianrui #0" = 10
+		"Jianlin #0" = 10
+		"Jianti #0" = 10
+		"Jianchun #0" = 10
+		"Jianze #0" = 10
+		"Jianjun #0" = 10
+		"Jianzhi #0" = 10
+		"Jianpei #0" = 10
+		"Jianji #0" = 10
+		"Youji #0" = 10
+		"Youtang #0" = 10
+		"Youwan #0" = 10
+		"Youlun #0" = 10
+		"Youbing #0" = 10
+		"Youyun #0" = 10
+		"Youheng #0" = 10
+		"You'kai #0" = 10
+		"Houzhao #0" = 10
+		"Houwei #0" = 10
+		"Houxi #0" = 10
+		"Houcong #0" = 10
+		"Zaiji #0" = 10
+		"Zairui #0" = 10
+		"Zaihou #0" = 10
+		"Yiling #0" = 10
+		"Yijun #0" = 10
+		"Yiliu #0" = 10
+		"Changluo #0" = 10
+		"Changxu #0" = 10
+		"Changxun #0" = 10
+		"Changzhi #0" = 10
+		"Changhao #0" = 10
+		"Changrun #0" = 10
+		"Changyin #0" = 10
+		"Changbo #0" = 10
+		"Youxiao #0" = 10
+		"Youmo #0" = 10
+		"Youjian #0" = 10
+		"Youyi #0" = 10
+		"Youshan #0" = 10
+		"Ciran #0" = 10
+		"Ciyu #0" = 10
+		"Cijiong #0" = 10
+		"Cilang #0" = 10
+		"Ciheng #0" = 10
+		"Cizhao #0" = 10
+		"Cihuan #0" = 10
+		"Cican #0" = 10
+		"Shangbing #0" = 10
+		"Shanglie #0" = 10
+		"Shangyi #0" = 10
+		"Shanghong #0" = 10
+		"Zhijun #0" = 10
+		"Zhibao #0" = 10
+		"Gongxi #0" = 10
+		"Gongjian #0" = 10
+		"Gongtang #0" = 10
+		"Gongming #0" = 10
+		"Jixi #0" = 10
+		"Jiye #0" = 10
+		"Jihuang #0" = 10
+		"Jihuan #0" = 10
+		"Jixuan #0" = 10
+		"Meigui #0" = 10
+		"Meiyuan #0" = 10
+		"Zhongxuan #0" = 10
+		"Zhongduo #0" = 10
+		"Qiyuan #0" = 10
+		"Qiying #0" = 10
+		"Qirong #0" = 10
+		"Youdun #0" = 10
+		"Zishi #0" = 10
+		"Linmei #0" = 10
+		"Cijue #0" = 10
+		"Ciwei #0" = 10
+		"Cikai #0" = 10
+		"Youhua #0" = 10
+		"Linyuan #0" = 10
+		"Qisheng #0" = 10
 		"Biao #0" = 10
 		"Shuang #0" = 10
 		"Gang #0" = 10
 		"Su #0" = 10
 		"Zhen #0" = 10
-		"Fu #0" = 10
+		"Bo #0" = 10
 		"Zi #0" = 10
-		"Qi #0" = 10
-		"Tan #0" = 10
-		"Chun #0" = 10
-		"Bai #0" = 10
 		"Gui #0" = 10
+		"Xuntan #0" = 10
+		"Xunquan #0" = 10
 		"Ying #0" = 10
 		"Zhi #0" = 10
-		"Quan #0" = 10
-		"Pian #0" = 10
+		"Chenhao #0" = 10
+		"Bian #0" = 10
 		"Hui #0" = 10
-		"Song #0" = 10
-		"Mo #0" = 10
+		"Yin #0" = 10
 		"Jing #0" = 10
-		"Dang #0" = 10
+		"Dong #0" = 10
 		"Nan #0" = 10
+		"Shouqian #0" = 10
+		"Xiongying #0" = 10
+		"Yuntong #0" = 10
+		"Yunjian #0" = 10
+		"Wengui #0" = 10
+		"Wenkui #0" = 10
 		"Gaoxu #0" = 10
-		"Caosui #0" = 10
-		"Gauxi #0" = 10
-		"Youyuan #0" = 10
-		"Youlun #0" = 10
-		"Youbin #0" = 10
-		"Houwei #0" = 10
-		"Youxiao #0" = 10
-		"Youji #0" = 10
-		"Youxue #0" = 10
-		"Youyi #0" = 10
-		"Youshan #0" = 10
-		"Cixuan #0" = 10
-		"Cijiang #0" = 10
-		"Cizhao #0" = 10
-		"Cibuan #0" = 10
-		"Cican #0" = 10
-		"Guan #0" = 0
+		"Gaosui #0" = 10
+		"Houyu #0" = 10
+		"Yousi #0" = 10
+		"Jianshu #0" = 10
+		"Yourong #0" = 10
+		"Houjue #0" = 10
+		"Zailun #0" = 10
+		"Changfang #0" = 10
 		"Keqin #0" = 0
 		"Fu #0" = 0
 		"Dounan #0" = 0
@@ -101,10 +164,8 @@ monarch_names = {
 		"Guan #0" = 0
 		"Zongren #0" = 0
 		"Yuan #0" = 0
-		"Fu #0" = 0
 		"Xingui #0" = 0
 		"Zonglian #0" = 0
-		"Ji #0" = 0
 		"Xiang #0" = 0
 		"Yu #0" = 0
 		"Quan #0" = 0
@@ -171,7 +232,6 @@ monarch_names = {
 		"Shenzhong #0" = 0
 		"Panlong #0" = 0
 		"Youguang #0" = 0
-		"Weizhen #0" = 0
 		"Shisheng #0" = 0
 		"Qichang #0" = 0
 		"Hongdao #0" = 0
@@ -218,7 +278,6 @@ monarch_names = {
 		"Yan  #0" = 0
 		"Yingxiang  #0" = 0
 		"Zongmin  #0" = 0
-		"Yuchun #0" = 0
 		"Heying #0" = -1
 		"Chunmei #0" = -1
 		"Tianhui #0" = -1

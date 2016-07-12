@@ -70,8 +70,6 @@ monarch_names = {
 	"Polyxenos #0" = 10
 	"Lysias #0" = 10
 	"Antialcidas #0" = 10
-	"Eucratides #0" = 10
-	"Pantaleon #0" = 10
 
 	"Alexandra #0" = -1
 }

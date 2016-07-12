@@ -46,5 +46,5 @@ ADALBERHT ADALFUNS ADALHARD ADALWOLF ÆBBE BALDOVIN BALDOMAR BERENGAR CYNEWEARD C
 }
 
 ship_names = {
- Gyð Wulf Agil Hard Ric Eofor Hild Eofor Era Thurd Ewa Wald Ey Steinn Fara Mund Nand Beraht Frid Ger Hnod 
+ Gyð Wulf Agil Hard Ric Eofor Hild Era Thurd Ewa Wald Ey Steinn Fara Mund Nand Beraht Frid Ger Hnod 
 }

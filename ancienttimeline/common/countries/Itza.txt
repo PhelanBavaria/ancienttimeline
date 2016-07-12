@@ -20,13 +20,7 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	mesoamerican_spearmen
-	central_american_horsemen
-	maya_tribal_warfare
-	maya_forest_warfare
-	maya_gunpowder_warfare
-	westernized_mayan
-	maya_guerilla_warfare
+	stone_age_clubmen
 }
 
 leader_names = {
@@ -102,7 +96,7 @@ ship_names = {
 	Gumarcaj Gucumatz
 	Hocchob Hormiguero Hunahpu Huracan
 	Ixbalanque Ixchel Ixtab Ichmac Ichmul Itzan Ixil Iximche Ixlu Izamal "Ix Chel"
-	Labná Louisville Lubaantun Lubaantun Jaina Jolja "Joya de Cerén"
+	Labná Louisville Lubaantun Jaina Jolja "Joya de Cerén"
 	Kaminaljuyu Kabah Kiuic "Kantunil Kin"
 	Lamanai 
 	Mayapan Machaquila Mani Muluchtzekel Muyil 

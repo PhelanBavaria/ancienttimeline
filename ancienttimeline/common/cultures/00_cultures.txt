@@ -1376,8 +1376,8 @@ maghrebi = {
 			"al-Ilighi" "al-Tadsi" "Zayyanid"
 		}
 		male_names = {
-			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul 
-			Hadjdjadj" "Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" 
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
 			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
 			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
 			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 

@@ -20,16 +20,8 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	italian_condotta
-	spanish_tercio
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
+	stone_age_clubmen
+	freemen
 }
 
 monarch_names = {
@@ -46,5 +38,5 @@ ADALBERHT ADALFUNS ADALHARD ADALWOLF ÆBBE BALDOVIN BALDOMAR BERENGAR CYNEWEARD C
 }
 
 ship_names = {
- Gyð Wulf Agil Hard Ric Eofor Hild Eofor Era Thurd Ewa Wald Ey Steinn Fara Mund Nand Beraht Frid Ger Hnod 
+ Gyð Wulf Agil Hard Ric Eofor Hild Era Thurd Ewa Wald Ey Steinn Fara Mund Nand Beraht Frid Ger Hnod 
 }
