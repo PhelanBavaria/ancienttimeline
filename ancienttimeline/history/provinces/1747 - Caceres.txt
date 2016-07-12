@@ -1,4 +1,4 @@
-﻿#1747 - Cáceres
+﻿#1747 - Castra Caecilia
 
 culture = celtiberian
 religion = lusitanian_poly

@@ -1,8 +1,8 @@
-﻿#232 - Bragança
+﻿#232 - Zoelae
 
 culture = gallaic
 religion = druidism
-capital = "Brigantia"
+capital = "Zoelae"
 trade_goods = unknown
 hre = no
 base_tax = 2
