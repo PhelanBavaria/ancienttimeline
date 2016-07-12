@@ -1,1 +1,11 @@
 #1012 - Satsuma
+
+religion = animism
+capital = "Kagoshima"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+discovered_by = chinese
+discovered_by = south_chinese

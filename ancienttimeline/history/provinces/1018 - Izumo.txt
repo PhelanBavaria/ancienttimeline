@@ -1,1 +1,12 @@
 #1018 - Izumo
+
+culture = emishi
+religion = animism
+capital = "Izumo"
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+discovered_by = chinese
+discovered_by = south_chinese

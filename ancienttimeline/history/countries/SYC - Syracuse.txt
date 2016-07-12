@@ -66,8 +66,6 @@ capital = 3133
 	}
 }
 
-4535.1.1 = { government = oligarchic_republic }
-
 4534.1.1 = {
 	monarch = {
 		name = "(interregnum)"
@@ -77,6 +75,8 @@ capital = 3133
 		mil = 2
 	}
 }
+
+4535.1.1 = { government = oligarchic_republic }
 
 4595.1.1 = { government = despotic_monarchy }
 

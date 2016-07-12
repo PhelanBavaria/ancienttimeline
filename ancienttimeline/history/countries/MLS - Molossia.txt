@@ -68,31 +68,6 @@ capital = 144
 
 4610.1.1 = {
 	heir = {
-		name = "Neoptolemos"
-		monarch_name = "Neoptolemos I"
-		dynasty = "Aeacid"
-		birth_date = 4610.1.1
-		death_date = 4687.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 4
-	}
-}
-
-4630.1.1 = {
-	monarch = {
-		name = "Neoptolemos I"
-		dynasty = "Aeacid"
-		birth_date = 4610.1.1
-		adm = 3
-		dip = 2
-		mil = 4
-	}
-}
-
-4630.1.1 = {
-	heir = {
 		name = "Arybbas"
 		monarch_name = "Arybbas I"
 		dynasty = "Aeacid"
@@ -113,6 +88,31 @@ capital = 144
 		adm = 2
 		dip = 4
 		mil = 2
+	}
+}
+
+4627.1.1 = {
+	heir = {
+		name = "Neoptolemos"
+		monarch_name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		death_date = 4687.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+4630.1.1 = {
+	monarch = {
+		name = "Neoptolemos I"
+		dynasty = "Aeacid"
+		birth_date = 4610.1.1
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 }
 

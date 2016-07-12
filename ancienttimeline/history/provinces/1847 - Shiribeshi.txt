@@ -1,1 +1,10 @@
 #1847 - Shiribeshi
+
+culture = emishi
+religion = animism
+capital = "Shiribeshi"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
