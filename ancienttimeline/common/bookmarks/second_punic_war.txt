@@ -1,8 +1,8 @@
 
 bookmark =
 {
-	name = "FIRST_PUNIC_WAR_NAME"
-	desc = "FIRST_PUNIC_WAR_DESC"
+	name = "SECOND_PUNIC_WAR_NAME"
+	desc = "SECOND_PUNIC_WAR_DESC"
 	date = 4782.6.1
 	
 	country = CTH

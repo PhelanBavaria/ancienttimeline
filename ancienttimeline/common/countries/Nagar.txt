@@ -33,7 +33,6 @@ historical_units = {
 monarch_names = {
 	"Shattuara #0" = 10
 	"Wasashatta #0" = 10
-	"Shattuara #0" = 10
 	"Shattiwara #0" = 10
 	"Shuttarna #0" = 10
 	"Artatama #0" = 10

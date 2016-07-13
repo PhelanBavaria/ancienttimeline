@@ -13,15 +13,57 @@ historical_idea_groups = {
 	economic_ideas
 }
 
-histrorical_units = {
+historical_units = {
+	stone_age_spearmen
+	peltast_m
+	companion_cavalry
+	elite_phalanx
+	tarantine_cavalry
+	thureophoroi
+	equites
+	principes
+	legionaries
+}
 
+monarch_names = {
+	"Klohi #0" = -10
+	"Zis #0" = 5
+	"Thotoria #0" = -5
+	"Marta #0" = -20
+	"Vastei #0" = 15
+	"Basta #0" = -2
+	"Veinan #0" = 10
+	"Aran #0" = 10
+	"Daranthoa #0" = -5
+	"Vasti #0" = 10
+	"Staboos #0" = 10
+	"Xohedonas #0" = 10
+	"Daxtassi #0" = -10
+	"Vaanetos #0" = 5
+	"Trigonoxo #0" = 5
+	"Staboos #0" = 10
+	"Dazimaihi #0" = 5
+	"Beiliihi #0" = 5
+	"Rexxorixoa #0" = -5
+	"Kazareihi #0" = 10
+	"Xohetthihi #0" = 10
+	"Toeihithi #0" = 10
+	"Dazohonnihi #0" = 10
+	"Vastima #0" = 10
+	"Daxtas #0" = 10
+	"Kratheheihi #0" = 10
+	"Ardannoa #0" = -10
+	"Poxxonnihi #0" = 10
+	"Imarnaihi #0" = 10
+}
 
-
-
-
-
-
-
-
-
+leader_names = {
+	Aran
+	Vastei
+	Veinan
+	Xohedonas
+	Vaanetos
+	Xohetthihi
+	Kazareihi
+	Daxtas
 }

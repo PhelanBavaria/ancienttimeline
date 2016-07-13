@@ -63,7 +63,6 @@ monarch_names = {
 	"Matthaios #0" = 0
 	"Nestor #0" = 0
 	"Nikomedes #0" = 0
-	"Orestes #0" = 0
 	"Palaemon #0" = 0
 	"Pelagios #0" = 0
 	"Petros #0" = 0

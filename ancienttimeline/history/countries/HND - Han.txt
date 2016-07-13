@@ -368,7 +368,7 @@ capital = 679
 	}
 }
 
-9.1.1 = {
+5009.1.1 = {
  	monarch = {
 		name = "Wang Mang"
 		dynasty = "Xin"
@@ -378,7 +378,7 @@ capital = 679
 	}
 }
 
-50023.1.1 = {
+5023.1.1 = {
  	monarch = {
 		name = "Gengshi"
 		dynasty = "Han"

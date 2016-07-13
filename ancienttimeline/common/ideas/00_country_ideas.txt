@@ -719,7 +719,7 @@ MCD_ideas = {
 	}
 	free = yes		#wibe added at load.
 	
-	companion_cavalry = {
+	companion_cavalry_idea = {
 		cavalry_power = 0.25
 	}
 	greek_heroes = {
@@ -774,7 +774,7 @@ ACA_ideas = {
 		tolerance_heretic = 2
 		tolerance_heathen = 2
 	}
-	immortals = {
+	immortals_idea = {
 		infantry_power = 0.20
 	}
 	efficient_infrastructure = {

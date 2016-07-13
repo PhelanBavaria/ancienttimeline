@@ -1672,7 +1672,7 @@ iranian	= {
 	}
 }
 
-scythian_group = {
+scythian_group_culture = {
 	alan = {
 		male_names = {
 			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
@@ -1986,8 +1986,8 @@ steppe_group = {
 			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
 		}
 		male_names = {
-			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li" "Yong 
-			Yan" "Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng 
+			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li"
+			"Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng 
 			Yinti Daisan Abatai Ajige Dodo Yinxiang Yinsi Yintang Hongshi Hongzhou Yongqi Akjan Ayan Baohu Chengjun 
 			Dorgide Eje Encehen Fisin Fulu Ganyong Ganzhan Hurong Jabsan Jakdan Leli Liyi Lung Mergen Muduri Mujin Oori 
 			Radi Talman Wehe Yelu Yongyi Zhanhung Zhenghu Zhengrong Zhongcheng Zhongchun Zhongho Zhonghu Zhonghung 
@@ -2173,13 +2173,13 @@ mon_khmer = {
 			Angkor "Siem Reap" Oudong Battambang "Stung Treng" Kratie "Phnom Penh"
 		}
 		male_names = {
-			"Barom Reachea" "Noreay Ramathipatei" "Soriyotei" "Thommo Reachea" "Srey Sukonthor" "Ang Chan" "Reachea 
-			Ramathipatei" "Barom Reachea" "Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea" "Sri 
-			Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Narayanaraja" "Ponhea Yat" "Narayanaraja" 
-			"Sri Raja" "Rajadhiraja" "Dharmarajadhiraja" "Damkhat Sukonthor" "Reamea Chungprey" "Keo Ban On" "Ponhea 
-			Yor" "Ponhea An" "Ponhea Nhom" "Srei Soriyopear" "Udayaraja" "Ponhea To" "Ang Non" "Ponhea Chan" "Ang Sur" 
-			"Ang Chea" "Ang Nan" "Ang Sor" "Ang Yong" "Ang Em" "Ang Tham" "Ang Sngoun" "Ang Tong" "Ang Ton" "Ang Eng" 
-			"Ang Duong"
+			"Barom Reachea" "Noreay Ramathipatei" "Soriyotei" "Thommo Reachea" "Srey Sukonthor" "Ang Chan" 
+			"Reachea Ramathipatei" "Barom Reachea" "Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea"
+			"Sri Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Narayanaraja" "Ponhea Yat"
+			"Narayanaraja" "Sri Raja" "Rajadhiraja" "Dharmarajadhiraja" "Damkhat Sukonthor" "Reamea Chungprey"
+			"Keo Ban On" "Ponhea Yor" "Ponhea An" "Ponhea Nhom" "Srei Soriyopear" "Udayaraja" "Ponhea To" "Ang Non"
+			"Ponhea Chan" "Ang Sur" "Ang Chea" "Ang Nan" "Ang Sor" "Ang Yong" "Ang Em" "Ang Tham" "Ang Sngoun"
+			"Ang Tong" "Ang Ton" "Ang Eng" "Ang Duong"
 		}
 		female_names = {
 			"Boupha" "Sakngea" "Ang Mey" "Anak Moneang Krachap" "Neang Pou" Achariya Akara Anchali Arunny Ary Bopha Botum 
@@ -2229,9 +2229,9 @@ malay = {
 			Vijaya Kauthara Panduranga Indrapura
 		}
 		male_names = {
-			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po 
-			Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po 
-			Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
+			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" 
+			"Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun"
+			"Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
 		}
 		female_names = {
 			Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nuutea Orama Poe Pear Poehina Poenui Poerava Puaiti 
@@ -2245,8 +2245,8 @@ malay = {
 			Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
 		}
 		male_names = {
-			"Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Shâh" "Abu Syahid" "Muzaffar Shâh" "Mansûr Shâh" "Riayat 
-			Shah" "Mahmûd Shâh" "'Abd al-Jalîl Shâh" "Ma'ayat Shâh" "Ibrâhîm Shâh" "Rahmat Shâh" "Sulaymân Badr Shâh" 
+			"Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Shâh" "Abu Syahid" "Muzaffar Shâh" "Mansûr Shâh" "Riayat Shah"
+			"Mahmûd Shâh" "'Abd al-Jalîl Shâh" "Ma'ayat Shâh" "Ibrâhîm Shâh" "Rahmat Shâh" "Sulaymân Badr Shâh" 
 			"Mu'azzam Shâh" "Mahmûd Ri'âyat Shâh" "'Abd ar-Rahmân Shâh" "Rajah Qasim"
 		}
 		female_names = {
@@ -2272,8 +2272,8 @@ thai = {
 		male_names = {
 			"Ramaracha" "Intha Racha" "Borommaracha" "Trailokanat" "Ramathibodi" "Ratsada" "Chairacha" "Keo Fa" 
 			"Bun Si" "Chakkraphat" "Mahin" "Thammaracha" "Naresuen" "Ekathotsarot" "Si Saowaphak" "Songtham" "Chettha" 
-			"Athittayawong" "Prasat Thong" "Chao Fa Jai" "Narai" "Si Suthammaracha" "Phetracha" "Phrachao Suea" "Thai 
-			Sa" "Boromakot" "Uthumphon" "Taksin" "Rama"
+			"Athittayawong" "Prasat Thong" "Chao Fa Jai" "Narai" "Si Suthammaracha" "Phetracha" "Phrachao Suea"
+			"Thai Sa" "Boromakot" "Uthumphon" "Taksin" "Rama"
 		}
 		female_names = {
 			"Amporn" "Chanarong" "Sri Suriyothai" "Panjapapee" "Komol"
@@ -2288,9 +2288,9 @@ thai = {
 			"Khai Bua Ban" "Khong Kham" "Sai Tia Kaphut" "Theng Kham" "Laasaenthai" "Sompou" "Visunarat" "Photisarat" 
 			"Setthathirat" "Saensurin" "Maha Oupahat" "Nakhon Noi" "Nokeo Koumanh" "Thammikarat" "Upanyuvarat" 
 			"Mon Keo" "Tone Kham" "Vichai" "Souligna Vongsa" "Tian Thala" "Nan Tharat" "Ong Long" "Anouvong" "Sai" 
-			"Khamteam" "Kongkeo" "Leu Xay" "Fa Kheun" "Yu Khong" "Nan Rat" "Saya Kumane" "Xiang Keo" "Fay Na" "No 
-			Muong" "Cha Nou" "Ma Noi" "Rajabud Yo" "Kin Kitsarat" "Ong Kham" "Thao Ang" "Inthara Vongsa" "Inthaphom Yo" 
-			"Sotika Koumane" "Anurutha" "Manthaturat"
+			"Khamteam" "Kongkeo" "Leu Xay" "Fa Kheun" "Yu Khong" "Nan Rat" "Saya Kumane" "Xiang Keo" "Fay Na"
+			"No Muong" "Cha Nou" "Ma Noi" "Rajabud Yo" "Kin Kitsarat" "Ong Kham" "Thao Ang" "Inthara Vongsa"
+			"Inthaphom Yo" "Sotika Koumane" "Anurutha" "Manthaturat"
 		}
 		female_names = {
 			"Châu" "Nang Keo Phimpha" "Manora" "Souphutta" "Anousa" "Nokasat"
@@ -2303,8 +2303,8 @@ thai = {
 		male_names = {
 			"Kü Na" "Saenmuenagma" "Samfangkaen" "Tilokaracha" "Yotchiangrai" "Kaeo" "Ket" "Saikham" "Setthathirat" 
 			"Mekuti" "Nawrahta Minsaw" "Phra Choi" "Phra Chaiyathip" "Sisongmueang" "Luangthipphanet" "Phra Saenmueang" 
-			"Phrae" "Ingsemang" "Cheputarai" "Mangraenara" "Ong Kham" "Ong Chan" "Khihut" "Po Aphaikhamini" "Po 
-			Mayunguan" "Phraya Chaban" "Thammalangka" "Kawila"
+			"Phrae" "Ingsemang" "Cheputarai" "Mangraenara" "Ong Kham" "Ong Chan" "Khihut" "Po Aphaikhamini" "Po Mayunguan"
+			"Phraya Chaban" "Thammalangka" "Kawila"
 		}
 		female_names = {
 			"Dara" "Mya" "Chiraprapha" "Wisutthithewi" "Yasuntarathewi"
@@ -2436,13 +2436,13 @@ burman= {
 			Khjungpo Dbas Mnyammed
 		}
 		male_names = {
-			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup 
-			Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" 
+			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten"
+			"Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" 
 			"Lhabzang" "Tsewang Arabtan" "Phola Sonam Topbgye" "Gyurme Namgyal" "Lozang Gyastro" "Tsangyang Gyatso" 
-			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro" "Desi 
-			Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
-			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi 
-			Chophel" "Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" Dorjee Dote Kalden
+			"Kelzang Gyatso" "Jamphel Gyatso" "Lungtok Gyatso" "Tsultrim Gyatso" "Gendun Gyastro" "Sonam Gyastro"
+			"Desi Sangay Gyatso" "Ngwaang Yeshi Gyatso" "Chang-chub" "Sakya Gyantsen" "Trakpa Richen" "Trakpa Chang-chub" 
+			"Trakpa Chungne" "Sangye Gyamtso" "Lobsang Yeshe" "Palden Yeshi" "Ngapoi Takna" "Jigme Wangyal" "Tashi Chophel"
+			"Bapu Gendun" "Rabtan" "Sengge" "Galdan" "Gushi" Dorjee Dote Kalden
 		}
 		female_names = {
 			"Kamala" "Indira" Dawa Dechen Diki Choden Dohna Dolkar Karma Sonam Sangmu
@@ -2527,8 +2527,8 @@ burman= {
 			"Ran Aung O" "Salingathu" "Raza" "Gazapati" "Saw O" "Thazata" "Minkhaung" "Min Bin" "Dikha" "Saw Hla" 
 			"Sekkya" "Hpalaung" "Razagri" "Khamaung" "Thiri Thudhamma" "Sanay" "Narapati" "Thado" "Sanda Thudhamma" 
 			"Wara Dhamma" "Mani Dhamma" "Sanda Thuriya" "Nawrahta" "Mayonpiya" "Kalagandat" "Naradipati" "Sanda Wimala" 
-			"Sanda Wizaya" "Naradipadi" "Narapawara" "Madarit" "Nara Apaya" "Thirithu" "Apaya" "Sanda Thumana" "Sanda 
-			Thaditha" "Thammada"
+			"Sanda Wizaya" "Naradipadi" "Narapawara" "Madarit" "Nara Apaya" "Thirithu" "Apaya" "Sanda Thumana"
+			"Sanda Thaditha" "Thammada"
 		}
 		female_names = {
 			"Saw Sit" "Saw Pu Nyo" "Saw Pyauk" "Saw Pyinsa" "Saw Yin Mi"
@@ -2601,8 +2601,8 @@ eastern_aryan = {
 			"Sur"
 		}
 		male_names = {
-			"Sikandar" "Sher" "Ala-ud-Din Firuz" "Rukn ad-Din Barbak" "Jalal ad-Din Fateh" "Nasir-ud-Din Mahmud" "Nasir 
-			ad-Din Nasrat" "Jalaluddin Mohammed" "Islam" "Mirza Muhammad" "Shams-ud-Din Yusuf" "Shams-ud-Din Ahmad" 
+			"Sikandar" "Sher" "Ala-ud-Din Firuz" "Rukn ad-Din Barbak" "Jalal ad-Din Fateh" "Nasir-ud-Din Mahmud"
+			"Nasir ad-Din Nasrat" "Jalaluddin Mohammed" "Islam" "Mirza Muhammad" "Shams-ud-Din Yusuf" "Shams-ud-Din Ahmad" 
 			"Shams-ud-Din Muhammad" "Mir Muhammad Ja'far" "Shihab-ud-Din Bayazid" "Mir Qasim 'Ali" "Sayf-ud-Din Hamza" 
 			"Ghiyasuddin Azam" "Ghiyasuddin Mahmud" "Ghiyat ad-Din Bahadur" "Ghiyat ad-Din Jalal" "Da'ud" "Sulayman" 
 			"Murshid Quli" "Shuja' ad-Din Muhammad" "Azam" "Ahmad" "Abu Nasr" "Barbak" "Farid" "Yusuf" "Husain" "Firuz" 
@@ -2819,8 +2819,8 @@ hindusthani = {
 			"Ladakhi"
 		}
 		male_names = {
-			"Sikandar" "Ali Shah" "Zayn al-'Abidin" "Haydar Shah" "Hasan Shah" "Muhammad Shah" "Sayyid Hassan" "Fath 
-			Shah" "Ibrahim Shah" "Nazuk Shah" "Shams ad-Din" "Ismail Shah" "Ghazi Shah" "Husayn Shah" "Yusuf Shah" 
+			"Sikandar" "Ali Shah" "Zayn al-'Abidin" "Haydar Shah" "Hasan Shah" "Muhammad Shah" "Sayyid Hassan"
+			"Fath Shah" "Ibrahim Shah" "Nazuk Shah" "Shams ad-Din" "Ismail Shah" "Ghazi Shah" "Husayn Shah" "Yusuf Shah" 
 			"Lohir Shah" "Nabib Shah" "Ya'qub Shah" "Ibrahim" "Hassan" "Nazuk" "Yusuf" "Ya'qub" "Muhammad" "Ali" 
 			"Ismail" "Gulab" "Ranbir" "Hari" "Pratap" "Kishore" "Zorawar" "Jonaraja" "Prajna" "Hamza"
 		}
@@ -3165,10 +3165,10 @@ dravidian = {
 		}
 		male_names = {
 			"Chera Udaya Varma" "Mootha" "Sri Vira Martanda" "Aditya" "Bala Rama Varma" "Martanda" 
-			"Sri Vira" "Udaya Martanda Varma" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Ravi Varma" "Kotha 
-			Aditya Varma" "Ravi Ravi Varma" "Rama" "Unni" "Sri Vira Udaya Varma" "Sri Vira Varma" "Sri Vira 
-			Ravi Varma" "Marthanda Varma" "Udaya" "Ravi" "Unni" "Sri" "Kallada" "Marthanda" "Raman" "Eman" "Ramayyan" 
-			"Thiruvattar" "Kodassery" "Koratty"
+			"Sri Vira" "Udaya Martanda Varma" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Ravi Varma"
+			"Kotha Aditya Varma" "Ravi Ravi Varma" "Rama" "Unni" "Sri Vira Udaya Varma" "Sri Vira Varma"
+			"Sri Vira Ravi Varma" "Marthanda Varma" "Udaya" "Ravi" "Unni" "Sri" "Kallada" "Marthanda"
+			"Raman" "Eman" "Ramayyan" "Thiruvattar" "Kodassery" "Koratty"
 		}
 		female_names = {
 			"Parvati Bai" "Ummayama Rani" Ummayama "Ghauri Lakshmi Bai" Rani Lakshmi Ghauri Bai Parvati
@@ -3255,8 +3255,8 @@ dravidian = {
 		}
 		male_names = {
 			"Quli" "Jamshid" "Subhan Quli" "Ibrahim" "Muhammed Quli" "Muhammed" "'Abdullah" "Abul'l-Hassan" "Kabir" 
-			"Mir Musa" "Quli Sultan" "Mahmud Gawan" "Sayid Hanif" "Imad al-Mulk" "Saif Allah" "Iftikhar al-Mulk" "Mir 
-			Abu'l-Qasim" "Ubbaid Allah" "Sayid Nasir al-Din" "Shah Khalil Allah" "Mullah Qutb al-Din" "Abd Allah" 
+			"Mir Musa" "Quli Sultan" "Mahmud Gawan" "Sayid Hanif" "Imad al-Mulk" "Saif Allah" "Iftikhar al-Mulk"
+			"Mir Abu'l-Qasim" "Ubbaid Allah" "Sayid Nasir al-Din" "Shah Khalil Allah" "Mullah Qutb al-Din" "Abd Allah" 
 			"Rustam Khan" "Mir Shams al-Din" "Qasim Beg" "Khwaja Imad al-Din" "Mir Ali" "Khusrau" "Daud Khan" "Mujahid" 
 			"Quazi Siraj-ud-din" "Fulad Khan" "Jamal-ud-din" "Abdul" "Malik" "Ala-ud-din" "Malik-ut-Tujjar" "Sikandar" 
 			"Hakim"
@@ -3288,8 +3288,8 @@ central_indic = {
 		}
 		male_names = {
 			"Narsingh Rai" "Arjuna Simha" "Sangrama Simha" "Daipat Simha" "Vir Narayana" "Chandra Sahi" "Hirde" 
-			"Madhukara Sahi" "Dhundya Ram Sah" "Krasna Sah" "Bir Sah" "Hiradi" "Ram Sah" "Nilkanth Sah" "Chanda" "Bahkt 
-			Buland" "Bhuma" "Lokba" "Babji" "Dhundya" "Kondya" "Ram" "Krasna"
+			"Madhukara Sahi" "Dhundya Ram Sah" "Krasna Sah" "Bir Sah" "Hiradi" "Ram Sah" "Nilkanth Sah" "Chanda"
+			"Bahkt Buland" "Bhuma" "Lokba" "Babji" "Dhundya" "Kondya" "Ram" "Krasna"
 		}
 		female_names = {
 			"Durgavati" "Hirai" "Ratna Kuvar"
