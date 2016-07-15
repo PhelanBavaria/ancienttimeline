@@ -47,7 +47,6 @@ monarch_names = {
 	"Daxtassi #0" = -10
 	"Vaanetos #0" = 5
 	"Trigonoxo #0" = 5
-	"Staboos #0" = 10
 	"Dazimaihi #0" = 5
 	"Beiliihi #0" = 5
 	"Rexxorixoa #0" = -5
