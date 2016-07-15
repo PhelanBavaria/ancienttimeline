@@ -1,4 +1,4 @@
-﻿#166 - Waldstätte
+#166 - Waldstätte
 
 culture = gallian
 religion = druidism

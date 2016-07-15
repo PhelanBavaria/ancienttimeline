@@ -1,4 +1,4 @@
-﻿#232 - Zoelae
+#232 - Zoelae
 
 culture = gallaic
 religion = druidism
