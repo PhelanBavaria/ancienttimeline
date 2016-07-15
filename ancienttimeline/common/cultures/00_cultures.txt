@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+﻿# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
@@ -3104,8 +3104,8 @@ cushitic = {
 			'Endreyâs Yeshaq Mika'el Antenatewos Gusho Haile
 		}
 		female_names = {
-			Abeba Hagos Tenagne Habesha Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele 
-			Belkis Berhane Berta Desta Dilla Falasha Falashina Fana Fannah Genat Jahzara Jazarah Kayla Kelile 
+			Abeba Hagos Tenagne Habesha Abeba Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele 
+			Belkis Berhane Berta Desta Dilla Falasha Falashina Fana Fannah Genat Hagos Jahzara Jazarah Kayla Kelile 
 			Kelyle Keren Kess Kifle
 		}
 	}
@@ -3117,22 +3117,18 @@ nilotic = {
 
 	egyptian_culture = {
 		dynasty_names = {
-			"Sekhemresementawy" "Senebkay" "Snaaib" "Wepwawetemsaf" "Senebmiu" "Mentuhotep" "Sobekhotep"
+			"Burji" "Alawiyya" "Bahri"
 		}
 		male_names = {
-			Narmer Hor-Aha Djer Djet Den Anedjib Semerkhet Qa'a Sneferka Hotepsekhemwy Nebra Nynetjer Weneg-Nebty Senedj
-			Seth-Peribsen Sekhemib-Perenmaat Neferkara Neferkasokar Hudjefa Khasekhemwy Djoser Sekhemkhet Sanakht Khaba Huni
-			Sneferu Khufu Djedefre Khafre Baka Menkaure Shepseskaf Thamphthis Userkaf Sahure Neferirkare Neferefre Shepseskare
-			"Nyuserre Ini" "Menkauhor Kaiu" "Djedkare Isesi" Unas Teti Userkare "Meryre Pepi" "Merenre Nemtyemsaf" Neferka
-			"Neitiqerty Siptah" Menkare "Djedkare Shemai" Merenhor Neferkamin Nikare Neferkahor Qakare Neferkaure Nebiryraw
-			"Meryibre Khety" Setut Meryhathor Merykare Iry-pat Mentuhotep Segerseni Iyibkhentre Sehetepibre Kheperkare
-			Sobekkare Seankhibtawy Sonbef Nerikare Ameny Hotepibre Iufni Sewadjkare Nedjemibre Renseneb Djedkheperew Sebkay
-			Sedjefakare Khendjer Imyremeshaw "Seth Meribre" Menwadjre Merkheperre Merkare Dedumose Snaaib Yakbim Ya'ammu
-			Qareh 'Ammu Sheshi Nehesy Khakherewre Nebefawre Sehebre Merdjefare Webenre Nebsenre Sekheperenre Bebnum 'Apepi
-			Nuya Wazad Sheneh Shenshek Khamure Yakareb Yaqub-Har Semqen Khyan Apepi Khamudi Djehuti Mentuhotepi
+			Muhammad Ahmad Qânsawh Tûmân Bay Inâl Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay 
+			Qâyit Bay Shaik al-Mahmudi Timurbughâ 'Uthman Yalbay Jânbulât Yûsuf Barqûq 'Alî Baybars Hâjjî 
+			Bakr al-Hasan Isma'îl Kûjûk Sâlih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
+			Sayyid Yunus Jaqmaq Qasim Sa'di Sha'bân Abû 
 		}
 		female_names = {
-			Tausret Nefertiti Hatshepsut Nefertari Ashotep Sobeknefru
+			Shahira Yusra Asma Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam 
+			Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
 	nubian = {
@@ -3150,8 +3146,8 @@ nilotic = {
 			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
 			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
 			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
-			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
-			Geôrgios George Hêlias Elias Hoase Jesse Hoassi Hoasse Iacob Jacob Ieremias 
+			Epiphanios Gabriel Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Jesse Hoassi Jesse Hoasse Jesse Iacob Jacob Ieremias 
 			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
 			Kalinikos Kallinikios Kollouthos
 			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
@@ -3170,7 +3166,7 @@ nilotic = {
 			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
 			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
 			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake Kyriake Maraña Maria Mariam Mariane Marianou Michaêliko Michaela 
+			Keudonia Kurake Kyriake Maraña Maria Maria Mariam Maria Mariane Marianou Michaêliko Michaela 
 			Ñaa Ñeadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
 			Patricia Pelagia Gulzar Maram
 			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
@@ -3186,7 +3182,7 @@ mesopotamian = {
 		male_names = {
 			Izates Bazeus Monobaz Meharaspes Narsai Shahrat Aphraates Sargon Ashur Aphrahat Pkidha Ninos Noh Habel 
 			Abedhmiha Hiran Saloupha Ahadabuhi Soubaliso Rhima Abbousta Erishum Ikunum Asinum Lullaya Bazaya Adad-Nirari
-			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Shu-Ninua
+			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Adad-Nirari Shu-Ninua
 		}
 		female_names = {
 			Alala Allat Allatu Amuhia Anat Anatu Anunit Aralu Aruru Astarte Atheh Belit Dadu Dadu-Ghipa Gula Ishtar Li-Lit
@@ -3199,7 +3195,7 @@ mesopotamian = {
 		male_names = {
 			Izates Bazeus Monobaz Meharaspes Narsai Shahrat Aphraates Sargon Ashur Aphrahat Pkidha Ninos Noh Habel 
 			Abedhmiha Hiran Saloupha Ahadabuhi Soubaliso Rhima Abbousta Erishum Ikunum Asinum Lullaya Bazaya Adad-Nirari
-			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Shu-Ninua
+			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Adad-Nirari Shu-Ninua
 		}
 		female_names = {
 			Alala Allat Allatu Amuhia Anat Anatu Anunit Aralu Aruru Astarte Atheh Belit Dadu Dadu-Ghipa Gula Ishtar Li-Lit
