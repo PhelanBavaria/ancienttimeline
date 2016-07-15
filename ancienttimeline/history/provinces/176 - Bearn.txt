@@ -1,4 +1,4 @@
-#176 - Béarn
+﻿#176 - Béarn
 
 capital = "Turba"
 culture = aquitanian

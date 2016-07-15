@@ -1,4 +1,4 @@
-#1748 - Iltiraka
+﻿#1748 - Iltiraka
 
 culture = iberi
 religion = animism

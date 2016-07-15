@@ -1,4 +1,4 @@
-#6 - Skåne
+﻿#6 - Skåne
 
 culture = danish
 religion = germanic

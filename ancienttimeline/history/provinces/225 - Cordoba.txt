@@ -1,4 +1,4 @@
-#225 - Kartuba
+﻿#225 - Kartuba
 
 culture = turdetanian
 religion = animism
