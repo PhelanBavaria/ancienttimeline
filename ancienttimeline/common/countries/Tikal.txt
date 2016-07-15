@@ -5,18 +5,18 @@ graphical_culture = southamericagfx
 color = { 14  46  151 }
 
 historical_idea_groups = {
-	early_adm_ideas
-	early_mil_ideas
-	early_religious_ideas
-	early_trade_ideas
-	religious_ideas
 	defensive_ideas
+	administrative_ideas
 	offensive_ideas
-	maritime_ideas
-	trade_ideas
-	spy_ideas
-	diplomatic_ideas
 	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	quantity_ideas
+	spy_ideas
+	quality_ideas
+	influence_ideas
+	innovativeness_ideas
 }
 
 historical_units = {

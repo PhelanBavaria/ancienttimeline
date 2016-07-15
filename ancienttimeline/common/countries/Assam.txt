@@ -5,18 +5,18 @@ graphical_culture = indiangfx
 color = { 163  5  77 }
 
 historical_idea_groups = {
-	early_adm_ideas
-	early_mil_ideas
-	early_trade_ideas
-	early_religious_ideas
 	defensive_ideas
-	quantity_ideas
-	trade_ideas
-	diplomatic_ideas
-	aristocracy_ideas
-	spy_ideas
-	economic_ideas
+	administrative_ideas
 	offensive_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	quantity_ideas
+	spy_ideas
+	quality_ideas
+	influence_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
