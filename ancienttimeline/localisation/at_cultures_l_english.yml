@@ -1,6 +1,5 @@
 ﻿l_english:
  aeolic_greek:0 "Aeolic"
- al_misr_arabic:0 "Egyptian"
  albanian_caucasian:0 "Albanian"
  aquitanian:0 "Aquitanian"
  aramaic:0 "Aramaic"
@@ -21,6 +20,7 @@
  dacian:0 "Dacian"
  doric_greek:0 "Doric"
  eastern_balkan:0 "Eastern Balkan"
+ egyptian_culture:0 "Egyptian"
  egyptian_group:0 "Egyptian"
  etruscan:0 "Etruscan"
  galatian:0 "Galatian"

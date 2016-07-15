@@ -13,8 +13,8 @@ discovered_by = mediterranean
 discovered_by = indian
 discovered_by = north_african
 
-1900.1.1 = { owner = UEG controller = UEG add_core = UEG citysize = 1000 religion = egyptian culture = al_misr_arabic }
-2000.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian culture = al_misr_arabic }
+1900.1.1 = { owner = UEG controller = UEG add_core = UEG citysize = 1000 religion = egyptian culture = egyptian_culture }
+2000.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4670.7.17 = { owner = MEO controller = MEO add_core = MEO remove_core = MCD }

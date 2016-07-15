@@ -1,6 +1,6 @@
 #357 - Tarrana
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Amunia"
 trade_goods = unknown

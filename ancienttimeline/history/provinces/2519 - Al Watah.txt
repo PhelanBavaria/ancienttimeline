@@ -1,6 +1,6 @@
 #2519 - Al Watah
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Al Wahat"
 trade_goods = unknown
@@ -14,7 +14,7 @@ discovered_by = celtiberians
 discovered_by = mediterranean
 discovered_by = north_african
 
-2080.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian culture = al_misr_arabic }
+2080.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }

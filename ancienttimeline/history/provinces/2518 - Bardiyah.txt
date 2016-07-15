@@ -1,6 +1,6 @@
 #2518 - Bardiyah
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Petras Maior"
 trade_goods = unknown

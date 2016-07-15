@@ -1,6 +1,6 @@
 #364 - Gaza
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Ghazzat"
 trade_goods = unknown

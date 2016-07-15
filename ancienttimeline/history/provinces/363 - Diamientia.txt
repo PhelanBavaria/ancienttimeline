@@ -1,6 +1,6 @@
 #363 - Damietta
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Diamientia"
 trade_goods = unknown

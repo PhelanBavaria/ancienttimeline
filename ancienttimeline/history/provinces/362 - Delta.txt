@@ -2,7 +2,7 @@
 
 owner = EGY
 controller = EGY
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = egyptian
 capital = "Khito"
 trade_goods = fish

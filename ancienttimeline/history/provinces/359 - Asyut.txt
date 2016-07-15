@@ -1,6 +1,6 @@
 #359 - Faiyum
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Shedet"
 trade_goods = unknown

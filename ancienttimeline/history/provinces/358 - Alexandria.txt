@@ -1,6 +1,6 @@
 #358 - Alexandria
 
-culture = al_misr_arabic
+culture = egyptian_culture
 religion = african
 capital = "Rhacotis"
 trade_goods = unknown
