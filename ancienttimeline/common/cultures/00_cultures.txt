@@ -3418,8 +3418,8 @@ cushitic = {
 			'Endreyâs Yeshaq Mika'el Antenatewos Gusho Haile
 		}
 		female_names = {
-			Abeba Hagos Tenagne Habesha Abeba Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele 
-			Belkis Berhane Berta Desta Dilla Falasha Falashina Fana Fannah Genat Hagos Jahzara Jazarah Kayla Kelile 
+			Abeba Hagos Tenagne Habesha Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele 
+			Belkis Berhane Berta Desta Dilla Falasha Falashina Fana Fannah Genat Jahzara Jazarah Kayla Kelile 
 			Kelyle Keren Kess Kifle
 		}
 	}
@@ -3438,12 +3438,12 @@ nilotic = {
 			Seth-Peribsen Sekhemib-Perenmaat Neferkara Neferkasokar Hudjefa Khasekhemwy Djoser Sekhemkhet Sanakht Khaba Huni
 			Sneferu Khufu Djedefre Khafre Baka Menkaure Shepseskaf Thamphthis Userkaf Sahure Neferirkare Neferefre Shepseskare
 			"Nyuserre Ini" "Menkauhor Kaiu" "Djedkare Isesi" Unas Teti Userkare "Meryre Pepi" "Merenre Nemtyemsaf" Neferka
-			"Neitiqerty Siptah" Menkare "Djedkare Shemai" Merenhor Neferkamin Nikare Neferkahor Qakare Neferkaure Neferirkare
+			"Neitiqerty Siptah" Menkare "Djedkare Shemai" Merenhor Neferkamin Nikare Neferkahor Qakare Neferkaure Nebiryraw
 			"Meryibre Khety" Setut Meryhathor Merykare Iry-pat Mentuhotep Segerseni Iyibkhentre Sehetepibre Kheperkare
 			Sobekkare Seankhibtawy Sonbef Nerikare Ameny Hotepibre Iufni Sewadjkare Nedjemibre Renseneb Djedkheperew Sebkay
 			Sedjefakare Khendjer Imyremeshaw "Seth Meribre" Menwadjre Merkheperre Merkare Dedumose Snaaib Yakbim Ya'ammu
 			Qareh 'Ammu Sheshi Nehesy Khakherewre Nebefawre Sehebre Merdjefare Webenre Nebsenre Sekheperenre Bebnum 'Apepi
-			Nuya Wazad Sheneh Shenshek Khamure Yakareb Yaqub-Har Semqen Khyan Apepi Khamudi Djehuti Mentuhotepi Nebiryraw
+			Nuya Wazad Sheneh Shenshek Khamure Yakareb Yaqub-Har Semqen Khyan Apepi Khamudi Djehuti Mentuhotepi
 		}
 		female_names = {
 			Tausret Nefertiti Hatshepsut Nefertari Ashotep Sobeknefru

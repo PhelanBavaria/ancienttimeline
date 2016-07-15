@@ -1,4 +1,4 @@
-﻿graphical_culture = easterngfx
+graphical_culture = easterngfx
 
 color = { 7  199  140 }
 
