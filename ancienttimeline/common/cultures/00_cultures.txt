@@ -566,33 +566,24 @@ basque_group = {
 
 	basque = {
 		dynasty_names = { 
-			"de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" 
-			# CKII
-			"Ladrón de Guevara" "de Pamplona" "de Arrosta" "de Navarra" "de Vasconia" "de Agurto" 
-			"de Vizcaya" "d'Ávalos" "de Bazán" "de Aybar" "de Nájera" "Cavanez" "de Noboa" "de Haro" 
-			"de Vidaure" "de Aragón" "de Amaya" "de Azagra" "Benavides" "de Zúñiga" "Coronel" "Velaz" 
-			"de Oca" "de Tafalla" "de Viguera" "de Cea" "Íñiga" "Carracedo" "de Álava" "de Yarnoz" "Cajal" 
-			"de los Cameros" "de Estíbaliz" "de Estella" "de Viscaya" "de Asturias de Santillana" 
-			"de Asturias de Oviedo" "Compostela" "de Laturce" "Belascotenes" "Vela" "de La Rioja" 
-			"Mariano" "de Jaca"
+			Muñoz Arista Olaberria Salaberria Elizondo Enekoitz Scemeno Gartzia Gutia Motza Okerra Ezkerro
+			Zuria Otxoa Otxotorena Belasko Aznar Luzuriaga Marinelarena Arrigorriagakoa Aroztegi Bidarte
+			Bolibar Elkano Elizondo Etxandi Etxarte Etxeberri Goikoetxea Ibaiguren Ibarra Lekubarri Loiola
+			Mariñelarena Mendiluze Mendoza Urberoaga Zabala Zubiondo
 		}
 		male_names = {
-			Enrique Carlos Francisco Juan Luis Gastón Pedro Buenaventura Francisco Godofredo Jaime Lanzarote 
-			Martín Sancho García Felipe Teobaldo Alfonso Agustín Alejandro Álvaro Andrés Antonio Bernardo César 
-			Cristóbal Diego Esteban Fernando Gaspar José Melchor Nicolás Simón Leonel
-			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo 
-			Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando 
-			Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John 
-			Lope Lupo Luis Louis Manrike Amalric Martín Martin Munio Munio Nuño Nuno Obeko Obeko Ordoño 
-			Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon 
-			Zentulo Centule Ladron Ferdinand Bernart
+			Aingeru Aitor Alesander Amets Ander Andoni Antton Argi Argider Arkaitz Arrats Asier Bakar Balendin
+			Basajaun Beñat Bikendi Bittor Danel Edur Eguzki Ekain Ekaitz Endika Eneko Erlantz Erramun Estebe
+			Eztebe Fermin Fermintxo Frantzisko Gaizka Ganix Garaile Gorka Gotzon Gurutz Gutxi Harkaitz Hodei
+			Ibai Igon Iker Imanol Iñaki Ion Itzal Izotz Jokin Jon Joseba Josepe Julen Kemen Kepa Kerman Koldo
+			Koldobika Luken Markel Martzel Mattin Oier Oroitz Ortzi Patxi Sendoa Unai Zeru Zigor Zorion 
 		}
 		female_names = {
-			Juana Catalina Leonor Blanca
-			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka 
-			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance 
-			Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nuña Oneka Oneka Oria Plazentzia 
-			Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
+			Abene Agurne Agurtzane Ainhoa Aintza Aintzane Alaia Alazne Amaia Amets Ane Arantxa Argiñe Bakarne
+			Berezi Bidane Bihotz Edurne Eguzkiñe Eider Elixabete Erlea Eskarne Esti Estiñne Eukene Euria 
+			Frantziska Garbi Garbiñe Garden Goizane Goizargi Goizeder Gotzone Gurutze Haizea Hilargi Hirune
+			Igone Ihintza Irati Irune Itsasne Itsaso Itzaro Itxaso Itziar Izar Izaro Jone Kattalin Lore Maia
+			Maite Miren Nahia Naia Nekane Nere Oihana Sorne Udane Usoa Zuriñe
 		}
 	}
 	aquitanian = {
@@ -617,30 +608,27 @@ slavic = {
 
 	venedic = {
 		male_names = {
-			Kresimir Stjepan Almos Dimitrije Zvonimir Trpimir Goislav Slavic Svetoslav Miroslav Mutimir 
-			Ladislav Karlo Andrej Luj Pero Vladislav Vjenceslav Aleksandar Dragutin Fauszty Franjo Gavrilo Ivan 
-			Juraj Luka Matija Marko Mihajlo Milan Mirko Nenad Nikola Slavko Toma Vladko Zvonomir
-			Adam Andrija Bartol Bartolomeus Besar Bojan Boris Branimir Castimir Danail Daniel Dmitar 
-			Dobromir Dragan Dragomir Drzislav Dujam Duym Filip Philip Gaspar Gheorghe George Grigorii 
-			Hranislav Hrvoje Igor Ioan John Ivan John Ivanis Jitej Karlo Charles Koloman Koloman 
-			Ladislav Ljudevit Ljutomisl Lovro Matej Matthew Mihajlo Milman Mislav Mutimir
-			Nikolitza Nicholas Ognjen Petar Peter Prohor Radomir Ratimir Sebeslav Seslav Slavich 
-			Stanislav Stjepan Sulvan Teodor Tomislav Tvrdoslav Tvrtko Ulfo Ulf Vid Vitomir Vlaicu
-			Vukan Zvonimir Kresimir Gregory Caspar Josip
+			Almos Dimitrije Trpimir Goislav Slavic Svetoslav Miroslav Ladislav Karlo Andrej Luj Pero Vladislav 
+			Vjenceslav Aleksandar Dragutin Fauszty Franjo Gavrilo Juraj Luka Matija Marko Milan Mirko Nenad 
+			Nikola Slavko Toma Vladko Zvonomir Adam Andrija Bartol Bartolomeus Besar Bojan Boris Branimir 
+			Castimir Danail Dmitar Dobromir Dragan Dragomir Drzislav Dujam Duym Filip Gaspar Gheorghe Grigorii 
+			Hranislav Hrvoje Igor Ioan Ivan Ivanis Jitej Karlo Koloman Ladislav Ljudevit Ljutomisl Lovro Matej 
+			Mihajlo Milman Mislav Mutimir Nikolitza Nicholas Ognjen Petar Prohor Radomir Ratimir Sebeslav Seslav 
+			Slavich Stanislav Stjepan Sulvan Teodor Tomislav Tvrdoslav Tvrtko Ulfo Vid Vitomir Vlaicu Vukan 
+			Zvonimir Kresimir Caspar Josip
 		}
 		female_names = {
-			Adriana Anna Borislava Cededa Doroteja Dorothy Ekaterina Catherine Helena Helen Jadviga 
-			Jovana Kera Ladika Maria Maria Mihaela Nada Petra Viola Yolanda Jadranka Mare
-			Antonija Capeka Dragana Dubravka Emilija Emily Gordana Jagoda Jelena Jelka Lucija Lucia 
-			Catherine Marija Maria Marijana Mirjana Mirna Mojca Natalija Nataa
-			Rijeka Silvija Snjezana Sofija Sophia Suzana Susana Svjetlana Suronja Tatjana Tihana 
-			Vedrana Visnja Vjekoslava Zlata Zvonimira Valerija Katalin
+			Adriana Borislava Cededa Doroteja Ekaterina Helena Jadviga Jovana Kera Ladika Mihaela Nada Petra 
+			Viola Yolanda Jadranka Mare Antonija Capeka Dragana Dubravka Emilija Gordana Jagoda Jelena Jelka 
+			Lucija Catherine Marija Marijana Mirjana Mirna Mojca Natalija Nataa Rijeka Silvija Snjezana 
+			Sofija Suzana Svjetlana Suronja Tatjana Tihana Vedrana Visnja Vjekoslava Zlata Zvonimira Valerija 
+			Katalin
 		}
 		dynasty_names = {
 			"Vit" "Lanik" "Kulinic" "Trpimirovic" "Mihaljevic" "Bijelahrvatskic" "Subic" "Hrvatinic" 
 			"Kosaca" "Vukcic" "Vukasin" "Dukasin" "Kastriotic" "Babonic" "Frankopan" "Kacic" "Draskovic" 
 			"Zeleméri" "Bebek" "Svetoslavic" "Kreimirovic" "Domagojevic" "Fetetic" "Gorjanski" "Lackfi" 
-			"Svacic" "Kobilic" "Lackovic" "Frankopan" "Senulatovic" "ubic"
+			"Svacic" "Kobilic" "Lackovic" "Senulatovic" "ubic"
 		}
 	}
 	
@@ -664,13 +652,6 @@ baltic	= {
 	dynasty_names = {
 		Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
 		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
-		# CKII
-		"von Finckenstein" "Wilks" "Klakis" "Luks" "Kuilis" "Kalabijjan" "von Preussen" "von Königsberg" 
-		"Jankowskie" "von Danzig" "von Seidlitz" "von Marienburg" "Konopacki"
-		"von Memel" "von Kurs" "von Rohrbach" "Penikis" "Tontegode" "Vidins" "Draguns" "Sirkants"
-		# Ugric Baltic
-		"Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "Läänemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa" 
-		"Ridala" "Saaremaa" "Vaiga" "Turaida"
 	}
 }
 
@@ -680,156 +661,132 @@ byzantine = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	pontic_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	cappadocian = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	attic_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	doric_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	aeolic_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	ionic_greek = {
@@ -837,104 +794,88 @@ byzantine = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	cypriot_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	macedonian_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	koine_greek = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
 			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
-			Arsenios Artemios Athanasios Athanasius Bardas
-			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
-			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
-			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
-			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
-			Herakleios Heracles Hierotheos Himerios
-			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
-			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
-			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
 		}
 		female_names = {
-			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia Anna 
-			Anna Anthe Anthousa Antipatra Antonia Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
-			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
-			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
-			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
 		}
 	}
 	dynasty_names = {
@@ -946,10 +887,10 @@ byzantine = {
 		"Kanakaris" "Vamvaloudes" "Leontares" "Klokas" "Axiotes" "Chrysouchos" "Pyrrogenes" "Kophinas" "Makroleon" 
 		"Kalopragmon" "Karphitzes" "Trichares" "Kokkalos" "Kritharatos" "Kretikos" "Tourkos" "Symvatikes" 
 		"Glykomachaires" "Chrysochoos" "Neapolites" "Amalfinos" "Vonos" "Mystakon" "Pterotos" "Monotes" "Manginos" 
-		"Kalavros" "Sikelos" "Kantakouzenos" "Palaiologos" "Kilikos" "Komnenos" "Macrodoukas" "Aineidas" 
-		"Kantakouzenos" "Pegonitissos" "Angelos" "Kastriotis" "Doukas Kamateros" "Kamateros" "Skleros" "Palaiologos" 
-		"Makrembolites" "Botaneiates" "Diogenes" "Doukas" "Komnenos" "Stratiotikos" "Monomachos" "Kalaphates" 
-		"Paphlagon" "Argyros" "Kourkouas" "Phokas" "Lekapenos" "Karbonopsis" "Makedon" "Stryphnos" "Euforbenos" 
+		"Kalavros" "Sikelos" "Kilikos" "Macrodoukas" "Aineidas" 
+		"Pegonitissos" "Angelos" "Kastriotis" "Doukas Kamateros" "Skleros" "Palaiologos" 
+		"Doukas" "Komnenos" "Stratiotikos" "Monomachos" "Kalaphates" 
+		"Paphlagon" "Lekapenos" "Karbonopsis" "Makedon" "Stryphnos" "Euforbenos" 
 		"Gabras" "Aaron" "Lampinos" "Tzimiskes" "Kurtikainos" "Murzuphlos" "Balatios" "Ouranos" "Amorios" "Armenios" 
 		"Rangabes" "Logothetes" "Isauros" "Polites" "Studites" "Skamandrenos" "Synkellos" "Kauleas" "Monocharzanios" 
 		"Kassymatas" "Nesteutes" "Scholastikos" "Chrisostomos" "Nazianzen" "Nikomedianos" "Protokletos" "Garidas" 
@@ -957,13 +898,13 @@ byzantine = {
 		"Amiroutzes" "Bessarion" "Callistus" "Chalkokondyles" "Gazis" "Kourtesios" "Kallistos" "Kladas" "de Patras" 
 		"Gemistus" "Allatios" "Chalcocondyles" "Korniaktos" "Damaskenos" "Eparchos" "Flanginis" "Fokás" "Heraclides" 
 		"Kallokratos" "Kottounios" "Leontaritis" "Loukanis" "Margunios" "Musurus" "Nafpliotis" "Hatzidákis" 
-		"Aprenos"  "Chortatzis" "Gabrielopoulos" "Gounaropoulos" "Belissariotis" "Konstantopoulos" "Kavallarios" 
+		"Chortatzis" "Gabrielopoulos" "Gounaropoulos" "Belissariotis" "Konstantopoulos" "Kavallarios" 
 		"Maniakis" "Notaras" "Sgouromallis" "Epiphanis" "Logaras" "Eudaimon" "Sakellarios" "Maurozoumis" "Stylaios" 
 		"Maleinos" "Basilakios" "Mamonas" "Kekaumenos" "Metaxas" "Kanavos" "Koukouzelis" "Koresis" "Makrinos" 
 		"Lambardas" "Adrianos" "Agallon" "Akropolites" "Aoinos" "Apokaukos" "Aprenos" "Arbantenos" "Argyros" 
 		"Arianites" "Atrapes" "Balsamon" "Batatzes" "Botaneiates" "Boumbalis" "Bourtzes" "Branas" "Bryennios" 
 		"Chandrenos" "Choniates" "Choumnos" "Chrysaphes" "Chrysoloras" "Dalassenos" "Dermokaïtes" "Diasorenos" 
-		"Dokeianos" "Eirenikos" "Exazenos" "Gavras" "Glabas" "Iagaris" "Kabakes" "Kabasilas" "Kalamanos" "Kaloethes" 
+		"Dokeianos" "Eirenikos" "Exazenos" "Gavras" "Glabas" "Iagaris" "Kabakes" "Kalamanos" "Kaloethes" 
 		"Kalothetos" "Kamateros" "Kantakouzenos" "Katrares" "Kaukadenos" "Kontostephanos" "Koresses" "Kourkouas" 
 		"Kourtikes" "Laskaris" "Limpidares" "Machoneos" "Makrembolites" "Malakes" "Maliasenos" "Mamalis" 
 		"Mandromenos" "Manouelites" "Melachroinos" "Mourtzouphlos" "Mouzakios" "Mouzalon" "Neokaisareites" 
@@ -1025,7 +966,7 @@ byzantine = {
 		"Gerontas" "Apokapis" "Pallikarios" "Orphanotrophos" "Chlorokokis" "Hexavoulis" "Martinakios" "Agelastos" 
 		"Kotzes" "Toxaras" "Aplakes" "Gomostos" "Koupharas" "Tyropoulis" "Kontomytes" "Chenopoulos" "Sellokalas" 
 		"Kentrokoukouros" "Antigonos" "Pastillas" "Katakalitzes" "Manikophagos" "Kolokynthis" "Rachites" "Bua Spatas" 
-		"Apsimaros" "Artemios" "Leon" "Phokas" "Arabissinos" "Konstantinos" "Konstantios" "Polkarios"
+		"Apsimaros" "Artemios" "Leon" "Arabissinos" "Konstantinos" "Konstantios" "Polkarios"
 	}
 }
 
@@ -1034,7 +975,7 @@ eastern_balkan = {
 	dacian = {
 		male_names = {
 			Cothelas Dual Rhemaxos Moskon Dromichaetes Zalmodegicus Rubobostes Oroles Dicomes Rholes Dapyx 
-			Coriso Zyraxes Burebista Deceneus Comosicus Scorilo Coson Duras Decebalus Pieporus Tarbus Rhescuporis 
+			Coriso Zyraxes Burebista Deceneus Comosicus Coson Duras Decebalus Pieporus Tarbus Rhescuporis 
 			Rhoemetalces Teres Beithys Sadalas Scorilo
 		}
 		female_names = {
@@ -1044,7 +985,7 @@ eastern_balkan = {
 	thracian = {
 		male_names = {
 			Cothelas Dual Rhemaxos Moskon Dromichaetes Zalmodegicus Rubobostes Oroles Dicomes Rholes Dapyx 
-			Coriso Zyraxes Burebista Deceneus Comosicus Scorilo Coson Duras Decebalus Pieporus Tarbus Rhescuporis 
+			Coriso Zyraxes Burebista Deceneus Comosicus Coson Duras Decebalus Pieporus Tarbus Rhescuporis 
 			Rhoemetalces Teres Beithys Sadalas Scorilo
 		}
 		female_names = {
@@ -1078,7 +1019,7 @@ caucasian = {
 	graphical_culture = easterngfx
 	georgian = {
 		dynasty_names = { 
-			Bagrationi Mukhrani
+			Mukhrani
 			# CKII
 			"Guramiani" "Nersiani" "Jaqeli" "Bagrationi" "Sologashvili" "Tavdgiridze" "Vakhvakhishvili" 
 			"Baghvashi" "Apokapes" "Baghuashi" "Andronikashvili" "Parnavaziani" "Gurieli" "Machabeli" 
@@ -1091,17 +1032,16 @@ caucasian = {
 			"Taoeli" "Palavandishvili"
 		}
 		male_names = {
-			Giorgi David Vakhtang Bagrat Alexander Erekle Konstantine Luarsab Simon Teimuraz Archil Bakar Iesse 
-			Kaihosro Rostom-Mirza Levan Demetre Stefanoz Anzori Bebur Birtveli Djurkha Gulikho Kartlos Koki 
-			Lukhum Malkhazi Mushni Okhropir Orbeli Revaz Takha Torgva Tornike Tsotne Xareba Zviadi
-			Adarnase Atrnerseh Aghsartan Aleksandre Alexander Andronik Andronicus Anzori Archili Ashot 
-			Ashot Bagrat Bakur Bagour Davit David Demetre Demetrius Demna Djavakhi Erekle Heracles 
-			Gabriel Gagiki Gagik Giorgi George Grigoli Gregory Guaram Guaram Gubaz Kviria
+			Archil Bakar Iesse 
+			Kaihosro Rostom-Mirza Stefanoz Bebur Birtveli Djurkha Gulikho Kartlos Koki Lukhum Mushni 
+			Revaz Takha Torgva Tsotne Xareba Zviadi Adarnase Atrnerseh Aghsartan Aleksandre Andronik 
+			Andronicus Anzori Archili Ashot Bagrat Bakur Bagour Davit David Demetre Demetrius Demna 
+			Djavakhi Erekle Heracles Gabriel Gagiki Gagik Giorgi George Grigoli Guaram Gubaz Kviria
 			Gurgen Lupo Iese Ioane John Ishkhanik Ishkhan Iveri Jarji Kaikhosro Keykhosrau Kakhi Koba 
-			Konstantine Constantine Kvarkvare Kvirike Levan Leo Luarsab Malkhazi Malkhas Mamia Merab 
-			Mikheil Michael Mukhran Nerse Narses Nikoloz Nicholas Okhropir Orbeli Gabrieli
-			Padla Samoeli Samuel Shanshe Shahanshah Shota Simon Simon Stepanoz Stephen Sumbat Smbat 
-			Teimuraz Teimuraz Tornike Tornik Ushisha Vache Vakhtang Vakhtank Zurab Zviad
+			Konstantine Kvarkvare Kvirike Levan Leo Luarsab Malkhazi Malkhas Mamia Merab Mikheil 
+			Mukhran Nerse Narses Nikoloz Nicholas Okhropir Orbeli Gabrieli Padla Samoeli Samuel Shanshe 
+			Shahanshah Shota Simon Stepanoz Stephen Sumbat Smbat Teimuraz Tornike Tornik Ushisha Vache 
+			Vakhtang Vakhtank Zurab Zviad
 		}
 		female_names = {
 			Ana Anna Baia Bedisa Borena Chiora Chito Dali Dedika Duda Dzabuli Elene Helen Eliso Endzela 
@@ -1113,7 +1053,7 @@ caucasian = {
 	}
 	circassian = {
 		male_names = {
-			Petrezok Verzacht Belzebuk Parsabok Smbat Stepanos Stephen Tachat Taniel Daniel Tatoul Tigran Tornik 
+			Petrezok Verzacht Belzebuk Parsabok Smbat Stepanos Stephen Tachat Taniel Daniel Tatoul Tigran 
 			Tornik Tovmas Thomas Thoros Theodore Trdat Vache Vachagan Vagharshak Vahag Vahan Vahram Vakhtank Varazdat 			
 			Vartan Vassak Vesd Vrtanes Zakare Zarmihr
 			
@@ -1121,9 +1061,9 @@ caucasian = {
 			Temriouk Tazriout Tchiourak Baachik Machik Boulgairouk Namstriouk Chopchouk 
 			Mait Kanboulat Koudenet Khoudenet Otchikan Damaniouk Domaniouk Isbouldoug Anzarouk 
 			Chimgalei Kanglytchev Bitemriouk Cholokh Tachbsaroukov Papchouk Oslonbek Iansokh 
-			Kaitouk Nastriouk Nartchov Pchimakha Iansokh Ademir Kazanalp Boudatcheis Sountchelei 
+			Kaitouk Nastriouk Nartchov Pchimakha Ademir Kazanalp Boudatcheis Sountchelei 
 			Olegouk Khotokiouki Ildar Tchapolov Saltankoul Saouslan Tazryt Okhlov Moudar 
-			Kounmourza Kanchov Slanbek inarmas Klytch Sataltanmagnout Kazy
+			Kounmourza Kanchov Slanbek Inarmas Klytch Sataltanmagnout Kazy
 		}
 		female_names = {
 			Zuliyzhan Susane Babishe Zmroukhd Adrine Elsapet Sarine Khazbiika Kheeda Kurbiika Laila Laliita Lamaara Liiza Looli 
@@ -1147,28 +1087,26 @@ caucasian = {
 			"Kamsarakan" "Vardan"
 		}
 		male_names = {
-			David Mkhitar Ashot Gagik Smbat Abbas Hovhannes Smbat Vagram Musegh Sahak Tachar Arakel Ari Armen 
-			Arshavir Avedis Badouagan Bedros Berjouhi Boghos Ghoukas Hagop Haig Hovhannes Hovsep Jirair Kapriel 
-			Kevork Khajag Krikor Levon Movses Nairi Sevan Taniel Vahan Zadig Zoravan
-			Abas Abirad Aboughamr Aboulgharib Aleksandr Alexander Artashes Artashir Ardeshir Artavazd Arsen 
-			Arshak Ashot Ashot Athom Atrnerseh Atrnerseh Avag Avedis Bagour Bagour Bagrat Bedros Peter 
-			Boghos Paul Davit David Eshkhan Gagik Gagik Gevorg George Karayan
-			Gosdantin Constantine Grigor Gregory Gurgen Lupo Hagop Hamazasp Hethum Hovhannes John Hovsep 
-			Joseph Ishkhan Ishkhan Ivane Kapriel Gabriel Khachik Khosrov Khosrau Levon Leo Malkhas Malkhas 
-			Mamigon Manuel Manuel Margos Marcus Melek Mihrdat Mithridates Mikayel Michael Mleh Mushegh 
-			Mushel Mzhezh Nerseh Narses Oshin Roupen Reuben Sahag Isaac Sarkis Sergius Sevag Shahanshah 
+			Mkhitar Smbat Abbas Vagram Musegh Sahak Tachar Arakel Ari Armen Arshavir Badouagan Berjouhi 
+			Ghoukas Haig Jirair Kevork Khajag Krikor Movses Nairi Sevan Taniel Vahan Zadig Zoravan Abas 
+			Abirad Aboughamr Aboulgharib Aleksandr Artashes Artashir Ardeshir Artavazd Arsen Arshak Ashot 
+			Athom Atrnerseh Avag Avedis Bagour Bagrat Bedros Boghos Paul Davit Eshkhan Gagik Gevorg George 
+			Karayan Gosdantin Constantine Grigor Gurgen Lupo Hagop Hamazasp Hethum Hovhannes John Hovsep 
+			Ishkhan Ivane Kapriel Khachik Khosrov Khosrau Levon Leo Malkhas Mamigon Manuel Margos Melek 
+			Mihrdat Mithridates Mikayel Michael Mleh Mushegh Mushel Mzhezh Nerseh Narses Oshin Roupen Reuben 
+			Sahag Isaac Sarkis Sergius Sevag Shahanshah 
 		}
 		female_names = {
-			Aghavni Alitz Alice Almasd Anahid Anna Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi 
+			Aghavni Alitz Almasd Anahid Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi 
 			Datevig Dalita Eliz Eloise Gadar Gorandoukht Gorandukht Hasmig Houri Hranoush Hripsimeh 		
-			Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Margaret Maria Maria 
+			Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Margaret Maria 
 			Mariyam Mariam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Satinik Seta Siran 
-			Sirvart Srpouhi Shoushanig Takouhi Tamar Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
+			Sirvart Srpouhi Shoushanig Takouhi Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
 		}
 	}
 	albanian_caucasian = {
 		dynasty_names = { 
-			Bagrationi Mukhrani
+			Mukhrani
 			# CKII
 			"Guramiani" "Nersiani" "Jaqeli" "Bagrationi" "Sologashvili" "Tavdgiridze" "Vakhvakhishvili" 
 			"Baghvashi" "Apokapes" "Baghuashi" "Andronikashvili" "Parnavaziani" "Gurieli" "Machabeli" 
@@ -1181,17 +1119,16 @@ caucasian = {
 			"Taoeli" "Palavandishvili"
 		}
 		male_names = {
-			Giorgi David Vakhtang Bagrat Alexander Erekle Konstantine Luarsab Simon Teimuraz Archil Bakar Iesse 
-			Kaihosro Rostom-Mirza Levan Demetre Stefanoz Anzori Bebur Birtveli Djurkha Gulikho Kartlos Koki 
-			Lukhum Malkhazi Mushni Okhropir Orbeli Revaz Takha Torgva Tornike Tsotne Xareba Zviadi
-			Adarnase Atrnerseh Aghsartan Aleksandre Alexander Andronik Andronicus Anzori Archili Ashot 
-			Ashot Bagrat Bakur Bagour Davit David Demetre Demetrius Demna Djavakhi Erekle Heracles 
-			Gabriel Gagiki Gagik Giorgi George Grigoli Gregory Guaram Guaram Gubaz Kviria
+			Archil Bakar Iesse 
+			Kaihosro Rostom-Mirza Stefanoz Bebur Birtveli Djurkha Gulikho Kartlos Koki Lukhum Mushni 
+			Revaz Takha Torgva Tsotne Xareba Zviadi Adarnase Atrnerseh Aghsartan Aleksandre Andronik 
+			Andronicus Anzori Archili Ashot Bagrat Bakur Bagour Davit David Demetre Demetrius Demna 
+			Djavakhi Erekle Heracles Gabriel Gagiki Gagik Giorgi George Grigoli Guaram Gubaz Kviria
 			Gurgen Lupo Iese Ioane John Ishkhanik Ishkhan Iveri Jarji Kaikhosro Keykhosrau Kakhi Koba 
-			Konstantine Constantine Kvarkvare Kvirike Levan Leo Luarsab Malkhazi Malkhas Mamia Merab 
-			Mikheil Michael Mukhran Nerse Narses Nikoloz Nicholas Okhropir Orbeli Gabrieli
-			Padla Samoeli Samuel Shanshe Shahanshah Shota Simon Simon Stepanoz Stephen Sumbat Smbat 
-			Teimuraz Teimuraz Tornike Tornik Ushisha Vache Vakhtang Vakhtank Zurab Zviad
+			Konstantine Kvarkvare Kvirike Levan Leo Luarsab Malkhazi Malkhas Mamia Merab Mikheil 
+			Mukhran Nerse Narses Nikoloz Nicholas Okhropir Orbeli Gabrieli Padla Samoeli Samuel Shanshe 
+			Shahanshah Shota Simon Stepanoz Stephen Sumbat Smbat Teimuraz Tornike Tornik Ushisha Vache 
+			Vakhtang Vakhtank Zurab Zviad
 		}
 		female_names = {
 			Ana Anna Baia Bedisa Borena Chiora Chito Dali Dedika Duda Dzabuli Elene Helen Eliso Endzela 
@@ -1230,15 +1167,13 @@ turko_semitic	= {
 			"Kathirid" "Arwadid" "Muhallabid"
 		}
 		male_names = {
-			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris 'Abd Allah Sa'ud Zayid Abdullah Muhammad Abd al 
-			'Abdullah Turki Faisal Abd Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
-			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
-			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
-			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
-			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
-			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
-			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
-			Joseph Zeyd 
+			Mani Rabi'a Markhan Watban Nasir 'Abd Allah Sa'ud Zayid "Abd al" Turki Faisal Abd Al-Rahman 
+			Khalid Fahd Aziz Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah 
+			Aghlab Akin Ali Alim Aram Azam Bahir Burhanaddin Fadil Fadl Faruk Ghalib Hafiz Halil Hasan 
+			Husam Hussayn Ibrahim Idris Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud 
+			Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib Nasr 
+			Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban Shamir Shujah Sulayman Solomon Talib 
+			Ubayd Uways Yahya Ya'qub Jacob Youkhanna John Yusuf Zeyd 
 		}
 		female_names = {
 			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
@@ -1250,15 +1185,13 @@ turko_semitic	= {
 	}
 	omani_culture = {
 		male_names = {
-			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris 'Abd Allah Sa'ud Zayid Abdullah Muhammad Abd al 
-			'Abdullah Turki Faisal Abd Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
-			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
-			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
-			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
-			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
-			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
-			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
-			Joseph Zeyd 
+			Mani Rabi'a Markhan Watban Nasir 'Abd Allah Sa'ud Zayid "Abd al" Turki Faisal Abd Al-Rahman 
+			Khalid Fahd Aziz Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah 
+			Aghlab Akin Ali Alim Aram Azam Bahir Burhanaddin Fadil Fadl Faruk Ghalib Hafiz Halil Hasan 
+			Husam Hussayn Ibrahim Idris Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud 
+			Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib Nasr 
+			Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban Shamir Shujah Sulayman Solomon Talib 
+			Ubayd Uways Yahya Ya'qub Jacob Youkhanna John Yusuf Zeyd 
 		}
 		female_names = {
 			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
@@ -1271,15 +1204,13 @@ turko_semitic	= {
 	yemeni_culture = {
 		primary = ADE
 		male_names = {
-			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris 'Abd Allah Sa'ud Zayid Abdullah Muhammad Abd al 
-			'Abdullah Turki Faisal Abd Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
-			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
-			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
-			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
-			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
-			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
-			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
-			Joseph Zeyd 
+			Mani Rabi'a Markhan Watban Nasir 'Abd Allah Sa'ud Zayid "Abd al" Turki Faisal Abd Al-Rahman 
+			Khalid Fahd Aziz Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah 
+			Aghlab Akin Ali Alim Aram Azam Bahir Burhanaddin Fadil Fadl Faruk Ghalib Hafiz Halil Hasan 
+			Husam Hussayn Ibrahim Idris Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud 
+			Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib Nasr 
+			Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban Shamir Shujah Sulayman Solomon Talib 
+			Ubayd Uways Yahya Ya'qub Jacob Youkhanna John Yusuf Zeyd 
 		}
 		female_names = {
 			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
@@ -1291,25 +1222,18 @@ turko_semitic	= {
 	}
 	male_names = {		
 		# EGYPTIAN_ARABIC
-		Aaron Aaron Abanoub Abderahman Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah 
-		Abdullah Abianos Abijah Abisalom Ablarion Abraam Abraham Abu-Bakr Abu-Bakr Adnan Agathon Agathos 
-		Agathonikos Agathonikos Agathos Agathos Ahmad Ahmad Akbar Akbar Alam Ali Ali Amr Androus Andrew 	
-		Anthinos Anthimos Arsenios Arsenios Ashraf Ashraf Asim Athanasios Athanasius Badr Bashir Biktor 
-		Victor Binyamin Benjamin Bishoi Bishara Boutros Peter Danyal Daniel Dawlat Daoud David Ezra Ezra 
-		Farhan Firuz Gabriel Gabriel Georgios George Ghiyasaddin Habil Abel Hakam Hakam Hammud Hanri Henry 
-		Haroun Aaron Hisham Hussayn Hussayn Ibrahim Abraham Ilyas Elijah Is'mail Ismail Izzaddin 
-		Jalaaladdin Jawdat Jerjer Gregory Kemaladdin Khalil Krystafer Christopher Latif Lot Lothair Malik 
-		Matta Matthew Mehtar Mikail Michael Mikhael Michael Milad Milad Mina Menas Muammar Muhammad 
-		Muhammad Mukhtar Murad Murshid Musa Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir 
-		Ra'uf Rafiq Ridwan Sabah Salim Sha'ban Sharif Suhail Tadros Theodore Tajaddin Tayyib Touma Thomas 	
-		Usama Walid Yahya Yahya Yared Yassir Youkhanna John Youssef Joseph Zaia Isaiah Zakariyah Zachary
-		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah Abdullah Adhid Adil Akab 
-		Ala'i Ali Ali Amir Ashraf Aziz Bashar Boutros Peter Da'ud David Faisal
-		Fayiz Ghazi Hakam Hakam Hamdan Hashmaddin Hussayn Hussayn Ibrahim Abraham Imamaddin Isa Is'mail 
-		Ismail Ismat Jahan Jamil Kamran Khalid Khudayar Majid Mas'ud
-		Muaddam Muhammad Muhammad Muhsin Mukhtar Murad Musa Moses Muzaffar Muzaffaraddin Nasraddin Nuraddin 
-		Nuri Radhi Rasul Sa'ud Salahaddin Seyfullah Sharaf
-		Sirhan Taimur Tawfiq Umaya Wahid Yahya Yahya Ya'qub Jacob Yasar Youkhanna John Zahir
+		Aaron Abanoub Abderahman Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah 
+		Abianos Abijah Abisalom Ablarion Abraam Abu-Bakr Adnan Ahmad Akbar Alam Ali Amr Ashraf Asim 
+		Badr Bashir Biktor Binyamin Bishoi Bishara Danyal Dawlat Daoud Ezra Farhan Firuz Gabriel 
+		Ghiyasaddin Habil Abel Hakam Hammud Hanri Haroun Hisham Hussayn Ibrahim Ilyas Elijah Is'mail 
+		Izzaddin Jalaaladdin Jawdat Jerjer Kemaladdin Khalil Krystafer Latif Lot Malik Matta Mehtar 
+		Mikail Mikhael Milad Mina Menas Muammar Muhammad Mukhtar Murad Murshid Musa Muzaffaraddin 
+		Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim Sha'ban Sharif Suhail 
+		Tajaddin Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Isaiah Zakariyah 
+		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Adhid Adil Akab Ala'i Amir Aziz 
+		Bashar Da'ud Faisal Fayiz Ghazi Hamdan Hashmaddin Imamaddin Isa Ismat Jahan Jamil Kamran Khalid 
+		Khudayar Majid Mas'ud Muaddam Muhsin Muzaffar Nasraddin Nuri Radhi Rasul Sa'ud Salahaddin 
+		Seyfullah Sharaf Sirhan Taimur Tawfiq Umaya Wahid Ya'qub Yasar Zahir 
 	}
 	dynasty_names = {
 		"Tujibid" "Mutamin" "Huddid" "Amirid" "Dhunnunid" "Matiyid" "Tahirid" "Aftasid" "Nasrid" 
@@ -1326,22 +1250,18 @@ turko_semitic	= {
 		"Farooqid" "Elbazid" "Abbarid" "Abbasid" "Shamid" "Allawid" "Aqilid" "Qahtanid" "Bahjatid" 
 		"Bekkalid" "Baradid" "Bseisoid" "Fattaid" "Fazilid" "Gheisarid" "Hayekid" "Ibrahimid" "Abdel Nour" 
 		"Abdilla" "Mahdi" "el-Khattab" "Moneim" "Moosevi" "Mubarak" "Moustapha" "Nader" "Nafti" "Alam" 
-		"Naguib" "Naeemi" "Nahhas" "Nimri" "Himsi" "Haleem" "Qaderi" "Atef" "Aqabid" "Jalalid" "Jarraid" 
+		"Naguib" "Naeemi" "Nahhas" "Nimri" "Himsi" "Haleem" "Qaderi" "Atef" "Aqabid" "Jarraid" 
 		"Arishid" "Jasemid" "Azizid" "Ghanemid" "Abazid" "Hararid" "Bayoumid" "Bashandid" "Bakhoumid" 
 		"Bekhitid" "Bahurid" "Banoubid" "Shenoudid" "Abusirid" "Abuhairyid" "Masrid" "Shamyid" "Abuneb" 
 		"Ramzan" "Yakubid" "Yassin" "Abdelid" "Abdulid" "Abolhassan" "Alivid" "Qasimid" "Rahmanid" 
-		"Aminid" "Awadid" "Habibid" "Hamidid" "Ibrahimid" "Ismailid" "Khouryid" "Mazin" "Muratid" 
+		"Aminid" "Awadid" "Habibid" "Hamidid" "Khouryid" "Mazin" "Muratid" 
 		"Najeebid" "Omarid" "Salavid" "Salmanid" "Sharifid" "Yaseenid" "Abouresid" "Elesbaam" "Sumadid" 
-		"Mirdasid" "Galbunid" "Shaddad" "Muzaffar" "Nasrid" "Kaysite" "Marwanid" "Damyanid" "Bardunid" 
+		"Mirdasid" "Galbunid" "Shaddad" "Muzaffar" "Kaysite" "Marwanid" "Damyanid" "Bardunid" 
 		"Shaybanid" "Yazidid" "al-Nafis" "al-Baghdadi" "Bajjah" "Zuhr" "al-Dakhwar" "al-Suri" "al-Baitar" 
 		"al-Khatib" "Rushd" "Hafsid" "Amrusid" "Hafsunid" "Qasid" "Salimid" "Hayyunid" "Qutamid" 
-		"Jarrazid" "Burrunid" "Zuhrid" "Marwanid"  "Alkadid" "Balawid" "Namirid" "Jalidid" "Ubbaid" 
-		"Qutid" "Galindid" "Banu Taghlib" "Addauid" "Hadarid" "Subaid" "Armanid" "Musavid" "Yusufid" 
+		"Jarrazid" "Burrunid" "Zuhrid" "Alkadid" "Balawid" "Namirid" "Jalidid" "Ubbaid" 
+		"Qutid" "Galindid" "Banu Taghlib" "Addauid" "Hadarid" "Subaid" "Armanid" 
 		"Abdelrahmanid" "Qutalanid" "Hamdanid"
-	}
-	
-	dynasty_names = {
-		Hashim Hafsid al-Qasimi "Sa'ud" Nabhan al-Said Alaoui Rassid
 	}
 }
 
@@ -1430,7 +1350,7 @@ iranian	= {
 		female_names = { 
 			Afsaneh Ahu Asa Atiya Arghavan Azarmidokht Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram 
 			Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva Furuzan Ghamze Ghazal 
-			Ghoncheh Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
+			Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
 			Jamileh Javaneh Leila Mahdokht Mahtab Mariam Navvaba Nazgol Nazilla Noor Parvaneh 
 			Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh 
 			Shirin Soraya Touran Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh 
@@ -1470,7 +1390,7 @@ iranian	= {
 		female_names = { 
 			Afsaneh Ahu Asa Atiya Arghavan Azarmidokht Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram 
 			Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva Furuzan Ghamze Ghazal 
-			Ghoncheh Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
+			Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
 			Jamileh Javaneh Leila Mahdokht Mahtab Mariam Navvaba Nazgol Nazilla Noor Parvaneh 
 			Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh 
 			Shirin Soraya Touran Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh 
@@ -1523,7 +1443,7 @@ iranian	= {
 		female_names = { 
 			Afsaneh Ahu Asa Atiya Arghavan Azarmidokht Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram 
 			Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva Furuzan Ghamze Ghazal 
-			Ghoncheh Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
+			Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
 			Jamileh Javaneh Leila Mahdokht Mahtab Mariam Navvaba Nazgol Nazilla Noor Parvaneh 
 			Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh 
 			Shirin Soraya Touran Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh 
@@ -1580,7 +1500,7 @@ iranian	= {
 		female_names = {
 			Afsaneh Ahu Asa Atiya Arghavan Azarmidokht Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram 
 			Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva Furuzan Ghamze Ghazal 
-			Ghoncheh Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
+			Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht 
 			Jamileh Javaneh Leila Mahdokht Mahtab Mariam Navvaba Nazgol Nazilla Noor Parvaneh 
 			Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh 
 			Shirin Soraya Touran Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh 
