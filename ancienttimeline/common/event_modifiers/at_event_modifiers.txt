@@ -1,4 +1,4 @@
-﻿
+
 alexander_invasion = {
 	land_morale = 2.0
 	discipline = 0.3
