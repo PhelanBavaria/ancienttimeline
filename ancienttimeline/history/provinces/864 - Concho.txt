@@ -1,16 +1,1 @@
-#864 - Concho
-
-owner = MOG
-controller = MOG
-add_core = MOG
-is_city = yes
-culture = pueblo
-religion = totemism
-capital = "Concho" 
-trade_goods = wool
-hre = no 
-base_tax = 2
-base_production = 2
-base_manpower = 2
-discovered_by = north_american
-
+#Wasteland

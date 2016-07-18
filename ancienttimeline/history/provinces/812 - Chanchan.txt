@@ -1,17 +1,1 @@
-#812 - Chanchan
-
-owner = MOC
-controller = MOC
-culture = chimuan
-religion = inti
-capital = "Chanchan"
-trade_goods = cocoa
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-citysize = 1000
-add_core = MOC
-discovered_by = andean
-discovered_by = south_american
-
+#Wasteland

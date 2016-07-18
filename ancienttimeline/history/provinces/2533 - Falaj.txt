@@ -1,10 +1,1 @@
-#2533 - Falaj
-
-culture = bedouin_arabic
-religion = south_arabian
-capital = "Qaryat al-Hamra"
-trade_goods = unknown
-hre = no
-base_tax = 2
-base_production = 3
-base_manpower = 3
+#Wasteland

@@ -1,14 +1,1 @@
-#10 - JÃ¤mtland
-
-culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = germanic
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown
-base_manpower = 2
-capital = "Frösön"
-native_hostileness = 3
-native_size = 10
-native_ferocity = 2
-
+#Wasteland

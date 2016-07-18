@@ -1,17 +1,1 @@
-#2638 - Ah Canul
-
-culture = yucatec
-owner = CAL
-controller = CAL
-add_core = CAL
-is_city = yes
-religion = mesoamerican_religion
-capital = "Jaina"
-trade_goods = cocoa
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-add_local_autonomy = 25
-discovered_by = mesoamerican
-
+#Wasteland

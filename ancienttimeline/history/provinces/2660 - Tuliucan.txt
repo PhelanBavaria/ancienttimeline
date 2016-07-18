@@ -1,16 +1,1 @@
-#2660 - Tullucan
-
-owner = TEO
-controller = TEO
-add_core = TEO
-culture = aztek 
-religion = nahuatl
-capital = "Tolluca"
-trade_goods = gold
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-citysize = 15000
-discovered_by = mesoamerican
-
+#Wasteland

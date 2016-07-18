@@ -1,4 +1,4 @@
-﻿#204 - Dauphiné
+#204 - Dauphiné
 
 capital = "Vienne"
 culture = gallian

@@ -1,11 +1,1 @@
-#2844 - Tikhvin
-
-culture = ingrian
-religion = suomenusko
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown
-base_manpower = 2
-capital = "Tikhvin"
-
+#Wasteland

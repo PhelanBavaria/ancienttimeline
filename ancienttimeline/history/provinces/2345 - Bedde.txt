@@ -1,16 +1,1 @@
-#2345 - Bedde
-
-owner = KBO
-controller = KBO
-add_core = KBO
-culture = kanuri 
-religion = african
-capital = "Bedde"
-citysize = 2178
-base_manpower = 2
-trade_goods = grain
-hre = no
-base_tax = 2
-base_production = 2
-discovered_by = sub_saharan
-
+#Wasteland

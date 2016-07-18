@@ -1,11 +1,1 @@
-#307 - Vladimir
-
-culture = volga_finnic
-religion = suomenusko
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown 
-base_manpower = 2
-capital = "Vladimir"
-
+#Wasteland

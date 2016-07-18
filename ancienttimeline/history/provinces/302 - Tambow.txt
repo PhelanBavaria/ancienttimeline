@@ -1,12 +1,1 @@
-#302 - Tambov
-      
-culture = hungarian
-religion = tengri_pagan_reformed
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown      
-base_manpower = 2
-capital = "Tambov"
-discovered_by = scythian_group
-
+#Wasteland

@@ -1,16 +1,1 @@
-#2663 - Tziccoac
-
-culture = totonac
-owner = TOT
-controller = TOT
-add_core = TOT
-is_city = yes
-religion = nahuatl
-capital = "Tziccoac"
-trade_goods = sugar
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-discovered_by = mesoamerican
-
+#Wasteland

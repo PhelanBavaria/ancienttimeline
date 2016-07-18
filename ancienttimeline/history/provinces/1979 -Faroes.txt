@@ -1,11 +1,1 @@
-#1979 - Färöarna
-
-culture = uninhabited
-religion = germanic
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown
-base_manpower = 2
-capital = "Torshavn"
-
+#Wasteland

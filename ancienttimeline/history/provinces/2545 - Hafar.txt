@@ -1,3 +1,1 @@
-#2545 - Hafar
-
-discovered_by = middle_eastern
+#Wasteland

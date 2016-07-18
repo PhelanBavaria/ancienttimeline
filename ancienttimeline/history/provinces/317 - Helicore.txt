@@ -1,4 +1,4 @@
-﻿#317 - Helicore
+#317 - Helicore
 
 owner = ROW
 controller = ROW

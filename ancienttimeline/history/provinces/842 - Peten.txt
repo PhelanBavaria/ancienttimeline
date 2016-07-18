@@ -1,16 +1,1 @@
-#842 - Petén
-
-owner = TIK
-controller = TIK
-culture = putun
-religion = mesoamerican_religion
-capital = "Tikal"
-trade_goods = cocoa
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-citysize = 8000
-add_core = TIK
-discovered_by = mesoamerican
-
+#Wasteland

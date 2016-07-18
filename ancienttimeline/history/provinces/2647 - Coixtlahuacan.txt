@@ -1,16 +1,1 @@
-#2647 - Coixtlahuacan
-
-culture = mixtec
-owner = MIX
-controller = MIX
-add_core = MIX
-is_city = yes
-religion = nahuatl
-capital = "Coixtlahuacan"
-trade_goods = grain 
-hre = no 
-base_tax = 2
-base_production = 2
-base_manpower = 2
-discovered_by = mesoamerican
-
+#Wasteland

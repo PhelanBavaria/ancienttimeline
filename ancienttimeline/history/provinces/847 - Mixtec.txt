@@ -1,16 +1,1 @@
-#847 - Mixtec
-
-owner = MIX 
-controller = MIX
-culture = mixtec 
-religion = nahuatl
-capital = "Totopec" 
-trade_goods = grain 
-hre = no 
-base_tax = 2
-base_production = 2
-base_manpower = 2
-citysize = 1250
-add_core = MIX
-discovered_by = mesoamerican
-
+#Wasteland

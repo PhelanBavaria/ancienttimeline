@@ -1,12 +1,1 @@
-#2619 - Ukek
-    
-culture = bulgarian
-religion = tengri_pagan_reformed
-hre = no
-base_tax = 2
-base_production = 2
-trade_goods = unknown    
-base_manpower = 2
-capital = "Ukek"
-discovered_by = scythian_group
-
+#Wasteland

@@ -1,10 +1,1 @@
-#2544 - Yabrin
-
-culture = bedouin_arabic
-religion = south_arabian
-capital = "Yabrin"
-trade_goods = grain
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 3
+#Wasteland

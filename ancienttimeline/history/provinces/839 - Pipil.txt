@@ -1,16 +1,1 @@
-#839 - Pipil
-
-owner = COP
-controller = COP
-add_core = COP
-is_city = yes
-culture = highland_mayan
-religion = mesoamerican_religion
-capital = "Pipil" 
-trade_goods = unknown
-hre = no 
-base_tax = 2
-base_production = 2
-base_manpower = 2
-discovered_by = mesoamerican
-
+#Wasteland

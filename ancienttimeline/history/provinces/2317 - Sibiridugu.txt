@@ -1,15 +1,1 @@
-#2317 - Sibiridugu
-
-culture = mali
-base_manpower = 2
-religion = african
-capital = "Bougouni"
-trade_goods = unknown
-hre = no
-base_tax = 2
-base_production = 2
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9
-discovered_by = sub_saharan
-
+#Wasteland
