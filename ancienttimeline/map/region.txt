@@ -8,902 +8,417 @@ random_new_world_region = {
 # EUROPE                               #
 ########################################
 
-france_region = {
+gaul_region = {
 	areas = {
-		brittany_area
-		normandy_area
-		provence_area
-		guyenne_area
-		languedoc_area
-		massif_central_area
-		savoy_dauphine_area
-		lorraine_area
-		picardy_area
-		seine_area
+		armorica_area
 		loire_area
-		bourgogne_area
-		pyrenees_area
+		seine_area
+		aquitania_area
+		massif_central_area
+		narbonensis_area
+		lower_rhone_area
+		upper_rhone_area
+		west_belgica_area
+		south_belgica_area
+		central_belgica_area
 	}
 }
 
-scandinavia_region = {
+hispania_region = {
 	areas = {
-		svealand_area
-		norrland_area
-		gotaland_area
-		skaneland_area
-		jutland_area
-		denmark_area
-		finland_area
-		northern_norway
-		eastern_norway
-		western_norway
-		subarctic_islands_area
-		sapmi_area
+		gallaecia_area
+		vasconia_area
+		lusitania_area
+		baetica_area
+		tarraconensis_area
+		carthago_nova_area
+		central_hispania_area
 	}
 }
 
-low_countries_region = {
+italia_region = {
 	areas = {
-		wallonia_area
-		flanders_area
-		brabant_area
-		netherlands_area
-		frisia_area
-		luxemburg_liege_area
-	}
-}
-
-italy_region = {
-	areas = {
+		alpes_area
 		venetia_area
-		lombardy_area
-		piedmont_area
-		tuscany_area
+		gallia_cisalpina_area
+		etruria_area
 		liguria_area
 		corsica_sardinia_area
-		sicily_area
-		naples_area
-		calabria_area
-		apulia_area
-		emilia_romagna_area
-		central_italy_area
+		sicilia_area
+		latium_area
+		umbria_area
+		magna_graecia_area
 	}
 }
 
-iberia_region = {
+britannia_region = {
 	areas = {
-		aragon_area
-		catalonia_area
-		valencia_area
-		lower_andalucia_area
-		upper_andalucia_area
-		castille_area
-		toledo_area
-		asturias_area
-		leon_area
-		alentejo_area
-		beieras_area
-		macaronesia_area
-	}
-}
-
-germany_region = {
-	areas = {
-		silesia_area
-		bohemia_area
-		erzgebirge_area
-		south_saxony_area
-		lower_bavaria_area
-		upper_bavaria_area
-		franconia_area
-		lower_swabia_area
-		upper_swabia_area
-		northern_saxony_area
-		thuringia_area
-		neumark_area
-		mittelmark_area
-		vorpommern_area
-		hinter_pommern_area
-		tirol_area
-		austria_proper_area
-		inner_austria_area
-		switzerland_area
-		upper_rhineland_area
-		palatinate_area
-		north_rhine_area
-		lower_rhineland_area
-		westphalia_area
-		hesse_area
-		lower_saxony_area
-		weser_area
-		holstein_area
-		mecklenburg_area
-		switzerland_area
-		romandie_area
-		carinthia_area
-	}
-}
-
-russia_region = {
-	areas = {
-		moscow_area
-		suzdal_area
-		smolensk_area
-		novgorod_area
-		pskov_area
-		beloozero_area
-		kazan_area
-		ural_area
-		pomor_area
-		galich_area
-		kama_area
-		perm_area
-		karelia_area
-		ryazan_area
-		tambov_area
-	}
-}
-
-british_isles_region = {
-	areas = {
-		mercia_area
-		wessex_area
-		east_anglia_area
-		northern_england_area
-		wales_area
-		lowlands_area
+		west_ireland_area
+		east_ireland_area
 		highlands_area
-		ireland_area
+		lowlands_area
+		west_britannia_area
+		east_britannia_area
+		south_britannia_area
 	}
 }
 
-baltic_region = {
+germania_region = {
 	areas = {
-		lithuania_area
-		livonia_area
-		estonia_ingria_area
-		curonia_area
-		west_prussia_area
-		east_prussia_area
-	}
-}
-
-poland_region = {
-	areas = {
-		wielkopolska_area
-		malopolska_area
-		red_ruthenia_area
-		mazovia_area
-	}
-}
-
-ruthenia_region = {
-	areas = {
-		west_dniepr_area
-		east_dniepr_area
-		sloboda_ukraine_area
-		white_ruthenia_area
-		pripyat_area
-		podolia_volhynia_area
-		pripyat_area
-	}
-}
-
-crimea_region = {
-	areas = {
-		crimea_area
-		lower_don_area
-		astrakhan_area
-		zaporizhia_area
-		yedisan_area
-		azov_area
-	}
-}
-
-balkan_region = {
-	areas = {
-		croatia_area
-		east_adriatic_coast_area
-		bosnia_area
-		serbia_area
-		bulgaria_area
-		macedonia_area
-		northern_greece_area
-		morea_area
-		western_aegean_area
-		thrace_area
-	}
-}
-
-carpathia_region = {
-	areas = {
+		batavia_area
+		frisia_area
+		lower_rhine_area
+		upper_rhine_area
+		helvetia_area
+		raetia_area
+		vindelicia_area
+		weser_area
+		south_germania_area
+		teutoburg_area
+		central_germania_area
+		jutland_area
+		denmark_area
+		scania_area
+		elbe_area
+		rugiland_area
+		oder_area
+		upper_danube_area
+		boiohaemum_area
+		noricum_area
+		lower_vistula_area
+		baltia_area
+		upper_vistula_area
+		east_germania_area
 		transdanubia_area
-		alfold_area
-		slovakia_area
-		transylvania_area
-		wallachia_area
-		moldavia_area
+		carpathia_area
+		east_pannonia_area
+	}
+}
+
+illyria_region = {
+	areas = {
+		moesia_area
+		praevalitana_area
+		dalmatia_area
+		west_pannonia_area
+	}
+}
+
+scythia_region = {
+	areas = {
+		slavia_area
+		scythia_minor_area
+		boristhenis_area
+		cimmeria_area
+		scythia_major_area
+		androphagia_area
+		sylus_area
+		maeotia_area
+		transcaucasia_area
+		volga_area
+		aorsia_area
+		thyssagetae_area
+		issedonia_area
+		massagetae_area
+		transcaspia_area
+		balchasj_area
+		yrtesh_area
+		ishim_area
+	}
+}
+
+greece_region = {
+	areas = {
+		macedon_area
+		peloponnesos_area
+		central_greece_area
+		epirus_area 
+		aegean_islands_area
+	}
+}
+
+daco_thracia_region = {
+	areas = {
+		south_thracia_area
+		north_thracia_area
+		south_dacia_area
+		north_dacia_area
 	}
 }
 
 egypt_region = {
 	areas = {
-		libyan_desert_area
-		gharbia_area
-		sharqiya_area
-		central_egypt_area
+		nile_delta_area
+		lower_egypt_area
 		upper_egypt_area
-		lower_nubia_area
+		libyan_desert_area
 		cyrenaica_area
 	}
 }
 
-maghreb_region = {
+africa_region = {
 	areas = {
-		fezzan_area
-		tunisia_area
-		kabylia_area
-		algiers_area
-		north_saharan_area
-		tafilalt_area
-		sus_area
-		marrekesh_area
-		fez_area
-		northern_morocco_area
 		tripolitania_area
-		algerian_sahara_area
-		western_sahara_area
+		garamantia_area
+		carthage_area
+		massylia_area
 	}
 }
 
-mashriq_region = {
+meuretania_region = {
 	areas = {
+		masaesylia_area
+		gaetulia_area
+		tafilalt_area
+		sus_area
+		south_mauretania_area
+		north_mauretania_area
+	}
+}
+
+levant_region = {
+	areas = {
+		phoenicia_area
 		syria_area
-		palestine_area
-		rakka_area
-		al_jazira_area
-		iraq_arabi_area
-		basra_area
+		canaan_area
+		hurria_area
+	}
+}
+
+mesopotamia_region = {
+	areas = {
+		assyria_area
+		akkad_area
+		sumeria_area
+		elam_area
 	}
 }
 
 anatolia_region = {
 	areas = {
-		hudavendigar_area
-		aydin_area
-		karaman_area
-		aleppo_area
-		rum_area
-		kastamonu_area
-		erzurum_area
-		north_kurdistan_area
-		dulkadir_area
-		eastern_aegean_area
+		pontus_area
+		cappadocia_area
+		ionia_area
+		lydia_area
+		pamphylia_area
+		bithynia_area
+		cilicia_area
 	}
 }
 
-persia_region = {
+iran_region = {
 	areas = {
-		south_kurdistan_area
-		luristan_area
-		farsistan_area
-		iraq_e_ajam_area
-		tabarestan_area
-		azerbaijan_area
-		isfahan_area
-		kerman_area
-	}
-}
-
-khorasan_region = {
-	areas = {
-		merv_area
-		balkh_area
-		kabulistan_area
-		ghor_area
-		sistan_area
-		khorasan_area
-	}
-}
-
-baluchistan_region = {
-	areas = {
-		makran_area
-		kalat_area
+		west_media_area
+		east_media_area
+		persia_area
+		carmania_area
+		sagartia_area
+		hyrcania_area
+		parthia_area
+		gedrosia_area
+		drangiana_area
+		arachosia_area
+		aria_area
+		bactria_area
+		sogdiana_area
+		margiana_area
+		chorasmia_area
 	}
 }
 
 caucasia_region = {
 	areas = {
-		circassia_area
-		georgia_area
-		shirvan_area
-		armenia_area
-		dagestan_area
+		colchis_area
+		iberia_area
+		armenia_major_area
+		armenia_minor_area
+		albania_area
 	}
 }
 
 arabia_region = {
 	areas = {
-		hejaz_area
-		najd_area
-		bahrain_area
-		oman_area
-		hadramut_area
-		yemen_area
+		dilmun_area
+		magan_area
+		hadhramaut_area
+		himyar_area 
+		sabaea_area
+		minaea_area
+		thamud_area
+		nabataea_area
 	}
 }
 
-west_africa_region = {
+nubia_region = {
 	areas = {
-		cap_verde_area
-		adamawa_plateau_area
-		lower_niger_area
-		hausa_area
-		dendi_area
-		upper_volta_area
-		atacora_oueme_area
-		niger_bend_area
-		lower_volta_area
-		kong_area
-		massina_area
-		baghena_area
-		manding_area
-		futa_jallon_area
-		tekrur_area
-		guinea_coast_area
-		west_africa_coast_area
-		gulf_of_guinea_area
-		cameroon_area
-		azawad_area
-	}
-}
-
-central_africa_region = {
-	areas = {
-		darfur_central_sahara_area
-		kanem_area
-		bornu_area
-		azbin_area
-		kurdufan_area
-		borkou_ennedi_tibesti
-		south_sudan_area
-		central_africa_area
-	}
-}
-
-horn_of_africa_region = {
-	areas = {
-		ajuuran_area
-		southern_ethiopia_area
-		central_ethiopia_area
-		ifat_area
-		tigray_area
-		somaliland_area
-		ogaden_area
-		hadiya_area
-		majarteen_area
-		mogadishu_area
-		red_sea_coast_area
+		lower_nubia_area
 		upper_nubia_area
+		red_sea_coast_area
+		aksum_area
 	}
 }
 
-east_africa_region = {
+tocharia_region = {
 	areas = {
-		northern_swahili_coast_area
-		central_swahili_coast_area
-		mozambique_area
-		zambezi_area
-		zimbabwe_area
-		madagascar_area
-		mascarenes_area
-		kenya_area
-		maravi_area
-		copperbelt_area
-		tanzania_area
-		africa_great_lakes
-	}
-}
-
-kongo_region = {
-	areas = {
-		west_congo_area
-		kongo_area
-		angola_namibia_area
-		east_kongo_area
-	}
-}
-
-central_asia_region = {
-	areas = {
-		saratov_area
-		bashkiria_area
-		nogai_area
-		transcaspia_area
-		transoxiana_area
-		kazakhstan_area
-		balchasj_area
-		tarim_basin_area
-		transoxiana_area
-		khiva_area
-		ferghana_area
 		jetysuu_area
 		zungaria_area
-		altai_sayan_area
-		arys_area
+		tarim_basin_area
+		qiang_area
 	}
 }
 
-south_africa_region = {
+northern_steppe_region = {
 	areas = {
-		south_african_plateau_area
-		cape_of_good_hope_area
-		namibia_area
-		nguni_area
-		botswana_area
-	}
-}
-
-siberia_region = {
-	areas = {
-		yrtesh_area
-		ob_area
-		central_siberia_area
-		tunguska_area
-		irkutsk_area
-		yakutia_area
-		okhotsk_area
-		magadan_area
-		kamchatka_area
-		ishim_area
-		buryatia_area
-	}
-}
-
-mongolia_region = {
-	areas = {
-		outer_mongolia_area
-		inner_mongolia_area
 		ordos_area
+		east_xiongnu_area
+		central_xiongnu_area
+		west_xiongnu_area
+		sahaliyan_ula_area
+		sushen_area
 	}
 }
 
-manchuria_region = {
+indus_region = {
 	areas = {
-		heilongjiang_area
-		jilin_area
-		ilan_hala_area
-		liaoning_area
-	}
-}
-
-tibet_region = {
-	areas = {
-		utsang_area
-		amdo_area
-		kham_area
-	}
-}
-
-bengal_region = {
-	areas = {
-		west_bengal_area
-		north_bengal_area
-		east_bengal_area
-		naga_hills_area
-		jharkhand_area
-		orissa_area
-		garjat_area
-		assam_area
-	}
-}
-
-hindusthan_region = {
-	areas = {
-		bihar_area
-		oudh_area
-		purvanchal_area
-		nepalese_area
-		himalayan_hills_area
-		lower_doab_area
-		central_doab_area
-		upper_doab_area
-		sirhind_area
-		lahore_area
-		multan_area
+		indus_delta_area
+		central_indus_area 
+		upper_indus_area
 		kashmir_area
+		paurava_area
 	}
 }
 
-rajputana_region = {
+ganges_region = {
 	areas = {
-		marwar_area
-		mewar_area
-		jaipur_area
-		malwa_area
-	}
-}
-
-deccan_region = {
-	areas = {
-		maharashtra_area
-		gondwana_area
-		telingana_area
-		maidan_area
-		desh_area
-		rayalaseema_area
-		mysore_area
-		kanara_area
-		kerala_area
-	}
-}
-
-coromandel_region = {
-	areas = {
-		andhra_area
-		coromandel_area
-		madura_area
-		lanka_area
-		carnatic_area
+		upper_ganges_area
+		central_ganges_area
+		ghaghara_area
+		magadha_area
+		brahmaputra_area
+		ganges_delta_area
+		kirata_area
+		pragjyotisha_area
+		naga_hills_area
 	}
 }
 
 west_india_region = {
 	areas = {
-		gujarat_area
-		saurashtra_area
-		tapti_area
-		sindh_area
-		konkan_area
+		thar_desert_area
+		matsya_area
+		surashtra_area
+		avanti_area
+		assaka_area
+		konkana_area
+		dandaka_area
+		gomanta_area
+		kishkindha_area 
+		deccan_area
+	}
+}
+
+south_india_region = {
+	areas = {
+		kerala_area
+		kongu_area
+		pandya_area
+		chola_area
+		lanka_area
+	}
+}
+
+kalinga_region = {
+	areas = {
+		andhra_area
+		kalinga_area
+		utkala_area
+		dasarna_area
 	}
 }
 
 burma_region = {
 	areas = {
+		danyawaddy_area
 		kachin_area
 		upper_burma_area
 		lower_burma_area
 		shan_hill_area
+		tibet_area
 	}
 }
 
 japan_region = {
 	areas = {
 		hokkaido_area
+		hokuriku_area
+		kanto_area
 		kyushu_area
 		chubu_area
-		kanto_thoku_area
-		kansai_area
-		chugoku_area
+		kinai_area
+		thohoku_area
+		saigoku_area
 	}
 }
 
 korea_region = {
 	areas = {
-		north_korea_area
-		central_korea_area
-		south_korea_area
+		jin_area
+		gojoseon_area
+		goguryeo_area
 	}
 }
 
-australia_region = {
+baiyue_region = {
 	areas = {
-		western_australia_area
-		northern_australia_area
-		eastern_australia_area
-		southern_australia_area
-		central_australia_area
-	}
-}
-
-new_zealand_region = {
-	areas = {
-		te_ika_a_maui_area
-		te_waipounamu_area
-	}
-}
-
-south_china_region = {
-	areas = {
-		guangxi_area
-		guangdong_area
-		fujian_area
-		jiangxi_area
-		huguang_area
-		zhejiang_area
-		anhui_area
-		jiangsu_area
+		viet_area
 		taiwan_area
+		dian_area
+		zhuang_area
+		yelang_area
+		nanyue_area 
+		min_area
 	}
 }
 
-xinan_region = {
+yangtze_region = {
 	areas = {
-		sichuan_area
-		yun_gui_area
+		yue_area
+		wu_area
+		chu_area
+		hengshan_area
+		linjiang_area
+		ba_area
+		shu_area
 	}
 }
 
-north_china_region = {
+huang_he_region = {
 	areas = {
-		hebei_area
-		shandong_area
-		henan_area
-		shanxi_area
-		gansu_area
-		shaanxi_area
-	}
-}
-
-brazil_region = {
-	areas = {
-		rio_grande_do_sol_area
-		minas_gerais_area
-		goias_area
-		mato_grosso_area
-		sao_paolo_area
-		rio_de_janeiro_area
-		bahia_area
-		pernambuco_area
-		sao_francisco_area
-		maranhao_area
-	}
-}
-
-amazon_region = {
-	areas = {
-		amazon_area
-		west_amazon_area
-		grao_para_area
-		guapore_area
-	}
-}
-
-la_plata_region = {
-	areas = {
-		patagonia_area
-		cuyo_area
-		southern_pampas_area
-		buenos_aires_area
-		tucuman_area
-		chaco_area
-		banda_oriental_area
-		paraguay_area
-		south_atlantic_islands_area
-	}
-}
-
-chile_region = {
-	areas = {
-		southern_chile_area
-		central_chile_area
-		northern_chile_area
-	}
-}
-
-colombia_region = {
-	areas = {
-		upper_guyana_area
-		guyana_area
-		venezuela_area
-		eastern_llanos
-		western_llanos
-		coquivacoa_area
-		bogota_area
-		popayan_area
-		panama_area
-	}
-}
-
-peru_region = {
-	areas = {
-		kuntisuyu_area
-		chimor_area
-		ucayali_area
-		cajamarca_area
-		huanuco_area
-		beni_area
-		upper_peru
-		antisuyu_area
-		quito_area
-	}
-}
-
-indonesia_region = {
-	areas = {
-		great_moluccas_area
-		north_sumatra_area
-		central_sumatra_area
-		south_sumatra_area
-		luzon_area
-		east_java_area
-		central_java_area
-		west_java_area
-		kutai_area
-		brunei_area
-		kalimantan_area
-		molluca_area
-		lesser_sunda_islands_area
-		sulawesi_area
-		indian_ocean_islands_area
-		papua_area
-	}
-}
-
-oceanea_region = {
-	areas = {
-		polynesia_area
-		micronesia_area
-		melanesia_area
+		qin_area
+		han_area
+		qi_area
+		wei_area
+		jiaodong_area
+		dai_area
+		yan_area
+		liaodong_area
+		rong_area
 	}
 }
 
 indo_china_region = {
 	areas = {
-		vietnam_area
-		south_laos_area
-		north_laos_area
-		central_thai_area
-		northern_thai_area
+		chao_phraya_area
 		tenasserim_area
-		cambodia_area
-		mekong_area
-		champa_area
-		khorat_area
+		khmer_area
+		mekong_delta_area
+		lower_mekong_area
+		upper_mekong_area
+		sa_huynh_area
 		malaya_area
-		shan_hill_area
-		kachin_area
-		lower_burma_area
-		upper_burma_area
-	}
-}
-
-canada_region = {
-	areas = {
-		upper_acadia_area
-		lower_acadia_area
-		newfoundland_area
-		labrador_area
-		cote_nord_area
-		notre_dame_mountains_area
-		lower_canada_area
-		upper_canada_area
-		laurentian_area
-		huronia_area
-		upper_ontario_area
-		greenland_area
-	}
-}
-
-great_lakes_region = {
-	areas = {
-		ohio_country_area
-		illinois_country_area
-		michigan_area
-		lake_superior_area 
-	}
-}
-
-northeast_america_region = {
-	areas = {
-		great_woods_area
-		massachusetts_bay_area
-		connecticut_valley_area
-		hudson_valley_area
-		delaware_valley_area
-		iroquoisia_area
-		susquehanna_area
-	}
-}
-
-southeast_america_region =  {
-	areas = {
-		chesapeake_area
-		great_valley_area
-		piedmont_north_america_area
-		american_georgia_area 
-		florida_area
-		carolinas_area
-	}
-}
-
-mississippi_region = {
-	areas = {
-		lower_louisiana_area
-		west_florida_area
-		ozarks_area
-		upper_louisiana_area
-		alabama_area
-		kentucky_area
-		appalachia_area
-		mississippi_area
-	}
-}
-
-great_plains_region = {
-	areas = {
-		lower_plains_area
-		high_plains_area
-		dakota_area
-		upper_missouri_area
-		badlands_area
-		llano_estacado_area
-	}
-}
-
-california_region = {
-	areas = {
-		california_area
-		baja_california_area
-		arizona_area
-		colorado_plateau_area
-		new_mexico_area
-		central_valley_area
-		great_basin_area
-	}
-}
-
-cascadia_region = {
-	areas = {
-		oregon_area
-		columbia_river_area
-		snake_river_area
-		salish_sea_area
-		interior_plateau_area
-		hecate_strait_area
-		alaska_area
-	}
-}
-
-hudson_bay_region = {
-	areas = {
-		james_bay_area
-		hudson_bay_area
-		red_river_area
-		saskatchewan_area
-		prairies_area
-		athabasca_area
-		northern_territories
-		ungava_area
-	}
-}
-
-mexico_region = {
-	areas = {
-		eastern_mexico_area
-		mexico_area
-		michoacan_area
-		guerrero_area
-		oaxaca_area
-		texas_area
-		rio_grande_area
-		northeast_mexico_area
-		durango_area
-		sonora_y_sinaloa_area
-		jalisco_area
-		gran_chichimeca_area
-	}
-}
-
-central_america_region = {
-	areas = {
-		guatemala_area
-		honduras_area
-		nicaragua_area
-		yucatan_area
-		chiapas_area
-	}
-}
-
-carribeans_region = {
-	areas = {
-		cuba_area
-		hispaniola_area
-		greater_antilles_area
-		leeward_islands_area
-		windward_islands_area
+		north_sumatra_area
+		central_sumatra_area
+		south_sumatra_area
 	}
 }
 
