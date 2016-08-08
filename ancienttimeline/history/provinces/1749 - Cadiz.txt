@@ -1,7 +1,7 @@
 #1749 - Cádiz
 
 culture = turdetanian
-religion = animism
+religion = iberian_religion
 hre = no
 base_tax = 2
 base_production = 2

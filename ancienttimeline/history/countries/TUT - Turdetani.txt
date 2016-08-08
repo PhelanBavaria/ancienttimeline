@@ -2,6 +2,6 @@ government = tribal_kingdom
 government_rank = 2
 mercantilism = 0.1
 primary_culture = turdetanian
-religion = animism
+religion = punic_religion
 technology_group = mediterranean
 capital = 224	# Andalucia

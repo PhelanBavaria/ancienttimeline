@@ -1,7 +1,7 @@
 #208 - Legio
 
 culture = gallaic
-religion = animism
+religion = druidism
 hre = no
 base_tax = 2
 base_production = 2
