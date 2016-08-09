@@ -11,7 +11,7 @@ abrahamic = {
 
 	christian = {
 		color = { 0.75 0.65 0 }
-		icon = 38
+		icon = 1
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
@@ -26,7 +26,7 @@ abrahamic = {
 	
 	jewish = {
 		color = { 0.3 0.6 0.9 }
-		icon = 22
+		icon = 2
 		country = {
 			tolerance_own = 2
 			advisor_pool = 1
@@ -52,7 +52,7 @@ dharmic = {
 
 	mahayana = {
 		color = { 0.8 0.3 0.5 }
-		icon = 44
+		icon = 3
 		allowed_conversion = {
 			buddhism
 		}
@@ -81,7 +81,7 @@ dharmic = {
 
 	buddhism = { #Theravada
 		color = { 0.8 0.3 0 }
-		icon = 45
+		icon = 4
 		allowed_conversion = {
 			mahayana
 		}
@@ -110,7 +110,7 @@ dharmic = {
 
 	hinduism = {
 		color = { 0 0.8 0.8 }
-		icon = 12
+		icon = 5
 		allowed_conversion = {
 			sikhism
 			jainism
@@ -141,7 +141,7 @@ dharmic = {
 
 	jainism = {
 		color = { 0.5 0.9 0.9 }
-		icon = 14
+		icon = 6
 		allowed_conversion = {
 			hinduism
 			sikhism
@@ -169,7 +169,7 @@ dharmic = {
 
 	zunism = {
 		color = { 0.9 0.9 0.6 }
-		icon = 41
+		icon = 7
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -187,7 +187,7 @@ dharmic = {
 
 	vedism = {
 		color = { 0 0.9 0.7 }
-		icon = 12 #Temporary icon
+		icon = 8
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -215,7 +215,7 @@ eastern = {
 
 	confucianism = {
 		color = { 0.84 0.9 0.55 }
-		icon = 15
+		icon = 9
 		country = {
 			tolerance_heretic = 2
 			tolerance_heathen = 1
@@ -230,7 +230,7 @@ eastern = {
 
 	shinto = {
 		color = { 0.8 0 0 }
-		icon = 16
+		icon = 10
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -250,7 +250,7 @@ eastern = {
 
 	tibetan_bon = {
 		color = { 0 0.4 0.4 }
-		icon = 47
+		icon = 11
 		province = {
 			local_missionary_strength = 0.01
 		}
@@ -268,7 +268,7 @@ eastern = {
 
 	muism = {
 		color = { 0.6 0.6 0.2 }
-		icon = 48
+		icon = 12
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -286,7 +286,7 @@ eastern = {
 
 	ua_dab = {
 		color = { 0.05 0.3 0.95 }
-		icon = 49
+		icon = 13
 		province = {
 			local_missionary_strength = -0.02
 		}
@@ -304,7 +304,7 @@ eastern = {
 
 	bimoism = {
 		color = { 0.2 0.2 0.2 }
-		icon = 50
+		icon = 14
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -322,7 +322,7 @@ eastern = {
 
 	dao_mau = {
 		color = { 0.05 0.9 0.1 }
-		icon = 51
+		icon = 15
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -340,7 +340,7 @@ eastern = {
 
 	shigongism = {
 		color = { 0.5 0.1 0.7 }
-		icon = 52
+		icon = 16
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -358,7 +358,7 @@ eastern = {
 
 	benzhuism = {
 		color = { 0.9 0.2 0.2 }
-		icon = 53
+		icon = 17
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -376,7 +376,7 @@ eastern = {
 
 	yue_religion = {
 		color = { 0.8 0.8 0.7 }
-		icon = 54
+		icon = 18
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -402,7 +402,7 @@ pagan = {
 
 	animism = {
 		color = { 0.5 0.0 0.0 }
-		icon = 17
+		icon = 22
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -422,7 +422,7 @@ pagan = {
 	
 	shamanism = {
 		color = { 0.5 0.3 0.3 }
-		icon = 18
+		icon = 23
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -470,7 +470,7 @@ hellenic = {
 
 	etruscan_poly = {
 		color = { 0.3 0.2 0.2 }
-		icon = 19
+		icon = 44
 		province = {
 			local_missionary_strength = 0.04
 		}
@@ -528,7 +528,7 @@ hellenic = {
 
 	minoan_religion = {
 		color = { 0.9 0 0 }
-		icon = 19 #Temporary
+		icon = 45
 		province = {
 			local_missionary_strength = 0.05
 		}
@@ -567,7 +567,7 @@ iranian = {
 	}
 
 	scythian_religion = {
-		icon = 21
+		icon = 46
 		color = { 0.9 0.7 0.3 }
 		province = {
 			local_missionary_strength = -0.02
@@ -727,7 +727,7 @@ celtic = {
 
 	lusitanian_poly = {
 		color = { 0.6 0.9 0.6 }
-		icon = 27
+		icon = 47
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -753,7 +753,7 @@ european_pagan = {
 
 	basque_religion = {
 		color = { 0.85 0.9 0.1 }
-		icon = 28
+		icon = 48
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -773,7 +773,7 @@ european_pagan = {
 
 	iberian_religion = {
 		color = { 0.2 0.1 0.9 }
-		icon = 29
+		icon = 49
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -922,7 +922,7 @@ african_pagan = {
 
 	serapis = {
 		color = { 0.8 0.6 0 }
-		icon = 39 #Temp
+		icon = 38
 		province = {
 			local_missionary_strength = 0.05
 		}
@@ -960,7 +960,7 @@ african_pagan = {
 
 	punic_religion = {
 		color = { 0.8 0.9 0.9 }
-		icon = 34
+		icon = 40
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -1030,7 +1030,7 @@ mesopotamian = {
 
 	hittite_religion = {
 		color = { 0.2 0.2 0.2 }
-		icon = 37 #Temporary
+		icon = 50
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -1060,7 +1060,7 @@ caucasian_group = {
 
 	georgian_religion = {
 		color = { 0 0.4 0.4 }
-		icon = 30
+		icon = 51
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -1078,7 +1078,7 @@ caucasian_group = {
 
 	armenian_religion = {
 		color = { 0.3 0.8 0.8 }
-		icon = 32
+		icon = 52
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -1098,18 +1098,20 @@ caucasian_group = {
 }
 
 illyrian_group = {
- flags_with_emblem_percentage = 33
- flag_emblem_index_range = { 28 28 }
- illyrian_religion = {
-  icon = 20
-  color = { 0.4 0 0.7 }
-  country = {
-   tolerance_heathen = 1
-   production_efficiency = 0.10
-  }
-  province = {
-   local_missionary_strength = -0.02
-  }
-  heretic = { SAMARITAN KARAITE }
- }
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 28 28 }
+	
+	illyrian_religion = {
+		icon = 53
+		color = { 0.4 0 0.7 }
+		country = {
+			tolerance_heathen = 1
+			production_efficiency = 0.10
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		heretic = { SAMARITAN KARAITE }
+	}
 }
