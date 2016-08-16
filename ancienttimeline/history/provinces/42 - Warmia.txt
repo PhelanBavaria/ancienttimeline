@@ -1,7 +1,7 @@
 #42 - Warmia
 
 capital  = "Allenstein"
-culture = old_prussian
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no

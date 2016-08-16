@@ -1,6 +1,6 @@
 #56 - OsnabrÃ¼ck
 
-culture = saxon
+culture = istvaeonic
 religion = germanic
 capital = "Osnabrück"
 trade_goods = salt

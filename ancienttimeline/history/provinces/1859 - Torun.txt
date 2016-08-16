@@ -1,7 +1,7 @@
 #1859 - Chelmno
 
 capital = "Torun"
-culture = gothic
+culture = east_germanic
 religion = germanic
 trade_goods = cloth
 hre = no

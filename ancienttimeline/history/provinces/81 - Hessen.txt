@@ -3,7 +3,7 @@
 
 capital = "Marburg"
 trade_goods = wool
-culture = hessian
+culture = istvaeonic
 religion = germanic
 base_tax = 2
 base_production = 2

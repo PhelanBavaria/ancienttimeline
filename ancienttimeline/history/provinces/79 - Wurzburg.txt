@@ -1,6 +1,6 @@
 #79 - Würzburg
 
-culture = franconian
+culture = istvaeonic
 religion = germanic
 base_tax = 2
 base_production = 2

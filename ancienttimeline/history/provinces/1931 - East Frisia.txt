@@ -1,6 +1,8 @@
 #1931 - East Frisia
 
 capital = "Emden"
+culture = ingvaeonic
+religion = germanic
 trade_goods = salt
 hre = no
 base_tax = 2

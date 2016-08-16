@@ -1,6 +1,6 @@
 #2675 - Dembiya
 
-culture = amhara 
+culture = aksumite
 religion = jewish
 capital = "Gorgora"
 citysize = 2142

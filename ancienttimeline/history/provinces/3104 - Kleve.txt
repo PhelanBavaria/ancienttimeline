@@ -1,7 +1,7 @@
 #3104 - Kleve
 
 
-culture = frankish
+culture = istvaeonic
 religion = germanic
 trade_goods = cloth
 capital = "Kleves"

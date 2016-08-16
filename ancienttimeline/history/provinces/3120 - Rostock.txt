@@ -1,6 +1,6 @@
 #3120 - Rostock
 
-culture = pommeranian
+culture = irmionic
 religion = germanic
 hre = no
 base_tax = 2

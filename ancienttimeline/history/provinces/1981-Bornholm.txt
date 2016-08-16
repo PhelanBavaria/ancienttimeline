@@ -1,6 +1,6 @@
 #1981 - Bornholm
 
-culture = danish
+culture = north_germanic
 religion = germanic
 hre = no
 base_tax = 2

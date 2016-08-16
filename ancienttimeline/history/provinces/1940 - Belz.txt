@@ -1,7 +1,7 @@
 #1940 - Belz
 
 capital= "Belz"
-culture = polish
+culture = east_germanic
 religion = slavic
 trade_goods = grain
 hre = no

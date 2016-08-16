@@ -1,6 +1,6 @@
 #14 - Fyn
 
-culture = danish
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

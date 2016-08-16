@@ -1,7 +1,7 @@
 #3097 - Glogau
 
 capital = "Glogau"
-culture = vandal
+culture = irmionic
 religion = germanic
 trade_goods = grain
 hre = no

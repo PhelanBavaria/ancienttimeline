@@ -1,6 +1,6 @@
 #45 - Lübeck
 
-culture = hannoverian
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

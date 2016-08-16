@@ -1,6 +1,6 @@
 #63 - Thüringen
 
-culture = hessian
+culture = istvaeonic
 religion = germanic
 capital = "Erfurt"
 trade_goods = cloth

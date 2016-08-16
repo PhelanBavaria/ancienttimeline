@@ -1,6 +1,6 @@
 #724 - Hulunbuir
 
-culture = chahar
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Hulunbuir"
 trade_goods = unknown

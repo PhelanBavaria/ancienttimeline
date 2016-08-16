@@ -1,6 +1,6 @@
 #2158 - Bouar
 
-culture = gbaya
+culture = dacian
 religion = zamolxism
 capital = "Bouar"
 native_size = 90

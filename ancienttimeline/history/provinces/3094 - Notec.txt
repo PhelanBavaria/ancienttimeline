@@ -1,7 +1,7 @@
 #3094 - Notec
 
 capital = "Bydgoszcz"
-culture = gothic
+culture = east_germanic
 religion = germanic
 trade_goods = grain
 hre = no

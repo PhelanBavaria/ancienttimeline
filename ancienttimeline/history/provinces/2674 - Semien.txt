@@ -1,7 +1,7 @@
 #2674 - Semien
 
 citysize = 1000
-culture = amhara 
+culture = aksumite
 religion = jewish
 capital = "Dabareq"
 base_manpower = 2

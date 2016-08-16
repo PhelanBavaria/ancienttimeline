@@ -1,7 +1,7 @@
 #78 - Mainz
 
 capital = "Mogontiacum"
-culture = swabian
+culture = istvaeonic
 religion = germanic
 trade_goods = grain
 base_tax = 2

@@ -1,7 +1,7 @@
 #43 - Danzig
 
 capital = "Danzig"
-culture = pommeranian
+culture = east_germanic
 religion = germanic
 trade_goods = grain
 hre = no

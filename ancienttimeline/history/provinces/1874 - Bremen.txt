@@ -1,6 +1,6 @@
 #1874 - Bremen
 
-culture = saxon
+culture = ingvaeonic
 religion = germanic
 capital = "Bremen"
 trade_goods = fish

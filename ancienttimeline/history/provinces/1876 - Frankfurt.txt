@@ -1,7 +1,7 @@
 #1876 - Frankfurt
 
 capital = "Frankonovurd"
-culture = swabian
+culture = istvaeonic
 religion = germanic
 trade_goods = grain
 base_tax = 2

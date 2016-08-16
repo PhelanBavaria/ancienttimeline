@@ -1,6 +1,6 @@
 #352 - Gafsa
 
-culture = tunisian
+culture = berber
 religion = african
 capital = "Capsa"
 trade_goods = unknown

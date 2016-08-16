@@ -1,6 +1,6 @@
 #61 - Saxony
 
-culture = hessian
+culture = irmionic
 religion = germanic
 capital = "Meissen"
 trade_goods = iron

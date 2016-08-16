@@ -1,6 +1,6 @@
 #1227 - Inderta
 
-culture = tigray 
+culture = aksumite
 religion = south_arabian
 capital = "Antalo"
 citysize = 4000

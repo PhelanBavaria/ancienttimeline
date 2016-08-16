@@ -1,7 +1,7 @@
 #260 - Lublin
 
 capital= "Lublin"
-culture = polish
+culture = east_germanic
 religion = slavic
 trade_goods = grain
 hre = no

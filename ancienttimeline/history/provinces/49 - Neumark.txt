@@ -1,6 +1,6 @@
 #49 - Neumark
 
-culture = pommeranian
+culture = east_germanic
 religion = germanic
 hre = no
 base_tax = 2

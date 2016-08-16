@@ -1,7 +1,7 @@
 #3114 - Lwow
 
 capital= "Lwow"
-culture = gepid
+culture = east_germanic
 religion = germanic
 trade_goods = dyes #Polish cochineal
 hre = no

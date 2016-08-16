@@ -1,7 +1,7 @@
 #256 - Plock
 
 capital = "Plock"
-culture = gothic
+culture = east_germanic
 religion = germanic
 trade_goods = cloth
 hre = no

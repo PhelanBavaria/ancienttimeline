@@ -1,6 +1,6 @@
 #162 - Zemplen
 
-culture = gepid
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 capital = "Kassa"

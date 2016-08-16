@@ -1,6 +1,6 @@
 #66 - Bamberg
 
-culture = hessian
+culture = irmionic
 religion = germanic
 base_tax = 2
 base_production = 2

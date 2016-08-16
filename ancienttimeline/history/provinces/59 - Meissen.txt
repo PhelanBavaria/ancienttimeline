@@ -1,6 +1,6 @@
 #59 - Wittenberg
 
-culture = langobardi
+culture = irmionic
 religion = germanic
 capital = "Wittenberg"
 trade_goods = iron

@@ -1,6 +1,6 @@
 #3106 - Hoya
 
-culture = saxon
+culture = istvaeonic
 religion = germanic
 capital = "Nienburg"
 trade_goods = grain

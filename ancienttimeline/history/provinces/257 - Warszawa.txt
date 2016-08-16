@@ -1,7 +1,7 @@
 #257 - Warszawa
 
 capital = "Warszawa"
-culture = gothic
+culture = east_germanic
 religion = germanic
 trade_goods = cloth
 hre = no

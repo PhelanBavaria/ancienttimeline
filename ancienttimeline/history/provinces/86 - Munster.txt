@@ -1,6 +1,6 @@
 #86 - MÃ¼nster
 
-culture = frankish
+culture = istvaeonic
 religion = germanic
 trade_goods = cloth
 capital = "Münster"

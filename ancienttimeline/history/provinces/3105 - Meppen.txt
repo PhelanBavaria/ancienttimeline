@@ -1,6 +1,6 @@
 #3105 - Meppen
 
-culture = frankish
+culture = istvaeonic
 religion = germanic
 trade_goods = cloth
 capital = "Meppen"

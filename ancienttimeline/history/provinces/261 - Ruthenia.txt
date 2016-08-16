@@ -1,7 +1,7 @@
 #261 - Ruthenia
 
 capital= "Lviv"
-culture = gepid
+culture = east_germanic
 religion = germanic
 trade_goods = grain
 hre = no

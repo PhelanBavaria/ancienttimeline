@@ -1,6 +1,6 @@
 #53 - LÃ¼neburg
 
-culture = saxon
+culture = ingvaeonic
 religion = germanic
 capital = "Lüneburg"
 trade_goods = salt

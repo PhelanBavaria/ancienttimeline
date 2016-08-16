@@ -1,6 +1,6 @@
 #54 - Stade
 
-culture = saxon
+culture = ingvaeonic
 religion = germanic
 capital = "Bremervörde"
 trade_goods = fish

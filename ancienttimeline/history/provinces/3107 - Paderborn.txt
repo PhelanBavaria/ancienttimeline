@@ -1,7 +1,7 @@
 #3107 - Paderborn
 
 
-culture = hessian
+culture = istvaeonic
 religion = germanic
 trade_goods = wool
 capital = "Paderborn"

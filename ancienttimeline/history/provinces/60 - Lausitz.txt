@@ -1,7 +1,7 @@
 #60 - Oberlausitz
 
 capital = "Bautzen"
-culture = vandal
+culture = irmionic
 religion = germanic
 trade_goods = cloth
 hre = no

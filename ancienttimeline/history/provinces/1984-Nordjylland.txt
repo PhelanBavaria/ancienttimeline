@@ -1,6 +1,6 @@
 #1984 - Nordjylland
 
-culture = danish
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

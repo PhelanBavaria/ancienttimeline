@@ -1,6 +1,6 @@
 #1857 - Lauenburg
 
-culture = saxon
+culture = ingvaeonic
 religion = germanic
 capital = "Lauenburg"
 trade_goods = salt

@@ -1,6 +1,6 @@
 #2676 - Lasta
 
-culture = amhara
+culture = aksumite
 religion = south_arabian
 capital = "Lalibela"
 citysize = 4000

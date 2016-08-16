@@ -1,6 +1,6 @@
 #3118 - Chemnitz
 
-culture = hessian
+culture = irmionic
 religion = germanic
 capital = "Kamienica"
 trade_goods = wool

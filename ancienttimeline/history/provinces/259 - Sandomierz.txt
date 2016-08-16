@@ -1,7 +1,7 @@
 #259 - Sandomierz
 
 capital = "Sandomierz"
-culture = burgundione
+culture = east_germanic
 religion = germanic
 trade_goods = cloth
 hre = no

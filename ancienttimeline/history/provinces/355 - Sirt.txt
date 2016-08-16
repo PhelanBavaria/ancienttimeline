@@ -1,6 +1,6 @@
 #355 - Sirt
 
-culture = berber
+culture = tuareg
 religion = african
 capital = "Arae Philaenorum"
 trade_goods = unknown

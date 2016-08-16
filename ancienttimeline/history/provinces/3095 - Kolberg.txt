@@ -1,6 +1,6 @@
 #3095 - Kolberg
 
-culture = pommeranian
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no

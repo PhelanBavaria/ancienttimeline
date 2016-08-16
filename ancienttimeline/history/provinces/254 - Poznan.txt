@@ -1,7 +1,7 @@
 #254 - Poznan
 
 capital = "Poznan"
-culture = vandal
+culture = east_germanic
 religion = germanic
 trade_goods = salt
 hre = no

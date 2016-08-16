@@ -1,6 +1,6 @@
 #1858 - Stettin
 
-culture = pommeranian
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no

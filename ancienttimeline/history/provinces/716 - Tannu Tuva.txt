@@ -1,6 +1,6 @@
 #716 - Tannu Tuva
 
-culture = oirats
+culture = xiongnu
 religion = tengri_pagan_reformed
 capital = "Tannu Tuva"
 trade_goods = unknown

@@ -1,6 +1,6 @@
 #15 - Midtjylland
 
-culture = danish
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

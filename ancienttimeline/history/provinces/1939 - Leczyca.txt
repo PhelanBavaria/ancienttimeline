@@ -1,7 +1,7 @@
 #1939 - Leczyca
 
 capital = "Leczyca"
-culture = burgundione
+culture = east_germanic
 religion = germanic
 trade_goods = cloth
 hre = no

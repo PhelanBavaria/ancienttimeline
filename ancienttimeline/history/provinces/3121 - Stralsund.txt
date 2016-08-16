@@ -1,6 +1,6 @@
 #3121 - Stralsund
 
-culture = pommeranian
+culture = irmionic
 religion = germanic
 hre = no
 base_tax = 2

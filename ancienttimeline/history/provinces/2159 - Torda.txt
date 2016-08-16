@@ -1,6 +1,6 @@
 #Owando
 
-culture = kongolese
+culture = dacian
 religion = zamolxism
 capital = "Owando"
 native_size = 90

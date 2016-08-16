@@ -1,6 +1,6 @@
 #2263 - West Legae
 
-culture = avar
+culture = sarmatian
 religion = scythian_religion
 capital = "Balanjar"
 trade_goods = fish

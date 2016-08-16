@@ -1,7 +1,7 @@
 #82 - Westfalen
 
 
-culture = hessian
+culture = istvaeonic
 religion = germanic
 trade_goods = wool
 capital = "Paderborn"

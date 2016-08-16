@@ -1,6 +1,6 @@
 #44 - Hamburg
 
-culture = saxon
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

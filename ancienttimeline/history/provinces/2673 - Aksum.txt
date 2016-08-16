@@ -1,7 +1,7 @@
 #2673 - Aksum
 
 citysize = 1000
-culture = tigray 
+culture = aksumite
 religion = south_arabian
 capital = "Axum"
 base_manpower = 2

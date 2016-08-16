@@ -1,7 +1,7 @@
 #95 - Breda
 
 capital = "Noviomagus"
-culture = belgic
+culture = belgae
 religion = druidism
 hre = no
 base_tax = 2
@@ -13,5 +13,5 @@ native_ferocity = 6
 native_hostileness = 6
 
 4600.1.1 = { owner = TOX controller = TOX add_core = TOX is_city = yes trade_goods = grain discovered_by = gauls discovered_by = barbarian }
-4850.1.1 = { owner = BRU controller = BRU add_core = BRU remove_core = TOX }
+4850.1.1 = { owner = BRU controller = BRU add_core = BRU remove_core = TOX culture = istvaeonic }
 4950.1.1 = { discovered_by = ROM }

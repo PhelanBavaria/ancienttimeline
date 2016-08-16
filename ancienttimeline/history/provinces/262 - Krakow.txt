@@ -1,6 +1,6 @@
 #262 - Krakow
 
-culture = burgundione
+culture = east_germanic
 religion = germanic
 capital = "Kraków"
 hre = no

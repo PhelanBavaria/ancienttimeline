@@ -1,7 +1,7 @@
 #3108 - Eger
 
 capital = "Eger"
-culture = hessian
+culture = irmionic
 religion = germanic
 trade_goods = unknown #Joachimstal mines
 hre = no

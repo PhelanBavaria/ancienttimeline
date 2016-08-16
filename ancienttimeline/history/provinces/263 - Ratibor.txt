@@ -1,6 +1,6 @@
 #263 - Ratibor
 
-culture = vandal
+culture = east_germanic
 religion = germanic
 base_tax = 2
 base_production = 2

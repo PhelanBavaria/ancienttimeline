@@ -1,6 +1,6 @@
 #1952 - Maramaros
 
-culture = gepid
+culture = east_germanic
 religion = germanic
 capital = "Huszt"
 trade_goods = naval_supplies

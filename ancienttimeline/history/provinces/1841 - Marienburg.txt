@@ -1,7 +1,7 @@
 #1841 - Marienburg
 
 capital  = "Marienburg"
-culture = gothic
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no

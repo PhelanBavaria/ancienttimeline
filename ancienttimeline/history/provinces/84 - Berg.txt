@@ -1,7 +1,7 @@
 #84 - Berg
 
 
-culture = frankish
+culture = istvaeonic
 religion = germanic
 trade_goods = cloth
 capital = "Düsseldorf"

@@ -3,7 +3,7 @@
 capital = "Wiesbaden"
 trade_goods = copper
 hre = no
-culture = hessian
+culture = istvaeonic
 religion = germanic
 base_tax = 2
 base_production = 2

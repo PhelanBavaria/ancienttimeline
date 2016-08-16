@@ -1,6 +1,6 @@
 #1066 - Narym
 
-culture = khazak
+culture = turkish
 religion = tengri_pagan_reformed
 capital = "Narym"
 trade_goods = unknown

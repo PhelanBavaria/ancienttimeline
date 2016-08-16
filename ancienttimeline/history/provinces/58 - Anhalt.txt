@@ -1,6 +1,6 @@
 #58 - Anhalt
 
-culture = langobardi
+culture = irmionic
 religion = germanic
 capital = "Dessau"
 trade_goods = wool

@@ -1,6 +1,6 @@
 #2671 - Hamasien
 
-culture = tigray
+culture = aksumite
 religion = south_arabian
 capital = "Debarwa"
 citysize = 1125

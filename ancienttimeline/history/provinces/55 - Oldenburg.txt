@@ -1,6 +1,6 @@
 #55 - Oldenburg
 
-culture = dutch
+culture = ingvaeonic
 religion = germanic
 capital = "Oldenburg"
 trade_goods = salt

@@ -1,6 +1,6 @@
 #2264 - South Legae
 
-culture = avar
+culture = sarmatian
 religion = scythian_religion
 capital = "Kumukh"
 trade_goods = iron

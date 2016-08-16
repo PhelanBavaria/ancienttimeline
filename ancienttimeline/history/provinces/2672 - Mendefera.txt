@@ -1,6 +1,6 @@
 #2672 - Mendefera
 
-culture = tigray
+culture = aksumite
 religion = south_arabian
 capital = "Mendefera"
 citysize = 1125

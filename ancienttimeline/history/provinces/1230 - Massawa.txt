@@ -1,6 +1,6 @@
 #1230 - Massawa
 
-culture = tigray
+culture = aksumite
 religion = south_arabian
 capital = "Mitsiwa"
 citysize = 1125

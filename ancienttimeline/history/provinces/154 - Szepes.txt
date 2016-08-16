@@ -1,6 +1,6 @@
 #154 - Ã‰rsekÃºjvÃ¡r
 
-culture = austrian
+culture = east_germanic
 religion = germanic
 capital = "Érsekújvár"
 trade_goods = grain

@@ -1,6 +1,6 @@
 #2678 - Wollo
 
-culture = amhara
+culture = aksumite
 religion = african
 capital = "Hayq"
 citysize = 2142

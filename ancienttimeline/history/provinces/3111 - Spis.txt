@@ -1,6 +1,6 @@
 #3111 - Spis
 
-culture = austrian
+culture = east_germanic
 religion = germanic
 capital = "Spiš"
 trade_goods = gold #Schemnitz / Banská Štiavnica

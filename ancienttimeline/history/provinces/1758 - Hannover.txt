@@ -1,6 +1,6 @@
 #1758 - Hannover
 
-culture = saxon
+culture = istvaeonic
 religion = germanic
 capital = "Hannover"
 trade_goods = cloth

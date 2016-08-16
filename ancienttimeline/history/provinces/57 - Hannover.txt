@@ -1,6 +1,6 @@
 #57 - Brunswick
 
-culture = hessian
+culture = istvaeonic
 religion = germanic
 capital = "Braunschweig"
 trade_goods = iron

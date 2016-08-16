@@ -1,6 +1,6 @@
 #3112 - Nowy Sacz
 
-culture = gepid
+culture = east_germanic
 religion = germanic
 capital = "Nowy Sacz"
 hre = no

@@ -1,6 +1,6 @@
 #62 - Leipzig
 
-culture = hessian
+culture = irmionic
 religion = germanic
 capital = "Leipzig"
 trade_goods = wool

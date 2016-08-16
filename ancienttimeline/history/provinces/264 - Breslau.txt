@@ -1,6 +1,6 @@
 #264 - Breslau
 
-culture = vandal
+culture = east_germanic
 religion = germanic
 capital = "Breslau"
 trade_goods = iron

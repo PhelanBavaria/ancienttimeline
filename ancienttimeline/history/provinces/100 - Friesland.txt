@@ -1,7 +1,7 @@
 #100 - Friesland
 
 capital = "Groningen"
-culture = dutch
+culture = ingvaeonic
 religion = germanic
 hre = no
 base_tax = 2

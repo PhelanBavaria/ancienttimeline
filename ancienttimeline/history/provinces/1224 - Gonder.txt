@@ -1,6 +1,6 @@
 #1224 - Gonder
 
-culture = amhara
+culture = aksumite
 religion = african
 capital = "Gondar"
 citysize = 2142

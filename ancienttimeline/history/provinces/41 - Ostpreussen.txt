@@ -1,7 +1,7 @@
 #41 - KÃ¶nigsberg
 
 capital = "Königsberg"
-culture = old_prussian
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no
