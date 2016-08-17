@@ -13,4 +13,4 @@ native_ferocity = 6
 native_hostileness = 6
 
 4700.1.1 = { owner = BII controller = BII add_core = BII is_city = yes trade_goods = grain }
-4850.1.1 = { owner = RAC controller = RAC add_core = RAC remove_core = BII }
+4850.1.1 = { religion = germanic culture = irmionic owner = RAC controller = RAC add_core = RAC remove_core = BII }

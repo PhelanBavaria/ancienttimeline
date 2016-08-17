@@ -1,6 +1,6 @@
 government = migratory_tribe
 mercantilism = 0.1
-primary_culture = dutch
+primary_culture = ingvaeonic
 religion = germanic
 technology_group = barbarian
 unit_type = gauls

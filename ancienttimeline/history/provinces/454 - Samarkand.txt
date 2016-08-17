@@ -2,7 +2,7 @@
 
 owner = ROW
 controller = ROW
-culture = bactrian
+culture = sogdian
 religion = mahayana
 capital = "Samarkand"
 trade_goods = spices

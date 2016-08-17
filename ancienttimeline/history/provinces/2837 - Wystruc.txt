@@ -1,7 +1,7 @@
 #2837 - Wystruc
 
 capital = "Insterburg"
-culture = old_prussian
+culture = east_germanic
 religion = germanic
 trade_goods = naval_supplies
 hre = no

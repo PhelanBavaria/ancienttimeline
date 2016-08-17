@@ -1,7 +1,7 @@
 government = migratory_tribe
 government_rank = 2
 mercantilism = 0.1
-primary_culture = north_germanic
+primary_culture = istvaeonic
 religion = germanic
 technology_group = barbarian
 unit_type = gauls

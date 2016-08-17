@@ -1,7 +1,7 @@
 #155 - Békés
 
-culture = austrian
-religion = germanic
+culture = dacian
+religion = illyrian_religion
 capital = "Gyula"
 trade_goods = naval_supplies
 hre = no
@@ -13,4 +13,5 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = scythian_group
 
+4850.1.1 = { culture = east_germanic religion = germanic }
 4900.1.1 = { owner = LAZ controller = LAZ add_core = LAZ is_city = yes trade_goods = naval_supplies }

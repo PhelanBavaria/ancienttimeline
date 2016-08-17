@@ -1,9 +1,10 @@
 government = migratory_tribe
 mercantilism = 0.1
-primary_culture = burgundione
+primary_culture = north_germanic
 religion = germanic
 technology_group = barbarian
 unit_type = gauls
 capital = 258
 
+4681.1.1 = { primary_culture = east_germanic }
 4900.1.1 = { government = tribal_despotism }

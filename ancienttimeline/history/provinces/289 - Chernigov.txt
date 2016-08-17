@@ -1,6 +1,6 @@
 #289 - Chernigov
  
-culture = ruthenian
+culture = venedic
 religion = slavic
 hre = no
 base_tax = 2

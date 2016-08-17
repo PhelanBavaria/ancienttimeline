@@ -1,6 +1,6 @@
 #2434 - Talas
 
-culture = kirgiz
+culture = sogdian
 religion = tengri_pagan_reformed
 capital = "Talas"
 trade_goods = iron

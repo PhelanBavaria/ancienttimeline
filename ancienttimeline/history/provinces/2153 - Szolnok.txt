@@ -1,7 +1,7 @@
 #Acholiland
 
-culture = austrian
-religion = germanic
+culture = dacian
+religion = illyrian_religion
 capital = "Gulu"
 native_size = 90
 trade_goods = unknown
@@ -12,4 +12,5 @@ base_manpower = 2
 native_ferocity = 4.5
 native_hostileness = 9 
 
+4850.1.1 = { culture = east_germanic religion = germanic }
 4900.1.1 = { owner = LAZ controller = LAZ add_core = LAZ is_city = yes trade_goods = naval_supplies }

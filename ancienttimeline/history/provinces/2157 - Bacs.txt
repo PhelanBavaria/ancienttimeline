@@ -1,7 +1,7 @@
 #Chari
 
-culture = kanuri
-religion = zamolxism
+culture = illyrian
+religion = illyrian_religion
 capital = "Sarh"
 native_size = 90
 trade_goods = unknown

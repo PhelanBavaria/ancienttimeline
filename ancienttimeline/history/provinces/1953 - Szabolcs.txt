@@ -1,7 +1,7 @@
 #1953 - Szabolcs
 
-culture = gepid
-religion = germanic
+culture = dacian
+religion = zamolxism
 capital = "Debrecen"
 trade_goods = naval_supplies
 hre = no
@@ -13,4 +13,5 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = scythian_group
 
+4850.1.1 = { culture = east_germanic religion = germanic }
 4900.1.1 = { owner = BRI controller = BRI add_core = BRI is_city = yes trade_goods = naval_supplies }

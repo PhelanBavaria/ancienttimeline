@@ -1,6 +1,6 @@
 #2602 - Przemysl
 
-culture = gepid
+culture = east_germanic
 religion = germanic
 capital = "Peremyshl"
 hre = no
