@@ -1175,3 +1175,41 @@ AKK_ideas = {
 		legitimacy = 1.5
 	}
 }
+
+BAB_ideas = {
+	start = {
+		recover_army_morale_speed = 0.10
+		vassal_income = 0.35
+	}
+
+	bonus = {
+		war_exhaustion = -0.03
+	}
+	
+	trigger = {
+		tag = BAB
+	}
+	free = yes		#wibe added at load.
+	
+	warriors_of_the_levant = {
+		land_morale = 0.10
+	}
+	hammurabis_code = {
+		global_unrest = -1
+	}
+	sumerian_technology_babylon = {
+		adm_tech_cost_modifier = -0.05
+	}
+	grand_ziggurats_babylon = {
+		global_trade_power = 0.05
+	}
+	son_of_baal = {
+		legitimacy = 1
+	}
+	defend_southern_mesopotamia = {
+		defensiveness = 0.25
+	}
+	hanging_gardens_of_babylon = {
+		prestige = 1
+	}
+}
