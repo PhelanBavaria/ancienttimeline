@@ -1137,3 +1137,41 @@ CHC_ideas = {
 		global_unrest = -2
 	}
 }
+
+AKK_ideas = {
+	start = {
+		land_attrition = -0.10
+		land_morale = 0.05
+	}
+
+	bonus = {
+		idea_cost = -0.10
+	}
+	
+	trigger = {
+		tag = AKK
+	}
+	free = yes		#wibe added at load.
+	
+	billingual_empire = {
+		accepted_culture_threshold = -0.15
+	}
+	bronze_weaponry_akkadia = {
+		leader_land_fire = 1
+	}
+	sumerian_technology_akkadia = {
+		adm_tech_cost_modifier = -0.05
+	}
+	asian_contacts = {
+		global_trade_power = 0.05
+	}
+	grand_ziggurats_akkadia = {
+		global_tax_modifier = 0.10
+	}
+	supress_revolts_akkadia = {
+		global_unrest = -1
+	}
+	first_empire = {
+		legitimacy = 1.5
+	}
+}
