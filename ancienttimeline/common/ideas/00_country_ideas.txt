@@ -1253,3 +1253,41 @@ QIC_ideas = {
 		diplomats = 2
 	}
 }
+
+YAN_ideas = {
+	start = {
+		recover_army_morale_speed = 0.10
+		heir_chance = 0.50
+	}
+
+	bonus = {
+		development_cost = -0.10
+	}
+	
+	trigger = {
+		tag = YAN
+	}
+	free = yes		#wibe added at load.
+	
+	yue_yi = {
+		army_tradition = 0.005
+	}
+	expansion_into_korea_yan = {
+		core_creation = -0.20
+	}
+	great_walls_yan = {
+		defensiveness = 0.10
+	}
+	skilled_covert_agents_yan = {
+		spy_offence = 0.2
+	}
+	knife_money = {
+		global_tax_modifier = 0.10
+	}
+	yellow_river = {
+		trade_steering = 0.30
+	}
+	vertical_alliances = {
+		diplomatic_reputation = 1
+	}
+}
