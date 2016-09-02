@@ -1291,3 +1291,41 @@ YAN_ideas = {
 		diplomatic_reputation = 1
 	}
 }
+
+HAN_ideas = {
+	start = {
+		defensiveness = 0.15
+		stability_cost_modifier = -0.10
+	}
+
+	bonus = {
+		war_exhaustion_cost = -0.25
+	}
+	
+	trigger = {
+		tag = HAN
+	}
+	free = yes		#wibe added at load.
+	
+	shen_buhai = {
+		technology_cost = -0.05
+	}
+	experienced_warriors_han = {
+		discipline = 0.05
+	}
+	xiaokang_society = {
+		global_tax_modifier = 0.20
+	}
+	three_jins = {
+		legitimacy = 1
+	}
+	taihang_mountains = {
+		hostile_attrition = 1
+	}
+	hanyuan = {
+		development_cost = -0.10
+	}
+	ever_shifting_alliances_han = {
+		diplomatic_upkeep = 1
+	}
+}
