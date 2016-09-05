@@ -16,4 +16,6 @@ discovered_by = mediterranean
 discovered_by = middle_eastern
 
 4600.1.1 = { owner = CTT controller = CTT add_core = CTT citysize = 1000 trade_goods = wine discovered_by = hispanian }
+4772.1.1 = { owner = CTH controller = CTH add_core = CTH }
+4799.1.1 = { owner = CTT controller = CTT add_core = CTT }
 4799.1.1 = { owner = ROM controller = ROM add_core = ROM }
