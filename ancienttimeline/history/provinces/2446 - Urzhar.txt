@@ -3,7 +3,7 @@
 owner = WUS
 controller = WUS
 add_core = WUS
-citysize = 1000
+is_city = yes
 culture = turkish
 religion = tengri_pagan_reformed
 capital = "Urzhar"

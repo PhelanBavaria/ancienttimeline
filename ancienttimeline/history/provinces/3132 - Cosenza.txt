@@ -10,7 +10,7 @@ base_manpower = 2
 capital = "Cosentia"
 citysize = 2600
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern

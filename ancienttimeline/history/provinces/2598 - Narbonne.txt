@@ -15,5 +15,5 @@ discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 
-4600.1.1 = { owner = TEC controller = TEC add_core = TEC citysize = 1000 trade_goods = naval_supplies discovered_by = hispanian discovered_by = gauls }
+4600.1.1 = { owner = TEC controller = TEC add_core = TEC is_city = yes trade_goods = naval_supplies discovered_by = hispanian discovered_by = gauls }
 4900.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -22,5 +22,5 @@ discovered_by = north_african
 		}
 }
 
-3785.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
+3785.1.1 = { owner = CTH controller = CTH add_core = CTH is_city = yes religion = punic_religion culture = punic }
 4854.1.1 = { owner = ROM controller = ROM add_core = ROM }

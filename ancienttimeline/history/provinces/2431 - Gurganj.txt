@@ -1,9 +1,9 @@
 #2431 - Gurganj
 
-owner = ROW
-controller = ROW
-add_core = ROW
-citysize = 1000
+
+
+
+is_city = yes
 culture = saka
 religion = zoroastrian
 capital = "Gurganj"

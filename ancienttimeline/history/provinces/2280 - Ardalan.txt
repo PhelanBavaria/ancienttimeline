@@ -1,7 +1,7 @@
 #2280 - Ardalan
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Sanandaj"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 citysize = 1066
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 

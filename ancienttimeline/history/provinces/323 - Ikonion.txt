@@ -1,7 +1,7 @@
 #323 - Ikonion
 
-owner = ROW
-controller = ROW
+
+
 culture = cappadocian
 religion = hellenism
 capital = "Ikonion"
@@ -11,10 +11,10 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 citysize = 1333
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

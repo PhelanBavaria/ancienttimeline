@@ -10,14 +10,14 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 4
-citysize = 1000
+is_city = yes
 add_core = CRH
 add_core = MCD
 discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 4662.8.2 = { owner = MCD controller = MCD add_core = MCD }
 4712.1.1 = { owner = THR controller = THR }

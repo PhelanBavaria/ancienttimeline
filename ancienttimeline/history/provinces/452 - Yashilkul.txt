@@ -1,7 +1,7 @@
 #452 - Yashilkul
 
-owner = ROW
-controller = ROW
+
+
 culture = bactrian
 religion = mahayana
 capital = "Yashilkul"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1055
-add_core = ROW
+
 discovered_by = nomad_group
 discovered_by = middle_eastern
 

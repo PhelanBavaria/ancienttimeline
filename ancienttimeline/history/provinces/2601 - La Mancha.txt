@@ -13,7 +13,7 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = north_african
 
-4600.1.1 = { owner = CRP controller = CRP add_core = CRP citysize = 1000 trade_goods = wool discovered_by = hispanian }
+4600.1.1 = { owner = CRP controller = CRP add_core = CRP is_city = yes trade_goods = wool discovered_by = hispanian }
 4772.1.1 = { owner = CTH controller = CTH add_core = CTH }
 4799.1.1 = { owner = CRP controller = CRP add_core = CRP }
 4800.1.1 = { discovered_by = ROM }

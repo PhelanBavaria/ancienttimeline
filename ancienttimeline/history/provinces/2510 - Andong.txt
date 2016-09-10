@@ -3,7 +3,7 @@
 owner = GOJ
 controller = GOJ
 add_core = GOJ
-citysize = 1000
+is_city = yes
 culture = korean
 religion = muism
 capital = "Andong"

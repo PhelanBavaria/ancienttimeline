@@ -12,5 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4500.1.1 = { owner = SNO controller = SNO add_core = SNO citysize = 1000 trade_goods = grain discovered_by = gauls }
+4500.1.1 = { owner = SNO controller = SNO add_core = SNO is_city = yes trade_goods = grain discovered_by = gauls }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }

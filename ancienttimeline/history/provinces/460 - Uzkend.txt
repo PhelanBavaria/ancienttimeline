@@ -1,9 +1,9 @@
 #460 - Uzkend
 
-owner = ROW
-controller = ROW
-add_core = ROW
-citysize = 1000
+
+
+
+is_city = yes
 culture = bactrian
 religion = tengri_pagan_reformed
 capital = "Uzkend"

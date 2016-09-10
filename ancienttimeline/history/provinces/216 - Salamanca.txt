@@ -12,6 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = VTT controller = VTT add_core = VTT citysize = 1000 trade_goods = grain discovered_by = hispanian }
+4600.1.1 = { owner = VTT controller = VTT add_core = VTT is_city = yes trade_goods = grain discovered_by = hispanian }
 4900.1.1 = { discovered_by = ROM }
 4925.1.1 = { owner = ROM controller = ROM add_core = ROM }

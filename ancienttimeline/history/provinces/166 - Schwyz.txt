@@ -16,5 +16,5 @@ discovered_by = mediterranean
 discovered_by = east_celtic
 discovered_by = gauls
 
-4609.1.1 = { owner = INS controller = INS add_core = INS citysize = 1000 trade_goods = iron }
+4609.1.1 = { owner = INS controller = INS add_core = INS is_city = yes trade_goods = iron }
 4807.1.1 = { owner = ROM controller = ROM add_core = ROM }

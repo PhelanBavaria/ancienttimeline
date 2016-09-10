@@ -10,4 +10,4 @@ base_manpower = 2
 capital = "Zhytomyr"
 discovered_by = scythian_group
 
-4700.1.1 = { owner = BAS controller = BAS add_core = BAS citysize = 1000 trade_goods = grain }
+4700.1.1 = { owner = BAS controller = BAS add_core = BAS is_city = yes trade_goods = grain }

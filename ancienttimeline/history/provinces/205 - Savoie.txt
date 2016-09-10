@@ -12,5 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4500.1.1 = { owner = ABR controller = ABR add_core = ABR citysize = 1000 trade_goods = cloth discovered_by = gauls discovered_by = east_celtic }
+4500.1.1 = { owner = ABR controller = ABR add_core = ABR is_city = yes trade_goods = cloth discovered_by = gauls discovered_by = east_celtic }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }

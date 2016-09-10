@@ -1,8 +1,8 @@
 #440 - Saka Tigrakhauda
 
-owner = ROW
-controller = ROW
-add_core = ROW
+
+
+
 citysize = 1500
 culture = saka
 religion = zoroastrian

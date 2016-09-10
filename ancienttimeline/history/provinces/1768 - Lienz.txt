@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4500.1.1 = { owner = AMV controller = AMV add_core = AMV citysize = 1000 trade_goods = iron }
+4500.1.1 = { owner = AMV controller = AMV add_core = AMV is_city = yes trade_goods = iron }
 4800.1.1 = { owner = NOI controller = NOI add_core = NOI }

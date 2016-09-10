@@ -3,7 +3,7 @@
 owner = SIR
 controller = SIR
 add_core = SIR
-citysize = 1000
+is_city = yes
 culture = circassian
 religion = scythian_religion
 capital = "Kabardia"

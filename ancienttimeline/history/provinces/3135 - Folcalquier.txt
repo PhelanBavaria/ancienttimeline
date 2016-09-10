@@ -15,5 +15,5 @@ discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 
-4600.1.1 = { owner = SUV controller = SUV add_core = SUV citysize = 1000 trade_goods = fish discovered_by = gauls discovered_by = east_celtic }
+4600.1.1 = { owner = SUV controller = SUV add_core = SUV is_city = yes trade_goods = fish discovered_by = gauls discovered_by = east_celtic }
 4879.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -19,7 +19,7 @@ discovered_by = north_african
             duration = -1
         }
 }
-4600.1.1 = { owner = TUT controller = TUT add_core = TUT citysize = 1000 trade_goods = wine discovered_by = hispanian }
+4600.1.1 = { owner = TUT controller = TUT add_core = TUT is_city = yes trade_goods = wine discovered_by = hispanian }
 4772.1.1 = { owner = CTH controller = CTH add_core = CTH }
 4799.1.1 = { owner = TUT controller = TUT add_core = TUT }
 4800.1.1 = { discovered_by = ROM }

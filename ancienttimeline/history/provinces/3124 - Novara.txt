@@ -16,5 +16,5 @@ discovered_by = mediterranean
 discovered_by = east_celtic
 discovered_by = gauls
 
-4609.1.1 = { owner = LII controller = LII add_core = LII citysize = 1000 trade_goods = grain }
+4609.1.1 = { owner = LII controller = LII add_core = LII is_city = yes trade_goods = grain }
 4797.1.1 = { owner = ROM controller = ROM add_core = ROM }

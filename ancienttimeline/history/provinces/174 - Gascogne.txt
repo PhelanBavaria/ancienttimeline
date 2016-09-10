@@ -18,6 +18,6 @@ native_hostileness = 6
             duration = -1
         }
 }
-4600.1.1 = { owner = VIV controller = VIV add_core = VIV citysize = 1000 trade_goods = fish discovered_by = hispanian discovered_by = gauls }
+4600.1.1 = { owner = VIV controller = VIV add_core = VIV is_city = yes trade_goods = fish discovered_by = hispanian discovered_by = gauls }
 4900.1.1 = { discovered_by = ROM }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM }

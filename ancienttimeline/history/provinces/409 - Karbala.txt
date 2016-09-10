@@ -3,7 +3,7 @@
 owner = AKK
 controller = AKK
 add_core = AKK
-citysize = 1000
+is_city = yes
 culture = assyrian
 religion = ashurism
 capital = "Kish"

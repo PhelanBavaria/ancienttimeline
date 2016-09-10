@@ -15,7 +15,7 @@ add_core = IBE
 discovered_by = middle_eastern
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = IBE }
 4669.6.3 = { owner = IBE controller = IBE add_core = IBE remove_core = ACA }

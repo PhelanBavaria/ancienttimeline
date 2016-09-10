@@ -1,7 +1,7 @@
 #448 - Gazni
 
-owner = ROW
-controller = ROW
+
+
 culture = avestan
 religion = mahayana
 capital = "Gazni"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 citysize = 1596
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 discovered_by = nomad_group

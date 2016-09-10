@@ -1,7 +1,7 @@
 #454 - Samarkand
 
-owner = ROW
-controller = ROW
+
+
 culture = sogdian
 religion = mahayana
 capital = "Samarkand"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 2211
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = nomad_group
 discovered_by = indian

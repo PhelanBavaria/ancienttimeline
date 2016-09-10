@@ -12,4 +12,4 @@ base_manpower = 2
 native_ferocity = 4.5
 native_hostileness = 9 
 
-4600.1.1 = { owner = NGN controller = NGN add_core = NGN citysize = 1000 trade_goods = grain discovered_by = british }
+4600.1.1 = { owner = NGN controller = NGN add_core = NGN is_city = yes trade_goods = grain discovered_by = british }

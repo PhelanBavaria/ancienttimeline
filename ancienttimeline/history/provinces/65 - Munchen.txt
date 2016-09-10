@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4400.1.1 = { owner = LIZ controller = LIZ add_core = LIZ citysize = 1000 trade_goods = grain }
+4400.1.1 = { owner = LIZ controller = LIZ add_core = LIZ is_city = yes trade_goods = grain }
 4800.1.1 = { owner = VIN controller = VIN add_core = VIN }

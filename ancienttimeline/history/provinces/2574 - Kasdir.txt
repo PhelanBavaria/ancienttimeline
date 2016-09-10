@@ -11,5 +11,5 @@ base_manpower = 2
 citysize = 1040
 discovered_by = north_african
 
-4600.1.1 = { owner = MES controller = MES add_core = MES citysize = 1000 }
-4798.1.1 = { owner = NMD controller = NMD add_core = NMD citysize = 1000 religion = african culture = berber }
+4600.1.1 = { owner = MES controller = MES add_core = MES is_city = yes }
+4798.1.1 = { owner = NMD controller = NMD add_core = NMD is_city = yes religion = african culture = berber }

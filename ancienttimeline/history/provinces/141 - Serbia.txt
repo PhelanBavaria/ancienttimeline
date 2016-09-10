@@ -13,4 +13,4 @@ native_ferocity = 6
 native_hostileness = 6
 
 4350.1.1 = { owner = ILL controller = ILL add_core = ILL trade_goods = grain}
-4664.1.1 = { owner = DAC controller = DAC add_core = DAC citysize = 1000 trade_goods = grain }
+4664.1.1 = { owner = DAC controller = DAC add_core = DAC is_city = yes trade_goods = grain }

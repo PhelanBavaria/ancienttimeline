@@ -22,5 +22,5 @@ native_hostileness = 6
 			duration = -1
 		}
 }
-4600.1.1 = { owner = ERG controller = ERG add_core = ERG citysize = 1000 trade_goods = grain  discovered_by = british }
+4600.1.1 = { owner = ERG controller = ERG add_core = ERG is_city = yes trade_goods = grain  discovered_by = british }
 5043.1.1 = { owner = ROM controller = ROM add_core = ROM }

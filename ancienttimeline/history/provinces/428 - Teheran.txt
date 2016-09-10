@@ -1,7 +1,7 @@
 #428 - Teheran
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Rey"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 2947
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 

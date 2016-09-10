@@ -9,8 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1040
-discovered_by = ROM
-discovered_by = ROW
 discovered_by = north_african
 
-4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }
+4600.1.1 = { owner = GAE controller = GAE add_core = GAE is_city = yes }

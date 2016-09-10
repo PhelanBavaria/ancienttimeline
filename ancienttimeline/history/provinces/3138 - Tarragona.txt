@@ -15,7 +15,7 @@ discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 
-4600.1.1 = { owner = ILR controller = ILR add_core = ILR citysize = 1000 trade_goods = wine discovered_by = hispanian discovered_by = gauls }
+4600.1.1 = { owner = ILR controller = ILR add_core = ILR is_city = yes trade_goods = wine discovered_by = hispanian discovered_by = gauls }
 4772.1.1 = { owner = CTH controller = CTH add_core = CTH }
 4799.1.1 = { owner = ILR controller = ILR add_core = ILR }
 4799.1.1 = { owner = ROM controller = ROM add_core = ROM }

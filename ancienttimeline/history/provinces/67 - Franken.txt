@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4500.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = wine }
+4500.1.1 = { owner = BII controller = BII add_core = BII is_city = yes trade_goods = wine }
 4600.1.1 = { owner = VCE controller = VCE add_core = VCE culture = volcaean }

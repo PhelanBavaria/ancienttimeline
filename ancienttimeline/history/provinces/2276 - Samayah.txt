@@ -3,7 +3,7 @@
 owner = SUM
 controller = SUM
 add_core = SUM
-citysize = 1000
+is_city = yes
 culture = babylonian
 religion = ashurism
 capital = "Uruk"

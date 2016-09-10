@@ -14,7 +14,7 @@ citysize = 1733
 add_core = CTH
 discovered_by = north_african
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 
 2.1.1 = {

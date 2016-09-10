@@ -12,7 +12,7 @@ citysize = 6000
 discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
-discovered_by = celtiberians
+
 
 4266.1.1 = { owner = SYC controller = SYC add_core = SYC }
 4736.1.1 = { owner = ROM controller = ROM add_core = ROM }

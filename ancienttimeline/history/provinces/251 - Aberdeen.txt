@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4900.1.1 = { owner = TAE controller = TAE add_core = TAE citysize = 1000 trade_goods = fish  discovered_by = british }
+4900.1.1 = { owner = TAE controller = TAE add_core = TAE is_city = yes trade_goods = fish  discovered_by = british }

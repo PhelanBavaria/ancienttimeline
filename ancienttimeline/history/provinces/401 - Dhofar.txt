@@ -11,4 +11,4 @@ base_manpower = 3
 discovered_by = middle_eastern
 discovered_by = indian
 
-3800.1.1 = { owner = HDR controller = HDR add_core = HDR citysize = 1000 trade_goods = spices }
+3800.1.1 = { owner = HDR controller = HDR add_core = HDR is_city = yes trade_goods = spices }

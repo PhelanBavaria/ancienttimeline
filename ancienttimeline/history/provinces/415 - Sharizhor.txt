@@ -14,7 +14,7 @@ add_core = ASY
 discovered_by = middle_eastern
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }
 4669.9.12 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }

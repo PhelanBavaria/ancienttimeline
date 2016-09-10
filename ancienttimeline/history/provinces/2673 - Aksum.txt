@@ -1,6 +1,6 @@
 #2673 - Aksum
 
-citysize = 1000
+is_city = yes
 culture = aksumite
 religion = south_arabian
 capital = "Axum"
@@ -10,4 +10,3 @@ hre = no
 base_tax = 2
 base_production = 2
 fort_15th = yes
-discovered_by = AKS

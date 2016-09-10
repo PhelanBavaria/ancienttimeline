@@ -15,7 +15,7 @@ discovered_by = scythian_group
 discovered_by = middle_eastern
 discovered_by = mediterranean
 
-4484.1.1 = { owner = ACA controller = ACA add_core = ACA city_size = 1000 trade_goods = fish}
+4484.1.1 = { owner = ACA controller = ACA add_core = ACA is_city = yes trade_goods = fish}
 4540.1.1 = { owner = ODR controller = ODR add_core = ODR }
 4658.1.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4698.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }

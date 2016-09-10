@@ -1,7 +1,7 @@
 #578 - Roh
 
-owner = ROW
-controller = ROW
+
+
 culture = avestan
 religion = vedism
 capital = "Vaekerata"
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 3
 citysize = 2237
 fort_15th = yes
-add_core = ROW
+
 discovered_by = indian
 discovered_by = middle_eastern
 discovered_by = nomad_group

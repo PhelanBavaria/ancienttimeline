@@ -10,12 +10,12 @@ base_production = 2
 base_manpower = 3
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = indian
 discovered_by = north_african
 discovered_by = middle_eastern
 
-3450.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
+3450.1.1 = { owner = EGY controller = EGY add_core = EGY is_city = yes religion = egyptian }
 3700.1.1 = { owner = MOA controller = MOA add_core = MOA citysize = 3000 trade_goods = grain }
 4600.1.1 = { owner = QED controller = QED add_core = QED remove_core = MOA }
 4800.1.1 = { owner = NAB controller = NAB add_core = NAB remove_core = QED capital = "Kharkha" }

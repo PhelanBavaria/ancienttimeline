@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 citysize = 4250
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = middle_eastern
 discovered_by = scythian_group

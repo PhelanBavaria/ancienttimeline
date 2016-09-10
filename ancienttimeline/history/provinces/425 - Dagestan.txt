@@ -3,7 +3,7 @@
 owner = CLB
 controller = CLB
 add_core = CLB
-citysize = 1000
+is_city = yes
 culture = albanian_caucasian
 religion = zoroastrian
 capital = "Balanjar"

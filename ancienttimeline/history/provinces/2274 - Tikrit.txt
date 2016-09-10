@@ -15,7 +15,7 @@ add_core = ASU
 discovered_by = middle_eastern
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 2400.1.1 = { owner = ASY controller = ASY add_core = ASY remove_core = ASU }
 2666.1.1 = { owner = AKK controller = AKK add_core = AKK }

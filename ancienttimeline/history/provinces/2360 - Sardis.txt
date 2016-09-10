@@ -1,7 +1,7 @@
 #2360 - Sardis
 
-owner = ROW
-controller = ROW
+
+
 culture = ionic_greek
 religion = hellenism
 capital = "Sardis"
@@ -11,9 +11,9 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 citysize = 1575
-add_core = ROW
+
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = middle_eastern
 

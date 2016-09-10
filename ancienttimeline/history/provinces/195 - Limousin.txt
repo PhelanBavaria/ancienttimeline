@@ -12,5 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = LMV controller = LMV add_core = LMV citysize = 1000 trade_goods = grain discovered_by = gauls }
+4600.1.1 = { owner = LMV controller = LMV add_core = LMV is_city = yes trade_goods = grain discovered_by = gauls }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }

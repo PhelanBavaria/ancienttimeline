@@ -23,7 +23,7 @@ discovered_by = gauls
     add_core = IBI
     culture = boian
     religion = druidism
-    citysize = 1000
+    is_city = yes
     trade_goods = wine
 }
 

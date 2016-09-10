@@ -1,7 +1,7 @@
 #426 - Mazandaran
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Sari"
@@ -10,8 +10,8 @@ hre = no
 base_tax = 2
 base_production = 3
 base_manpower = 3
-citysize = 1000
-add_core = ROW
+is_city = yes
+
 discovered_by = middle_eastern
 discovered_by = indian
 discovered_by = scythian_group

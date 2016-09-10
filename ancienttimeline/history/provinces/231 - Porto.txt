@@ -18,6 +18,6 @@ native_hostileness = 6
             duration = -1
         }
 }
-4600.1.1 = { owner = CLL controller = CLL add_core = CLL citysize = 1000 trade_goods = wine discovered_by = hispanian }
+4600.1.1 = { owner = CLL controller = CLL add_core = CLL is_city = yes trade_goods = wine discovered_by = hispanian }
 4900.1.1 = { discovered_by = ROM }
 4925.1.1 = { owner = ROM controller = ROM add_core = ROM }

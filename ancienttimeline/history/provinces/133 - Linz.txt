@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4600.1.1 = { owner = SVC controller = SVC add_core = SVC citysize = 1000 trade_goods = grain }
+4600.1.1 = { owner = SVC controller = SVC add_core = SVC is_city = yes trade_goods = grain }
 4800.1.1 = { owner = NOI controller = NOI add_core = NOI trade_goods = grain }

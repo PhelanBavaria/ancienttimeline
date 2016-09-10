@@ -1,7 +1,7 @@
 #1848 - Diospolis
 
-owner = ROW
-controller = ROW
+
+
 culture = ionic_greek
 religion = hellenism
 capital = "Diospolis"
@@ -11,9 +11,9 @@ base_tax = 3
 base_production = 4
 base_manpower = 4
 citysize = 1815
-add_core = ROW
+
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = middle_eastern
 

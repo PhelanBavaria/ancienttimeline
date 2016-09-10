@@ -1,7 +1,7 @@
 #2294 - Bojnord
 
-owner = ROW
-controller = ROW
+
+
 culture = parthian
 religion = zoroastrian
 capital = "Bojnord"
@@ -10,8 +10,8 @@ hre = no
 base_tax = 2
 base_production = 3
 base_manpower = 3
-citysize = 1000
-add_core = ROW
+is_city = yes
+
 discovered_by = middle_eastern
 discovered_by = nomad_group
 discovered_by = indian

@@ -1,9 +1,9 @@
 #442 - Bukhara
 
-owner = ROW
-controller = ROW
-add_core = ROW
-citysize = 1000
+
+
+
+is_city = yes
 culture = sogdian
 religion = zoroastrian
 capital = "Bukhara"

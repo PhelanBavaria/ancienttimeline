@@ -1,7 +1,7 @@
 #414 - Hamadan
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Ecbatana"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 citysize = 1066
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 

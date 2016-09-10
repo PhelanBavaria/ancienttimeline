@@ -15,4 +15,4 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4300.1.1 = { owner = VCE controller = VCE add_core = VCE citysize = 1000 trade_goods = grain }
+4300.1.1 = { owner = VCE controller = VCE add_core = VCE is_city = yes trade_goods = grain }

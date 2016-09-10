@@ -10,13 +10,13 @@ base_production = 2
 base_manpower = 2
 discovered_by = middle_eastern
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = indian
 discovered_by = north_african
 
-1900.1.1 = { owner = UEG controller = UEG add_core = UEG citysize = 1000 religion = egyptian }
-2000.1.1 = { owner = EGY controller = EGY add_core = EGY citysize = 1000 religion = egyptian }
+1900.1.1 = { owner = UEG controller = UEG add_core = UEG is_city = yes religion = egyptian }
+2000.1.1 = { owner = EGY controller = EGY add_core = EGY is_city = yes religion = egyptian }
 4472.8.15 = { owner = ACA controller = ACA add_core = ACA }
 4668.10.3 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4695.6.2 = { owner = PTL controller = PTL add_core = PTL remove_core = MCD }

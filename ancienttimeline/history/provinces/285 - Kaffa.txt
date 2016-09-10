@@ -1,7 +1,7 @@
 #285 - Cimmeria
 
-owner = ROW
-controller = ROW
+
+
 culture = pontic_greek
 religion = hellenism
 hre = no
@@ -10,10 +10,10 @@ base_production = 3
 trade_goods = wine
 base_manpower = 2
 capital = "Pantikapaeon"
-citysize = 1000
-add_core = ROW
+is_city = yes
+
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = scythian_group
 discovered_by = middle_eastern

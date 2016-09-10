@@ -14,4 +14,4 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4500.1.1 = { owner = RAE controller = RAE add_core = RAE citysize = 1000 trade_goods = wool }
+4500.1.1 = { owner = RAE controller = RAE add_core = RAE is_city = yes trade_goods = wool }

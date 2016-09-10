@@ -1,7 +1,7 @@
 #431 - Mogostan
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Hormoz"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 citysize = 1801
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 

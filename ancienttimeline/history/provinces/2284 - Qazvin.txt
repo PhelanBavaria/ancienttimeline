@@ -1,7 +1,7 @@
 #2284 - Qazvin
 
-owner = ROW
-controller = ROW
+
+
 culture = persian
 religion = zoroastrian
 capital = "Rhaga"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 3
 citysize = 2947
-add_core = ROW
+
 discovered_by = middle_eastern
 
 4461.7.20 = { owner = ACA controller = ACA add_core = ACA }

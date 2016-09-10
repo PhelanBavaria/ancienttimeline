@@ -12,6 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4600.1.1 = { owner = LUI controller = LUI add_core = LUI citysize = 1000 trade_goods = wine discovered_by = hispanian }
+4600.1.1 = { owner = LUI controller = LUI add_core = LUI is_city = yes trade_goods = wine discovered_by = hispanian }
 4850.1.1 = { discovered_by = ROM }
 4877.1.1 = { owner = ROM controller = ROM add_core = ROM }

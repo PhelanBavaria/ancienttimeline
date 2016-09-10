@@ -1,7 +1,7 @@
 #2303 - Zamindawar
 
-owner = ROW
-controller = ROW
+
+
 culture = avestan
 religion = zunism
 capital = "Musa Qala"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 citysize = 1404
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 discovered_by = nomad_group

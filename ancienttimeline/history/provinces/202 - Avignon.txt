@@ -15,5 +15,5 @@ discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 
-4500.1.1 = { owner = VOC controller = VOC add_core = VOC citysize = 1000 trade_goods = cloth discovered_by = gauls discovered_by = east_celtic }
+4500.1.1 = { owner = VOC controller = VOC add_core = VOC is_city = yes trade_goods = cloth discovered_by = gauls discovered_by = east_celtic }
 4879.1.1 = { owner = ROM controller = ROM add_core = ROM }

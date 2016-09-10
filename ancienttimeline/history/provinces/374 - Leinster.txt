@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4500.1.1 = { owner = COI controller = COI add_core = COI citysize = 1000 trade_goods = gold discovered_by = british }
+4500.1.1 = { owner = COI controller = COI add_core = COI is_city = yes trade_goods = gold discovered_by = british }

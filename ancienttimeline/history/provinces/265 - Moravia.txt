@@ -14,6 +14,6 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4700.1.1 = { owner = BII controller = BII add_core = BII citysize = 1000 trade_goods = grain  }
+4700.1.1 = { owner = BII controller = BII add_core = BII is_city = yes trade_goods = grain  }
 4850.1.1 = { owner = XXX controller = XXX citysize = 0 trade_goods = unknown religion = germanic culture = irmionic }
-4851.1.1 = { owner = NAH controller = NAH add_core = NAH citysize = 1000 trade_goods = grain }
+4851.1.1 = { owner = NAH controller = NAH add_core = NAH is_city = yes trade_goods = grain }

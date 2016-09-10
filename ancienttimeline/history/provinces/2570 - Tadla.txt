@@ -11,5 +11,5 @@ base_manpower = 2
 citysize = 1303
 discovered_by = north_african
 
-4600.1.1 = { owner = GAE controller = GAE add_core = GAE citysize = 1000 }
-4710.1.1 = { owner = MRU controller = MRU add_core = MRU citysize = 1000 }
+4600.1.1 = { owner = GAE controller = GAE add_core = GAE is_city = yes }
+4710.1.1 = { owner = MRU controller = MRU add_core = MRU is_city = yes }

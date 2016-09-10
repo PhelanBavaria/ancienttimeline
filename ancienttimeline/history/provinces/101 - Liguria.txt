@@ -17,6 +17,6 @@ discovered_by = middle_eastern
 discovered_by = east_celtic
 discovered_by = gauls
 
-4600.1.1 = { owner = ING controller = ING add_core = ING citysize = 1000 trade_goods = naval_supplies }
+4600.1.1 = { owner = ING controller = ING add_core = ING is_city = yes trade_goods = naval_supplies }
 4797.1.1 = { owner = ROM controller = ROM add_core = ROM }
 

@@ -3,7 +3,7 @@
 owner = MAE
 controller = MAE
 add_core = MAE
-citysize = 1000
+is_city = yes
 culture = circassian
 religion = scythian_religion
 hre = no

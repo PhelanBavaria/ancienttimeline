@@ -12,5 +12,5 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4400.1.1 = { owner = BLL controller = BLL add_core = BLL citysize = 1000 trade_goods = grain discovered_by = gauls discovered_by = barbarian }
+4400.1.1 = { owner = BLL controller = BLL add_core = BLL is_city = yes trade_goods = grain discovered_by = gauls discovered_by = barbarian }
 4950.1.1 = { owner = ROM controller = ROM add_core = ROM discovered_by = ROM }

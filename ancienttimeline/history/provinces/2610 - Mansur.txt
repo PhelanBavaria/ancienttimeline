@@ -3,7 +3,7 @@
 owner = SCY
 controller = SCY
 add_core = SCY
-citysize = 1000
+is_city = yes
 culture = scythian
 religion = scythian_religion
 hre = no

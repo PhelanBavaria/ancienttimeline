@@ -13,4 +13,4 @@ native_ferocity = 4.5
 native_hostileness = 9 
 discovered_by = scythian_group
 
-4664.1.1 = { owner = DAC controller = DAC add_core = DAC citysize = 1000 trade_goods = wool }
+4664.1.1 = { owner = DAC controller = DAC add_core = DAC is_city = yes trade_goods = wool }

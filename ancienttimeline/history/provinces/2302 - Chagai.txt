@@ -1,7 +1,7 @@
 #2302 - Chagai
 
-owner = ROW
-controller = ROW
+
+
 culture = gedrosian
 religion = zoroastrian
 capital = "Dalbandin"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 citysize = 1690
-add_core = ROW
+
 discovered_by = indian
 discovered_by = middle_eastern
 

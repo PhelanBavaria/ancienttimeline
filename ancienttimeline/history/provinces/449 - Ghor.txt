@@ -1,7 +1,7 @@
 #449 - Ghor
 
-owner = ROW
-controller = ROW
+
+
 culture = avestan
 religion = mahayana
 capital = "Ahangaran"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 citysize = 1072
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 discovered_by = nomad_group

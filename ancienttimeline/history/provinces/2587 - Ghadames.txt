@@ -12,4 +12,4 @@ base_manpower = 2
 discovered_by = mediterranean
 discovered_by = north_african
 
-4600.1.1 = { owner = GAR controller = GAR add_core = GAR citysize = 1000 }
+4600.1.1 = { owner = GAR controller = GAR add_core = GAR is_city = yes }

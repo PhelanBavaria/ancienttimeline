@@ -1,8 +1,8 @@
 #2292 - Kizil-Su
 
-owner = ROW
-controller = ROW
-add_core = ROW
+
+
+
 culture = saka
 religion = zoroastrian
 capital = "Kizil-Su"

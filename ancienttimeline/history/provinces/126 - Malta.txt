@@ -8,10 +8,10 @@ base_production = 2
 trade_goods = unknown
 base_manpower = 2
 capital = "Melita" 
-citysize = 1000
+is_city = yes
 discovered_by = north_african
 discovered_by = mediterranean
 discovered_by = middle_eastern
 
-4668.1.1 = { owner = CTH controller = CTH add_core = CTH citysize = 1000 religion = punic_religion culture = punic }
+4668.1.1 = { owner = CTH controller = CTH add_core = CTH is_city = yes religion = punic_religion culture = punic }
 4799.1.1 = { owner = ROM controller = ROM add_core = ROM  }

@@ -13,4 +13,4 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = scythian_group
 
-4730.1.1 = { owner = OSX controller = OSX add_core = OSX citysize = 1000 trade_goods = naval_supplies }
+4730.1.1 = { owner = OSX controller = OSX add_core = OSX is_city = yes trade_goods = naval_supplies }

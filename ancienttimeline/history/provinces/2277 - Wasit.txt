@@ -15,7 +15,7 @@ add_core = SUM
 discovered_by = middle_eastern
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 2666.1.1 = { owner = AKK controller = AKK add_core = AKK }
 2807.1.1 = { owner = SUM controller = SUM add_core = SUM remove_core = AKK }

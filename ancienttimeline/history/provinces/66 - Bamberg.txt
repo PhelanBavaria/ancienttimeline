@@ -14,4 +14,4 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4730.1.1 = { owner = MRM controller = MRM add_core = MRM citysize = 1000 trade_goods = unknown }
+4730.1.1 = { owner = MRM controller = MRM add_core = MRM is_city = yes trade_goods = unknown }

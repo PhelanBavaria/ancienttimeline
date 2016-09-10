@@ -15,7 +15,7 @@ add_core = URK
 discovered_by = middle_eastern
 discovered_by = mediterranean
 discovered_by = barbarian
-discovered_by = celtiberians
+
 
 2750.1.1 = { owner = MAR controller = MAR add_core = MAR }
 3239.1.1 = { owner = BAB controller = BAB add_core = BAB }

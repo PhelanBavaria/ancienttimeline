@@ -3,7 +3,7 @@
 owner = YZH
 controller = YZH
 add_core = YZH
-citysize = 1000
+is_city = yes
 culture = tocharian
 religion = tengri_pagan_reformed
 capital = "Ili"

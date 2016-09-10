@@ -14,5 +14,5 @@ native_hostileness = 6
 
 discovered_by = east_celtic
 
-4500.1.1 = { owner = AMC controller = AMC add_core = AMC citysize = 1000 trade_goods = copper }
+4500.1.1 = { owner = AMC controller = AMC add_core = AMC is_city = yes trade_goods = copper }
 4800.1.1 = { owner = NOI controller = NOI add_core = NOI }

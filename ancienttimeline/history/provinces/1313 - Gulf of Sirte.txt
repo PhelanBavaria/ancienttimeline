@@ -1,7 +1,7 @@
 #Gulf of Sirte
 
 discovered_by = barbarian
-discovered_by = celtiberians
+
 discovered_by = mediterranean
 discovered_by = north_african
 discovered_by = middle_eastern

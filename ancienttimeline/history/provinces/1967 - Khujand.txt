@@ -1,8 +1,8 @@
 #1967 - Khujand
 
-owner = ROW
-controller = ROW
-add_core = ROW
+
+
+
 culture = sogdian
 religion = tengri_pagan_reformed
 capital = "Cyropolis"

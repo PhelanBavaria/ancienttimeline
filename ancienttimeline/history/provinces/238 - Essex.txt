@@ -12,4 +12,4 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4700.1.1 = { owner = TOV controller = TOV add_core = TOV citysize = 1000 trade_goods = cloth  discovered_by = british }
+4700.1.1 = { owner = TOV controller = TOV add_core = TOV is_city = yes trade_goods = cloth  discovered_by = british }

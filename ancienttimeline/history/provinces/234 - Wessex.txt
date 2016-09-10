@@ -12,6 +12,6 @@ native_size = 5
 native_ferocity = 6
 native_hostileness = 6
 
-4400.1.1 = { owner = DUR controller = DUR add_core = DUR citysize = 1000 trade_goods = fish fort_15th = yes discovered_by = british discovered_by = gauls }
+4400.1.1 = { owner = DUR controller = DUR add_core = DUR is_city = yes trade_goods = fish fort_15th = yes discovered_by = british discovered_by = gauls }
 
 5043.1.1 = { owner = ROM controller = ROM add_core = ROM }

@@ -1,7 +1,7 @@
 #2295 - Qumis
 
-owner = ROW
-controller = ROW
+
+
 culture = parthian
 religion = zoroastrian
 capital = "Damghan"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 3
 citysize = 1562
-add_core = ROW
+
 discovered_by = middle_eastern
 discovered_by = indian
 discovered_by = nomad_group

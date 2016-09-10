@@ -1,9 +1,9 @@
 #457 - Tashkent
 
-owner = ROW
-controller = ROW
-add_core = ROW
-citysize = 1000
+
+
+
+is_city = yes
 culture = sogdian
 religion = tengri_pagan_reformed
 capital = "Chach"

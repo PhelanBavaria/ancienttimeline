@@ -17,5 +17,5 @@ discovered_by = mediterranean
 discovered_by = middle_eastern
 
 1850.1.1 = { religion = illyrian_religion }
-4275.1.1 = { owner = VEN controller = VEN add_core = VEN citysize = 1000 trade_goods = fish }
+4275.1.1 = { owner = VEN controller = VEN add_core = VEN is_city = yes trade_goods = fish }
 4797.1.1 = { owner = ROM controller = ROM add_core = ROM }

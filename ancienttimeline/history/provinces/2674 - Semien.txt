@@ -1,6 +1,6 @@
 #2674 - Semien
 
-citysize = 1000
+is_city = yes
 culture = aksumite
 religion = jewish
 capital = "Dabareq"
@@ -9,5 +9,4 @@ trade_goods = grain
 hre = no
 base_tax = 2
 base_production = 2
-discovered_by = AKS
 
