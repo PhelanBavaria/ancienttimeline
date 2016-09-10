@@ -1329,3 +1329,43 @@ HAN_ideas = {
 		diplomatic_upkeep = 1
 	}
 }
+
+ZAO_ideas = {
+	start = {
+		improve_relation_modifier = 0.15
+		ae_impact = -0.20
+	}
+
+	bonus = {
+		years_of_nationalism = -15
+	}
+	
+	trigger = {
+		tag = ZAO
+	}
+	free = yes		#wibe added at load.
+	
+	zhao_cavalry = {
+		cavalry_power = 0.10
+		leader_land_manuever = 1
+	}
+	reforms_of_king_wuling = {
+		mil_tech_cost_modifier = -0.05
+	}
+	brilliant_military_commanders = {
+		army_tradition = 1
+	}
+	three_jins = {
+		legitimacy = 1
+	}
+	northern_frontier_zhao = {
+		fort_maintenance_modifier = -0.10
+	}
+	battle_of_jinyang = {
+		prestige = 1
+	}
+	hu_warriors = {
+		mercenary_cost = -0.15
+		merc_maintenance_modifier = -0.15
+	}
+}
