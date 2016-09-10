@@ -29,3 +29,5 @@
  desc_et_famine:0 "This province is suffering from famine."
  et_drought:0 "Drought"
  desc_et_drought:0 "Rainfall has been below average in this province, causing significant drought."
+ religious_persecution_roman:0 "Religious Persecution"
+ religious_tolerance_roman:0 "Religious Tolerance"

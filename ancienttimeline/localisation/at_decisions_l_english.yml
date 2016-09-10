@@ -21,3 +21,7 @@
  form_feudal_from_tribal_desc:0 "I'ts time that the king gains more power so we can unite against the threats to come."
  establishment_of_a_dictatorate_title:0 "Establishment of a Dictatorate"
  establishment_of_a_dictatorate_desc:0 "We are losing this war,thus the Senate has decided to elect a dictator to hold office until the threat has vanished."
+ religious_persecution_roman_title:0 "Religious Persecution"
+ religious_persecution_roman_desc:0 "Many Romans have grown tired of the countless heathens wandering our cities and travelling our roads, as has the senate and nobility. Perhaps we should deal with them in a way they will understand."
+ religious_tolerance_roman_title:0 "Religious Tolerance"
+ religious_tolerance_roman_desc:0 "As our empire grows larger, we find ourselves surrounded by peoples with other beliefs and traditions. If we want our empire to be stable for years to come we need to learn to be accepting and tolerant of their beliefs."
