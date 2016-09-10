@@ -1,7 +1,7 @@
-government = tribal_monarchy
+government = tribal_kingdom
 mercantilism = 0.1
 primary_culture = illyrian
-religion = illyrian
+religion = illyrian_religion
 technology_group = mediterranean
 capital = 150
 

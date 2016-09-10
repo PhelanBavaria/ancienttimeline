@@ -1,4 +1,1 @@
 #Guayaguil Bay
-
-discovered_by = INC
-discovered_by = CHM

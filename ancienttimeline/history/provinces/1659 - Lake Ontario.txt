@@ -1,4 +1,1 @@
 #Lake Ontario
-
-discovered_by = HUR
-discovered_by = IRO

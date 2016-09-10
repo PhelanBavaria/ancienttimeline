@@ -1,4 +1,1 @@
 #Coast of Carolina
-
-discovered_by = CRE
-discovered_by = CHE

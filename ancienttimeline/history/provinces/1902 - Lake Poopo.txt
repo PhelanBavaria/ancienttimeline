@@ -1,3 +1,1 @@
 #Lake Poopo
-
-discovered_by = INC

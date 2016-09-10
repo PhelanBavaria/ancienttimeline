@@ -1,3 +1,1 @@
 #Coast of Guinea
-
-discovered_by = MAL

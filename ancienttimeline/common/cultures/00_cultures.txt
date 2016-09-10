@@ -269,22 +269,16 @@ latin = {
 	graphical_culture = westerngfx
 
 	sardinian = {
-		primary = SAR
 	}
 	venetian = {
-		primary = VEN
 	}
 	umbrian = {
-		primary = URB
 	}
 	oscan = {
-		primary = URB
 	}
 	sicilian = {
-		primary = SIC
 	}
 	messapic = {
-	    primary = MSS
 	}
 	roman = {
 		primary = ROM
@@ -1104,7 +1098,7 @@ turko_semitic	= {
 		}
 	}
 	yemeni_culture = {
-		primary = ADE
+		primary = SAA
 		male_names = {
 			Mani Rabi'a Markhan Watban Nasir 'Abd Allah Sa'ud Zayid "Abd al" Turki Faisal Abd Al-Rahman 
 			Khalid Fahd Aziz Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah 

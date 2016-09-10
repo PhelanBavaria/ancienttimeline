@@ -3,4 +3,4 @@ mercantilism = 0.1
 primary_culture = nubian
 religion = egyptian
 technology_group = middle_eastern
-capital = 2593	# Meroë
+capital = 2593	# Meroe

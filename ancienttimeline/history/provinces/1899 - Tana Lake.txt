@@ -1,8 +1,4 @@
 #Tana Lake
 
-discovered_by = ETH
-discovered_by = NUB
-discovered_by = ADA
-
 
 

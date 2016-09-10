@@ -2,7 +2,7 @@
 
 culture = pictish
 religion = druidism
-capital = "Mwanza"
+capital = "Sutherland"
 native_size = 70
 trade_goods = unknown
 hre = no

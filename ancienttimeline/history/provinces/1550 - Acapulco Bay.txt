@@ -1,5 +1,1 @@
 #Acapulco Bay
-
-discovered_by = MAY
-discovered_by = ZAP
-discovered_by = AZT

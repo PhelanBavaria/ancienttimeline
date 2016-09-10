@@ -1,5 +1,1 @@
 #Yucatan Sea
-
-discovered_by = ZAP
-discovered_by = MAY
-discovered_by = AZT

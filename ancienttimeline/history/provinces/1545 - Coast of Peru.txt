@@ -1,4 +1,1 @@
 #Coast of Peru
-
-discovered_by = INC
-discovered_by = CHM

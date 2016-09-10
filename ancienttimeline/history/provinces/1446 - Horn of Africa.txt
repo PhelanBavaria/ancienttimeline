@@ -1,9 +1,3 @@
 #Horn of Africa
 
-discovered_by = indian
-discovered_by = ETH
-discovered_by = ADA
-discovered_by = NUB
-discovered_by = ZAN
-discovered_by = ZIM
-
+discovered_by = middle_eastern

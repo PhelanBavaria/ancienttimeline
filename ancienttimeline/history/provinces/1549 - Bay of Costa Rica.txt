@@ -1,3 +1,1 @@
 #Bay of Costa Rica
-
-discovered_by = MAY

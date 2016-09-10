@@ -3,7 +3,7 @@
 owner = MRN
 controller = MRN
 add_core = MRN
-ic_city = yes
+is_city = yes
 culture = berber
 religion = african
 capital = "Rif"

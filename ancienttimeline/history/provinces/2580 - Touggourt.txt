@@ -1,9 +1,5 @@
 #2580 - Touggourt
 
-owner = TGT
-controller = TGT
-add_core = TGT
-citysize = 5000
 culture = berber
 religion = african
 capital = "Touggourt"
