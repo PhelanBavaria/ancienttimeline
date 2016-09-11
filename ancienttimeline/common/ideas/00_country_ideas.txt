@@ -1408,3 +1408,45 @@ WEI_ideas = {
 		global_tax_modifier = 0.05
 	}
 }
+
+BAX_ideas = {
+	start = {
+		spy_offence = 0.20
+		defensiveness = 0.15
+	}
+
+	bonus = {
+		manpower_recovery_speed = 0.15
+	}
+	
+	trigger = {
+		tag = BAX
+	}
+	free = yes		#wibe added at load.
+	
+	white_tiger = {
+		discipline = 0.05
+	}
+	sacrifice = {
+		global_unrest = -1
+		stability_cost_modifier = -0.10
+	}
+	war_society = {
+		infantry_power = 0.10
+		merc_maintenance_modifier = -0.40
+	}
+	burial_goods = {
+		tolerance_own = 2
+	}
+	ba_yu = {
+		land_morale = 0.15
+		diplomatic_reputation = 1
+	}
+	ba_shu_script = {
+		global_spy_defence = 0.25
+		core_creation = -0.15
+	}
+	six_capitals_of_ba = {
+		enemy_core_creation = 1
+	}
+}
