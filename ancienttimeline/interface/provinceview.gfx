@@ -1,9 +1,57 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_icon_no_institution"
+		texturefile = "gfx//interface//estates_icons.dds"
+		noOfFrames = 6
+		loadType = "INGAME"
+	}
+
+	spriteType = {
 		name = "GFX_development_icon"
 		texturefile = "gfx/interface/development_icon.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_province_institutions_button"
+		texturefile = "gfx/interface/institutions//province_institutions_button.dds"
+	}	
+
+	
+	spriteType = {
+		name = "GFX_provinceview_institutions_bg"
+		texturefile = "gfx/interface/institutions//provinceview_institutions_bg.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_promote_investments_progress_frame"
+		texturefile = "gfx/interface/promote_investments_progress_frame.dds"
+	}		
+	
+	progressbartype = {
+		name = "GFX_province_institution_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx//interface//institutions//institution_progress_bar.dds"
+		textureFile2 = "gfx//interface//institutions//institution_progress_transparent.dds"
+		size = { x = 220 y = 20 }
+		effectFile = "gfx//FX//progress.lua"
+	}	
+	
+	progressbartype = {
+		name = "GFX_province_institution_progress_embraced"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx//interface//institutions//institution_progress_bar_embraced.dds"
+		textureFile2 = "gfx//interface//institutions//institution_progress_transparent.dds"
+		size = { x = 220 y = 20 }
+		effectFile = "gfx//FX//progress.lua"
+	}		
+
+	spriteType = {
+		name = "GFX_embraced_progress_bar"
+		texturefile = "gfx/interface/embraced_progress_bar.dds"
+	}	
 	
 	spriteType = {
 		name = "GFX_country_religion_view_protestant_bg"
@@ -258,6 +306,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_cultural_acceptance"
+		texturefile = "gfx/interface/culture_star.dds"
+		noOfFrames = 3
+	}
+
+	spriteType = {
 		name = "GFX_add_core_button"
 		texturefile = "gfx/interface/add_core_button.dds"
 		loadType = "INGAME"
@@ -271,6 +325,12 @@ spriteTypes = {
 		transparencecheck = yes
 	}
 	
+	spriteType = {
+		name = "GFX_claim_province_button"
+		texturefile = "gfx/interface/claim_province_button.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
 		spriteType = {
 		name = "GFX_return_province_button"
 		texturefile = "gfx/interface/return_province_button.dds"
@@ -365,7 +425,7 @@ spriteTypes = {
 		name = "GFX_strait"
 		texturefile = "gfx//interface//strait.tga"
 		loadType = "INGAME"
-		
+		noOfFrames = 3
 	}
 	
 	spriteType = {
@@ -381,6 +441,14 @@ spriteTypes = {
 		loadType = "INGAME"
 		
 	}
+
+
+	spriteType = {
+		name = "GFX_hostile_attrition"
+		texturefile = "gfx//interface//ideas_EU4//hostile_attrition.tga"
+		loadType = "INGAME"
+		
+	}	
 	
 	spriteType = {
 		name = "GFX_province_history_entry_banner"
@@ -425,12 +493,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/hre_indicators.dds"
 		noOfFrames = 4
 	}
-
+	
 	spriteType = {
 		name = "GFX_client_state_button"
 		texturefile = "gfx/interface/client_state_button.dds"
 	}
-	
+
+	spriteType = {
+		name = "GFX_trading_city_button"
+		texturefile = "gfx/interface/city_state_button.dds"
+	}
 	spriteType = {
 		name = "GFX_tradecompany_indicators"
 		texturefile = "gfx/interface/tradecompany_indicators.dds"
@@ -467,6 +539,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_build_cost"
 		texturefile = "gfx/interface/build_cost_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_build_time"
+		texturefile = "gfx/interface/build_time_icon.dds"
 	}
 	
 	####### COLONY TERRAIN PICTURES #########
@@ -714,7 +791,7 @@ spriteTypes = {
 	spriteType = {	
 		name = "GFX_unit_types_strip"
 		texturefile = "gfx//interface//unit_types_strip.tga"
-		noOfFrames = 8
+		noOfFrames = 9
 		loadType = "INGAME"
 		
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -724,7 +801,7 @@ spriteTypes = {
 	spriteType = {	
 		name = "GFX_unit_types_strip_nontransp"
 		texturefile = "gfx//interface//unit_types_strip.tga"
-		noOfFrames = 8
+		noOfFrames = 9
 		loadType = "INGAME"
 		
 		effectFile = "gfx/FX/buttonstate.lua"

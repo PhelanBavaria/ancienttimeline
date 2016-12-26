@@ -20,9 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	mongol_bow
-	mongol_swarm
-	mongol_steppe
 }
 
 monarch_names = {

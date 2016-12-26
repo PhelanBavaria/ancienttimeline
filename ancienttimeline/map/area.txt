@@ -374,7 +374,7 @@ gallia_cisalpina_area = {
 }
 
 etruria_area = {
-106 114 115 116 3127 3126
+106 113 114 115 116 3127 3126
 }
 
 liguria_area = {
@@ -1193,7 +1193,7 @@ kinai_area = { #4
 }
 
 thohoku_area = { #3
-	1025 1026 2173 4277
+	1025 1026 2173
 }
 
 saigoku_area = { #6

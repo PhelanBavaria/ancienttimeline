@@ -510,7 +510,6 @@ tribal_democracy = {
 native_council = {
 	native_mechanic = yes
 	allow_migration = yes
-	allow_westernize = no
 	
 	color = { 220 210 160 }
 	

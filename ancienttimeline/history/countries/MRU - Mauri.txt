@@ -3,4 +3,4 @@ government_rank = 1
 primary_culture = berber
 religion = african
 technology_group = middle_eastern
-capital = 2055
+capital = 351

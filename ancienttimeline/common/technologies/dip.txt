@@ -298,6 +298,7 @@ technology = {
 technology = {
 	# Tech 49
 	year = 3025
+	num_accepted_cultures = 1
 }
 
 technology = {
@@ -500,6 +501,7 @@ technology = {
 technology = {
 	# Tech 83
 	year = 3875
+	num_accepted_cultures = 1
 }
 
 technology = {
@@ -727,6 +729,7 @@ technology = {
 	# Tech 119
 	year = 4775
 	naval_morale			=	0.1
+	num_accepted_cultures = 1
 }
 
 technology = {
@@ -785,7 +788,7 @@ technology = {
 technology = {
 	# Tech 128
 	year = 5000
-	trade_efficiency 		= 	0.01
+	num_accepted_cultures = 1
 }
 
 technology = {
@@ -803,7 +806,7 @@ technology = {
 technology = {
 	# Tech 131
 	year = 5075
-	trade_efficiency 		= 	0.01
+	trade_efficiency 		= 	0.02
 }
 
 technology = {

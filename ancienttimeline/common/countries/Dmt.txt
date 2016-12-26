@@ -20,12 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	african_spearmen
-	bantu_tribal_warfare
-	ethiopian_mountain_warfare
-	ethiopian_gunpowder_warfare
-	westernized_ethiopian
-	ethiopian_guerilla_warfare
 }
 
 monarch_names = {

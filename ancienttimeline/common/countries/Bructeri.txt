@@ -20,8 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	stone_age_clubmen
-	freemen
 }
 
 monarch_names = {

@@ -1,6 +1,7 @@
 name="Ancient Timeline"
 path="mod/ancienttimeline"
 replace_path="common/bookmarks"
+replace_path="common/province_names"
 replace_path="decisions"
 replace_path="events"
 replace_path="history/countries"
@@ -8,7 +9,6 @@ replace_path="history/diplomacy"
 replace_path="history/provinces"
 replace_path="history/wars"
 replace_path="missions"
-replace_path="common/country_colors"
 tags={
 	"Historical"
 	"New Nations"
@@ -22,4 +22,4 @@ tags={
 	"Missions And Decisions"
 }
 picture="extended_timeline.jpg"
-supported_version="1.17"
+supported_version="1.19"

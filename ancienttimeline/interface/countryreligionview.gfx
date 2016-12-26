@@ -31,6 +31,13 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_fetishists_strip"
+		texturefile = "gfx//interface//fetishists_strip.dds"
+		noOfFrames = 17
+	}
+
+	
+	spriteType = {
 			name = "GFX_icon_catholic_reform_desire"
 			texturefile = "gfx//interface//icon_catholic_reform_desire.dds"
 			loadType = "INGAME"
@@ -128,6 +135,12 @@ spriteTypes = {
 		loadType = "INGAME"
 	}
 
+	spriteType = {
+		name = "GFX_religion_blank_overlay_big_bg"
+		texturefile = "gfx/interface/religion_blank_overlay_big_bg.dds"
+		loadType = "INGAME"
+	}	
+	
 	spriteType = {
 		name = "GFX_religion_overlay_bg"
 		texturefile = "gfx/interface/religion_overlay_bg.dds"

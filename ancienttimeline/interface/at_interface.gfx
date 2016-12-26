@@ -1,0 +1,195 @@
+spriteTypes = {
+	#Event Pictures
+	spriteType = {
+		name = "ROMAN_ACQUEDUCT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ACQUEDUCT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ROMAN_ARMY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ARMY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ROMAN_ROAD_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ROAD_eventPicture.dds"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "ALEXANDER_EMPIRE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ALEXANDER_EMPIRE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ALEXANDER_IN_EGYPT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ALEXANDER_IN_EGYPT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ALEXANDRIA_LIGHTHOUSE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ALEXANDRIA_LIGHTHOUSE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EARLY_ROMAN_GENERALS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EARLY_ROMAN_GENERALS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EGYPTIAN_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EGYPTIAN_BUILDING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EGYPTIAN_HIEROGLYPHS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EGYPTIAN_HIEROGLYPHS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EGYPTIAN_PYRAMIDS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EGYPTIAN_PYRAMIDS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EGYPTIAN_TEMPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EGYPTIAN_TEMPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "EGYPTIAN_WORKERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EGYPTIAN_WORKERS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GARDENS_BABYLON_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GARDENS_BABYLON_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GREEK_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GREEK_BATTLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GREEK_FLEET_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GREEK_FLEET_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GREEK_TEMPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GREEK_TEMPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GREEK_THEATER_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GREEK_THEATER_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "MIDDLE_EAST_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/MIDDLE_EAST_SOLDIERS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "MORE_MIDDLE_EAST_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/MORE_MIDDLE_EAST_SOLDIERS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "OLD_MAN_READING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/OLD_MAN_READING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "PHALANX_WITH_ELEPHANT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/PHALANX_WITH_ELEPHANT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "PHARAOH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/PHARAOH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "STATUE_ZEUS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/STATUE_ZEUS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	#Roman Factions
+	spriteType = {
+		name = "GFX_faction_bg_generals"	
+		texturefile = "gfx//interface//faction_red_frame.tga"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_faction_generals"	
+		texturefile = "gfx//interface//faction_generals.tga"
+	}
+	spriteType = {
+		name = "GFX_faction_bg_senators"	
+		texturefile = "gfx//interface//faction_blue_frame.tga"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_faction_senators"	
+		texturefile = "gfx//interface//faction_senators.tga"
+	}
+	spriteType = {
+		name = "GFX_faction_bg_imperials"	
+		texturefile = "gfx//interface//faction_purple_frame.tga"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_faction_imperials"	
+		texturefile = "gfx//interface//faction_imperials.tga"
+	}
+	
+	#Building Screen
+	spriteType = {
+		name = "GFX_at_banner_left_4a"
+		texturefile = "gfx//interface//at_banner_left_4a.dds"
+	}
+	spriteType = {
+		name = "GFX_at_banner_left_4b"
+		texturefile = "gfx//interface//at_banner_left_4b.dds"
+	}
+	spriteType = {
+		name = "GFX_at_banner_left_5a"
+		texturefile = "gfx//interface//at_banner_left_5a.dds"
+	}
+	spriteType = {
+		name = "GFX_at_banner_left_5b"
+		texturefile = "gfx//interface//at_banner_left_5b.dds"
+	}
+	spriteType = {
+		name = "GFX_at_banner_right_3"
+		texturefile = "gfx//interface//at_banner_right_3.dds"
+	}
+	spriteType = {
+		name = "GFX_at_banner_right_2"
+		texturefile = "gfx//interface//at_banner_right_2.dds"
+	}
+}

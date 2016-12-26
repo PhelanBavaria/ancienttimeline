@@ -105,7 +105,7 @@ religious_persecution_roman = {
 	accepted_culture_threshold = 0.50
 }
 
-religious_tolerance_roman
+religious_tolerance_roman = {
 	global_missionary_strength = -0.05
 	tolerance_own = -1
 	culture_conversion_cost = 0.25

@@ -21,16 +21,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	stone_age_spearmen
-	chinese_composite_bow
-	chinese_chariot
-	chinese_crossbow
-	chinese_bronze_sword
-	chinese_horsemen
-	chinese_iron_sword
-	chinese_nomad_cavalry
-	chinese_conscripts
-	chinese_militia
 }
 
 monarch_names = {

@@ -3,4 +3,4 @@ government_rank = 1
 primary_culture = tuareg
 religion = african
 technology_group = north_african
-capital = 2055
+capital = 351

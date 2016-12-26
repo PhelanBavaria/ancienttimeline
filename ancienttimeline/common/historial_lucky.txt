@@ -1,0 +1,5 @@
+# Order here is the priority for taking them, if trigger is true.
+
+ROM = {
+	always = yes
+}

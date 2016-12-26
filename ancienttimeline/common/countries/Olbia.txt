@@ -20,15 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	stone_age_spearmen
-	phalanx
-	companion_cavalry
-	elite_phalanx
-	heavy_companion_cavalry
-	thureophoroi
-	equites
-	principes
-	legionaries
 }
 
 monarch_names = {

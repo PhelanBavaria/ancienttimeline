@@ -20,12 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	african_spearmen
-	bantu_tribal_warfare
-	african_hill_warfare
-	adal_gunpowder_warfare
-	westernized_adal
-	adal_guerilla_warfare
 }
 
 monarch_names = {

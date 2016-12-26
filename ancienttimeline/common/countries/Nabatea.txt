@@ -20,11 +20,6 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	mamluk_archer
-	mamluk_cavalry_charge
-	mamluk_duel
-	mamluk_musket_charge
-	ali_bey_reformed_infantry
 }
 
 monarch_names = {
