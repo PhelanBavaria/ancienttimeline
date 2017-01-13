@@ -1,8 +1,8 @@
-#150 - Tarnovo
+#150 - Krobyzoi
 
 culture = thracian
 religion = zamolxism
-capital = "Seuthopolis"
+capital = "Krobyzoi"
 trade_goods = unknown
 hre = no
 base_tax = 2
