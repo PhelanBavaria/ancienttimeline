@@ -2257,3 +2257,117 @@ atxular_basque =
 		}
 	}
 }
+#Lusitanian
+endovelicus_lusi =
+{
+	hostile_attrition = 1.0
+	global_unrest = -1
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 120
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
+
+ataegina_lusi =
+{
+	global_unrest = -1
+	global_trade_goods_size = 0.20
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 121
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
+
+nabia_lusi =
+{
+	global_tax_modifier = 0.1
+	manpower_recovery_speed = 0.20
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 122
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
+
+bandua_lusi =
+{
+	heir_chance = 0.50
+	land_morale = 0.1
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 123
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
+
+cariocecus_lusi =
+{
+	land_morale = 0.1
+	leader_land_shock = 1
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 124
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
+
+dercetius_lusi =
+{
+	defensiveness = 0.2
+	production_efficiency = 0.1
+
+	allow = {
+		religion = lusitanian_poly
+	}
+	sprite = 125
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = 
+		}
+	}
+}
