@@ -83,5 +83,8 @@
  western_balkan:0 "Western Balkan"
  xiongnu:0 "Xiongnu"
  yue_culture:0 "Yue"
+ steppe_group: "Steppe"
+ olmec:0 "Olmec"
+ chavin:0 "Chavin"
  bonus_group:0 "Bonus Group"
  uninhabited:0 "(uninhabited)"
