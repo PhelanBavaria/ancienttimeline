@@ -1,1 +1,84 @@
-###
+###Germanic Ideas
+
+germanic_ideas = {
+	start = {
+	    manpower_recovery_speed = 0.15
+		global_manpower_modifier = 0.15
+	}
+
+	bonus = {
+		land_forcelimit_modifier = 0.30
+	}
+	
+	trigger = {
+		OR = {
+			culture_group = germanic
+		}
+	}
+	free = yes		#will be added at load.
+	
+	germanic_things = {
+		global_unrest = -0.5
+		global_autonomy = -0.02
+	}
+	germanic_raid_warfare = {
+		loot_amount = 0.33
+	}
+	germanic_migratory_structure = { # Only small-scale farming
+		migration_cooldown = -0.2
+	}
+	germanic_rough_terrain_charge = { # Better movement through rough terrain than romans
+		movement_speed = 0.15
+	}
+	germanic_comandeering_of_roman_weaponry = {
+		mil_tech_cost_modifier = -0.05
+	}
+	germanic_iron_and_steelworking = { # Apparently the best in Europe
+		infantry_power = 0.1
+		global_prov_trade_power_modifier = 0.02
+	}
+	germanic_victory_of_teutoburg = {
+		shock_damage = 0.15
+		prestige_from_land = 1
+	}
+}
+
+insular_celtic_ideas = {
+	start = {
+	    native_advancement_cost = -0.15
+		female_advisor_chance = 0.1 # Women acted as ambassadors
+	}
+
+	bonus = {
+		
+	}
+	
+	trigger = {
+		culture_group = gaelic
+		technology_group = british # Separate mainly because of the native_advancement_cost
+	}
+	free = yes		#will be added at load.
+	
+	free_women = {
+		heir_chance = 0.5 # Relaxed Sexualities
+	}
+	remote_shrines = {
+		build_cost = -0.1 # shrines were built in rough terrain
+	}
+	gold_coins = {
+		global_tax_modifier = 0.15
+	}
+	continental_influx = { # Celts from the continent brought better weapons
+		mil_tech_cost_modifier = -0.05
+		global_manpower_modifier = 0.05
+	}
+	latin_alphabet = {
+		global_institution_spread = 0.05
+	}
+	postroman_legacy = {
+		enemy_core_creation = 0.1 # Many survived until post-roman invasions
+	}
+	druids = {
+		global_unrest = -1
+	}
+}
