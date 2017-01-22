@@ -22,5 +22,4 @@ discovered_by = scythian_group
 4490.4.3 = { owner = ACA controller = ACA add_core = ACA remove_core = MCD }
 4658.1.1 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA culture = attic_greek }
 4698.1.1 = { owner = THR controller = THR add_core = THR remove_core = MCD }
-4719.1.1 = { owner = SLC controller = SLC add_core = SLC }
-4900.1.1 = { owner = ROM controller = ROM add_core = ROM }
+5046.1.1 = { owner = ROM controller = ROM add_core = ROM }

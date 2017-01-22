@@ -687,7 +687,7 @@ ETR_ideas = {
 		religious_unity = 0.1
 	}
 	greek-roman_conduit = {
-        accepted_culture_threshold = -0.15
+        num_accepted_cultures = 1
 	}
 	hill_and_tower_people = {
 	   defensiveness = 0.15
@@ -765,7 +765,7 @@ ACA_ideas = {
 		global_missionary_strength = 0.03
 	}
 	cultural_diversity = {
-		accepted_culture_threshold = -0.20
+		num_accepted_cultures = 2
 	}
 	persian_architecture = {
 		build_cost = -0.10
@@ -1125,7 +1125,7 @@ CHC_ideas = {
 		core_creation = -0.15
 	}
 	links_with_the_southern_tribes = {
-		accepted_culture_threshold = -0.15
+		num_accepted_cultures = 1
 	}
 	vast_natural_resources_chu = {
 		production_efficiency = 0.10
@@ -1154,7 +1154,7 @@ AKK_ideas = {
 	free = yes		#wibe added at load.
 	
 	billingual_empire = {
-		accepted_culture_threshold = -0.15
+		num_accepted_cultures = 1
 	}
 	bronze_weaponry_akkadia = {
 		leader_land_fire = 1
