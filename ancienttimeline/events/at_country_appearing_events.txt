@@ -1,0 +1,161 @@
+namespace = newcntry
+
+country_event = {
+	id = newcntry.1
+	title = "newcntry.EVTNAME1"
+	desc = "newcntry.EVTDESC1"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		is_year = 4700
+		238 = { is_empty = yes }
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	immediate = {
+		238 = { 
+			cede_province = TOV
+			add_core = TOV
+			change_trade_goods = cloth
+		}
+		TOV = { every_neighbor_country = { add_truce_with = TOV } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA1"
+		
+	}
+}
+
+country_event = {
+	id = newcntry.2
+	title = "newcntry.EVTNAME2"
+	desc = "newcntry.EVTDESC2"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		is_year = 4800
+		237 = { is_empty = yes }
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	immediate = {
+		237 = { 
+			cede_province = CTV
+			add_core = CTV
+			change_trade_goods = grain
+		}
+		CTV = { every_neighbor_country = { add_truce_with = CTV } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA2"
+		
+	}
+}
+
+country_event = {
+	id = newcntry.3
+	title = "newcntry.EVTNAME3"
+	desc = "newcntry.EVTDESC3"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		is_year = 4800
+		1861 = { is_empty = yes }
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	immediate = {
+		1861 = { 
+			cede_province = CRL
+			add_core = CRL
+			change_trade_goods = iron
+		}
+		CRL = { every_neighbor_country = { add_truce_with = CRL } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA3"
+		
+	}
+}
+
+country_event = {
+	id = newcntry.4
+	title = "newcntry.EVTNAME4"
+	desc = "newcntry.EVTDESC4"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		is_year = 4600
+		242 = { is_empty = yes }
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	immediate = {
+		242 = { 
+			cede_province = ORD
+			add_core = ORD
+			change_trade_goods = gold
+		}
+		ORD = { every_neighbor_country = { add_truce_with = ORD } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA4"
+		
+	}
+}
+
+country_event = {
+	id = newcntry.5
+	title = "newcntry.EVTNAME5"
+	desc = "newcntry.EVTDESC5"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		is_year = 4700
+		1860 = { is_empty = yes }
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	
+	immediate = {
+		1860 = { 
+			cede_province = ICN
+			add_core = ICN
+			change_trade_goods = iron
+		}
+		ICN = { every_neighbor_country = { add_truce_with = ICN } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA5"
+		
+	}
+}
