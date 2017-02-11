@@ -1,23 +1,23 @@
-namespace = prab
-
-province_event = {
-
-	id = prab.1
-	title = prab.EVTNAME1
-	desc = prab.EVTDESC1
-	picture = PLAGUE_eventPicture
-
-	trigger = {
-		NOT = { base_tax = 2 }
-		NOT = { base_production = 2 }
-		NOT = { base_manpower = 2 }
-	}
-	mean_time_to_happen = {
-		months = 1
-	}
-
-	option = {
-		name = prab.EVTOPTA1
-		cede_province = XXX
-	}
-}
+#namespace = prab
+#
+#province_event = {
+#
+#	id = prab.1
+#	title = prab.EVTNAME1
+#	desc = prab.EVTDESC1
+#	picture = PLAGUE_eventPicture
+#
+#	trigger = {
+#		NOT = { base_tax = 2 }
+#		NOT = { base_production = 2 }
+#		NOT = { base_manpower = 2 }
+#	}
+#	mean_time_to_happen = {
+#		months = 1
+#	}
+#
+#	option = {
+#		name = prab.EVTOPTA1
+#		cede_province = XXX
+#	}
+#}
