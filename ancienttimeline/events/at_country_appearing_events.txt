@@ -46,28 +46,35 @@ country_event = {
 	picture = CITY_DEVELOPMENT_eventPicture
 
 	fire_only_once = yes
-	hidden = yes
 
 	trigger = {
-		is_year = 4800
-		237 = { is_empty = yes }
+		NOT = { exists = AUT }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
 	}
 	mean_time_to_happen = {
-		months = 240
+		months = 3600
 	}
 	
 	immediate = {
-		237 = { 
-			cede_province = CTV
-			add_core = CTV
-			change_trade_goods = grain
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = AUT
+			add_core = AUT
+			change_trade_goods = tin
 		}
-		CTV = { every_neighbor_country = { add_truce_with = CTV } }
+		AUT = { every_neighbor_country = { add_truce_with = AUT } }
 	}
 
 	option = {
 		name = "newcntry.EVTOPTA2"
-		
 	}
 }
 
@@ -78,28 +85,35 @@ country_event = {
 	picture = CITY_DEVELOPMENT_eventPicture
 
 	fire_only_once = yes
-	hidden = yes
 
 	trigger = {
-		is_year = 4800
-		1861 = { is_empty = yes }
+		NOT = { exists = BRG }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
 	}
 	mean_time_to_happen = {
-		months = 240
+		months = 3600
 	}
 	
 	immediate = {
-		1861 = { 
-			cede_province = CRL
-			add_core = CRL
-			change_trade_goods = iron
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = BRG
+			add_core = BRG
+			change_trade_goods = tin
 		}
-		CRL = { every_neighbor_country = { add_truce_with = CRL } }
+		BRG = { every_neighbor_country = { add_truce_with = BRG } }
 	}
 
 	option = {
 		name = "newcntry.EVTOPTA3"
-		
 	}
 }
 
@@ -110,28 +124,35 @@ country_event = {
 	picture = CITY_DEVELOPMENT_eventPicture
 
 	fire_only_once = yes
-	hidden = yes
 
 	trigger = {
-		is_year = 4600
-		242 = { is_empty = yes }
+		NOT = { exists = COI }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
 	}
 	mean_time_to_happen = {
-		months = 240
+		months = 3600
 	}
 	
 	immediate = {
-		242 = { 
-			cede_province = ORD
-			add_core = ORD
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = COI
+			add_core = COI
 			change_trade_goods = gold
 		}
-		ORD = { every_neighbor_country = { add_truce_with = ORD } }
+		COI = { every_neighbor_country = { add_truce_with = COI } }
 	}
 
 	option = {
 		name = "newcntry.EVTOPTA4"
-		
 	}
 }
 
@@ -142,18 +163,455 @@ country_event = {
 	picture = CITY_DEVELOPMENT_eventPicture
 
 	fire_only_once = yes
-	hidden = yes
 
 	trigger = {
+		NOT = { exists = CRL }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
 		is_year = 4700
-		1860 = { is_empty = yes }
 	}
 	mean_time_to_happen = {
-		months = 240
+		months = 3600
 	}
 	
 	immediate = {
-		1860 = { 
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = CRL
+			add_core = CRL
+			change_trade_goods = iron
+		}
+		CRL = { every_neighbor_country = { add_truce_with = CRL } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA5"
+	}
+}
+
+country_event = {
+	id = newcntry.6
+	title = "newcntry.EVTNAME6"
+	desc = "newcntry.EVTDESC6"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = CRU }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = CRU
+			add_core = CRU
+			change_trade_goods = grain
+		}
+		CRU = { every_neighbor_country = { add_truce_with = CRU } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA6"
+	}
+}
+
+country_event = {
+	id = newcntry.7
+	title = "newcntry.EVTNAME7"
+	desc = "newcntry.EVTDESC7"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = CRV }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = CRV
+			add_core = CRV
+			change_trade_goods = tin
+		}
+		CRV = { every_neighbor_country = { add_truce_with = CRV } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA7"
+	}
+}
+
+country_event = {
+	id = newcntry.8
+	title = "newcntry.EVTNAME8"
+	desc = "newcntry.EVTDESC8"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = CTV }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = CTV
+			add_core = CTV
+			change_trade_goods = tin
+		}
+		CTV = { every_neighbor_country = { add_truce_with = CTV } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA8"
+	}
+}
+
+country_event = {
+	id = newcntry.9
+	title = "newcntry.EVTNAME9"
+	desc = "newcntry.EVTDESC9"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = DOB }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = DOB
+			add_core = DOB
+			change_trade_goods = tin
+		}
+		DOB = { every_neighbor_country = { add_truce_with = DOB } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA9"
+	}
+}
+
+country_event = {
+	id = newcntry.10
+	title = "newcntry.EVTNAME10"
+	desc = "newcntry.EVTDESC10"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = DRI }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = DRI
+			add_core = DRI
+			change_trade_goods = grain
+		}
+		DRI = { every_neighbor_country = { add_truce_with = DRI } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA10"
+	}
+}
+
+country_event = {
+	id = newcntry.11
+	title = "newcntry.EVTNAME11"
+	desc = "newcntry.EVTDESC11"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = DUM }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = DUM
+			add_core = DUM
+			change_trade_goods = tin
+		}
+		DUM = { every_neighbor_country = { add_truce_with = DUM } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA11"
+	}
+}
+
+country_event = {
+	id = newcntry.12
+	title = "newcntry.EVTNAME12"
+	desc = "newcntry.EVTDESC12"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = DUR }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = DUR
+			add_core = DUR
+			change_trade_goods = fish
+		}
+		DUR = { every_neighbor_country = { add_truce_with = DUR } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA12"
+	}
+}
+
+country_event = {
+	id = newcntry.13
+	title = "newcntry.EVTNAME13"
+	desc = "newcntry.EVTDESC13"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = EBA }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = EBA
+			add_core = EBA
+			change_trade_goods = cloth
+		}
+		EBA = { every_neighbor_country = { add_truce_with = EBA } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA13"
+	}
+}
+
+country_event = {
+	id = newcntry.14
+	title = "newcntry.EVTNAME14"
+	desc = "newcntry.EVTDESC14"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = EBD }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = EBD
+			add_core = EBD
+			change_trade_goods = grain
+		}
+		EBD = { every_neighbor_country = { add_truce_with = EBD } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA14"
+	}
+}
+
+country_event = {
+	id = newcntry.15
+	title = "newcntry.EVTNAME15"
+	desc = "newcntry.EVTDESC15"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = ERG }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = ERG
+			add_core = ERG
+			change_trade_goods = grain
+		}
+		ERG = { every_neighbor_country = { add_truce_with = ERG } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA15"
+	}
+}
+
+country_event = {
+	id = newcntry.16
+	title = "newcntry.EVTNAME16"
+	desc = "newcntry.EVTDESC16"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = ICN }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
 			cede_province = ICN
 			add_core = ICN
 			change_trade_goods = iron
@@ -162,7 +620,474 @@ country_event = {
 	}
 
 	option = {
-		name = "newcntry.EVTOPTA5"
-		
+		name = "newcntry.EVTOPTA16"
+	}
+}
+
+country_event = {
+	id = newcntry.17
+	title = "newcntry.EVTNAME17"
+	desc = "newcntry.EVTDESC17"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = IVE }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = IVE
+			add_core = IVE
+			change_trade_goods = fish
+		}
+		IVE = { every_neighbor_country = { add_truce_with = IVE } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA17"
+	}
+}
+
+country_event = {
+	id = newcntry.18
+	title = "newcntry.EVTNAME18"
+	desc = "newcntry.EVTDESC18"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = KEN }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = KEN
+			add_core = KEN
+			change_trade_goods = grain
+		}
+		KEN = { every_neighbor_country = { add_truce_with = KEN } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA18"
+	}
+}
+
+country_event = {
+	id = newcntry.19
+	title = "newcntry.EVTNAME19"
+	desc = "newcntry.EVTDESC19"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = NGN }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = NGN
+			add_core = NGN
+			change_trade_goods = grain
+		}
+		NGN = { every_neighbor_country = { add_truce_with = NGN } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA19"
+	}
+}
+
+country_event = {
+	id = newcntry.20
+	title = "newcntry.EVTNAME20"
+	desc = "newcntry.EVTDESC20"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = NVT }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = NVT
+			add_core = NVT
+			change_trade_goods = iron
+		}
+		NVT = { every_neighbor_country = { add_truce_with = NVT } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA20"
+	}
+}
+
+country_event = {
+	id = newcntry.21
+	title = "newcntry.EVTNAME21"
+	desc = "newcntry.EVTDESC21"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = ORD }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = ORD
+			add_core = ORD
+			change_trade_goods = gold
+		}
+		ORD = { every_neighbor_country = { add_truce_with = ORD } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA21"
+	}
+}
+
+country_event = {
+	id = newcntry.22
+	title = "newcntry.EVTNAME22"
+	desc = "newcntry.EVTDESC22"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = PCT }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = PCT
+			add_core = PCT
+			change_trade_goods = iron
+		}
+		PCT = { every_neighbor_country = { add_truce_with = PCT } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA22"
+	}
+}
+
+country_event = {
+	id = newcntry.23
+	title = "newcntry.EVTNAME23"
+	desc = "newcntry.EVTDESC23"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = ROB }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = ROB
+			add_core = ROB
+			change_trade_goods = grain
+		}
+		ROB = { every_neighbor_country = { add_truce_with = ROB } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA23"
+	}
+}
+
+country_event = {
+	id = newcntry.24
+	title = "newcntry.EVTNAME24"
+	desc = "newcntry.EVTDESC24"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = SGV }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = SGV
+			add_core = SGV
+			change_trade_goods = fish
+		}
+		SGV = { every_neighbor_country = { add_truce_with = SGV } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA24"
+	}
+}
+
+country_event = {
+	id = newcntry.25
+	title = "newcntry.EVTNAME25"
+	desc = "newcntry.EVTDESC25"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = SLR }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = SLR
+			add_core = SLR
+			change_trade_goods = iron
+		}
+		SLR = { every_neighbor_country = { add_truce_with = SLR } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA25"
+	}
+}
+
+country_event = {
+	id = newcntry.26
+	title = "newcntry.EVTNAME26"
+	desc = "newcntry.EVTDESC26"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = TAE }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = TAE
+			add_core = TAE
+			change_trade_goods = fish
+		}
+		TAE = { every_neighbor_country = { add_truce_with = TAE } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA26"
+	}
+}
+
+country_event = {
+	id = newcntry.27
+	title = "newcntry.EVTNAME27"
+	desc = "newcntry.EVTDESC27"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = VEC }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = VEC
+			add_core = VEC
+			change_trade_goods = fish
+		}
+		VEC = { every_neighbor_country = { add_truce_with = VEC } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA27"
+	}
+}
+
+country_event = {
+	id = newcntry.28
+	title = "newcntry.EVTNAME28"
+	desc = "newcntry.EVTDESC28"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = VEL }
+		any_owned_province = { region = britannia_region }
+		any_province = {
+			region = britannia_region
+			is_empty = yes
+		}
+		is_year = 4700
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = britannia_region
+				is_empty = yes
+			}
+			cede_province = VEL
+			add_core = VEL
+			change_trade_goods = grain
+		}
+		VEL = { every_neighbor_country = { add_truce_with = VEL } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA28"
 	}
 }
