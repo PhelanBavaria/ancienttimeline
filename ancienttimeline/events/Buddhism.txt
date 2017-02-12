@@ -1891,6 +1891,7 @@ country_event = {
 				any_owned_province = { region = greece_region }
 				any_owned_province = { region = daco_thracia_region }
 				any_owned_province = { region = egypt_region }
+				any_owned_province = { region = anatolia_region }
 			}
 		}
 		lanka_region = {
