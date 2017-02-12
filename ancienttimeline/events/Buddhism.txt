@@ -1880,6 +1880,19 @@ country_event = {
 	trigger = {
 		has_dlc = "Common Sense"
 		religion_group = pagan
+		NOT = {
+			OR = {
+				any_owned_province = { region = gaul_region }
+				any_owned_province = { region = hispania_region }
+				any_owned_province = { region = italia_region }
+				any_owned_province = { region = brittania_region }
+				any_owned_province = { region = germania_region }
+				any_owned_province = { region = illyria_region }
+				any_owned_province = { region = greece_region }
+				any_owned_province = { region = daco_thracia_region }
+				any_owned_province = { region = egypt_region }
+			}
+		}
 		lanka_region = {
 			owned_by = ROOT
 			religion = buddhism #Theravada
