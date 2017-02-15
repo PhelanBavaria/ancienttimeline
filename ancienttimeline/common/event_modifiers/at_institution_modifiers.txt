@@ -1,0 +1,103 @@
+birthplace_of_writing = {
+	local_unrest = -1
+}
+
+birthplace_of_bronzeworking = {
+	regiment_recruit_speed = -0.1
+}
+
+birthplace_of_taxation = {
+	local_tax_modifier = 0.1
+}
+
+birthplace_of_domestication = {
+	local_development_cost = -0.05
+}
+
+birthplace_of_pantheon = {
+	local_missionary_strength = -0.01
+}
+
+birthplace_of_laws = {
+	local_unrest = -1
+}
+
+birthplace_of_ard_plough = {
+	local_manpower_modifier = 0.1
+}
+
+birthplace_of_irrigation = {
+	supply_limit_modifier = 0.2
+}
+
+birthplace_of_calendar = {
+	local_production_efficiency = 0.1
+}
+
+birthplace_of_astrology = {
+	local_spy_defence = 0.2
+}
+
+birthplace_of_caste_system = {
+	local_defensiveness = 0.1
+}
+
+birthplace_of_literature = {
+	local_institution_spread = 0.1
+}
+
+birthplace_of_trade_networks = {
+	trade_value_modifier = 0.1
+}
+
+birthplace_of_ironworking = {
+	local_regiment_cost = -0.1
+}
+
+birthplace_of_crop_rotation = {
+	garrison_growth = 0.1
+}
+
+birthplace_of_animal_husbandry = {
+	supply_limit_modifier = 0.2
+}
+
+birthplace_of_craftsmanship = {
+	trade_goods_size_modifier = 0.25
+}
+
+birthplace_of_architecture = {
+	local_build_cost = -0.1
+}
+
+birthplace_of_mathematics = {
+	allowed_num_of_buildings = 1
+}
+
+birthplace_of_philosophy = {
+	local_institution_spread = 0.1
+}
+
+birthplace_of_medicine = {
+	supply_limit_modifier = 0.2
+}
+
+birthplace_of_steelworking = {
+	local_regiment_cost = -0.1
+}
+
+birthplace_of_theatre = {
+	local_unrest = -1
+}
+
+birthplace_of_astronomy = {
+	local_institution_spread = 0.1
+}
+
+birthplace_of_ancient_imperialism = {
+	local_regiment_cost = -0.1
+}
+
+birthplace_of_legalism = {
+	local_tax_modifier = 0.1
+}

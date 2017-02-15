@@ -1,0 +1,428 @@
+#######################
+#AT Institution Events#
+#######################
+
+namespace = at_institutions
+
+#Dummy
+country_event = {
+	id = at_institutions.1
+	title = at_institutions.1.t
+	desc = at_institutions.1.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = at_institutions.1.a
+	}
+}
+
+#Theatre
+country_event = {
+	id = at_institutions.23
+	title = at_institutions.23.t
+	desc = at_institutions.23.d
+	picture = GREEK_THEATER_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = at_institutions.23.a
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige = 20
+		custom_tooltip = at_institutions.2.a.tt
+		FROM = {
+			add_permanent_province_modifier = {
+				name = "birthplace_of_theatre"
+				duration = -1
+			}
+		}
+		hidden_effect = {
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					knows_country = ROOT
+				}
+				country_event = { id = at_institutions.2300 }
+			}
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					NOT = { knows_country = ROOT }
+				}
+				country_event = { id = at_institutions.2301 }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = at_institutions.2300
+	title = at_institutions.23.t
+	desc = at_institutions.2300.d
+	picture = GREEK_THEATER_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.23.a
+		custom_tooltip = at_institutions.23.a.tt
+	}
+}
+
+#Far away travellers...
+country_event = {
+	id = at_institutions.2301
+	title = at_institutions.23.t
+	desc = at_institutions.2301.d
+	picture = MERCHANTS_TALKING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.23.a
+		custom_tooltip = at_institutions.23.a.tt
+	}
+}
+
+
+#Astronomy
+country_event = {
+	id = at_institutions.24
+	title = at_institutions.24.t
+	desc = at_institutions.24.d
+	picture = OLD_MAN_READING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = at_institutions.24.a
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige = 20
+		custom_tooltip = at_institutions.24.a.tt
+		FROM = {
+			add_permanent_province_modifier = {
+				name = "birthplace_of_astronomy"
+				duration = -1
+			}
+		}
+		hidden_effect = {
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					knows_country = ROOT
+				}
+				country_event = { id = at_institutions.2400 }
+			}
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					NOT = { knows_country = ROOT }
+				}
+				country_event = { id = at_institutions.2401 }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = at_institutions.2400
+	title = at_institutions.24.t
+	desc = at_institutions.2400.d
+	picture = OLD_MAN_READING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.24.a
+		custom_tooltip = at_institutions.24.a.tt
+	}
+}
+
+#Far away travellers...
+country_event = {
+	id = at_institutions.2401
+	title = at_institutions.24.t
+	desc = at_institutions.2401.d
+	picture = MERCHANTS_TALKING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.24.a
+		custom_tooltip = at_institutions.24.a.tt
+	}
+}
+
+
+#Ancient Imperialism
+country_event = {
+	id = at_institutions.25
+	title = at_institutions.25.t
+	desc = at_institutions.25.d
+	picture = ALEXANDER_EMPIRE_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = at_institutions.25.a
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige = 20
+		custom_tooltip = at_institutions.25.a.tt
+		FROM = {
+			add_permanent_province_modifier = {
+				name = "birthplace_of_ancient_imperialism"
+				duration = -1
+			}
+		}
+		hidden_effect = {
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					knows_country = ROOT
+				}
+				country_event = { id = at_institutions.2500 }
+			}
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					NOT = { knows_country = ROOT }
+				}
+				country_event = { id = at_institutions.2501 }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = at_institutions.2500
+	title = at_institutions.25.t
+	desc = at_institutions.2500.d
+	picture = ALEXANDER_EMPIRE_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.25.a
+		custom_tooltip = at_institutions.25.a.tt
+	}
+}
+
+#Far away travellers...
+country_event = {
+	id = at_institutions.2501
+	title = at_institutions.25.t
+	desc = at_institutions.2501.d
+	picture = MERCHANTS_TALKING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.25.a
+		custom_tooltip = at_institutions.25.a.tt
+	}
+}
+
+
+#Legalism
+country_event = {
+	id = at_institutions.26
+	title = at_institutions.26.t
+	desc = at_institutions.26.d
+	picture = ECONOMY_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = at_institutions.26.a
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige = 20
+		custom_tooltip = at_institutions.26.a.tt
+		FROM = {
+			add_permanent_province_modifier = {
+				name = "birthplace_of_legalism"
+				duration = -1
+			}
+		}
+		hidden_effect = {
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					knows_country = ROOT
+				}
+				country_event = { id = at_institutions.2600 }
+			}
+			every_country = {
+				limit = {
+					ai = no
+					NOT = { tag = ROOT }
+					NOT = { knows_country = ROOT }
+				}
+				country_event = { id = at_institutions.2601 }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = at_institutions.2600
+	title = at_institutions.26.t
+	desc = at_institutions.2600.d
+	picture = ECONOMY_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.26.a
+		custom_tooltip = at_institutions.26.a.tt
+	}
+}
+
+#Far away travellers...
+country_event = {
+	id = at_institutions.2601
+	title = at_institutions.26.t
+	desc = at_institutions.2601.d
+	picture = MERCHANTS_TALKING_eventPicture
+
+	is_triggered_only = yes
+	
+
+	trigger = {
+		always = yes			#
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = at_institutions.26.a
+		custom_tooltip = at_institutions.26.a.tt
+	}
+}
+
