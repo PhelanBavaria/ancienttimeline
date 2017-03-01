@@ -192,4 +192,330 @@ spriteTypes = {
 		name = "GFX_at_banner_right_2"
 		texturefile = "gfx//interface//at_banner_right_2.dds"
 	}
+	
+	#Institutions
+	spriteType = {
+		name = "GFX_icon_institution_agriculture"
+		texturefile = "gfx//interface//institutions//agriculture.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_writing"
+		texturefile = "gfx//interface//institutions//writing.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_bronzeworking"
+		texturefile = "gfx//interface//institutions//bronzeworking.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_taxation"
+		texturefile = "gfx//interface//institutions//taxation.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_domestication"
+		texturefile = "gfx//interface//institutions//domestication.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_pantheon"
+		texturefile = "gfx//interface//institutions//pantheon.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_laws"
+		texturefile = "gfx//interface//institutions//laws.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_ard_plough"
+		texturefile = "gfx//interface//institutions//ard_plough.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_irrigation"
+		texturefile = "gfx//interface//institutions//irrigation.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_calendar"
+		texturefile = "gfx//interface//institutions//calendar.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_astrology"
+		texturefile = "gfx//interface//institutions//astrology.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_caste_system"
+		texturefile = "gfx//interface//institutions//caste_system.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_literature"
+		texturefile = "gfx//interface//institutions//literature.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_trade_networks"
+		texturefile = "gfx//interface//institutions//trade_networks.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_ironworking"
+		texturefile = "gfx//interface//institutions//ironworking.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_icon_institution_crop_rotation"
+		texturefile = "gfx//interface//institutions//crop_rotation.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_icon_institution_animal_husbandry"
+		texturefile = "gfx//interface//institutions//animal_husbandry.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_icon_institution_craftsmanship"
+		texturefile = "gfx//interface//institutions//craftsmanship.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_icon_institution_architecture"
+		texturefile = "gfx//interface//institutions//architecture.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_icon_institution_mathematics"
+		texturefile = "gfx//interface//institutions//mathematics.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_philosophy"
+		texturefile = "gfx//interface//institutions//philosophy.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_medicine"
+		texturefile = "gfx//interface//institutions//medicine.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_steelworking"
+		texturefile = "gfx//interface//institutions//steelworking.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_theatre"
+		texturefile = "gfx//interface//institutions//theatre.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_astronomy"
+		texturefile = "gfx//interface//institutions//astronomy.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_ancient_imperialism"
+		texturefile = "gfx//interface//institutions//ancient_imperialism.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_icon_institution_legalism"
+		texturefile = "gfx//interface//institutions//legalism.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_agriculture"
+		texturefile = "gfx/interface/institutions//institution_tab_agriculture.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_writing"
+		texturefile = "gfx/interface/institutions//institution_tab_writing.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_bronzeworking"
+		texturefile = "gfx/interface/institutions//institution_tab_bronzeworking.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_taxation"
+		texturefile = "gfx/interface/institutions//institution_tab_taxation.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_domestication"
+		texturefile = "gfx/interface/institutions//institution_tab_domestication.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_pantheon"
+		texturefile = "gfx/interface/institutions//institution_tab_pantheon.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_laws"
+		texturefile = "gfx/interface/institutions//institution_tab_laws.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_ard_plough"
+		texturefile = "gfx/interface/institutions//institution_tab_ard_plough.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_irrigation"
+		texturefile = "gfx/interface/institutions//institution_tab_irrigation.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_calendar"
+		texturefile = "gfx/interface/institutions//institution_tab_calendar.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_astrology"
+		texturefile = "gfx/interface/institutions//institution_tab_astrology.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_caste_system"
+		texturefile = "gfx/interface/institutions//institution_tab_caste_system.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_literature"
+		texturefile = "gfx/interface/institutions//institution_tab_literature.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_trade_networks"
+		texturefile = "gfx/interface/institutions//institution_tab_trade_networks.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_ironworking"
+		texturefile = "gfx/interface/institutions//institution_tab_ironworking.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_crop_rotation"
+		texturefile = "gfx/interface/institutions//institution_tab_crop_rotation.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_animal_husbandry"
+		texturefile = "gfx/interface/institutions//institution_tab_animal_husbandry.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_craftsmanship"
+		texturefile = "gfx/interface/institutions//institution_tab_craftsmanship.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_architecture"
+		texturefile = "gfx/interface/institutions//institution_tab_architecture.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_mathematics"
+		texturefile = "gfx/interface/institutions//institution_tab_mathematics.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_philosophy"
+		texturefile = "gfx/interface/institutions//institution_tab_philosophy.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_medicine"
+		texturefile = "gfx/interface/institutions//institution_tab_medicine.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_steelworking"
+		texturefile = "gfx/interface/institutions//institution_tab_steelworking.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_theatre"
+		texturefile = "gfx/interface/institutions//institution_tab_theatre.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_astronomy"
+		texturefile = "gfx/interface/institutions//institution_tab_astronomy.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_ancient_imperialism"
+		texturefile = "gfx/interface/institutions//institution_tab_ancient_imperialism.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_institution_tab_legalism"
+		texturefile = "gfx/interface/institutions//institution_tab_legalism.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
 }
