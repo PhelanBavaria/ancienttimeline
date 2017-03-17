@@ -1,0 +1,2006 @@
+#
+# remember to add graphics for relevant ones when you add to this
+#
+# if a modifier is scaled, its multiplied with development in the province.
+
+
+#######################################
+# Agriculture
+#######################################
+agriculture = {
+	penalty = 0.5
+
+	bonus = {
+	}
+
+	history = {
+		always = yes
+	}
+	
+	# no need for events, as its there from the start.
+	
+	can_embrace = {
+		always = yes
+	}
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Writing
+#######################################
+writing = {
+	penalty = 0.5
+
+	bonus = {
+		diplomatic_upkeep = 1
+	}
+	
+	historical_start_date = 2000.1.1
+	historical_start_province = 2130 #Ur
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 2000
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = at_institutions.1
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+
+#######################################
+# Bronzeworking
+#######################################
+bronzeworking = {
+	penalty = 0.5
+
+	bonus = {
+		global_regiment_recruit_speed = -0.1
+	}
+	
+	historical_start_date = 2200.1.1
+	historical_start_province = 408 #Somewhere in Sumeria
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 2200
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.2
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Taxation
+#######################################
+taxation = {
+	penalty = 0.5
+
+	bonus = {
+		global_tax_modifier = 0.1
+	}
+	
+	historical_start_date = 2400.1.1
+	historical_start_province = 360 #Thebes
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 2400
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.3
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Domestication
+#######################################
+domestication = {
+	penalty = 0.5
+
+	bonus = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	
+	historical_start_date = 2400.1.1
+	historical_start_province = 700 #China
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 2600
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.4
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Pantheon
+#######################################
+pantheon = {
+	penalty = 0.5
+
+	bonus = {
+		global_missionary_strength = 0.01
+	}
+	
+	historical_start_date = 2800.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 2800
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.5
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Laws
+#######################################
+laws = {
+	penalty = 0.5
+
+	bonus = {
+		global_unrest = -1
+	}
+	
+	historical_start_date = 3000.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3000
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.6
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Ard Plough
+#######################################
+ard_plough = {
+	penalty = 0.5
+
+	bonus = {
+		production_efficiency = 0.10
+	}
+	
+	historical_start_date = 3100.1.1
+	historical_start_province = 360 #Thebes
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3100
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.7
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Irrigation
+#######################################
+irrigation = {
+	penalty = 0.5
+
+	bonus = {
+		global_manpower_modifier = 0.1
+	}
+	
+	historical_start_date = 3200.1.1
+	historical_start_province = 2492 #China
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3200
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.8
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Calendar
+#######################################
+calendar = {
+	penalty = 0.5
+
+	bonus = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	
+	historical_start_date = 3300.1.1
+	historical_start_province = 700 #China
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3300
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.9
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Astrology
+#######################################
+astrology = {
+	penalty = 0.5
+
+	bonus = {
+		tolerance_own = 1
+	}
+	
+	historical_start_date = 3400.1.1
+	historical_start_province = 360 #Thebes
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3400
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.10
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Caste System
+#######################################
+caste_system = {
+	penalty = 0.5
+
+	bonus = {
+		vassal_income = 0.25
+	}
+	
+	historical_start_date = 3500.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3500
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.11
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Literature
+#######################################
+literature = {
+	penalty = 0.5
+
+	bonus = {
+		advisor_cost = -0.10
+	}
+	
+	historical_start_date = 3600.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3600
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.12
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Trade Networks
+#######################################
+trade_networks = {
+	penalty = 0.5
+
+	bonus = {
+		trade_efficiency = 0.1
+	}
+	
+	historical_start_date = 3700.1.1
+	historical_start_province = 1855 #Phoenicia
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3700
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.13
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Iron Working
+#######################################
+ironworking = {
+	penalty = 0.5
+
+	bonus = {
+		infantry_power = 0.1
+	}
+	
+	historical_start_date = 3800.1.1
+	historical_start_province = 2363 #Hittites
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3800
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.14
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Crop Rotation
+#######################################
+crop_rotation = {
+	penalty = 0.5
+
+	bonus = {
+		manpower_recovery_speed = 0.1
+	}
+	
+	historical_start_date = 3900.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 3900
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.15
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Animal Husbandry
+#######################################
+animal_husbandry = {
+	penalty = 0.5
+
+	bonus = {
+		cavalry_power = 0.1
+	}
+	
+	historical_start_date = 4000.1.1
+	historical_start_province = 2462 #China
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4000
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.16
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Craftsmanship
+#######################################
+craftsmanship = {
+	penalty = 0.5
+
+	bonus = {
+		production_efficiency = 0.1
+	}
+	
+	historical_start_date = 4100.1.1
+	historical_start_province = 409 #Babylon
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4100
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.17
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Architecture
+#######################################
+architecture = {
+	penalty = 0.5
+
+	bonus = {
+		build_cost = -0.1
+	}
+	
+	historical_start_date = 4200.1.1
+	historical_start_province = 361 #Memphis
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4200
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.18
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Mathematics
+#######################################
+mathematics = {
+	penalty = 0.5
+
+	bonus = {
+		technology_cost = -0.05
+	}
+	
+	historical_start_date = 4300.1.1
+	historical_start_province = 361 #Memphis
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4300
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.19
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Philosophy
+#######################################
+philosophy = {
+	penalty = 0.5
+
+	bonus = {
+		advisor_pool = 1
+	}
+	
+	historical_start_date = 4400.1.1
+	historical_start_province = 146 #Athens
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4400
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.20
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Medicine
+#######################################
+medicine = {
+	penalty = 0.5
+
+	bonus = {
+		development_cost = -0.1
+	}
+	
+	historical_start_date = 4500.1.1
+	historical_start_province = 700 #China
+
+	history = {
+		always = yes
+	}
+	
+	can_start = {
+		is_year = 4500
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.21
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Steelworking
+#######################################
+steelworking = {
+	penalty = 0.5
+
+	bonus = {
+		global_regiment_cost = -0.1
+	}
+	
+	historical_start_date = 4600.1.1
+	historical_start_province = 2492 #China
+
+	history = {
+		OR = {
+			AND = {
+				NOT = { government = tribal_despotism }
+				NOT = { government = tribal_federation }
+				NOT = { government = tribal_democracy }
+				NOT = { government = steppe_horde }
+				NOT = { government = tribal_kingdom }
+				NOT = { government = native_council }
+				NOT = { government = chiefdom }
+				NOT = { government = migratory_tribe }
+			}
+			is_year = 4900
+		}
+	}
+	
+	can_start = {
+		is_year = 4600
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	#on_start = et_institutions.22
+	on_start = et_institutions.1 #Dummy for now
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_steelworking
+				any_friendly_coast_border_province = {
+					steelworking = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_steelworking
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					steelworking = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			has_building = workshop
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_subject = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_steelworking
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = steelworking }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = steelworking
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_steelworking_embraced
+				owner = {
+					has_institution = steelworking
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Theatre
+#######################################
+theatre = {
+	penalty = 0.5
+
+	bonus = {
+		prestige = 0.5
+	}
+	
+	historical_start_date = 4700.1.1
+	historical_start_province = 146 #Athens
+
+	history = {
+		is_year = 4700
+		OR = {
+			AND = {
+				NOT = { government = tribal_despotism }
+				NOT = { government = tribal_federation }
+				NOT = { government = tribal_democracy }
+				NOT = { government = steppe_horde }
+				NOT = { government = tribal_kingdom }
+				NOT = { government = native_council }
+				NOT = { government = chiefdom }
+				NOT = { government = migratory_tribe }
+			}
+			is_year = 5000
+		}
+	}
+	
+	can_start = {
+		is_year = 4700
+		is_island = no
+		is_state = yes
+		OR = {
+			is_capital = yes
+			development = 15
+		}
+		owner = { 
+			NOT = { government = tribal_despotism }
+			NOT = { government = tribal_federation }
+			NOT = { government = tribal_democracy }
+			NOT = { government = steppe_horde }
+			NOT = { government = tribal_kingdom }
+			NOT = { government = native_council }
+			NOT = { government = chiefdom }
+			NOT = { government = migratory_tribe }
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	on_start = et_institutions.23
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_theatre
+				any_friendly_coast_border_province = {
+					 theatre = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_theatre
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					theatre = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			is_capital = yes
+			government = republic
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_subject = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_theatre
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = theatre }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = theatre
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_theatre_embraced
+				owner = {
+					has_institution = theatre
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Astronomy
+#######################################
+astronomy = {
+	penalty = 0.5
+
+	bonus = {
+		trade_range_modifier = 0.30
+	}
+	
+	historical_start_date = 4800.1.1
+	historical_start_province = 146 #Athens
+
+	history = {
+		is_year = 4800
+		OR = {
+			AND = {
+				NOT = { government = tribal_despotism }
+				NOT = { government = tribal_federation }
+				NOT = { government = tribal_democracy }
+				NOT = { government = steppe_horde }
+				NOT = { government = tribal_kingdom }
+				NOT = { government = native_council }
+				NOT = { government = chiefdom }
+				NOT = { government = migratory_tribe }
+			}
+			is_year = 5100
+		}
+	}
+	
+	can_start = {
+		is_year = 4800
+		is_island = no
+		is_state = yes
+		OR = {
+			is_capital = yes
+			development = 15
+		}
+		owner = { 
+			NOT = { government = tribal_despotism }
+			NOT = { government = tribal_federation }
+			NOT = { government = tribal_democracy }
+			NOT = { government = steppe_horde }
+			NOT = { government = tribal_kingdom }
+			NOT = { government = native_council }
+			NOT = { government = chiefdom }
+			NOT = { government = migratory_tribe }
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	on_start = et_institutions.24
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_astronomy
+				any_friendly_coast_border_province = {
+					 astronomy = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_astronomy
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					astronomy = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			development = 18
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_subject = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_astronomy
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = astronomy }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = astronomy
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_astronomy_embraced
+				owner = {
+					has_institution = astronomy
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Ancient Imperialism
+#######################################
+ancient_imperialism = {
+	penalty = 0.5
+
+	bonus = {
+		core_creation = -0.1
+	}
+	
+	historical_start_date = 4900.1.1
+	historical_start_province = 118 #Rome
+
+	history = {
+		is_year = 4900
+		OR = {
+			government_rank = 3
+			AND = {
+				is_year = 5000
+				NOT = { government = tribal_despotism }
+				NOT = { government = tribal_federation }
+				NOT = { government = tribal_democracy }
+				NOT = { government = steppe_horde }
+				NOT = { government = tribal_kingdom }
+				NOT = { government = native_council }
+				NOT = { government = chiefdom }
+				NOT = { government = migratory_tribe }
+			}
+		}
+	}
+	
+	can_start = {
+		is_year = 4900
+		is_island = no
+		is_state = yes
+		is_capital = yes
+		owner = { 
+			government_rank = 3
+			is_subject = no
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	on_start = et_institutions.25
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_ancient_imperialism
+				any_friendly_coast_border_province = {
+					 ancient_imperialism = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_ancient_imperialism
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					ancient_imperialism = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			is_capital = yes
+			owner = { government_rank = 3 }
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_subject = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_ancient_imperialism
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = ancient_imperialism }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = ancient_imperialism
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_ancient_imperialism_embraced
+				owner = {
+					has_institution = ancient_imperialism
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Legalism
+#######################################
+legalism = {
+	penalty = 0.5
+
+	bonus = {
+		stability_cost_modifier = -0.1
+	}
+	
+	historical_start_date = 5001.1.1
+	historical_start_province = 700 #China
+
+	history = {
+		is_year = 5001
+		government_rank = 3
+	}
+	
+	can_start = {
+		is_year = 5001
+		is_island = no
+		is_state = yes
+		is_capital = yes
+		owner = { 
+			government_rank = 3
+			is_subject = no
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	on_start = et_institutions.26
+	
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_legalism
+				any_friendly_coast_border_province = {
+					 legalism = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_legalism
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					legalism = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			is_capital = yes
+			development = 18
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_subject = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_legalism
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = legalism }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = legalism
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_legalism_embraced
+				owner = {
+					has_institution = legalism
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
