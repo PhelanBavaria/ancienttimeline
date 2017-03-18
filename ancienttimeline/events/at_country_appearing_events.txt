@@ -1091,3 +1091,42 @@ country_event = {
 		name = "newcntry.EVTOPTA28"
 	}
 }
+
+country_event = {
+	id = newcntry.29
+	title = "newcntry.EVTNAME29"
+	desc = "newcntry.EVTDESC29"
+	picture = CITY_DEVELOPMENT_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = { exists = ALM }
+		any_owned_province = { region = germania_region }
+		any_province = {
+			region = germania_region
+			is_empty = yes
+		}
+		is_year = 4800
+	}
+	mean_time_to_happen = {
+		months = 3600
+	}
+	
+	immediate = {
+		random_province = {
+			limit = {
+				region = germania_region
+				is_empty = yes
+			}
+			cede_province = ALM
+			add_core = ALM
+			change_trade_goods = grain
+		}
+		ALM = { every_neighbor_country = { add_truce_with = ALM } }
+	}
+
+	option = {
+		name = "newcntry.EVTOPTA29"
+	}
+}
