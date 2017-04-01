@@ -3,7 +3,7 @@
 owner = ALL
 controller = ALL
 culture = aramaic
-religion = chalcedonism
+religion = ashurism
 capital = "Meroe"
 trade_goods = cloth
 hre = no
