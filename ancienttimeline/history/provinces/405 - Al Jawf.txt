@@ -1,4 +1,4 @@
-#405 - Al Jawf
+#405 - Adummatu
 
 culture = bedouin_arabic
 religion = nabataean
@@ -9,4 +9,4 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 
-4000.1.1 = { owner = QED controller = QED add_core = QED }
+4000.1.1 = { owner = QED controller = QED add_core = QED capital = "Dumah" }
