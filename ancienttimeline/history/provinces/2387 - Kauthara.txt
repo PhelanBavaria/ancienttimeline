@@ -3,7 +3,7 @@
 owner = HUY
 controller = HUY
 culture = cham
-religion = vedism
+religion = animism
 capital = "Kauthara"
 trade_goods = tea
 hre = no
@@ -14,4 +14,3 @@ citysize = 5821
 add_core = HUY
 discovered_by = HUY
 
-4500.1.1 = { religion = hinduism }

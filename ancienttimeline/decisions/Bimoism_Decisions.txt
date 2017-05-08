@@ -15,7 +15,8 @@ saizhuang_festival = {
 		add_treasury = -50
 		set_country_flag = wait_for_saizhuang
 		country_event = {
-			bimo.1
+			id = bimo.1
+			days = 1
 		}
         }
 	ai_will_do = {

@@ -16,7 +16,7 @@ country_event = {
 		name = bimo.EVTOPTA1
 		add_country_modifier = {
 			name = "saizhuang_active"
-			duration = 6
+			duration = 182
 		}
 		add_prestige = 5
 		clr_country_flag = wait_for_saizhuang

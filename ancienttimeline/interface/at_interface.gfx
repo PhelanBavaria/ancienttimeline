@@ -37,6 +37,12 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "BIMO_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BIMO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "EARLY_ROMAN_GENERALS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/EARLY_ROMAN_GENERALS_eventPicture.dds"
 		allwaystransparent = yes
@@ -133,8 +139,26 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "SAIZHUANG_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/SAIZHUANG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "STATUE_ZEUS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/STATUE_ZEUS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "YI_PEOPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YI_PEOPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "YI_SCRIPT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YI_SCRIPT_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	

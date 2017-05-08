@@ -3,7 +3,7 @@
 owner = HUY
 controller = HUY
 culture = vietnamese
-religion = vedism
+religion = animism
 capital = "Hue"
 trade_goods = spices
 hre = no
@@ -15,4 +15,3 @@ add_core = HUY
 discovered_by = chinese
 discovered_by = south_chinese
 
-4500.1.1 = { religion = hinduism }
