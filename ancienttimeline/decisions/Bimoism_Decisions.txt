@@ -14,7 +14,7 @@ saizhuang_festival = {
 	effect = {
 		add_treasury = -50
 		set_country_flag = wait_for_saizhuang
-		events = {
+		country_event = {
 			bimo.1
 		}
         }
