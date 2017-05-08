@@ -1,0 +1,25 @@
+country_decisions = {
+
+saizhuang_festival = {
+	potential = {
+		religion = bimoism
+		NOT = { has_country_modifier = saizhuang_active }
+		NOT = { has_country_flag = wait_for_saizhuang }
+		is_month = 1
+		NOT = { is_month = 2 }
+	}
+	allow = {
+		religion = bimoism
+	}
+	effect = {
+		add_treasury = -50
+		set_country_flag = wait_for_saizhuang
+		events = {
+			bimo.1
+		}
+        }
+	ai_will_do = {
+		factor = 1
+	}
+}
+}
