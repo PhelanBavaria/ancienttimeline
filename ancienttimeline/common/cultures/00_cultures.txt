@@ -3218,10 +3218,11 @@ canaanite = {
 	phoenician = {
 		male_names = {
 			Agenor Eri-Aku Abi-Milku Aribas Baal Pummay Abibaal Hiram Baal-Eser Abdastartus Astartus Deleastartus Astarymus Phelles
-			Ithobaal Mattan Pygmalion Elulaios Yakinbaal Chelbes Abbar
+			Ithobaal Mattan Pygmalion Elulaios Yakinbaal Chelbes Abbar Hanun Sanipu Zippor Sheth Balak Eglon Mesha Salamanu Chemosh-nadab
+			Nahash Shobi Rehob Shanip Zakkur Yarahazar Peduel Barachel Amminadab Hissalel Baalis
 		}
 		female_names = {
-			Dido Elissa Ashtoreth Asherah
+			Dido Elissa Ashtoreth Asherah Donatiya Hurriya Pigat
 		}
 	}
 	punic = {

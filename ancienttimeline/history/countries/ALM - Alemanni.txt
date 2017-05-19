@@ -1,0 +1,9 @@
+government = migratory_tribe
+mercantilism = 0.1
+primary_culture = irmionic
+religion = germanic
+technology_group = barbarian
+unit_type = gauls
+capital = 69
+
+4900.1.1 = { government = tribal_despotism }
