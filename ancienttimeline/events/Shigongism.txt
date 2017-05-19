@@ -1,0 +1,170 @@
+namespace = shig
+
+country_event = {
+	id = shig.1
+	title = shig.EVTNAME1
+	desc = shig.EVTDESC1
+	picture = SAMNYIEDSAM_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = shig.EVTOPTA1
+		add_prestige = 5
+	}
+}
+
+country_event = {
+	id = shig.2
+	title = shig.EVTNAME2
+	desc = shig.EVTDESC2
+	picture = BAEUQLOXDOH_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = shig.EVTOPTA2
+		add_treasury = -25
+		add_adm_power = 50
+	}
+	option = {
+		name = shig.EVTOPTB2
+	}
+}
+
+country_event = {
+	id = shig.3
+	title = shig.EVTNAME3
+	desc = shig.EVTDESC3
+	picture = BAEUQLOXDOH_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = shig.EVTOPTA3
+		add_legitimacy = 5
+	}
+}
+
+country_event = {
+	id = shig.4
+	title = shig.EVTNAME4
+	desc = shig.EVTDESC4
+	picture = BAEUQLOXDOH_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = shig.EVTOPTA4
+		add_adm_power = 25
+		add_dip_power = 25
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = shig.5
+	title = shig.EVTNAME5
+	desc = shig.EVTDESC5
+	picture = BAEUQLOXDOH_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = shig.EVTOPTA5
+		add_prestige = -5
+	}
+}
+
+country_event = {
+	id = shig.6
+	title = shig.EVTNAME6
+	desc = shig.EVTDESC6
+	picture = SAWGOEK_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = shig.EVTOPTA6
+		add_legitimacy = 5
+		add_adm_power = 50
+	}
+}
+
+country_event = {
+	id = shig.7
+	title = shig.EVTNAME7
+	desc = shig.EVTDESC7
+	picture = ZHUANG_FOOD_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = shig.EVTOPTA7
+		add_prestige = 5
+		add_dip_power = 25
+	}
+}
+
+country_event = {
+	id = shig.8
+	title = shig.EVTNAME8
+	desc = shig.EVTDESC8
+	picture = ZHUANG_PEOPLE_eventPicture
+
+	trigger = {
+		religion = shigongism
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = shig.EVTOPTA8
+		add_legitimacy = 5
+		add_treasury = 50
+	}
+}
