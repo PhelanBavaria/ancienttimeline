@@ -1,0 +1,6 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = chinese
+religion = tibetan_bon
+primary_culture = tibetan
+capital = 2452

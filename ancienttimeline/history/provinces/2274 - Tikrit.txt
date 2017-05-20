@@ -3,7 +3,7 @@
 owner = ASU
 controller = ASU
 culture = assyrian
-religion = zoroastrian
+religion = ashurism
 capital = "Assur"
 trade_goods = wool
 hre = no
@@ -22,7 +22,7 @@ discovered_by = barbarian
 2846.1.1 = { owner = ASY controller = ASY add_core = ASY remove_core = AKK }
 2888.1.1 = { owner = SUM controller = SUM add_core = SUM }
 2950.1.1 = { owner = ASY controller = ASY add_core = ASY remove_core = SUM }
-4461.7.20 = { owner = ACA controller = ACA add_core = ACA remove_core = ASY }
+4461.7.20 = { owner = ACA controller = ACA add_core = ACA remove_core = ASY religion = zoroastrian }
 4669.9.12 = { owner = MCD controller = MCD add_core = MCD remove_core = ACA }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
 4859.1.1 = { owner = PRT controller = PRT add_core = PRT remove_core = SLC }
