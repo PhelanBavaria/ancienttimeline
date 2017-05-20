@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = jainism
+primary_culture = kannada
+capital = 2221
