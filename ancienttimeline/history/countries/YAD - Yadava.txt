@@ -1,0 +1,16 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -4
+#quality_quantity = 4
+#serfdom_freesubjects = -2
+primary_culture = panjabi
+religion = vedism
+technology_group = indian
+capital = 522
+
+4500.1.1 = { religion = hinduism }

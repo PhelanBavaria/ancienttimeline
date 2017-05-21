@@ -3201,16 +3201,6 @@ mesopotamian = {
 			Seruya Seruya-Edirat Shala Tabuya Tap-Nakhti Tasmit Tihamtu Ukubutu Urmitu Zirratbanit
 		}
 	}
-	aramaic = {
-		dynasty_names = { "Abidaoud" "Abgarid" }
-
-		male_names = {
-			Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
-		}
-		female_names = {
-			Anna
-		}
-	}
 }
 
 canaanite = {
@@ -3231,6 +3221,33 @@ canaanite = {
 		}
 		female_names = {
 			Dido Elissa Ashtoreth Asherah
+		}
+	}
+	aramaic = {
+		dynasty_names = { "Abidaoud" "Abgarid" }
+
+		male_names = {
+			Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
+		}
+		female_names = {
+			Anna
+		}
+	}
+	ugaritic = {
+		male_names = {
+			Hanun Sanipu Zippor Sheth Balak Eglon Mesha Salamanu Chemosh-nadab Nahash Shobi Rehob Shanip Zakkur Yarahazar 
+			Peduel Barachel Amminadab Hissalel Baalis
+		}
+		female_names = {
+			Donatiya Hurriya Pigat
+		}
+	}
+	amorite = {
+		male_names = {
+			Sumu-Epuh Yarim-Lim Hammurabi Abba-El Niqmi-Epuh Irkabtum Sarra-El Ilim-Ilimma
+		}
+		female_names = {
+			Donatiya Hurriya Pigat
 		}
 	}
 	dynasty_names = {
