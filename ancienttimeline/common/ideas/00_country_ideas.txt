@@ -1316,7 +1316,7 @@ HAN_ideas = {
 	xiaokang_society = {
 		global_tax_modifier = 0.20
 	}
-	three_jins = {
+	three_jins_han = {
 		legitimacy = 1
 	}
 	taihang_mountains = {
@@ -1355,7 +1355,7 @@ ZAO_ideas = {
 	brilliant_military_commanders = {
 		army_tradition = 1
 	}
-	three_jins = {
+	three_jins_zhao = {
 		legitimacy = 1
 	}
 	northern_frontier_zhao = {

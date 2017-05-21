@@ -665,8 +665,8 @@
  experienced_warriors_han_desc:0 "Due to our small size and position of being surrounded by more powerful states that wish to annex our land, we must have an experienced and disciplined army that is capable of fighting any aggressors that try to invade us."
  xiaokang_society:0 "Xiaokang Society"
  xiaokang_society_desc:0 "Through a series of reforms our state has managed to create a xiaokang (moderately prosperous) society, with a richer populace we can extract more tax from them to contribute to the running of the Han state."
- three_jins:0 "Three Jins"
- three_jins_desc:0 "We are one of the three successor states of the state of Jin which was partitioned by Zhao, Wei and Han. We must reclaim their former lands and assert ourselves as the only true successor of Jin."
+ three_jins_han:0 "Three Jins"
+ three_jins_han_desc:0 "We are one of the three successor states of the state of Jin which was partitioned by Zhao, Wei and Han. We must reclaim their former lands and assert ourselves as the only true successor of Jin."
  taihang_mountains:0 "Taihang Mountains"
  taihang_mountains_desc:0 "The Taihang Mountains protect our capital from attack, a series of forts has been built across the mountains to further protect us, but the mountains themselves will quickly erode the strength enemy army so we can counter-attack."
  hanyuan:0 "Hanyuan"
@@ -682,8 +682,8 @@
  reforms_of_king_wuling_desc:0 "King Wuling reformed our military to get rid of the ineffective and outdated tactics that were holding our army back from reaching its true potential. He mixed our advanced technology with nomadic tactics which has allowed us to become a serious challenge to any other state that wishes to unify the Jiuzhou." 
  brilliant_military_commanders:0 "Brilliant Military Commanders"
  brilliant_military_commanders_desc:0 "The state of Zhao has had a history of fielding brilliant military commander who have helped our state immensely in times of trouble, commanders including Lian Po, Zhao She and Li Mu set the standard for what all our generals should be like."
- three_jins:0 "Three Jins"
- three_jins_desc:0 "We are one of the three successor states of the state of Jin which was partitioned by Zhao, Wei and Han. We must reclaim their former lands and assert ourselves as the only true successor of Jin."
+ three_jins_zhao:0 "Three Jins"
+ three_jins_zhao_desc:0 "We are one of the three successor states of the state of Jin which was partitioned by Zhao, Wei and Han. We must reclaim their former lands and assert ourselves as the only true successor of Jin."
  northern_frontier_zhao:0 "Northern Frontier"
  northern_frontier_zhao_desc:0 "Our state is located on the northern frontier, nomadic northern barbarians consistently launch raids into our land. We must build forts and walls on the border to prevent any more raids from occurring."
  battle_of_jinyang:0 "Battle of Jinyang"
@@ -707,7 +707,6 @@
  expansion_to_the_east_desc:0 "The lands to our west consist mostly of barren wasteland which means we must focus our expansion efforts to the wealthier well-settled lands to the east which possess more resources. We have to seize this land as quickly as possible to maximise our gains."
  spade_money:0 "Spade Money"
  spade_money_desc:0 "Arched foot spade money is our form of currency, spade money is widespread throughout the Jiuzhou and we can gain more tax out of our own people as the spade money is easily produced and circulated."
-<<<<<<< HEAD
  BAX_ideas:0 "Ba Ideas"
  BAX_ideas_start:0 "Ba Traditions"
  BAX_ideas_bonus:0 "Ba Ambitions"
@@ -725,7 +724,6 @@
  ba_shu_script_desc:0 "Unlike the rest of the kingdoms in China, we have adopted our own writing system instead of adopting someone elses. This unique style will yield us many benefits in diplomacy and administration."
  six_capitals_of_ba:0 "Six Capitals of Ba"
  six_capitals_of_ba_desc:0 "Despite having to move our capital many times, our enemies failed to completely destroy us. Where others disappeared in time, we continued to survive, fight, and thrive."
-=======
  germanic_ideas:0 "Germanic Ideas"
  germanic_ideas_start:0 "Germanic Traditions"
  germanic_ideas_bonus:0 "Germanic Ambitions"
@@ -760,10 +758,4 @@
  postroman_legacy_desc:0 "Despite Roman invasion, the celtic people stood strong until invasion by the Saxons and the Angles."
  druids:0 "Druids"
  druids_desc:0 "Though little is known about the druids, it is known that they bore a title of significant importance and were seen highly socially. They also performed religious rituals such as sacrifices."
- 
- 
- 
- 
- 
- 
 >>>>>>> origin/master

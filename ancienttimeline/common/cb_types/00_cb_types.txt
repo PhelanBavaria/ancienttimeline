@@ -21,9 +21,7 @@ cb_restore_personal_union = {
 	months = 120
 	
 	prerequisites = {
-		OR = {
-			government = monarchy
-		}
+		government = monarchy
 		is_revolution_target = no
 	}
 	
@@ -282,11 +280,9 @@ cb_trade_war = {
 	
 	prerequisites = {
 		
-		OR = {
-			AND = {
+		AND = {
 				trade_embargo_by = FROM
 				NOT = { FROM = { trade_embargo_by = ROOT } }
-			}
 		}
 		is_revolution_target = no
 	}

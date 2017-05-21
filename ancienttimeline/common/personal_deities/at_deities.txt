@@ -2272,7 +2272,7 @@ endovelicus_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_capitalist
 		}
 	}
 }
@@ -2291,7 +2291,7 @@ ataegina_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_capitalist
 		}
 	}
 }
@@ -2310,7 +2310,7 @@ nabia_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_colonialist
 		}
 	}
 }
@@ -2329,7 +2329,7 @@ bandua_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_diplomat
 		}
 	}
 }
@@ -2348,7 +2348,7 @@ cariocecus_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_militarist
 		}
 	}
 }
@@ -2367,7 +2367,7 @@ dercetius_lusi =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = 
+			personality = ai_militarist
 		}
 	}
 }
