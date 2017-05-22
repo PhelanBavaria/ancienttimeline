@@ -2,8 +2,8 @@
 
 owner = DIL
 controller = DIL
-culture = bedouin_arabic
-religion = south_arabian
+culture = babylonian
+religion = ashurism
 capital = "Abu Dhabi"
 trade_goods = fish
 hre = no
@@ -14,4 +14,4 @@ is_city = yes
 add_core = DIL
 discovered_by = indian
 
-4400.1.1 = { owner = GRR controller = GRR add_core = GRR remove_core = DIL }
+4400.1.1 = { owner = GRR controller = GRR add_core = GRR remove_core = DIL culture = bedouin_arabic religion = south_arabian }

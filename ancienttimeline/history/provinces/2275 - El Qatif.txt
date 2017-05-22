@@ -2,8 +2,8 @@
 
 owner = DIL
 controller = DIL
-culture = bedouin_arabic
-religion = south_arabian
+culture = babylonian
+religion = ashurism
 capital = "Gerrha"
 trade_goods = fish
 hre = no
@@ -13,4 +13,4 @@ base_manpower = 2
 add_core = DIL
 discovered_by = indian
 
-4400.1.1 = { owner = GRR controller = GRR add_core = GRR remove_core = DIL }
+4400.1.1 = { owner = GRR controller = GRR add_core = GRR remove_core = DIL culture = bedouin_arabic religion = south_arabian }

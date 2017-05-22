@@ -3201,6 +3201,18 @@ mesopotamian = {
 			Seruya Seruya-Edirat Shala Tabuya Tap-Nakhti Tasmit Tihamtu Ukubutu Urmitu Zirratbanit
 		}
 	}
+	sumerian = {
+		primary = SUM
+		dynasty_names = { "Adab" "Akshak" "Isin" }
+		male_names = {
+			Kurum Sherum-Ili Ibi-Sin Taribat-Sin Samuqan Ellu-Mushu Shu-Bad Puzu Ishme-Ea Nanna-Mansum Melem-Ana Mezizi Yahurum Ama-Sin Awil-Shamash
+			Iddin-Ninshubur Gudea Namtar Xisuthros Ilshubani Assur-Susuli Sig-Ersetim Kuda En-Tarah-Ana Erra-Imitti Eluti Ahum Elulu Watrum
+		}
+		female_names = {
+			Gemeshega Mammetum Ningal Ahatiwaqrat Uttu Tiamat Nisaba Ali-Ahhusha Ninki Amarezen Takurtum Sabit Semiramis Puabi Bau Antum Ninbanda
+			Ninhursag Bauninsheg Nin-Kagina Ninshuel Shagshag Enanatuma Hunabatum Ningikuga
+		}
+	}
 }
 
 canaanite = {
@@ -3302,6 +3314,25 @@ hittite_group = {
 		}
 		female_names = {
 			Pudukhepa Puduhepa
+		}
+	}
+}
+
+elamite_group = {
+	graphical_culture = muslimgfx
+	elamite = {
+		primary = ELA
+		dynasty_names = {
+			"Awan" "Simashki" "Epartid" "Kidinuid" "Igehalkid" "Shutrukid" "Hamazi" "Anshan"
+		male_names = {
+			Humbaba Humban-Shutur Kur-Ishshak Peli Tata Ukku-Tanhish Hishutash Shushun-Tarana Napi-Ilhush Kikku-Siwe-Temti Hishep-Ratep Luh-Ishshan
+			Emahsini Helu Hita Kutik-Inshushinak Gir-Namme Tazitta Eparti Lurak-Luhhan Hutran-Temti Indattu-Inshushinak Kindattu Tan-Ruhuratir
+			Indattu-Napir Indattu-Temti Shilhaha Atta-hushu Tetep-Mada Palar-Ishshan Kuk-Sanit Kuk-Kirwash Tem-Sanit Kuk-Nahhunte Shirukduh 
+			Shimat-Wartash Siwe-Palar-Hupak Kuduzulush Kutir-Nahhunte Atta-Merra-Halki Lila-Irtash Temti-Agun Kutir-Shilhaha Temti-Raptash Shirtuh
+			Tan-Uli Temti-Halki Kutik-Matlat Kidinu Shalla Temti-Ahar Ata-Halki Attar-Kittah Ige-Halki Pahir-Ishshan
+		}
+		female_names = {
+			Narundi Niarzina Shiashum Ani-Numa
 		}
 	}
 }

@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = hurrian
+religion = hittite_religion
+technology_group = mediterranean
+capital = 2272

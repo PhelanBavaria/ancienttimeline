@@ -1050,6 +1050,26 @@ mesopotamian = {
 		annex = yes
 	}
 
+	elamite_religion = {
+		color = { 0.7 0.01 0.6 }
+		icon = 54
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			tolerance_own = 1
+			global_unrest = -2
+		}
+		country_as_secondary = {
+			heir_chance = 0.50
+			advisor_cost = -0.1
+		}
+
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+
+		annex = yes
+	}
+
 	crusade_name = CRUSADE
 }
 
