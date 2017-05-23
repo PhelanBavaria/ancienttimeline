@@ -23,7 +23,6 @@ capital = 132  # Steiermark
         name = "Voccio"
         dynasty = "Norici"
         birth_date = 4957.4.3
-        death_date = 4984.3.4
         adm = 3
         dip = 3
         mil = 4

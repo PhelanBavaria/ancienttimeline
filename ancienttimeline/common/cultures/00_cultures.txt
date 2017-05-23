@@ -3324,6 +3324,7 @@ elamite_group = {
 		primary = ELA
 		dynasty_names = {
 			"Awan" "Simashki" "Epartid" "Kidinuid" "Igehalkid" "Shutrukid" "Hamazi" "Anshan"
+		}
 		male_names = {
 			Humbaba Humban-Shutur Kur-Ishshak Peli Tata Ukku-Tanhish Hishutash Shushun-Tarana Napi-Ilhush Kikku-Siwe-Temti Hishep-Ratep Luh-Ishshan
 			Emahsini Helu Hita Kutik-Inshushinak Gir-Namme Tazitta Eparti Lurak-Luhhan Hutran-Temti Indattu-Inshushinak Kindattu Tan-Ruhuratir
