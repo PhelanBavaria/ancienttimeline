@@ -1,0 +1,9 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = malayan
+religion = vedism
+technology_group = south_chinese
+unit_type = chinese
+capital = 2414
+
+4500.1.1 = { religion = hinduism }

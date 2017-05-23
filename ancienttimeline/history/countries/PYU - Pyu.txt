@@ -1,0 +1,6 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = chinese
+religion = mahayana
+primary_culture = burmese
+capital = 585

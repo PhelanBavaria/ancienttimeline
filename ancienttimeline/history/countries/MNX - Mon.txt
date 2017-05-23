@@ -1,0 +1,7 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = south_chinese
+unit_type = chinese
+religion = buddhism
+primary_culture = mon
+capital = 586
