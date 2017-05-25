@@ -778,6 +778,42 @@ byzantine = {
 			Zoe
 		}
 	}
+	mycenaean_greek = {
+		primary = MYC
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas Bartholomaios Bartolomeus Basileios Basil 
+			Belisarios Belisarius Boethios Bosporios Christophoros Christopher Chrysanthos Chrysogonos 
+			Damianos Daniel David Demetrios Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios 
+			Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gennadios 
+			Georgios George Gerasimos Germanos Gregoras Gregory Gregorios Hektorios Helias Herakleios 
+			Heracles Hierotheos Himerios Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios Dionysos 
+			Elpidios Hektor Herakles Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios 
+			Petros Philemon Philippos Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason 
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agne Aikaterine Alexeia Anastasia Anna Anthe Anthousa 
+			Antipatra Antonia Apollonia Athanasia Barbara Basillike Chrysogone Damiane Demetra Dionysia 
+			Dorothea Aigidia Eirene Irene Elaiodora Epiphania Eudokia Eudocia Eudoxia Eugenia Eulalia 
+			Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia 
+			Georgia Gregoria Helene Helen Ioanna Ioulia Iouliana Ioustina Kale Konstantia Kyra Kyriake Hypatia 
+			Zoe
+		}
+	}
+	minoan = {
+		primary = MIN
+		male_names = {
+			Aranare Arudara Asijaka Bansabira Duripi Itaja Jadikira Kikeru Kitanetos Mijararos Nashuja Pamesijos Pijaseme Pijasiros
+			Pinaruti Pura Rusa Sijapuros Widina Yidini Yikashata Yishharu
+		}
+		female_names = {
+			Ariadnh
+		}
+		dynasty_names = {
+			""
+		}
+	}
 	dynasty_names = {
 		# CKII
 		"Kameniatis" "Chameas" "Demetrianos" "Laloudios" "Stamopatas" "Peloponnesites" "Klados" "Avastaktos" 
