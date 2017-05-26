@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = east_germanic
+religion = slavic
+technology_group = barbarian
+capital = 260

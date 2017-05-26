@@ -1,0 +1,6 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = nomad_group
+religion = zoroastrian
+primary_culture = saka
+capital = 2431

@@ -3331,6 +3331,7 @@ hittite_group = {
 		}
 	}
 	hurrian = {
+		primary = MIT
 		dynasty_names = {
 			""
 		}
