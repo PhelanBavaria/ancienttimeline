@@ -1,0 +1,187 @@
+namespace = benz
+
+country_event = {
+	id = benz.1
+	title = benz.EVTNAME1
+	desc = benz.EVTDESC1
+	picture = GWER_SA_LA_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA1
+		add_prestige = 5
+		add_legitimacy = 5
+	}
+}
+
+country_event = {
+	id = benz.2
+	title = benz.EVTNAME2
+	desc = benz.EVTDESC2
+	picture = BRONZE_COWRIE_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 420
+	}
+
+	option = {
+		name = benz.EVTOPTA2
+		add_prestige = 15
+	}
+}
+
+country_event = {
+	id = benz.3
+	title = benz.EVTNAME3
+	desc = benz.EVTDESC3
+	picture = NGEL_ZEX_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = benz.EVTOPTA3
+		add_legitimacy = 5
+	}
+}
+
+country_event = {
+	id = benz.4
+	title = benz.EVTNAME4
+	desc = benz.EVTDESC4
+	picture = NGEL_ZEX_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA4
+		add_legitimacy = 5
+		add_adm_power = 25
+	}
+}
+
+country_event = {
+	id = benz.5
+	title = benz.EVTNAME5
+	desc = benz.EVTDESC5
+	picture = NGEL_ZEX_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA5
+		add_treasury = 25
+	}
+}
+
+country_event = {
+	id = benz.6
+	title = benz.EVTNAME6
+	desc = benz.EVTDESC6
+	picture = BAI_PEOPLE_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA6
+		add_treasury = 25
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = benz.7
+	title = benz.EVTNAME7
+	desc = benz.EVTDESC7
+	picture = BAI_PEOPLE_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA7
+		add_adm_power = 25
+		add_dip_power = 25
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = benz.8
+	title = benz.EVTNAME8
+	desc = benz.EVTDESC8
+	picture = WHITE_ELEPHANT_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA8
+		add_prestige = 5
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = benz.9
+	title = benz.EVTNAME9
+	desc = benz.EVTDESC9
+	picture = NGEL_ZEX_eventPicture
+
+	trigger = {
+		religion = benzhuism
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = benz.EVTOPTA9
+		add_legitimacy = -5
+	}
+}
