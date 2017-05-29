@@ -1,0 +1,2 @@
+2954.1.1 = { celestial_emperor = YAN }
+4778.1.1 = { celestial_emperor = QIN }
