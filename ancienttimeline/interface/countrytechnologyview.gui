@@ -130,11 +130,11 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "mod_institution_spread"
-				position = { x = 48 y = 23 }
+				position = { x = 48 y = 25 }
 				textureFile = ""
-				font = "vic_22"
+				font = "vic_18"
 				borderSize = {x = 4 y = 4}	
-				maxWidth = 200
+				maxWidth = 216
 				maxHeight = 32
 				format = left
 				text = "Institution Spread: +70%"
@@ -149,11 +149,11 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "mod_embracement_cost"
-				position = { x = 299 y = 23 }
+				position = { x = 299 y = 25 }
 				textureFile = ""
-				font = "vic_22"
+				font = "vic_18"
 				borderSize = {x = 4 y = 4}	
-				maxWidth = 200
+				maxWidth = 216
 				maxHeight = 32
 				format = left
 				text = "Embracement Cost: -20%"

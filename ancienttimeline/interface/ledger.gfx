@@ -123,4 +123,9 @@ spriteTypes = {
 		name = "GFX_ledger_piechart_default"
 		size = 128
 	}	
+	spriteType = {
+		name = "GFX_ledger_item_bg"
+		texturefile = "gfx\\interface\\ledger_item_bg.dds"
+		#transparencecheck = yes
+	}
 }
