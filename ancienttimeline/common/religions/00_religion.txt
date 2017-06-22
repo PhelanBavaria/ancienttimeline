@@ -40,8 +40,11 @@ abrahamic = {
 		}
 
 		heretic = { SAMARITAN KARAITE }
+		
+		
 	}
 	
+	harmonized_modifier = harmonized_jewish_group
 	crusade_name = CRUSADE
 }
 
@@ -204,7 +207,8 @@ dharmic = {
 
 		heretic = { BHAKTI }
 	}
-
+	
+	harmonized_modifier = harmonized_dharmic
 	crusade_name = CRUSADE
 }
 
@@ -225,6 +229,8 @@ eastern = {
 			stability_cost_modifier = -0.1
 		}
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_confucianism
+		uses_harmony = yes
 	}
 
 	shinto = {
@@ -243,6 +249,7 @@ eastern = {
 		}
 		
 		heretic = { SHUGENDO }
+		harmonized_modifier = harmonized_shinto
 
 		date = 712.1.1
 	}
@@ -263,6 +270,7 @@ eastern = {
 		}
 		
 		heretic = { SHUGENDO }
+		harmonized_modifier = harmonized_tibetan_bon
 	}
 
 	muism = {
@@ -281,6 +289,7 @@ eastern = {
 		}
 		
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_muism
 	}
 
 	ua_dab = {
@@ -299,6 +308,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_ua_dab
 	}
 
 	bimoism = {
@@ -317,6 +327,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_bimoism
 	}
 
 	dao_mau = {
@@ -335,6 +346,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_dao_mau
 	}
 
 	shigongism = {
@@ -353,6 +365,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_shigongism
 	}
 
 	benzhuism = {
@@ -371,6 +384,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_benzhuism
 	}
 
 	yue_religion = {
@@ -389,6 +403,7 @@ eastern = {
 		}
 
 		heretic = { TAOIST }
+		harmonized_modifier = harmonized_yue
 	}
 	
 	crusade_name = CRUSADE
@@ -438,7 +453,7 @@ pagan = {
 		
 		annex = yes		
 	}
-	
+	harmonized_modifier = harmonized_animist_pagan
 	crusade_name = CRUSADE
 }
 
@@ -540,6 +555,7 @@ hellenic = {
 	}
 	
 	crusade_name = CRUSADE
+	harmonized_modifier = harmonized_hellenic_group
 }
 	
 iranian = {
@@ -582,7 +598,7 @@ iranian = {
 		
 		heretic = { MAZDAKI ZURVANITE }	
 	}
-
+	harmonized_modifier = harmonized_zoroastrian_group
 	crusade_name = CRUSADE
 }
 
@@ -695,7 +711,7 @@ american_pagan = {
 		
 		heretic = { INTI_HERETIC }	
 	}
-
+	harmonized_modifier = harmonized_american_pagan
 	crusade_name = CRUSADE
 }
 
@@ -743,13 +759,34 @@ celtic = {
 		
 		heretic = { GOAT_SKULL }
 	}
-	
+	harmonized_modifier = harmonized_celtic
 }
 european_pagan = {
 
 	flags_with_emblem_percentage = 10
 	flag_emblem_index_range = { 17 18 }
+	
+	germanic = {
+		color = { 0.75 0.75 0.75 }
+		icon = 32
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			land_maintenance_modifier = -0.10
+			land_forcelimit_modifier  = 0.2
+			land_morale = 0.20
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			land_morale = 0.05
+		}
 
+		personal_deity = yes
+		
+		heretic = { GOAT_SKULL }
+	}
+	
 	basque_religion = {
 		color = { 0.85 0.9 0.1 }
 		icon = 48
@@ -848,27 +885,7 @@ european_pagan = {
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 	}
 
-	germanic = {
-		color = { 0.75 0.75 0.75 }
-		icon = 32
-		province = {
-			local_missionary_strength = 0.02
-		}
-		country = {
-			land_maintenance_modifier = -0.10
-			land_forcelimit_modifier  = 0.2
-			land_morale = 0.20
-		}
-		country_as_secondary = {
-			merc_maintenance_modifier = -0.1
-			land_morale = 0.05
-		}
-
-		personal_deity = yes
-		
-		heretic = { GOAT_SKULL }
-	}
-
+	harmonized_modifier = harmonized_euro_pagan
 	crusade_name = CRUSADE
 }
 
@@ -890,7 +907,7 @@ tengri_group = {
 		can_have_secondary_religion = yes
 		heretic = { OLD_TENGRI }
 	}
-
+	harmonized_modifier = harmonized_tengri
 	crusade_name = CRUSADE
 }
 
@@ -974,7 +991,7 @@ african_pagan = {
 
 		heretic = { BEAR_SPIRIT SNAKE_CLAN }
 	}
-
+	harmonized_modifier = harmonized_african_pagan
 	crusade_name = CRUSADE
 }
 
@@ -1068,7 +1085,7 @@ mesopotamian = {
 
 		annex = yes
 	}
-
+	harmonized_modifier = harmonized_mesopotamian
 	crusade_name = CRUSADE
 }
 
@@ -1112,7 +1129,7 @@ caucasian_group = {
 		
 		heretic = { GOAT_SKULL }
 	}
-
+	harmonized_modifier = harmonized_caucasian
 	crusade_name = CRUSADE
 }
 
@@ -1133,4 +1150,5 @@ illyrian_group = {
 		}
 		heretic = { SAMARITAN KARAITE }
 	}
+	harmonized_modifier = harmonized_illyrian
 }

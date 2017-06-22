@@ -121,3 +121,120 @@ saizhuang_active = {
 	stability_cost_modifier = -0.15
 	land_morale = 0.2
 }
+
+
+######################
+##		Harmony		##
+######################
+
+
+harmonized_african_pagan = {
+	global_tax_modifier = 0.1
+	religion = yes
+}
+
+harmonized_tengri = {
+	cav_to_inf_ratio = 0.05
+	religion = yes
+}
+
+harmonized_euro_pagan = {
+	mercenary_discipline = 0.05 #Germanic Mecs
+	religion = yes
+}
+
+harmonized_celtic = {
+	global_unrest = -1
+	religion = yes
+}
+
+harmonized_american_pagan = {
+	advisor_pool = 1 
+	religion = yes
+}
+
+harmonized_hellenic_group = {
+	development_cost = -0.1 #Vanilla modifier for hellenism
+	religion = yes
+}
+
+harmonized_animist_pagan = {
+	heir_chance = 0.25 # Concubines
+	religion = yes
+}
+
+harmonized_dharmic = {
+	loot_amount = 0.25
+	religion = yes
+}
+
+harmonized_dharmic = {
+	diplomatic_reputation = 1
+	religion = yes
+}
+
+harmonized_mesopotamian = {
+	global_regiment_recruit_speed = -0.10
+	religion = yes
+}
+
+harmonized_caucasian = {
+	hostile_attrition = 1
+	religion = yes
+}
+
+harmonized_illyrian = {
+	production_efficiency = 0.10
+	religion = yes
+}
+
+harmonized_yue = {
+	tolerance_heathen = 0.25
+	religion = yes
+}
+
+harmonized_benzhuism = {
+	tolerance_heathen = 0.25
+	religion = yes
+}
+
+harmonized_shigongism = {
+	tolerance_heretic = 0.25
+	religion = yes
+}
+
+harmonized_dao_mau = {
+	caravan_power = 0.10
+	religion = yes
+}
+
+harmonized_bimoism = {
+	discipline = 0.025
+	religion = yes
+}
+
+harmonized_ua_dab = {
+	land_morale = 0.05
+	religion = yes
+}
+
+harmonized_muism = {
+	loot_amount = 0.25
+	religion = yes
+}
+
+harmonized_tibetan_bon = {
+	tolerance_heathen = 0.25
+	religion = yes
+}
+
+harmonized_confucianism = {
+	adm_tech_cost_modifier = -0.05
+	religion = yes
+}
+
+############################
+
+
+
+
