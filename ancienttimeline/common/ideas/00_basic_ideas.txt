@@ -53,7 +53,18 @@ mass_army_ideas = { # Early Mass Army
 
 cavalry_heavy_ideas = { # Like the persians 
 	category = MIL
-
+	
+	trigger = {
+		NOT = {
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+			}
+		}
+	}
+	
 	bonus = {
 		cavalry_flanking = 0.15
 	}
@@ -153,8 +164,8 @@ fortification_ideas = { # Fortifying cities and such
 	garrison_sorties = {
 		hostile_attrition = 1
 	}
-	garrison_sorties = {
-		hostile_attrition = 1
+	resistance_to_invaders = {
+		enemy_core_creation = 0.33
 	}
 	
 	ai_will_do = {
