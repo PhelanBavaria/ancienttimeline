@@ -143,7 +143,7 @@ fortification_ideas = { # Fortifying cities and such
 
 	stone_forts = {
 		defensiveness = 0.2
-		fort_maintenance_modifier = -0.05
+	#	fort_maintenance_modifier = -0.05
 	}
 	close_to_home = {
 		land_attrition = -0.075
@@ -211,6 +211,7 @@ professional_army_ideas = { # Like the romans
 
 	military_chronicle = {
 		army_tradition_from_battle = 1
+		prestige_from_land = 1
 	}
 	promise_of_land_and_slaves = {
 		land_maintenance_modifier = -0.1
