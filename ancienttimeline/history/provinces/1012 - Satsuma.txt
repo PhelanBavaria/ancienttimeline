@@ -1,6 +1,7 @@
 #1012 - Satsuma
 
 religion = animism
+culture = emishi
 capital = "Kagoshima"
 trade_goods = grain
 hre = no
