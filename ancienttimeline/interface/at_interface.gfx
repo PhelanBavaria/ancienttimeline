@@ -542,4 +542,14 @@ spriteTypes = {
 		noOfFrames = 2
 		transparencecheck = yes
 	}
+	
+	#Ages
+	spriteType = {
+		name = "GFX_classical_age"
+		texturefile = "gfx/interface/ages/age_classical.dds"
+	}
+	spriteType = {
+		name = "GFX_imperial_age"
+		texturefile = "gfx/interface/ages/age_imperial.dds"
+	}
 }

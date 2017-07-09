@@ -1,0 +1,1845 @@
+early_stone_age = {
+	start = 1000
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+middle_stone_age = {
+	start = 2200
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+late_stone_age = {
+	start = 2500
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+early_bronze_age = {
+	start = 2800
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+early_middle_bronze_age = {
+	start = 3000
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+middle_bronze_age = {
+	start = 3200
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+late_middle_bronze_age = {
+	start = 3400
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+late_bronze_age = {
+	start = 3600
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+early_iron_age = {
+	start = 3800
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+early_middle_iron_age = {
+	start = 4000
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+middle_iron_age = {
+	start = 4200
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+late_middle_iron_age = {
+	start = 4400
+	
+	can_start = {
+		always = no
+	}
+
+	objectives = {
+		obj_a = {
+			always = no
+		}
+		obj_b = {
+			always = no
+		}
+		obj_c = {
+			always = no
+		}
+		obj_d = {
+			always = no
+		}
+		obj_e = {
+			always = no
+		}
+		obj_f = {
+			always = no
+		}
+		obj_g = {
+			always = no
+		}
+	}		
+	
+	abilities = {
+		ab_a = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_b = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_c = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_d = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_e = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_f = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_g = {
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_h = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+classical_age = {
+	start = 4600
+	
+	can_start = {
+		always = yes
+	}
+	
+	absolutism = {
+		harsh_treatment = 1
+		stability = 1
+		decrease_autonomy_command = 1
+		strengthen_government = 2
+		
+		increase_autonomy_command = -2
+		debase_currency = -1
+		execute_rebel_acceptance_command = -10
+		seat_in_parliament = -2
+		war_exhaustion = -1
+	}
+
+	objectives = {
+		obj_classical_hellenism = {
+			culture_group = byzantine
+			any_owned_province = { region = greece_region }
+		}
+		obj_classical_philosophy = {
+			philosopher = 3
+		}
+		obj_classical_powerful_ruler = {
+			mil = 5
+			is_monarch_general = yes
+		}
+		obj_30_development_city = {
+			custom_trigger_tooltip = {
+				tooltip = obj_30_development_city_tooltip
+				any_owned_province = {
+					is_core = ROOT
+					controlled_by = owner
+					development = 30
+				}
+			}
+		}
+		obj_classical_academies = {
+			calc_true_if = {
+				all_owned_province = {
+					has_building = academy
+					controlled_by = owner
+					is_core = ROOT
+				}
+				amount = 5
+			}
+		}
+		obj_5_centers_of_trade = {
+			calc_true_if = {
+				all_owned_province = {
+					OR = {
+						has_province_modifier = center_of_trade_modifier
+						has_province_modifier = inland_center_of_trade_modifier
+					}
+					controlled_by = owner
+					is_core = ROOT
+				}
+				amount = 5
+			}
+		}
+		obj_humiliate_rival = {
+			custom_trigger_tooltip = {
+				tooltip = obj_humiliate_rival_tooltip
+				has_country_flag = humiliated_rival
+			}
+		}
+	}		
+	
+	abilities = {
+		ab_ship_power_propagation = {
+			modifier = {
+				ship_power_propagation = 0.2
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_justified_wars = {
+			modifier = {
+				ae_impact = -0.1
+			}
+			ai_will_do = {
+				factor = 10
+			}			
+		}
+		ab_transfer_vassal_wargoal = 
+		{
+			rule = {
+				can_transfer_vassal_wargoal = yes
+				can_chain_claim = yes
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_cavalry_armies = {
+			modifier = {
+				cav_to_inf_ratio = 0.2
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_attack_bonus_in_capital_terrain = {
+			rule = {
+				attack_bonus_in_capital_terrain = yes
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_classical_sciences = {
+			modifier = {
+				technology_cost = -0.1
+				embracement_cost = -0.1
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_classical_cheaper_advisors = {
+			effect = {
+				advisor_cost = -0.25
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_classical_macedon_expansion = {
+			allow = {
+				tag = MCD
+			}
+			effect = {
+				discipline = 0.05
+			}
+			ai_will_do = {
+				factor = 100
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
+
+imperial_age = {
+	start = 4800
+	
+	can_start = {
+		any_country = { adm_tech = 120 }
+	}
+	
+	absolutism = {
+		harsh_treatment = 1
+		stability = 1
+		decrease_autonomy_command = 1
+		strengthen_government = 2
+		
+		increase_autonomy_command = -2
+		debase_currency = -1
+		execute_rebel_acceptance_command = -10
+		seat_in_parliament = -2
+		war_exhaustion = -1
+	}
+
+	objectives = {
+		obj_huge_capital = {
+			capital_scope = {
+				development = 50
+			}
+		}
+		obj_emperor = {
+			OR = {	
+				is_emperor = yes
+				government_rank = 3
+				is_emperor_of_china = yes
+			}
+		}
+		obj_unify_culture = {	
+			has_unified_culture_group = yes
+		}
+		obj_imperial_temples = {
+			calc_true_if = {
+				all_owned_province = {
+					has_building = great_temple
+					controlled_by = owner
+					is_core = ROOT
+				}
+				amount = 20
+			}
+		}
+		obj_many_vassals = {
+			vassal = 5
+		}	
+		obj_great_general = {
+			has_commanding_three_star = yes
+		}
+		obj_90_absolutism = {
+			absolutism = 90
+		}
+	}		
+	
+	abilities = {
+		ab_force_march = {
+			rule = {
+				force_march_free = yes
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_same_contine_lib_desire = {
+			modifier = {
+				reduced_liberty_desire_on_same_continent = 25
+			}
+			ai_will_do = {
+				factor = 15
+				modifier = {
+					factor = 0
+					NOT = {
+						any_subject_country = {
+							liberty_desire = 30
+							same_continent = ROOT
+						}
+					}
+				}
+			}
+		}
+		ab_imperial_states = {
+			effect = {
+				max_states = 10
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_adm_efficiency = {
+			modifier = {
+				administrative_efficiency = 0.05
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_autonomy = {
+			modifier = {
+				autonomy_change_time = -0.5
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_harsh_treatment = {
+			modifier = {
+				harsh_treatment_cost = -0.5
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_rival_border_fort = {
+			modifier = {
+				rival_border_fort_maintenance = -1.0
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		
+		ab_imperial_roman_legions = {
+			allow = {
+				tag = ROM
+			}
+			effect = {
+				discipline = 0.05
+			}
+			ai_will_do = {
+				factor = 100
+			}
+		}
+		ab_i = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_j = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+		ab_k = {
+			allow = {
+				always = no
+			}
+			effect = {
+			}
+			ai_will_do = {
+				factor = 10
+			}
+		}
+	}
+}
