@@ -27,11 +27,9 @@ mass_army_ideas = { # Early Mass Army
 		land_attrition = -0.10
 		war_exhaustion = -0.025
 	}
-
 	levy_garrisons = {
 		garrison_size = 0.13
-    }
-
+	}
 	conscripted_peasants = {
 		global_regiment_cost = -0.05
 	}
@@ -119,13 +117,13 @@ raid_warfare_ideas = { # Like germans and the hordes in the north
 		reinforce_speed = 0.33
 		horde_unity = 0.1
 	}	
-	shock_leaders = {
+	shock_leaders_raid = {
 		leader_land_shock = 1
 	}
 	all_men_shall_fight = {
 		global_manpower_modifier = 0.1
 	}
-	expert_manoeuvre = {
+	expert_manoeuvre_raid = {
 		leader_land_manuever = 1
 	}
 	
