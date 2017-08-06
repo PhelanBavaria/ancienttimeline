@@ -817,7 +817,7 @@
  garrison_sorties: "Garrison Sorties"
  garrison_sorties_desc: "Sending out small divisions of the garrison to harras the enemy will greatly increase the casualties that the enemies take."
  resistance_to_invaders: "Resistance to Invaders"
- resistance_to_invaders: "Even if we fail to protect our citizens, and they are ruled by foreign men, they will remember us, their rulers and will reject the will of these foreign powers."
+ resistance_to_invaders_desc: "Even if we fail to protect our citizens, and they are ruled by foreign men, they will remember us, their rulers and will reject the will of these foreign powers."
  professional_army_ideas: "Professional Army Ideas"
  disciplined_troops: "Disciplined Troops"
  disciplined_troops_desc: "The discipline of our troops shall be unrivalled. Rigorous drilling and practise will make them stand firm in the toughest of dangers."
@@ -830,7 +830,7 @@
  military_chronicle: "Military Chronicles"
  military_chronicle_desc: "Accounts of our battles will be recorded and remembered throughout our people and will be reflected on in times to come as an example to either aspire to or avoid."
  promise_of_land_and_slaves: "Promise of Land and Slaves "
- promise_of_land_and_slaves: "We can promise our troops ownership of the lands and people they conquer to both increase their fervor and decrease their wages."
+ promise_of_land_and_slaves_desc: "We can promise our troops ownership of the lands and people they conquer to both increase their fervor and decrease their wages."
  cavalry_support: "Cavalry Support"
  cavalry_support_desc: "Cavalry is essential to warfare as they support the infantry troops. We must make sure that we have good horses and good riders."
  
