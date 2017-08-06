@@ -90,8 +90,8 @@ country_event = {
 
 country_event = {
 	id = bimo.5
-	title = bimo.EVTNAME2
-	desc = bimo.EVTDESC2
+	title = bimo.EVTNAME5
+	desc = bimo.EVTDESC5
 	picture = FEAST_eventPicture
 
 	trigger = {
@@ -111,8 +111,8 @@ country_event = {
 
 country_event = {
 	id = bimo.6
-	title = bimo.EVTNAME2
-	desc = bimo.EVTDESC2
+	title = bimo.EVTNAME6
+	desc = bimo.EVTDESC6
 	picture = FAMINE_eventPicture
 
 	trigger = {
@@ -132,8 +132,8 @@ country_event = {
 
 country_event = {
 	id = bimo.7
-	title = bimo.EVTNAME2
-	desc = bimo.EVTDESC2
+	title = bimo.EVTNAME7
+	desc = bimo.EVTDESC7
 	picture = DEATH_OF_HEIR_eventPicture
 
 	trigger = {
@@ -152,8 +152,8 @@ country_event = {
 
 country_event = {
 	id = bimo.8
-	title = bimo.EVTNAME2
-	desc = bimo.EVTDESC2
+	title = bimo.EVTNAME8
+	desc = bimo.EVTDESC8
 	picture = YI_SCRIPT_eventPicture
 
 	trigger = {
