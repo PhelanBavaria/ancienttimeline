@@ -51,6 +51,7 @@ migratory_tribe = {
 	allow_migration = yes
 	allow_westernize = no
 	monarchy = yes
+	tribal = yes
 	
 	color = { 220 210 160 }
 	

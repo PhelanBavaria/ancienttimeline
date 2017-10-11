@@ -41,7 +41,7 @@ tribal_dip_ideas = {
 		enemy_core_creation = 0.1
 	}
 	tribal_diplomacy = {
-		relations_decay_of_me = 0.5
+		improve_relation_modifier = 0.25
 		ae_impact = -0.05
 	}
 	land_claiming = { 
