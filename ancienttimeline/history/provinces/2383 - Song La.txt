@@ -2,8 +2,8 @@
 
 owner = DIN
 controller = DIN
-culture = vietnamese
-religion = dao_mau
+culture = bai
+religion = benzhuism
 capital = "Song La"
 trade_goods = tea
 hre = no

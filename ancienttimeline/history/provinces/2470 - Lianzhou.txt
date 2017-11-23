@@ -2,9 +2,9 @@
 
 owner = VNL
 controller = VNL
-culture = zhuang
-religion = shigongism
-capital = "Limchow"
+culture = vietnamese
+religion = dao_mau
+capital = "Lien Chau"
 trade_goods = fish
 hre = no
 base_tax = 2
@@ -16,5 +16,5 @@ discovered_by = chinese
 discovered_by = south_chinese
 
 4743.1.1 = { owner = ALC controller = ALC add_core = ALC remove_core = VNL }
-4793.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ALC }
+4793.1.1 = { owner = NNY controller = NNY add_core = NNY remove_core = ALC capital = "Limchow" }
 4889.1.1 = { owner = HND controller = HND add_core = HND remove_core = NNY }
