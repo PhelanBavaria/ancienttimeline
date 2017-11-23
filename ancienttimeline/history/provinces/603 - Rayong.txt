@@ -1,7 +1,7 @@
 #603 - Rayong
 
 culture = central_thai
-religion = mahayana
+religion = animism
 capital = "Rayong"
 trade_goods = fish
 hre = no

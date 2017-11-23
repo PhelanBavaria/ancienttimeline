@@ -1,7 +1,7 @@
 #2374 - Tavoy
 
 culture = mon
-religion = mahayana
+religion = animism
 capital = "Tavoy"
 trade_goods = tropical_wood
 hre = no

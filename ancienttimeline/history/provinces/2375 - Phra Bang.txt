@@ -1,7 +1,7 @@
 #2375 - Phra Bang
 
 culture = central_thai
-religion = mahayana
+religion = animism
 capital = "Phra Bang"
 trade_goods = tropical_wood
 hre = no

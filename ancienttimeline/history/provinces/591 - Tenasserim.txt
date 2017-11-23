@@ -1,7 +1,7 @@
 #591 - Tenasserim
 
 culture = mon
-religion = mahayana
+religion = animism
 capital = "Mergui"
 trade_goods = chinaware
 hre = no

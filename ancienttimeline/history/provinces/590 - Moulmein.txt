@@ -1,7 +1,7 @@
 #590 - Moulmein
 
 culture = karen
-religion = mahayana
+religion = animism
 capital = "Moulmein"
 trade_goods = sugar
 hre = no

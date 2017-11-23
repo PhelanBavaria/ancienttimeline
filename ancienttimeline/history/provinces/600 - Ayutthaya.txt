@@ -1,7 +1,7 @@
 #600 - Ayutthaya
 
 culture = central_thai
-religion = mahayana
+religion = animism
 capital = "Lavo"
 trade_goods = ivory
 hre = no

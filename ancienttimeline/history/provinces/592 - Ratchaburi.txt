@@ -1,7 +1,7 @@
 #592 - Ratchaburi
 
 culture = central_thai
-religion = mahayana
+religion = animism
 capital = "Ratchaburi"
 trade_goods = grain
 hre = no

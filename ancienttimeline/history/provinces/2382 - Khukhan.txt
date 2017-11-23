@@ -1,7 +1,7 @@
 #2382 - Khukhan
 
 culture = khmer
-religion = mahayana
+religion = animism
 capital = "Khukhan"
 trade_goods = grain
 hre = no

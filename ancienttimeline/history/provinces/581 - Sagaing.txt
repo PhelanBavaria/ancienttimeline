@@ -1,7 +1,7 @@
 #581 - Sagaing
 
 culture = burmese
-religion = mahayana
+religion = animism
 capital = "Sagaing"
 trade_goods = cotton
 hre = no

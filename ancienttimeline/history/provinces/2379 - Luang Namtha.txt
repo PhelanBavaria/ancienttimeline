@@ -1,7 +1,7 @@
 #2379 - Luang Namtha
 
 culture = lao
-religion = mahayana
+religion = animism
 capital = "Luang Namtha"
 trade_goods = unknown
 hre = no

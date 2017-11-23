@@ -1,7 +1,7 @@
 #612 - Khorat
 
 culture = khmer
-religion = mahayana
+religion = animism
 capital = "Khorat"
 trade_goods = silk
 hre = no

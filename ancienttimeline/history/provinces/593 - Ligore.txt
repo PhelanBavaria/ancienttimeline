@@ -1,7 +1,7 @@
 #593 - Ligore
 
 culture = malayan
-religion = mahayana
+religion = animism
 capital = "Nakhon Si Thammarat"
 trade_goods = tropical_wood
 hre = no

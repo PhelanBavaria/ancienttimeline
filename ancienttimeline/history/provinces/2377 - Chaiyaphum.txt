@@ -1,7 +1,7 @@
 #2377 - Chaiyaphum
 
 culture = khmer
-religion = mahayana
+religion = animism
 capital = "Chaiyaphum"
 trade_goods = grain
 hre = no

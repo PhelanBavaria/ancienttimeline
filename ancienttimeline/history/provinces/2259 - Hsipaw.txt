@@ -1,7 +1,7 @@
 #2259 - Hsipaw
 
 culture = shan
-religion = mahayana
+religion = animism
 capital = "Hsipaw"
 trade_goods = grain
 hre = no

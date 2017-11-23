@@ -1,7 +1,7 @@
 #1817 - Nan
 
 culture = northern_thai
-religion = mahayana
+religion = animism
 capital = "Nan"
 trade_goods = unknown
 hre = no

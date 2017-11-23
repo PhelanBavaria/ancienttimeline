@@ -1,7 +1,7 @@
 #589 - Chiang Mai
 
 culture = northern_thai
-religion = mahayana
+religion = animism
 capital = "Lamphun"
 trade_goods = ivory
 hre = no

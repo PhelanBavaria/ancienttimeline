@@ -1,7 +1,7 @@
 #604 - Udong
 
 culture = khmer
-religion = mahayana
+religion = animism
 capital = "Longvek"
 trade_goods = fish
 hre = no

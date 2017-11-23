@@ -1,7 +1,7 @@
 #585 - Toungoo
 
 culture = burmese
-religion = mahayana
+religion = animism
 capital = "Sri Ksetra"
 trade_goods = chinaware
 hre = no

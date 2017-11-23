@@ -1,7 +1,7 @@
 #615 - Luang Prabang
 
 culture = lao
-religion = mahayana
+religion = animism
 capital = "Xieng Tong"
 trade_goods = unknown
 hre = no

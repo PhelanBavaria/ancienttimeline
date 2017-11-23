@@ -1,7 +1,7 @@
 #614 - Vientiane
 
 culture = lao
-religion = mahayana
+religion = animism
 capital = "Vientiane"
 trade_goods = unknown
 hre = no

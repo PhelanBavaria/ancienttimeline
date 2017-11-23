@@ -1,7 +1,7 @@
 #2392 - Battambang
 
 culture = khmer
-religion = mahayana
+religion = animism
 capital = "Battambang"
 trade_goods = fish
 hre = no
