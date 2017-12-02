@@ -273,8 +273,20 @@ latin = {
 	venetian = {
 	}
 	umbrian = {
+		male_names = {
+			Ancus Attis Decis Heris Maris Mettis Minatus Minis Neris Novis Numa Numeris Ovis Paccis Pompo Salvis Seppis Statis Taurus Trebis Vibis Vettis
+		}
+		female_names = {
+			Appia Aula Caesula Decima Dua Fausta Gaia Gnaea Hosta Ligana Lucia Maio Mamerca Mania Marcia Maxima Mettia Mino Octavia Paulla Ponta Postuma 				Procula Pruma Publia Septa Servia Sesta Spuria Statia Tertia Titia Tiberia Truta Tulla Uhtoa Vibia Volusa Vopisca
+		}
 	}
 	oscan = {
+		male_names = {
+			Ancus Attis Decis Heris Maris Mettis Minatus Minis Neris Novis Numa Numeris Ovis Paccis Pompo Salvis Seppis Statis Taurus Trebis Vibis Vettis
+		}
+		female_names = {
+			Appia Aula Caesula Decima Dua Fausta Gaia Gnaea Hosta Ligana Lucia Maio Mamerca Mania Marcia Maxima Mettia Mino Octavia Paulla Ponta Postuma 				Procula Pruma Publia Septa Servia Sesta Spuria Statia Tertia Titia Tiberia Truta Tulla Uhtoa Vibia Volusa Vopisca
+		}
 	}
 	sicilian = {
 	}
@@ -286,15 +298,7 @@ latin = {
 			Augustus Aurelius Valentinus Justinian Constantinian Severus Antonius Julian
 		}
 		male_names = {
-			Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antonius Arcadius Aurelian Aurelius
-			Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine
-			Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian
-			Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus Gratian Hadrian Herculius Honorius Joannes Jovian
-			Julian Julius Junius Justin Justinian Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
-			Marcellus Marcian Marcus Marinus Marius Martinus Maximian Maximinus Maximus Nepotian Nerva Numerian Octavianus Octavius Otho
-			Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
-			Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
-			Titius Titus Trajan Urbanus Valens Valentinian Valerian Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
+			Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antonius Arcadius Aurelian Aurelius Avitus Belisarius Britannicus 			Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine Constantius Cornelius Crassus Decimus Decius Diocletian 			Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus 			Gratian Hadrian Herculius Honorius Joannes Jovian Julian Julius Junius Justin Justinian Leo Leontius Liberius Licinius Lucius Magnus 			Marcellinus Marcellus Marcian Marcus Marinus Marius Martinus Maximian Maximinus Maximus Nepotian Nerva Numerian Octavianus Octavius Otho 			Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus Saturninus 			Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius Titius Titus Trajan Urbanus Valens Valentinian 			Valerian Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
 		}
 		female_names = {
 			Aelia Agrippina Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia
@@ -302,77 +306,20 @@ latin = {
 			Gordiana Hadriana Helvia Hilara Honoria Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla
 			Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 			Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
-			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-			Verina Victoria Vigilantia Viviana
+			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia 				Valeria Verina Victoria Vigilantia Viviana
 		}
 	}
 	
 	male_names = {
-		Édouard Érrard Étienne Stephen Adalbert Albert Adémar Adrien Aimery Aymeric Alain Alan Aldebert Aldéric Alphonse Amaury Amalric Amédée Ancel 
-		André Angelbert Antoine Antoninus Archambaud Archibald Arnaud Arnold Arnault Arnoul Arnulf Aubry Aymar Barthélémi Bartolomeus Baudouin Baldwin 
-		Benoît Benedict Bérenger Berengar Bernard Bertrand Bohemond Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Eustace 
-		Evrard Foulques Folke François Francis Frédéric Frederick Géraud Gerald Gargamel Gaucher Gaucelin Joscelin Gauthier Walter Geoffroy Gerard 
-		Gelduin Gilbert Gilles Egidius Godefroy Guichard Guiges Guilhem William Guillaume Guy Hélie Hamelin Henri Henry Herbert Hildebert Hugues Hugh 
-		Humbert Jacques Jacob Jaspert Jean John Josselin Jaufré Jourdain Jordan Julien Julian Léon Léonard Lothaire Lothar Louis Loup Lupo Manassès 
-		Matthew Maurice Nicolas Nicholas Ogier Onfroy Orson Othon Otto Payen Pagan Philippe Philip Pierre Peter Raimbaut Raoul Ralph Raymond Raynaud 
-		Reinhold Renaud Robin Rorgon Rorgues Roubaud Savary Sigismond Sigmund Simon Thibault Theobald Thiébaut Thierry Thomas Valeran Yves Mathieu 
-		Abelard Adam Ademar Alexander Alfons Anfroi Anselm Armand Arnald Asclettin Aubrey Anquetil Berold Bertran Beuves Blayve Blaise Botolf Clemence 
-		Clement Errand Faramond Ferant Ferdinand Filbert Drogo Fulk Fraunk Frery Gaillard Gaufrid Geraud Gerbert Gervas Giffard Godfrey Goubert Guntard 
-		Haimo Herman Hubert Humphrey Ildebrando Lambert Lancelin Mauger Nigel Norman Odo Orderic Osbern Osmond Oswulf Oswyn Radolf Radulf Randolf Ranul 
-		Rayner Richard Roger Rolland Roscelin Sayer Serlo Serril Sewal Silvester Stefen Tancred Tancredi Torf Turold Turquetil Turstin Tybalt Wymund 
-		Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone Agapito Agostino Aimone Alamanno Alarico Adriano Albano 
-		Alberico Alberto Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro Alessio Alighiero Alvise Ambrogio Amedeo Anastasio Andrea Angelo 
-		Angel Anselmo Antonino Antonio Antoniotto Arcibaldo Arderico Armando Arnolfo Arsenio Artemio Ascanio Astorre Arrigo Annibale Atenolfo Attilio 
-		Augusto Aurelio Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Barnaba Bartolomeo Basilio Basil Bassiano Basso Baldovino Battista 
-		Beltrano Benedetto Benvenuto Berardo Bernabò Bernardo Berto Bertoldo Biagio Bonaventura Bonifacio Bonifacius Borso Bruno Bruto Buonconte Buoso 
-		Callisto Camillo Camillus Candido Cangrande Carlo Cassio Castore Cataldo Catone Cecco Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Costanzo 
-		Cesare Comita Conone Cornelio Cornelius Corradino Corrado Konrad Cosimo Cosma Costante Costantino Cristoforo Christopher Damiano Damian Davide 
-		David Demetrio Demetrius Dioniso Dionysus Doménico Dominic Durante Eduardo Edward Elio Emmanuele Manuel Ennio Enrico Enzio Enzo Ercole Ermenegildo 
-		Ettore Eugenio Eugene Ezio Ezzelino Fabrizio Fausto Federigo Felice Felix Ferdinando Ferruccio Filippo Fiorello Flavio Folco Fortunato Fosco 
-		Francesco Fresco Gabriele Gabrino Gaetano Galasso Galeazzo Eriprando Galeotto Gaspare Gastone Gaston Gelasio Gentile Geraldo Gerardo Germano 
-		Gerolamo Gherardo Giacinto Giacomo Gian Gianfranco Gianleone Giano Giberto Gilberto Giolio Giordano Giorgio George Giovanni Giulio Giuseppe 
-		Goffredo Gregorio Gregory Gualtiero Guarnito Guerrino Guglielmo Guido Guidone Guigliadore Iacopo Igino Innocenzo Ippolito Isnardo Jacopo 
-		Lamberto Landolfo Lanfranco Lattanzio Lazzarino Lazzaro Landone Lealdo Leonardo Leone Leo Leonello Leopoldo Libero Lionello Livio Lodovico 
-		Lorenzo Luca Luchino Lucio Lucius Luigi Malacresta Manfredo Manuele Marco Marcus Mariano Marius Marino Mario Marsiglio Martino Martin Mastino 
-		Matteo Merigo Michelangelo Michele Michael Napoleone Nazareno Nestore Niccolò Nicola Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio 
-		Oreste Orlando Ottavio Ottobono Ottone Pagano Pancrazio Pandolfo Paolo Pasquale Pascal Patrizio Patrick Pellegrino Pericle Pietro Pio Prospero 
-		Rafaello Radul Raimondo Rainero Raineri Riccardo Rinaldo Rizzardo Roberto Rodolfo Rolando Rosso Ruggiero Salinguerra Salvatore Salvestro Sante 
-		Sancho Saverio Sciarra Sebastiano Sebastian Secondotto Serafino Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone Simonetto Sinibaldo 
-		Sinucello Sozzo Spinetto Stefano Taddeo Tedaldo Tedice Teodoro Tibaldo Tiziano Tommaso Torgodorio Torquato Ubaldo Uberto Ugo Ugoccione Ugolino 
-		Umberto Urbano Valentino Valentin Valerio Vincentello Vincenzo Vincent Virginio Vitale Vittore Vittorio Zaccaria Adhémar Acfred Alfred Aimeric 
-		Alberic Alias Helias Anfòs Amaneus Ancelmes Andrew Archambaut Arnaut Artau Artal Aton Audoïn Aznar Barral Bartoumiéu Baudoïn Beneset Bérard 
-		Berenguié Bermond Vermudo Bernat Blasi Borel Carles Stentore Clamenç Centolh Dàvi Dat Theodat Dodon Doumenge Duran Ebles Emmanuèl Enric Ermengau 
-		Estève Filip Ferrand Florènç Folquet Francés Frederi Garcia Gausbert Gautier Gilbèrt Girard Girvais Godafres Gui Guigues Guilhèm Guiraud Guitart 
-		Ives Jacme Joan Jorge Jaufret Laurènç Laurence Leon Loïs Loui Lop Marçau Matfre Manfred Matias Milo Miquel Nicholaus Odon Otton Pèire Peranudet 
-		Pol Pons Raimond Rainaut Rainer Raolf Ricard Robèrt Robert Rogier Savarics Tièrri Tibaud Toumas Ubald Ubert Uc Ugues Vézian Vicenç Paul 
+		Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antonius Arcadius Aurelian Aurelius Avitus Belisarius Britannicus Caecilius 			Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus 		Ennodius Fabianus Fabius Faustus Felix Flavianus Florian Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus Gratian Hadrian Herculius Honorius 			Joannes Jovian Julian Julius Junius Justin Justinian Leo Leontius Liberius Licinius Lucius Magnus Marcellinus Marcellus Marcian Marcus Marinus Marius 			Martinus Maximian Maximinus Maximus Nepotian Nerva Numerian Octavianus Octavius Otho Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus 			Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus 			Theodosius Tiberius Titius Titus Trajan Urbanus Valens Valentinian Valerian Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus 		Volusianus
 	}
 	female_names = {
-		Éléonore Eleanor Élodie Étiennette Adèle Adela Adalmode Almodis Adelaide Adelinde Agatha Agnès Agnes Aléarde Alice Aliénor Agathe Alix Amelie 
-		Amelia Anne Anna Antoinette Arsinde Arsenda Aude Aurengarde Béatrice Beatrice Béatrix Belleassez Benoîte Bérengère Berthe Blanche Bonne Bourgogne 
-		Bourguigne Cécile Cecilia Cathèrine Catherine Charlotte Constance Denise Douce Echive Eglantine Elisabeth Emma Ermengarde Ermessinde Ermesinda 
-		Esclarmonde Esclarmunda Euphrosine Euphrosyne Eustachie Eve Eva Gerberge Gerberga Gisèle Gisela Guillaumette Héloise Eloise Helvis Hodierne Ide 
-		Ida Ildégarde Hildegard Isabeau Isabelle Jeanne Joan Judith Julienne Juliana Mafalda Mahaut Margot Marguerite Margaret Marie Maria Marthe Martha 
-		Mascarose Mascarosa Mathilde Matilda Mélisande Melisende Mélisende Mélusine Péronelle Peronella Pernelle Perinne Pernette Plaisance Raymonde 
-		Sarrazine Solène Sophie Sophia Stéphanie Stephania Sybille Sibylla Tiburge Valence Yolanda Yolande Adele Adelin Adelise Alberada Alienora Aline 
-		Alisce Alison Amburga Aubrey Aveis Avelina Berengaria Busilla Clarimond Clemenza Clementia Cundo Egelina Elise Elysande Emelenine Emonie Eremberga 
-		Ermyntrude Felicia Flandina Fredesende Fressenda Fressende Geva Giselle Gohilde Griselda Gundred Helewisa Heria Herleve Hermessent Hermine Hugolina 
-		Judit Lesceline Mabel Matheode Maud Mautild Maysant Millicent Muriella Oriel Richenda Ricarda Rosalind Selova Stephanie Sibyl Umfreda Valdrade 
-		Wilmot Yvon Yvonne Hadwis Abelina Adalberta Adalgisa Adelaida Adelasia Adelia Adriana Agalina Agnese Agostina Albina Alda Alessandra Alfonsina 
-		Alisia Aloisia Amalia Ambrosia Anastasia Antonella Antonia Argentina Augusta Aurelia Ausilia Ausonia Benedetta Benedicta Benilde Berenice Berta 
-		Bianca Bona Brunilde Brunhilda Camilla Candida Caracosa Carla Carola Clara Claudia Clorinda Caterina Clotilde Constanza Cornelia Delinda Dora 
-		Edda Elena Helen Eleonora Elisabetta Ermenegilda Eudossia Eugenia Elisa Fausta Felicita Filippa Philippa Filomena Flavia Flora Fortunata Fosca 
-		Francesca Froizza Giacinta Ginevra Giovanna Giuditta Giulia Giuseppa Ippolita Isabella Joscella Laura Lavinia Leonide Letizia Lidia Livia Lodovica 
-		Lucia Lucinetta Lucrezia Maddalena Magdalena Marcella Margherita Mariana Marietta Martina Micaela Nunzia Paola Patrizia Patricia Renata Ricciarda 
-		Silvana Paula Sofia Stefania Tiziana Tomasina Valentina Violante Virginia Adèla Adalaïda Adeltrudis Agata Aïna Ainès Alaïs Alienòr Aliç Almòdis 
-		Alpaïs Ana Assalhida Ava Azalaïs Azelma Bòna Beatritz Berenguela Blanca Brandimena Bregida Brigid Brunissenda Camila Carlòta Clarmonda Clemència 
-		Cloutilda Constància Eisabèu Dolça Elisabèta Ermengarda Ermessentz Esclarmonda Estefania Eufèmia Eufrosina Faidida Filipa Flòra Francesa Garcenda 
-		Geneviva Gerbèrga Gersenda Gisla Guigone Guilheumina Heloise Ioulanda Isabèu Isabèla Joana Lúcia Loïsa Louise Mabila Madalena Margarida Marquisa 
-		Marta Mascaròsa Navar Peironèla Melisènda Petronilha Petronilla Puelle Raisenda Raimonda Richènda Rosèla Rosa Sança Sancha Sibilla Terèsa Teresa 
-		Tiborg Verounica Violent Aelia Agrippina Antonina Aquilia Caecilia Caesaris Cassia Constantia Constantina Crispina Dominica Domitiana Domna Domnina 
-		Drusilla Flacilla Frontina Gaia Galeria Faustina Gordiana Hadriana Helvia Hilara Honoria Hortensia Julia Junia Justina Justiniana Licinia Livilla 
-		Lucilla Justa Magnia Magnilla Marcia Marciana Marina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela Octavia Palatina Paulina 
-		Petronella Petronia Placidia Plautia Pompeia Poppaea Praeiecta Publia Pulcheria Plautilla Rusticiana Sabina Sallustia Salonina Salvianella Scantilla 
-		Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria Verina Victoria Vigilantia Viviana 
+		Aelia Agrippina Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia
+		Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
+		Gordiana Hadriana Helvia Hilara Honoria Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla
+		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
+		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
+		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia 				Valeria Verina Victoria Vigilantia Viviana
 	}
 	dynasty_names = {
 		"de' Medici" "di Savoia" "d'Este" Farnese Visconti Sforza Gonzaga "d'Ivrea" Orsini 
