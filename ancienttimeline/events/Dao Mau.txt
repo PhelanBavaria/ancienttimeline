@@ -1,0 +1,211 @@
+namespace = daom
+
+country_event = {
+	id = daom.1
+	title = daom.EVTNAME1
+	desc = daom.EVTDESC1
+	picture = THAN_HOANG_LANG_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = daom.EVTOPTA1
+		add_treasury = -25
+		add_adm_power = 25
+	}
+}
+
+country_event = {
+	id = daom.2
+	title = daom.EVTNAME2
+	desc = daom.EVTDESC2
+	picture = TET_NGUYEN_TIEU_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = daom.EVTOPTA2
+		add_dip_power = 25
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = daom.3
+	title = daom.EVTNAME3
+	desc = daom.EVTDESC3
+	picture = THAN_HOANG_LANG_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = daom.EVTOPTA3
+		add_legitimacy = 5
+		add_treasury = -25
+	}
+}
+
+country_event = {
+	id = daom.4
+	title = daom.EVTNAME4
+	desc = daom.EVTDESC4
+	picture = BAN_THO_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = daom.EVTOPTA4
+		add_legitimacy = 5
+		add_prestige = 5
+	}
+}
+
+country_event = {
+	id = daom.5
+	title = daom.EVTNAME5
+	desc = daom.EVTDESC5
+	picture = THAY_PHU_THUY_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = daom.EVTOPTA5
+		add_dip_power = 50
+	}
+}
+
+country_event = {
+	id = daom.6
+	title = daom.EVTNAME6
+	desc = daom.EVTDESC6
+	picture = THAY_PHU_THUY_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 420
+	}
+
+	option = {
+		name = daom.EVTOPTA1
+		add_treasury = -25
+		add_legitimacy = 5
+	}
+}
+
+country_event = {
+	id = daom.7
+	title = daom.EVTNAME7
+	desc = daom.EVTDESC7
+	picture = VUA_HUNG_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 360
+	}
+
+	option = {
+		name = daom.EVTOPTA7
+		add_legitimacy = 5
+		add_dip_power = 25
+		add_mil_power = 25
+	}
+}
+
+country_event = {
+	id = daom.8
+	title = daom.EVTNAME8
+	desc = daom.EVTDESC8
+	picture = BUA_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = daom.EVTOPTA8
+		add_legitimacy = -5
+	}
+}
+
+country_event = {
+	id = daom.9
+	title = daom.EVTNAME9
+	desc = daom.EVTDESC9
+	picture = BUA_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = daom.EVTOPTA1
+		add_treasury = -50
+		add_mil_power = 50
+	}
+}
+
+country_event = {
+	id = daom.10
+	title = daom.EVTNAME10
+	desc = daom.EVTDESC10
+	picture = LEN_DONG_eventPicture
+
+	trigger = {
+		religion = dao_mau
+	}
+
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+		name = daom.EVTOPTA10
+		add_prestige = 5
+		add_legitimacy = 5
+		add_adm_power = 25
+	}
+}
