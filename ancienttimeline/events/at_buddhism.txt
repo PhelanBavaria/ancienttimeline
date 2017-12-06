@@ -4,7 +4,7 @@ country_event = {
 	id = budd.1
 	title = "budd.EVTNAME1"
 	desc = "budd.EVTDESC1"
-	picture = RELIGION_eventPicture # temp
+	picture = MAHAYANA_FOUNDING_eventPicture
 	
 	major = yes
 	
@@ -65,7 +65,7 @@ country_event = {
 	id = budd.2
 	title = "budd.EVTNAME2"
 	desc = "budd.EVTDESC2"
-	picture = RELIGION_eventPicture # temp
+	picture = THERAVADA_FOUNDING_eventPicture
 	
 	major = yes
 	
