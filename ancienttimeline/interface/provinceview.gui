@@ -6,6 +6,16 @@ guiTypes = {
 		position = { x= 0 y = 32 }
 	}
 	
+	positionType = {
+		name = "development_value_vertical_position_not_exploitable"
+		position = { x=0 y=68 }
+	}
+	
+	positionType = {
+		name = "development_value_vertical_position_exploitable"
+		position = { x=0 y=62 }
+	}
+	
 	windowType = {
 		name = "province_estate_entry"
 		position = { x=0 y=0 }	
@@ -375,7 +385,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "tax_base_value"
-				position = { x = 80 y = 68}
+				position = { x = 80 y = 0}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}	
@@ -400,6 +410,20 @@ guiTypes = {
 			}	
 			
 			
+			guiButtonType =
+			{
+				name ="tax_base_exploit_button"
+				position = { x= 83 y = 78 }
+				quadTextureSprite ="GFX_exploit_button"	
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonText = ""
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+			}	
+			
+			
 			iconType =
 			{
 				name ="prod_base_icon"
@@ -409,7 +433,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "prod_base_value"
-				position = { x = 162 y = 68}
+				position = { x = 163 y = 0}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}	
@@ -433,6 +457,18 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}						
 			
+			guiButtonType =
+			{
+				name ="prod_base_exploit_button"
+				position = { x= 165 y = 78 }
+				quadTextureSprite ="GFX_exploit_button"	
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonText = ""
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+			}	
 			iconType =
 			{
 				name ="mp_base_icon"
@@ -442,7 +478,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "mp_base_value"
-				position = { x = 244 y = 68}
+				position = { x = 246 y = 0}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}	
@@ -466,6 +502,18 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}		
 
+			guiButtonType =
+			{
+				name ="mp_base_exploit_button"
+				position = { x= 247 y = 78 }
+				quadTextureSprite ="GFX_exploit_button"	
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""
+				buttonText = ""
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+			}				
 			iconType = {
 				name ="development_icon"
 				spriteType = "GFX_development_icon"
@@ -2363,7 +2411,7 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "buildings_button"
-				position = { x=482 y=144}
+				position = { x=478 y=144}
 				quadTextureSprite ="GFX_build_interface_building_tab"
 			}
 		}
@@ -2413,27 +2461,36 @@ guiTypes = {
 			{
 				name = "make_state"
 				quadTextureSprite = "GFX_make_state_button"
-				position = { x = 372 y = 8 }
+				position = { x = 372 y = 6 }
 			}
+			
+			iconType =
+			{
+				name = "supply_depots"
+				spriteType = "GFX_supply_depots_icon"
+				position = { x = 306 y = 8 }
+			}
+			
+
 			iconType =
 			{
 				name = "is_state"
 				spriteType = "GFX_in_state_icon"
-				position = { x = 336 y = 11 }
+				position = { x = 338 y = 9 }
 			}
 
 			guiButtonType =
 			{
 				name = "abandon_state"
 				quadTextureSprite = "GFX_abandon_state_button"
-				position = { x = 372 y = 8 }
+				position = { x = 372 y = 6 }
 			}		
 		
 			guiButtonType =
 			{
 				name = "core_all"
 				quadTextureSprite = "GFX_core_all_button"
-				position = { x = 408 y = 8 }
+				position = { x = 408 y = 6 }
 			}
 
 			
@@ -2653,24 +2710,54 @@ guiTypes = {
 				position = { x = 12 y = 419 }
 			}			
 	
-			guiButtonType = {
+				guiButtonType = {
 				name ="consecrate_patriarch_button"
-				quadTextureSprite = "button_type_4"
+				quadTextureSprite = "button_type_8"
 				buttonFont = "vic_18"
 				buttonText = "CONSECRATE_BUTTON"
 
-				position = { x = 24 y = 427 }
+				position = { x = 30 y = 427 }
 			}
 
 			iconType =
 			{
 				name = "consecrate_patriarch"
 				spriteType = "GFX_patriarch_icon"
-				position = { x = 258 y = 426 }
+				position = { x = 234 y = 426 }
+			}
+
+			# Ottoman Pasha
+			iconType = {
+				name = "pasha_bg"
+				spriteType = "GFX_patriarchy_slot"
+				position = { x = 12 y = 419 }
+			}			
+	
+			guiButtonType = {
+				name ="add_pasha_button"
+				quadTextureSprite = "button_type_8"
+				buttonFont = "vic_18"
+				buttonText = "ADD_PASHA_BUTTON"
+
+				position = { x = 30 y = 427 }
+			}
+
+			iconType =
+			{
+				name = "add_pasha"
+				spriteType = "GFX_pasha_icon"
+				position = { x = 234 y = 426 }
 			}
 
 
-			
+			guiButtonType = {
+				name ="create_janissaries_button"
+				quadTextureSprite = "button_type_8"
+				buttonFont = "vic_18"
+				buttonText = "CREATE_JANISSARIES_BUTTON"
+
+				position = { x = 283 y = 427 }
+			}			
 		}
 		
 		## State Window
@@ -6272,4 +6359,243 @@ guiTypes = {
 			spriteType = "GFX_building_upgrade_icon"
 		}
 	}
+	
+	windowType = 
+	{
+		name = "province_institution_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=64 y= 57 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+
+		
+		iconType =
+		{
+			name ="icon"
+			spriteType = "GFX_estates_icons"
+			position = { x= -2 y = 0 }
+		}
+		
+		iconType =
+		{
+			name ="highlight"
+			spriteType = "GFX_highlight_frame"
+			position = { x= -2 y = 0 }
+		}
+
+		iconType =
+		{
+			name ="progress"
+			spriteType = "GFX_province_institution_progress"
+			position = { x = 59 y = 24 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="power_progress_frame"
+			spriteType = "GFX_promote_investments_progress_frame"
+			position = { x = 45 y = 21 }
+		}
+		
+		instantTextBoxType = {
+			name = "progress_label"
+			position = { x = 72 y = 23}
+			textureFile = ""
+			font = "vic_22s"
+			borderSize = {x = 2 y = 2}	
+			text = "..."
+			maxWidth = 180
+			maxHeight = 20
+			format = center
+		}
+		
+		instantTextBoxType = {
+			name = "name"
+			position = { x = 48 y = -2}
+			textureFile = ""
+			font = "vic_22s"
+			borderSize = {x = 2 y = 2}	
+			text = "..."
+			maxWidth = 180
+			maxHeight = 20
+			format = left
+		}
+		
+		instantTextBoxType = {
+			name = "growth_per_month"
+			position = { x = 178 y = 1}
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "+1 per month"
+			maxWidth = 110
+			maxHeight = 20
+			format = right
+		}
+	}
+	
+	
+	
+	windowType = 
+	{
+		name = "state_province_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=300 y= 32 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+
+
+		iconType = {
+			name ="core_status"
+			spriteType = "GFX_core_icon"
+			position = { x = -1 y = 1 }
+		}					
+		
+		
+		instantTextBoxType = {
+			name = "name"
+			position = { x = 31 y = 6 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "name"
+			maxWidth = 114
+			maxHeight = 20
+			format = left
+		}
+		
+		guiButtonType =
+		{
+			name ="owner"
+			position = { x= 147 y = 0 }
+			quadTextureSprite = "GFX_shield_small"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonFont = "vic_18"
+			Orientation = "UPPER_LEFT"
+		}
+		
+	
+		instantTextBoxType = {
+			name = "development"
+			position = { x = 180 y = 6 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "3456"
+			maxWidth = 30
+			maxHeight = 20
+			format = center
+		}	
+
+		iconType =
+		{
+			name ="religion"
+			spriteType = "GFX_icon_religion_small"
+			position = { x= 214 y = 0 }
+		}		
+			
+		instantTextBoxType = {
+			name = "culture"
+			position = { x = 246 y = 6 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "Culturesname"
+			maxWidth = 82
+			maxHeight = 16
+			format = left
+			fixedsize = yes	
+		}	
+		
+		instantTextBoxType = {
+			name = "sp_unrest"
+			position = { x = 338 y = 8 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			text = "99.9%"
+			maxWidth = 56
+			maxHeight = 20
+			format = center
+		}		
+		
+		instantTextBoxType = {
+			name = "fort_level"
+			position = { x = 395 y = 6 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "123"
+			maxWidth = 30
+			maxHeight = 20
+			format = center
+		}	
+		
+		instantTextBoxType = {
+			name = "sp_devastation"
+			position = { x = 430 y = 8 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			text = "123"
+			maxWidth = 32
+			maxHeight = 20
+			format = right
+		}
+		
+	}
+	
+	
+	windowType = 
+	{
+		name = "state_edict_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=300 y= 50 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+
+		iconType = {
+			name = "edict_icon"
+			position = { x = -3 y = -6 }
+			spriteType = "GFX_no_edict"
+		}
+
+		guiButtonType = {
+			name ="select_edicts_button"
+			quadTextureSprite = "gfx_button_base_button"
+			buttonFont = "vic_18"
+			buttonText = "txt"
+			position = { x = 52 y = 0 }
+		}
+		
+		instantTextBoxType = {
+			name = "edicts_eff"
+			position = { x = 52 y = 30 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 2 y = 2}	
+			text = "txtstuff"
+			maxWidth = 380
+			maxHeight = 20
+			format = left
+		}
+		
+	}
+	
+	
 }

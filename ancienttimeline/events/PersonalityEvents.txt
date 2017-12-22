@@ -696,59 +696,59 @@ country_event = {
 		NOT = { has_ruler_modifier = tolerance_backlash }
 		OR = {
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = treasurer
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = philosopher
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = artist
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = theologian
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = master_of_mint
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = inquisitor
 			}
 			employed_advisor = {
-				home_religion = heretic
+				religion = heretic
 				type = natural_scientist
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = treasurer
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = philosopher
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = artist
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = theologian
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = master_of_mint
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = inquisitor
 			}
 			employed_advisor = {
-				home_religion = heathen
+				religion = heathen
 				type = natural_scientist
 			}
 		}
@@ -763,6 +763,7 @@ country_event = {
 	option = {
 		name = "personality_events.13.a" #Nonsense!
 		add_prestige = 10
+		add_meritocracy_effect = yes
 		add_ruler_modifier = {
 			name = "tolerance_backlash"
 			duration = 3650
@@ -805,6 +806,7 @@ country_event = {
 			name = "intolerant_tolerance"
 			duration = 3650
 		}
+		reduce_meritocracy_effect = yes
 		if = {
 			limit = {
 				advisor = inquisitor
@@ -1093,11 +1095,18 @@ country_event = {
 				20 = { set_country_flag = well_connected_trader }
 				20 = { set_country_flag = well_connected_master_recruiter }
 			}
+			random_known_country = { #From where?
+				limit = {
+					NOT = { tag = ROOT }
+				}
+				save_event_target_as = contacts_in_foreign_country
+			}
 		}
 	}
 	
 	option = {
 		name = "personality_events.16.a" 
+		add_meritocracy_effect = yes
 		trigger_switch = {
 			on_trigger = has_country_flag
 			well_connected_statesman = {
@@ -1109,6 +1118,8 @@ country_event = {
 						type = statesman
 						skill = 3
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				if = {
@@ -1117,6 +1128,8 @@ country_event = {
 						type = statesman
 						skill = 2
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				clr_country_flag = well_connected_statesman
@@ -1130,6 +1143,8 @@ country_event = {
 						type = commandant
 						skill = 3
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				if = {
@@ -1138,6 +1153,8 @@ country_event = {
 						type = commandant
 						skill = 2
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				clr_country_flag = well_connected_commandant
@@ -1151,6 +1168,8 @@ country_event = {
 						type = theologian
 						skill = 3
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				if = {
@@ -1159,6 +1178,8 @@ country_event = {
 						type = theologian
 						skill = 2
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				clr_country_flag = well_connected_theologian
@@ -1172,6 +1193,8 @@ country_event = {
 						type = trader
 						skill = 3
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				if = {
@@ -1180,6 +1203,8 @@ country_event = {
 						type = trader
 						skill = 2
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				clr_country_flag = well_connected_trader
@@ -1193,6 +1218,8 @@ country_event = {
 						type = recruitmaster
 						skill = 3
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				if = {
@@ -1201,6 +1228,8 @@ country_event = {
 						type = recruitmaster
 						skill = 2
 						discount = yes
+						culture = event_target:contacts_in_foreign_country
+						religion = event_target:contacts_in_foreign_country
 					}
 				}
 				clr_country_flag = well_connected_master_recruiter
@@ -1463,7 +1492,7 @@ country_event = {
 	}
 
 	option = {
-		name = "personality_events.22.a"
+		name = "personality_events.21.a"
 		define_heir = {
 			mil = 4
 			age = 0
@@ -1471,7 +1500,7 @@ country_event = {
 		}
 	}
 	option = {
-		name = "personality_events.22.b"
+		name = "personality_events.21.b"
 		define_heir = {
 			adm = 4
 			age = 0
@@ -1973,7 +2002,6 @@ country_event = {
 		has_dlc = "Rights of Man"
 		ruler_has_personality = benevolent_personality
 		any_subject_country = {
-			is_protectorate = no
 			is_colonial_nation = no
 			has_opinion = {
 				who = ROOT
@@ -1987,7 +2015,6 @@ country_event = {
 			set_variable = { which = happy_subjects value = 0 }
 			every_subject_country = {
 				limit = {
-					is_protectorate = no
 					is_colonial_nation = no
 					has_opinion = {
 						who = ROOT
@@ -1997,6 +2024,16 @@ country_event = {
 				ROOT = {
 					change_variable = { which = happy_subjects value = 1 }
 				}
+			}
+			random_subject_country = {
+				limit = {
+					is_colonial_nation = no
+					has_opinion = {
+						who = ROOT
+						value = 150 #Or they're not regarding you as that Benevolent
+					}
+				}
+				save_event_target_as = happy_subject
 			}
 		}
 	}
@@ -2009,6 +2046,7 @@ country_event = {
 
 	option = {
 		name = "personality_events.28.a"
+		add_meritocracy_effect = yes
 		if = {
 			limit = {
 				NOT = {
@@ -2019,6 +2057,8 @@ country_event = {
 			define_advisor = {
 				type = statesman
 				skill = 2
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				discount = yes
 			}
 		}
@@ -2032,6 +2072,8 @@ country_event = {
 			add_prestige = 10
 			define_advisor = {
 				type = statesman
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				skill = 3
 				discount = yes
 			}
@@ -2046,11 +2088,15 @@ country_event = {
 			add_prestige = 15
 			define_advisor = {
 				type = statesman
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				skill = 3
 				discount = yes
 			}
 			define_advisor = {
 				type = natural_scientist
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				skill = 2
 				discount = yes
 			}
@@ -2060,11 +2106,15 @@ country_event = {
 			add_prestige = 15
 			define_advisor = {
 				type = statesman
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				skill = 3
 				discount = yes
 			}
 			define_advisor = {
 				type = natural_scientist
+				culture = event_target:happy_subject
+				religion = event_target:happy_subject
 				skill = 3
 				discount = yes
 			}
@@ -2307,6 +2357,11 @@ country_event = {
 		ruler_has_personality = entrepreneur_personality
 		NOT = { ruler_has_personality = greedy_personality }
 		num_of_cities = 2
+		any_owned_province = {
+			is_in_capital_area = yes
+			is_capital = no
+			is_state = yes
+		}
 		NOT = {
 			any_owned_province = {
 				has_province_modifier = economic_development_entrepreneur
@@ -2632,7 +2687,7 @@ country_event = {
 
 	option = { # hold tournaments for two years
 		name = "personality_events.39.a"
-		
+		add_army_professionalism = 0.01
 		add_ruler_modifier = {
 			name = "hosting_tournament"
 			duration = 3650
@@ -2640,7 +2695,7 @@ country_event = {
 	}
 	option = { # drill troops for seven years
 		name = "personality_events.39.b"
-
+		add_army_professionalism = 0.01
 		add_ruler_modifier = {
 			name = "drilling_troops"
 			duration = 2555
@@ -2735,7 +2790,7 @@ country_event = {
 
 		name = "personality_events.42.a" 
 		custom_tooltip = personality_events.42.a.tooltip
-
+		add_meritocracy_effect = yes
 		hidden_effect = {
 			define_advisor = {
 				type = army_reformer
@@ -2750,7 +2805,7 @@ country_event = {
 		trigger = { monthly_income = 25 }
 		name = "personality_events.42.b"
 		custom_tooltip = personality_events.42.b.tooltip
-
+		add_meritocracy_effect = yes
 		hidden_effect = {
 			define_advisor = {
 				type = commandant
@@ -2765,7 +2820,7 @@ country_event = {
 		trigger = { monthly_income = 25 }
 		name = "personality_events.42.c"
 		custom_tooltip = personality_events.42.c.tooltip
-
+		add_meritocracy_effect = yes
 		hidden_effect = {
 			define_advisor = {
 				type = recruitmaster
@@ -2778,7 +2833,7 @@ country_event = {
 	#Army reformer 2
 	option = {
 		trigger = { NOT = { monthly_income = 25 } }
-
+		add_meritocracy_effect = yes
 		name = "personality_events.42.a" 
 		custom_tooltip = personality_events.42.d.tooltip
 
@@ -2796,7 +2851,7 @@ country_event = {
 		trigger = { NOT = { monthly_income = 25 } }
 		name = "personality_events.42.b"
 		custom_tooltip = personality_events.42.e.tooltip
-
+		add_meritocracy_effect = yes
 		hidden_effect = {
 			define_advisor = {
 				type = commandant
@@ -2811,7 +2866,7 @@ country_event = {
 		trigger = { NOT = { monthly_income = 25 } }
 		name = "personality_events.42.c"
 		custom_tooltip = personality_events.42.f.tooltip
-
+		add_meritocracy_effect = yes
 		hidden_effect = {
 			define_advisor = {
 				type = recruitmaster
@@ -3023,6 +3078,7 @@ country_event = {
 		ruler_has_personality = infertile_personality
 		has_heir = no
 		government = monarchy
+		is_lesser_in_union = no
 		religion_group = christian
 		has_dlc = "Rights of Man"
 		OR = {
@@ -3207,7 +3263,7 @@ country_event = {
 
 	#Female advisor
 	option = {
-		trigger = { 
+		trigger = {
 			OR = {
 				AND = { 
 					is_female = no
@@ -3224,7 +3280,7 @@ country_event = {
 
 		add_prestige = -5
 
-		
+		add_meritocracy_effect = yes
 		if = {
 			limit = { monthly_income = 25 }
 
@@ -3270,7 +3326,7 @@ country_event = {
 		name = "personality_events.48.b"
 
 		add_prestige = -5
-
+		add_meritocracy_effect = yes
 		if = {
 			limit = { monthly_income = 25 }
 
@@ -3318,8 +3374,10 @@ country_event = {
 		ruler_has_personality = drunkard_personality
 		has_dlc = "Rights of Man"
 		any_neighbor_country = {
+			is_subject = no
 			NOT = { is_rival = ROOT }
 			NOT = { is_enemy = ROOT }
+			NOT = { junior_union_with = ROOT }
 		}
 		
 	}
@@ -3328,23 +3386,29 @@ country_event = {
 		hidden_effect = {
 			random_neighbor_country = {
 				limit = { 
+					is_subject = no
 					NOT = { is_rival = ROOT }
 					NOT = { is_enemy = ROOT }
+					NOT = { junior_union_with = ROOT }
 				}
 				save_event_target_as = invitee_1
 			}
 			random_neighbor_country = {
 				limit = { 
+					is_subject = no
 					NOT = { is_rival = ROOT }
 					NOT = { is_enemy = ROOT }
+					NOT = { junior_union_with = ROOT }
 					NOT = { event_target:invitee_1 = { TAG = PREV } }
 				}
 				save_event_target_as = invitee_2
 			}
 			random_neighbor_country = {
 				limit = { 
+					is_subject = no
 					NOT = { is_rival = ROOT }
 					NOT = { is_enemy = ROOT }
+					NOT = { junior_union_with = ROOT }
 					NOT = { event_target:invitee_1 = { TAG = PREV } }
 					NOT = { event_target:invitee_2 = { TAG = PREV } }
 				}
@@ -3508,7 +3572,7 @@ country_event = {
 
 	option = {
 		name = "personality_events.52.a" 
-
+		
 		add_ruler_modifier = {
 			name = naive_employer
 			duration = -1
@@ -3688,49 +3752,9 @@ country_event = {
 	}
 	option = {
 		name = "personality_events.56.b"
+		reduce_meritocracy_effect = yes
 		add_adm_power = -5
-		if = {
-			limit = {
-				advisor = inquisitor
-			}
-			remove_advisor = inquisitor
-		}
-		if = {
-			limit = {
-				advisor = natural_scientist
-			}
-			remove_advisor = natural_scientist
-		}
-		if = {
-			limit = {
-				advisor = master_of_mint
-			}
-			remove_advisor = master_of_mint
-		}
-		if = {
-			limit = {
-				advisor = theologian
-			}
-			remove_advisor = theologian
-		}
-		if = {
-			limit = {
-				advisor = artist
-			}
-			remove_advisor = artist
-		}
-		if = {
-			limit = {
-				advisor = philosopher
-			}
-			remove_advisor = philosopher
-		}
-		if = {
-			limit = {
-				advisor = treasurer
-			}
-			remove_advisor = treasurer
-		}
+		remove_advisor_adm_effect = yes
 	}
 }
 

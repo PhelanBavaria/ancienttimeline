@@ -103,6 +103,31 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_piety_icon_low"
+		texturefile = "gfx/interface/piety_icon_low.dds"
+	}
+
+	spriteType = {
+		name = "GFX_piety_icon_high"
+		texturefile = "gfx/interface/piety_icon_high.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_piety_bar_frame"
+		texturefile = "gfx/interface/piety_bar_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_low_piety_action"
+		texturefile = "gfx/interface/low_piety_action.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_high_piety_action"
+		texturefile = "gfx/interface/high_piety_action.dds"
+	}	
+	
+	spriteType = {
 		name = "GFX_protestant_aspects_icon"
 		texturefile = "gfx/interface/protestant_aspects_icon.dds"
 	}	
@@ -314,6 +339,51 @@ spriteTypes = {
 		texturefile = "gfx/interface/incident_icons.dds"
 		noOfFrames = 8
 	}
+
+	spriteType = {
+		name = "GFX_icon_muslim_school_hanafi"
+		texturefile = "gfx/interface/icon_muslim_school_hanafi.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_hanbali"
+		texturefile = "gfx/interface/icon_muslim_school_hanbali.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_ismaili"
+		texturefile = "gfx/interface/icon_muslim_school_ismaili.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_jafari"
+		texturefile = "gfx/interface/icon_muslim_school_jafari.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_maliki"
+		texturefile = "gfx/interface/icon_muslim_school_maliki.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_shafii"
+		texturefile = "gfx/interface/icon_muslim_school_shafii.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_muslim_school_zaidi"
+		texturefile = "gfx/interface/icon_muslim_school_zaidi.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_muslim_school_banner"
+		texturefile = "gfx/interface/muslim_school_banner.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_muslim_school_button"
+		texturefile = "gfx//interface//muslim_school_button.dds"	
+	}	
 }
 
 

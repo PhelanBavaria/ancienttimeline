@@ -190,6 +190,11 @@ spriteTypes = {
 		name = "GFX_development_button_tax"
 		texturefile = "gfx/interface/development_button_tax.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_exploit_button"
+		texturefile = "gfx/interface/exploit_button.dds"
+	}
 
 	spriteType = {
 		name = "GFX_development_button_production"
@@ -286,12 +291,6 @@ spriteTypes = {
 		name = "GFX_province_view_religion"
 		texturefile = "gfx//interface//province_view_religion.tga"
 		noOfFrames = 54
-		loadType = "INGAME"
-	}
-	spriteType = {
-		name = "GFX_province_view_center_of_reformation"
-		texturefile = "gfx//interface//center_of_reformation.tga"
-		noOfFrames = 2
 		loadType = "INGAME"
 	}
 	spriteType = {
@@ -499,6 +498,12 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_patriarch_icon"
 		texturefile = "gfx/interface/patriarch_icon.dds"
+		noOfFrames = 2
+	}	
+
+	spriteType = {
+		name = "GFX_pasha_icon"
+		texturefile = "gfx/interface/pasha_icon.dds"
 		noOfFrames = 2
 	}	
 	
@@ -1251,6 +1256,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/in_state_icon.dds"
 	}	
 	
+	spriteType = {
+		name = "GFX_supply_depots_icon"
+		texturefile = "gfx/interface/supply_depots_icon.dds"
+		noOfFrames = 2
+	}	
+
 	spriteType = {
 		name = "GFX_make_state_button"
 		texturefile = "gfx/interface/make_state_button.dds"

@@ -1565,7 +1565,7 @@ guiTypes = {
 	windowType = {
 		name = "build_category_entry_navy_template"
 		backGround=""
-		position = { x=0 y = 0}	
+		position = { x=0 y = 0}
 		size = { x=320 y = 40}
 		moveable = 0
 		dontRender = ""

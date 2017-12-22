@@ -45,6 +45,22 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_promote_advisor"
+		texturefile = "gfx/interface/promote_advisor.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_indicator_religion"
+		texturefile = "gfx/interface/advisor_indicator_religion.dds"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_indicator_culture"
+		texturefile = "gfx/interface/advisor_indicator_culture.dds"
+		noOfFrames = 5
+	}	
+	
+	spriteType = {
 		name = "GFX_statist_vs_orangist_overlay"
 		texturefile = "gfx/interface/statist_vs_orangist_overlay.dds"
 	}
