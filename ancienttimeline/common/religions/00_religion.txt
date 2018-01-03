@@ -80,6 +80,8 @@ dharmic = {
 		heretic = { ZEN }
 
 		uses_karma = yes
+		
+		date = 4517.1.1
 	}
 
 	buddhism = { #Theravada
@@ -109,6 +111,8 @@ dharmic = {
 		heretic = { ZEN }
 
 		uses_karma = yes
+		
+		date = 4666.1.1
 	}
 
 	hinduism = {

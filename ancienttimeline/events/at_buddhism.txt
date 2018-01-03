@@ -11,15 +11,13 @@ country_event = {
 	trigger = {
 		NOT = { is_religion_enabled = mahayana }
 		religion = hinduism
-		capital_scope = {
-			province_id = 2239
-			NOT = { has_province_modifier = religious_center }
-		}
+		owns = 2239
+		is_year = 4500
 	}
 
 	immediate = {
 		hidden_effect = {
-			capital_scope = {
+			2239 = {
 				set_province_flag = start_of_mahayana_reformation
 			}
 		}
@@ -49,7 +47,7 @@ country_event = {
 	option = {
 		name = budd.EVTOPTA1
 		enable_religion = mahayana
-		capital_scope = {
+		2239 = {
 			change_religion = mahayana
 			add_reform_center = mahayana
 			add_permanent_province_modifier = {
@@ -71,7 +69,7 @@ country_event = {
 	
 	trigger = {
 		is_religion_enabled = mahayana
-		religion_years = { mahayana = 15 }
+		religion_years = { mahayana = 150 }
 		NOT = { is_religion_enabled = buddhism }
 		OR = {
 			religion = hinduism
