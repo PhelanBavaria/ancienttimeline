@@ -1,24 +1,6 @@
 spriteTypes = {
 	#Event Pictures
 	spriteType = {
-		name = "ROMAN_ACQUEDUCT_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ACQUEDUCT_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	
-	spriteType = {
-		name = "ROMAN_ARMY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ARMY_eventPicture.dds"
-		allwaystransparent = yes
-	}
-	
-	spriteType = {
-		name = "ROMAN_ROAD_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ROAD_eventPicture.dds"
-		allwaystransparent = yes
-	}
-
-	spriteType = {
 		name = "ALEXANDER_EMPIRE_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ALEXANDER_EMPIRE_eventPicture.dds"
 		allwaystransparent = yes
@@ -37,8 +19,50 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "BAEUQLOXDOH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BAEUQLOXDOH_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "BAI_PEOPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BAI_PEOPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "BAN_THO_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BAN_THO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "BIMO_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BIMO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "BIRD_AND_SNAKE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BIRD_AND_SNAKE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "BRONZE_COWRIE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BRONZE_COWRIE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "BUA_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/BUA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "DRUM_TOWER_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/DRUM_TOWER_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -109,6 +133,24 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GWER_SA_LA_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/GWER_SA_LA_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "LEN_DONG_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/LEN_DONG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "MAHAYANA_FOUNDING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/MAHAYANA_FOUNDING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "MIDDLE_EAST_SOLDIERS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/MIDDLE_EAST_SOLDIERS_eventPicture.dds"
 		allwaystransparent = yes
@@ -117,6 +159,12 @@ spriteTypes = {
 	spriteType = {
 		name = "MORE_MIDDLE_EAST_SOLDIERS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/MORE_MIDDLE_EAST_SOLDIERS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "NGEL_ZEX_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/NGEL_ZEX_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -145,8 +193,62 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "SAMNYIEDSAM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/SAMNYIEDSAM_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "SAWGOEK_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/SAWGOEK_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "SONG_CONTEST_YUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/SONG_CONTEST_YUE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
 		name = "STATUE_ZEUS_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/STATUE_ZEUS_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "TET_NGUYEN_TIEU_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/TET_NGUYEN_TIEU_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "THAN_HOANG_LANG_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/THAN_HOANG_LANG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "THAY_PHU_THUY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/THAY_PHU_THUY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "THERAVADA_FOUNDING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/THERAVADA_FOUNDING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "VUA_HUNG_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/VUA_HUNG_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "WHITE_ELEPHANT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/WHITE_ELEPHANT_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
@@ -159,6 +261,54 @@ spriteTypes = {
 	spriteType = {
 		name = "YI_SCRIPT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YI_SCRIPT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "YUE_BANQUET_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YUE_BANQUET_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "YUE_BULLFIGHTING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YUE_BULLFIGHTING_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "YUE_PEOPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/YUE_PEOPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ZHUANG_FOOD_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ZHUANG_FOOD_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ZHUANG_PEOPLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ANCIENT/ZHUANG_PEOPLE_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ROMAN_ACQUEDUCT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ACQUEDUCT_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ROMAN_ARMY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ARMY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "ROMAN_ROAD_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EXTENDED/ROMAN_ROAD_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	
