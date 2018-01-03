@@ -1,7 +1,7 @@
 #584 - Ava
 
 culture = burmese
-religion = mahayana
+religion = animism
 capital = "Kyuakse"
 trade_goods = ivory
 hre = no

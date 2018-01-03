@@ -3,7 +3,7 @@
 owner = ADH
 controller = ADH
 culture = telegu
-religion = mahayana
+religion = vedism
 capital = "Warangal"
 trade_goods = dyes
 hre = no
@@ -14,5 +14,7 @@ citysize = 2273
 add_core = ADH
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4690.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = ADH }
 4770.1.1 = { owner = SAT controller = SAT add_core = SAT remove_core = MAU }

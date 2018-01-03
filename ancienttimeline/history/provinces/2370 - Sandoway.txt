@@ -3,7 +3,7 @@
 owner = ARK
 controller = ARK
 culture = arakanese
-religion = buddhism
+religion = vedism
 capital = "Sandoway"
 trade_goods = iron
 hre = no
@@ -13,3 +13,6 @@ base_manpower = 2
 citysize = 1678
 add_core = ARK
 discovered_by = indian
+
+4500.1.1 = { religion = hinduism }
+4666.1.1 = { religion = buddhism }

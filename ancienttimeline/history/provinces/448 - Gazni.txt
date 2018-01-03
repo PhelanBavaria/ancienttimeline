@@ -3,7 +3,7 @@
 
 
 culture = avestan
-religion = mahayana
+religion = zoroastrian
 capital = "Gazni"
 trade_goods = grain
 hre = no
@@ -20,6 +20,7 @@ discovered_by = nomad_group
 4670.7.17 = { owner = ARC controller = ARC add_core = ARC remove_core = ACA }
 4671.2.2 = { owner = MCD controller = MCD add_core = MCD }
 4697.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = MCD }
+4750.1.1 = { religion = mahayana }
 4815.1.1 = { owner = ARC controller = ARC add_core = ARC remove_core = MAU }
 4820.1.1 = { owner = GRB controller = GRB add_core = GRB }
 4875.1.1 = { owner = ARC controller = ARC add_core = ARC remove_core = GRB }

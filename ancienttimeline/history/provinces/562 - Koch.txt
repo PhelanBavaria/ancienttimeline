@@ -3,7 +3,7 @@
 owner = KMT
 controller = KMT
 culture = bengali
-religion = mahayana
+religion = vedism
 capital = "Kamatapur"
 trade_goods = grain
 hre = no
@@ -14,3 +14,5 @@ citysize = 1098
 add_core = KMT
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }

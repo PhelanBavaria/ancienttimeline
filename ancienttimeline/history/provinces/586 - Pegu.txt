@@ -1,7 +1,7 @@
 #586 - Pegu
 
 culture = mon
-religion = buddhism
+religion = animism
 capital = "Pegu"
 trade_goods = spices
 hre = no

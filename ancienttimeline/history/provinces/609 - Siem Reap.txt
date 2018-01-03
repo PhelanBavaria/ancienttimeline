@@ -1,7 +1,7 @@
 #609 - Angkor
 
 culture = khmer
-religion = mahayana
+religion = animism
 trade_goods = tropical_wood
 capital = "Isanapura"
 hre = no

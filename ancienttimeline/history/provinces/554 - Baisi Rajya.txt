@@ -3,7 +3,7 @@
 owner = NPL
 controller = NPL
 culture = nepali
-religion = mahayana
+religion = vedism
 capital = "Jumbla"
 trade_goods = wool
 hre = no
@@ -14,3 +14,5 @@ citysize = 1156
 add_core = NPL
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }

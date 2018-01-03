@@ -3,7 +3,7 @@
 owner = PAU
 controller = PAU
 culture = nepali
-religion = mahayana
+religion = vedism
 capital = "Devalgarh"
 trade_goods = cotton
 hre = no
@@ -15,5 +15,7 @@ add_core = PAU
 discovered_by = indian
 discovered_by = middle_eastern
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4678.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4815.1.1 = { owner = KUN controller = KUN add_core = KUN remove_core = MAU }

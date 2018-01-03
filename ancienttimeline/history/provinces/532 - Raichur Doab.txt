@@ -3,7 +3,7 @@
 owner = KSK
 controller = KSK
 culture = kannada
-religion = mahayana
+religion = vedism
 capital = "Suvarnagiri"
 trade_goods = cloth
 hre = no
@@ -14,5 +14,7 @@ citysize = 1146
 add_core = KSK
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4700.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4770.1.1 = { owner = SAT controller = SAT add_core = SAT remove_core = MAU }

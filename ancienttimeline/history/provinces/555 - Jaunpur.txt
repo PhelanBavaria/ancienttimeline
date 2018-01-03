@@ -3,7 +3,7 @@
 owner = MHJ
 controller = MHJ
 culture = avadhi
-religion = mahayana
+religion = vedism
 capital = "Ayodhya"
 trade_goods = cloth
 hre = no
@@ -14,6 +14,8 @@ citysize = 3262
 add_core = MHJ
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4655.1.1 = { owner = NAN controller = NAN add_core = NAN }
 4679.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = NAN }
 4815.1.1 = { owner = SHN controller = SHN add_core = SHN remove_core = MAU }

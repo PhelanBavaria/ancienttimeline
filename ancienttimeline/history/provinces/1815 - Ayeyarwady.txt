@@ -1,7 +1,7 @@
 #1815 - Ayeyarwady
 
 culture = mon
-religion = buddhism
+religion = animism
 capital = "Pathein"
 trade_goods = grain
 hre = no

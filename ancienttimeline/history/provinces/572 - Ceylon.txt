@@ -1,7 +1,7 @@
 #572 - Kotte
 
 culture = sinhala
-religion = buddhism
+religion = vedism
 capital = "Kotte"
 trade_goods = unknown
 hre = no
@@ -18,3 +18,5 @@ discovered_by = indian
 }
 
 4457.1.1 = { owner = CEY controller = CEY add_core = CEY citysize = 1096 trade_goods = spices }
+4500.1.1 = { religion = hinduism }
+4666.1.1 = { religion = buddhism }

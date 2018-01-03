@@ -3,7 +3,7 @@
 owner = ARK
 controller = ARK
 culture = arakanese
-religion = mahayana
+religion = vedism
 capital = "Dhanyawadi"
 trade_goods = grain
 hre = no
@@ -14,3 +14,5 @@ citysize = 1678
 add_core = ARK
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }

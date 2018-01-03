@@ -3,7 +3,7 @@
 owner = ASA
 controller = ASA
 culture = marathi
-religion = mahayana
+religion = vedism
 capital = "Pratishthana"
 trade_goods = grain
 hre = no
@@ -15,5 +15,7 @@ fort_15th = yes
 add_core = ASA
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4690.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4815.1.1 = { owner = SAT controller = SAT add_core = SAT remove_core = MAU }

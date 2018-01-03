@@ -3,7 +3,7 @@
 owner = NPL
 controller = NPL
 culture = nepali
-religion = mahayana
+religion = vedism
 capital = "Champawat"
 trade_goods = naval_supplies
 hre = no
@@ -14,3 +14,5 @@ is_city = yes
 add_core = NPL
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }

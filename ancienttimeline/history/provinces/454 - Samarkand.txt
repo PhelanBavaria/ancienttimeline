@@ -3,7 +3,7 @@
 
 
 culture = sogdian
-religion = mahayana
+religion = tengri_pagan_reformed
 capital = "Samarkand"
 trade_goods = spices
 hre = no
@@ -30,4 +30,5 @@ discovered_by = scythian_group
 4672.3.2 = { owner = MCD controller = MCD add_core = MCD }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
 4744.1.1 = { owner = GRB controller = GRB add_core = GRB remove_core = SLC }
+4750.1.1 = { religion = mahayana }
 4875.1.1 = { owner = YZH controller = YZH add_core = YZH remove_core = GRB }

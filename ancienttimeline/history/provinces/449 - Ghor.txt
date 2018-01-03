@@ -3,7 +3,7 @@
 
 
 culture = avestan
-religion = mahayana
+religion = zoroastrian
 capital = "Ahangaran"
 trade_goods = wool
 hre = no
@@ -23,5 +23,6 @@ discovered_by = nomad_group
 4672.3.2 = { owner = MCD controller = MCD add_core = MCD }
 4698.1.1 = { owner = SLC controller = SLC add_core = SLC remove_core = MCD }
 4744.1.1 = { owner = GRB controller = GRB add_core = GRB remove_core = SLC }
+4750.1.1 = { religion = mahayana }
 4870.1.1 = { owner = WSA controller = WSA add_core = WSA remove_core = GRB }
 4890.1.1 = { owner = YZH controller = YZH add_core = YZH remove_core = WSA }

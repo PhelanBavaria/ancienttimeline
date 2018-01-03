@@ -1,7 +1,7 @@
 #2216 - Vanni
 
-culture = tamil
-religion = buddhism
+culture = sinhala
+religion = vedism
 capital = "Yapapatuna"
 trade_goods = unknown
 hre = no
@@ -11,3 +11,5 @@ base_manpower = 2
 discovered_by = indian
 
 4457.1.1 = { owner = CEY controller = CEY add_core = CEY citysize = 1096 trade_goods = tropical_wood }
+4500.1.1 = { religion = hinduism }
+4666.1.1 = { religion = buddhism }

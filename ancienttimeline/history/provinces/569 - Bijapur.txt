@@ -3,7 +3,7 @@
 owner = DND
 controller = DND
 culture = kannada
-religion = mahayana
+religion = vedism
 capital = "Manyakheta"
 trade_goods = cotton
 hre = no
@@ -14,5 +14,7 @@ citysize = 1636
 add_core = DND
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4690.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = DND }
 4770.1.1 = { owner = SAT controller = SAT add_core = SAT remove_core = MAU }

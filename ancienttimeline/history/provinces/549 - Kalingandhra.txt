@@ -3,7 +3,7 @@
 owner = KAL
 controller = KAL
 culture = telegu
-religion = mahayana
+religion = vedism
 capital = "Vizianagaram"
 trade_goods = cotton
 hre = no
@@ -14,5 +14,7 @@ citysize = 7700
 add_core = KAL
 discovered_by = indian
 
+4500.1.1 = { religion = hinduism }
+4517.1.1 = { religion = mahayana }
 4739.1.1 = { owner = MAU controller = MAU add_core = MAU }
 4815.1.1 = { owner = KAL controller = KAL add_core = KAL remove_core = MAU }
