@@ -59,6 +59,10 @@ dharmic = {
 		allowed_conversion = {
 			buddhism
 		}
+		allowed_center_conversion = {
+			hinduism
+			jainism
+		}
 		country = {
 			tolerance_heretic = 2
 			tolerance_heathen = 1
@@ -90,6 +94,10 @@ dharmic = {
 		allowed_conversion = {
 			mahayana
 		}
+		allowed_center_conversion = {
+			hinduism
+			jainism
+		}
 		country = {
 			tolerance_heretic = 2
 			advisor_cost = -0.1
@@ -119,7 +127,6 @@ dharmic = {
 		color = { 0 0.8 0.8 }
 		icon = 5
 		allowed_conversion = {
-			sikhism
 			jainism
 		}
 		country = {
@@ -151,7 +158,6 @@ dharmic = {
 		icon = 6
 		allowed_conversion = {
 			hinduism
-			sikhism
 		}
 		country = {
 			global_tax_modifier = 0.05
