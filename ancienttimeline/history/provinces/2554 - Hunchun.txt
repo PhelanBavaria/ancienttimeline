@@ -1,7 +1,7 @@
 #2554 - Dongbuyeo
 
-owner = SUS
-controller = SUS
+owner = OKJ
+controller = OKJ
 culture = korean
 religion = muism
 capital = "Hunchun"

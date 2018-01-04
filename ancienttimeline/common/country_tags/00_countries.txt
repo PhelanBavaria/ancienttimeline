@@ -429,6 +429,7 @@ GOG	= "countries/Goguryeo.txt"
 GOJ	= "countries/Gojoseon.txt"
 JHN	= "countries/Jinhan.txt"
 MHN	= "countries/Mahan.txt"
+OKJ	= "countries/Okjeo.txt"
 SLL	= "countries/Silla.txt"
 
 #South East Asia

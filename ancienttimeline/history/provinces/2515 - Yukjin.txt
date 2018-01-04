@@ -1,7 +1,7 @@
 #2515 - Bukokjeo
 
-owner = SUS
-controller = SUS
+owner = OKJ
+controller = OKJ
 culture = korean
 religion = muism
 capital = "Yukjin"
