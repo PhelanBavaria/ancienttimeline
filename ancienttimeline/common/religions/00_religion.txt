@@ -71,6 +71,13 @@ dharmic = {
 			global_tax_modifier = 0.1
 			tolerance_heathen = 2
 		}
+		will_get_center = {
+			any_owned_province = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = protestant # Not happy with this. Probably won't work
+				}
+			}
+		}
 		on_convert = {
 			change_religion = mahayana
 			add_prestige = -100
@@ -105,6 +112,13 @@ dharmic = {
 		country_as_secondary = {
 			development_cost = -0.1
 			diplomats = 1
+		}
+		will_get_center = {
+			any_owned_province = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = protestant # Not happy with this. Probably won't work
+				}
+			}
 		}
 		on_convert = {
 			change_religion = buddhism
