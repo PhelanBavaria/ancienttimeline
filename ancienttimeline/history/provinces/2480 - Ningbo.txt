@@ -2,8 +2,8 @@
 
 owner = YUE
 controller = YUE
-culture = wu
-religion = confucianism
+culture = yue_culture
+religion = yue_religion
 capital = "Ningbo"
 trade_goods = naval_supplies
 hre = no

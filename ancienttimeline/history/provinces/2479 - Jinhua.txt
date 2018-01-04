@@ -3,7 +3,7 @@
 owner = YUE
 controller = YUE
 culture = yue_culture
-religion = confucianism
+religion = yue_religion
 capital = "Jinhua"
 trade_goods = grain
 hre = no

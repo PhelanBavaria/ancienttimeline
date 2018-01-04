@@ -2,8 +2,8 @@
 
 owner = YUE
 controller = YUE
-culture = wu
-religion = confucianism
+culture = yue_culture
+religion = yue_religion
 capital = "Kuaiji"
 trade_goods = tea
 hre = no

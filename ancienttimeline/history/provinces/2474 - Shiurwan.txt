@@ -2,7 +2,7 @@
 
 owner = GAN
 controller = GAN
-culture = yue_culture
+culture = gan
 religion = yue_religion
 capital = "Shaoguan"
 trade_goods = iron
