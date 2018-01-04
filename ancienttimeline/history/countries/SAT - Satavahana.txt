@@ -1,9 +1,13 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = telegu
-religion = mahayana
+religion = vedism
 technology_group = indian
 capital = 2223	# Amaravati
+
+4500.1.1 = { religion = hinduism }
+
+4517.1.1 = { religion = mahayana }
 
 4770.1.1 = {
 	monarch = {
