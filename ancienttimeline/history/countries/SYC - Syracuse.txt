@@ -66,7 +66,7 @@ capital = 3133
 	}
 }
 
-4534.1.1 = {
+4535.1.1 = {
 	monarch = {
 		name = "(interregnum)"
 		regent = yes
