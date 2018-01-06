@@ -1894,7 +1894,7 @@ country_event = {
 				any_owned_province = { region = anatolia_region }
 			}
 		}
-		lanka_region = {
+		lanka_area = {
 			owned_by = ROOT
 			religion = buddhism #Theravada
 		}
