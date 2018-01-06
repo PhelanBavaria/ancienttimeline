@@ -73,8 +73,8 @@ dharmic = {
 		}
 		will_get_center = {
 			any_owned_province = {
-				can_have_center_of_reformation_trigger = {
-					RELIGION = protestant # Not happy with this. Probably won't work
+				at_can_have_center_of_reformation_trigger = {
+					RELIGION = mahayana
 				}
 			}
 		}
@@ -115,8 +115,8 @@ dharmic = {
 		}
 		will_get_center = {
 			any_owned_province = {
-				can_have_center_of_reformation_trigger = {
-					RELIGION = protestant # Not happy with this. Probably won't work
+				at_can_have_center_of_reformation_trigger = {
+					RELIGION = buddhism
 				}
 			}
 		}
