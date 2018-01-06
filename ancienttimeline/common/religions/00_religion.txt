@@ -50,6 +50,8 @@ abrahamic = {
 
 dharmic = {
 
+	center_of_religion = 558 #Somewhere in Asia
+
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 25 31 }
 
