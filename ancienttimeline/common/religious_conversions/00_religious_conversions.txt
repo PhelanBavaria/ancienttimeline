@@ -1,0 +1,120 @@
+propagate_religion_policy = {
+	trading_policy = yes
+	map_icon = GFX_religious_conversion_center_trading_policy
+	base_conversion_speed = 2.0
+	
+	target_province_weights = {
+		factor = 5
+		
+		modifier = {
+			factor = 0
+			has_missionary = yes
+		}
+	}
+}
+
+mahayana_center_of_reformation = {
+	
+	religion = mahayana
+
+	map_icon = GFX_religious_conversion_center_protestant
+
+	max_distance = 400.0
+	base_conversion_speed = 8.0
+
+	target_province_weights = {
+		factor = 5
+		
+		modifier = {
+			factor = 0
+			is_empty = yes
+		}
+		modifier = {
+			factor = 0
+			has_missionary = yes
+		}
+		modifier = {
+			factor = 0
+			has_province_modifier = religious_center
+		}
+		modifier = {
+			factor = 0
+			has_province_modifier = religious_zeal_at_conv
+		}
+		modifier = {
+			factor = 0.1
+			NOT = { religion_group = dharmic }
+		}
+		modifier = {
+			factor = 0
+			NOT = { continent = FROM }
+		}
+		modifier = {
+			factor = 4
+			owner = {
+				religion = mahayana
+			}
+		}
+		modifier = {
+			factor = 1.5
+			culture_group = FROM
+		}
+		modifier = {
+			factor = 2
+			culture = FROM
+		}		
+	}
+}
+
+buddhism_center_of_reformation = {
+	
+	religion = buddhism
+
+	map_icon = GFX_religious_conversion_center_protestant
+
+	max_distance = 400.0
+	base_conversion_speed = 8.0
+
+	target_province_weights = {
+		factor = 5
+		
+		modifier = {
+			factor = 0
+			is_empty = yes
+		}
+		modifier = {
+			factor = 0
+			has_missionary = yes
+		}
+		modifier = {
+			factor = 0
+			has_province_modifier = religious_center
+		}
+		modifier = {
+			factor = 0
+			has_province_modifier = religious_zeal_at_conv
+		}
+		modifier = {
+			factor = 0.1
+			NOT = { religion_group = dharmic }
+		}
+		modifier = {
+			factor = 0
+			NOT = { continent = FROM }
+		}
+		modifier = {
+			factor = 4
+			owner = {
+				religion = buddhism
+			}
+		}
+		modifier = {
+			factor = 1.5
+			culture_group = FROM
+		}
+		modifier = {
+			factor = 2
+			culture = FROM
+		}		
+	}
+}
